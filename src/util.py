@@ -2,6 +2,7 @@ import json
 import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
+from constants import AMINER_DATABASE_CONFIG
 
 g_name_right_email_list_dict = {}
 
@@ -13,9 +14,9 @@ def get_top_citation():
     import json
     from pymongo import MongoClient
     from bson import ObjectId
-    username = 'kegger_bigsci'
-    password = 'datiantian123!@#'
-    client = MongoClient('mongodb://aminer.org:30019')
+    username = AMINER_DATABASE_CONFIG['username']
+    password = AMINER_DATABASE_CONFIG['password']
+    client = MongoClient(AMINER_DATABASE_CONFIG['url'])
     db = client["bigsci"]
     db.authenticate(username, password)
     people_col = db["people"]
