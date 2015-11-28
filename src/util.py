@@ -59,7 +59,7 @@ def get_known_top_1000():
         for person in person_list:
             if 'email' not in person['contact']:
                 person['contact']['email'] = ''
-            person['contact']['email'] = person['contact']['email'].replace('\r\n', '').replace(' ', '')
+            person['contact']['email'] = person['contact']['email'].lower().replace('\r\n', '').replace(' ', '').replace(' at ', '@').replace(' dot ', '.')
             g_name_right_email_list_dict[person['name']] = person['contact']['email']
             known_file.write(('%s [%s]\n') % (person['name'], person['contact']['email']))
 

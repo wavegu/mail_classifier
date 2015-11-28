@@ -48,11 +48,11 @@ class SVM:
     def get_result_test_file_name(self, test_num):
         return self.result_test_dir_path + 'test' + str(test_num) + '.txt'
 
-    def get_train_test_file(self, train_num):
-        print 'writing train and test file', train_num
+    def get_train_test_file(self, test_start, test_end):
+        print 'writing train and test file', test_start
         top_person_list = get_top_person_names(self.tot_data_num)
-        write_feature_file(top_person_list[:train_num], self.get_train_file_name(train_num))
-        write_feature_file(top_person_list[train_num:], self.get_test_file_name(self.tot_data_num - train_num))
+        write_feature_file(top_person_list[:test_start] + top_person_list[test_end:], self.get_train_file_name(test_start))
+        write_feature_file(top_person_list[test_start: test_end], self.get_test_file_name(test_start))
 
     def compare_pred_and_test(self, test_num):
         compare_line_list = []
@@ -97,17 +97,50 @@ class SVM:
             for compare_line in compare_line_list:
                 compare_file.write(compare_line)
 
-    def svm_learn(self, train_num):
+    def svm_learn(self, test_start):
         pass
 
-    def svm_test(self, test_num, model_filename):
+    def svm_test(self, test_start, model_filename):
         pass
 
-    def run(self, train_num):
-        self.get_train_test_file(train_num)
-        self.svm_learn(train_num)
-        self.svm_test(self.tot_data_num-train_num, self.get_model_file_name(train_num))
-        self.compare_pred_and_test(self.tot_data_num - train_num)
+    def get_accuracy_from_result(self, test_file_content):
+        pass
+
+    def get_precision_from_result(self, test_file_content):
+        pass
+
+    def get_recall_from_result(self, test_file_content):
+        pass
+
+    def calculate_average(self):
+        test_len = self.tot_data_num / 5
+        tot_accuracy = 0
+        tot_precision = 0
+        tot_recall = 0
+        for looper in range(5):
+            test_file_name = self.get_result_test_file_name(looper * test_len)
+            test_file_content = open(test_file_name).read()
+            tot_accuracy += self.get_accuracy_from_result(test_file_content)
+            tot_precision += self.get_precision_from_result(test_file_content)
+            tot_recall += self.get_recall_from_result(test_file_content)
+        average_accuracy = tot_accuracy / float(5)
+        average_precision = tot_precision / float(5)
+        average_recall = tot_recall / float(5)
+        with open(self.result_root_path + '5-fold_result.txt', 'w') as result_file:
+            result_file.write('accuracy: %f\nprecision: %f\nrecall: %f' % (average_accuracy, average_precision, average_recall))
+
+    def run_with_test_from_to(self, test_start, test_end):
+        self.get_train_test_file(test_start, test_end)
+        self.svm_learn(test_start)
+        self.svm_test(test_start, self.get_model_file_name(test_start))
+        self.compare_pred_and_test(test_start)
+
+    def run_five_fold(self):
+        test_len = self.tot_data_num / 5
+        for looper in range(4):
+            self.run_with_test_from_to(looper * test_len, (looper+1) * test_len)
+        self.run_with_test_from_to(4 * test_len, self.tot_data_num)
+        self.calculate_average()
 
 
 class SVMLight(SVM):
@@ -117,15 +150,31 @@ class SVMLight(SVM):
     def __init__(self, tot_data_num):
         SVM.__init__(self, tot_data_num)
 
-    def svm_learn(self, train_num):
-        print 'svm learning', train_num
-        cmd = '../svm_light/svm_learn ' + self.get_train_file_name(train_num) + ' ' + self.get_model_file_name(train_num)
+    def get_accuracy_from_result(self, test_file_content):
+        end_pos = test_file_content.find('%')
+        start_pos = test_file_content.find('Accuracy') + 22
+        return float(test_file_content[start_pos: end_pos])
+
+    def get_precision_from_result(self, test_file_content):
+        start_pos = test_file_content.find('Precision') + 30
+        end_pos = test_file_content.find('%', start_pos)
+        return float(test_file_content[start_pos: end_pos])
+
+    def get_recall_from_result(self, test_file_content):
+        start_pos = test_file_content.find('Precision') + 37
+        end_pos = test_file_content.find('%', start_pos)
+        return float(test_file_content[start_pos: end_pos])
+
+    def svm_learn(self, test_start):
+        print 'svm learning', test_start
+        cmd = '../svm_light/svm_learn ' + self.get_train_file_name(test_start) + ' ' + self.get_model_file_name(test_start)
+        print cmd
         process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         process.wait()
 
-    def svm_test(self, test_num, model_filename):
-        print 'svm classifying', test_num
-        cmd = '../svm_light/svm_classify ' + self.get_test_file_name(test_num) + ' ' + model_filename + ' ' + self.get_pred_file_name(test_num) + ' > ' + self.get_result_test_file_name(test_num)
+    def svm_test(self, test_start, model_filename):
+        print 'svm classifying', test_start
+        cmd = '../svm_light/svm_classify ' + self.get_test_file_name(test_start) + ' ' + model_filename + ' ' + self.get_pred_file_name(test_start) + ' > ' + self.get_result_test_file_name(test_start)
         process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         process.wait()
 
@@ -137,14 +186,14 @@ class LibSVM(SVM):
     def __init__(self, tot_data_num):
         SVM.__init__(self, tot_data_num)
 
-    def svm_learn(self, train_num):
-        print 'svm lib learning ', train_num
-        cmd = '../libsvm-3/svm-train -t 0 ' + self.get_train_file_name(train_num) + ' ' + self.get_model_file_name(train_num)
+    def svm_learn(self, test_start):
+        print 'svm lib learning ', test_start
+        cmd = '../libsvm-3/svm-train -t 0 ' + self.get_train_file_name(test_start) + ' ' + self.get_model_file_name(test_start)
         process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         process.wait()
 
-    def svm_test(self, test_num, model_filename):
-        print 'svm lib classifying', test_num
-        cmd = '../libsvm-3/svm-predict ' + self.get_test_file_name(test_num) + ' ' + model_filename + ' ' + self.get_pred_file_name(test_num) + ' > ' + self.get_result_test_file_name(test_num)
+    def svm_test(self, test_start, model_filename):
+        print 'svm lib classifying', test_start
+        cmd = '../libsvm-3/svm-predict ' + self.get_test_file_name(test_start) + ' ' + model_filename + ' ' + self.get_pred_file_name(test_start) + ' > ' + self.get_result_test_file_name(test_start)
         process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         process.wait()

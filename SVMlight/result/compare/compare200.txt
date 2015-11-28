@@ -1,0 +1,9 @@
+Accuracy: 0.931034 [6/87]
+误判：6
+漏判：0
+[1/-1] # [deanna m church] [dbullock@fredcchurch.com] [1.000000, 1.000000] [1, 0] [0.000000, 0.000000]
+[1/-1] # [dennis a benson] [denniscovey@bensonandmangold.com] [0.333333, 0.333333] [1, 0] [0.000000, 0.000000]
+[1/-1] # [dennis a benson] [jahrndt@benson.k12.mn.us] [0.333333, 0.333333] [1, 0] [0.000000, 0.000000]
+[1/-1] # [derek c angus] [angusdc@ccm.upmc.edu] [0.500000, 0.500000] [0, 1] [0.000000, 0.136364]
+[1/-1] # [donald a norman] [don@jnd.org] [0.333333, 0.666667] [1, 1] [0.200000, 0.200000]
+[1/-1] # [eibe frank] [eibe@waikato.ac.nz] [0.333333, 0.333333] [1, 0] [0.000000, 0.000000]

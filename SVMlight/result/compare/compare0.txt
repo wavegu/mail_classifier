@@ -1,0 +1,12 @@
+Accuracy: 0.922414 [9/116]
+误判：5
+漏判：4
+[-1/1] # [abraham z snyder] [avi@npg.wustl.edu] [0.333333, 0.666667] [0, 1] [0.000000, 0.222222]
+[-1/1] # [alexei v filippenko] [alex@astro.berkeley.edu] [0.500000, 0.500000] [1, 1] [0.125000, 0.000000]
+[-1/1] # [anders björklund] [anders.bjorklund@med.lu.se] [0.250000, 0.500000] [0, 0] [0.000000, 0.250000]
+[-1/1] # [anders björklund] [anders.bjorklund@sofi.su.se] [0.250000, 0.500000] [0, 0] [0.000000, 0.000000]
+[1/-1] # [adi shamir] [rshamir@tau.ac.il] [0.500000, 0.500000] [0, 0] [0.000000, 0.000000]
+[1/-1] # [alan c evans] [alan@bic.mni.mcgill.ca] [0.500000, 0.500000] [1, 0] [0.125000, 0.000000]
+[1/-1] # [alan c evans] [jcevans@ups.edu] [0.500000, 0.500000] [1, 0] [0.000000, 0.000000]
+[1/-1] # [albertlaszlo barabasi] [alb@nd.edu] [0.333333, 0.333333] [1, 0] [0.000000, 0.000000]
+[1/-1] # [alexander s szalay] [szalay@jhu.edu] [0.500000, 1.000000] [1, 0] [0.250000, 0.000000]

@@ -23,14 +23,14 @@
     <favorites_list name="mail_classifier" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.66410255">
+    <splitter split-orientation="horizontal" split-proportion="0.41089743">
       <split-first>
         <leaf>
           <file leaf-file-name="exp_controller.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/exp_controller.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-                  <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
+                  <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
                   <folding>
                     <element signature="e#18#42#0" expanded="true" />
                   </folding>
@@ -38,11 +38,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="svm.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="svm.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/svm.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="2.7798166" vertical-offset="630" max-vertical-offset="2790">
-                  <caret line="136" column="8" selection-start-line="136" selection-start-column="8" selection-end-line="136" selection-end-column="8" />
+                <state vertical-scroll-proportion="32.77778" vertical-offset="3045" max-vertical-offset="3672">
+                  <caret line="120" column="45" selection-start-line="120" selection-start-column="45" selection-end-line="120" selection-end-column="45" />
                   <folding>
                     <element signature="e#18#35#0" expanded="true" />
                   </folding>
@@ -60,11 +60,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="person.py" pinned="false" current-in-tab="false">
+          <file leaf-file-name="person.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/person.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-11.222222" vertical-offset="1047" max-vertical-offset="1836">
-                  <caret line="75" column="73" selection-start-line="75" selection-start-column="73" selection-end-line="75" selection-end-column="73" />
+                <state vertical-scroll-proportion="0.6602871" vertical-offset="0" max-vertical-offset="1836">
+                  <caret line="23" column="77" selection-start-line="23" selection-start-column="77" selection-end-line="23" selection-end-column="77" />
                   <folding>
                     <element signature="e#19#30#0" expanded="true" />
                   </folding>
@@ -83,27 +83,27 @@
                   <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
                   <folding>
                     <element signature="e#19#30#0" expanded="true" />
-                    <marker date="1448689939000" expanded="true" signature="1340:2616" placeholder="..." />
+                    <marker date="1448717888000" expanded="true" signature="1340:2616" placeholder="..." />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="email_model.py" pinned="false" current-in-tab="false">
+          <file leaf-file-name="email_model.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/email_model.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="1146" max-vertical-offset="1818">
-                  <caret line="80" column="79" selection-start-line="80" selection-start-column="79" selection-end-line="81" selection-end-column="81" />
+                <state vertical-scroll-proportion="0.36697248" vertical-offset="1164" max-vertical-offset="1836">
+                  <caret line="78" column="75" selection-start-line="78" selection-start-column="75" selection-end-line="79" selection-end-column="77" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="util.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="util.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/util.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.41590214" vertical-offset="1222" max-vertical-offset="2232">
-                  <caret line="83" column="8" selection-start-line="83" selection-start-column="8" selection-end-line="83" selection-end-column="8" />
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2232">
+                  <caret line="61" column="76" selection-start-line="61" selection-start-column="76" selection-end-line="61" selection-end-column="76" />
                   <folding>
                     <element signature="e#0#11#0" expanded="true" />
                   </folding>
@@ -119,11 +119,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/constants.py" />
-        <option value="$PROJECT_DIR$/src/person.py" />
-        <option value="$PROJECT_DIR$/src/email_model.py" />
-        <option value="$PROJECT_DIR$/src/util.py" />
-        <option value="$PROJECT_DIR$/src/exp_controller.py" />
         <option value="$PROJECT_DIR$/src/svm.py" />
+        <option value="$PROJECT_DIR$/src/exp_controller.py" />
+        <option value="$PROJECT_DIR$/src/person.py" />
+        <option value="$PROJECT_DIR$/src/util.py" />
+        <option value="$PROJECT_DIR$/src/email_model.py" />
       </list>
     </option>
   </component>
@@ -491,6 +491,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#19#30#0" expanded="true" />
+            <marker date="1448717888000" expanded="true" signature="1340:2616" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -529,6 +530,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#19#30#0" expanded="true" />
+            <marker date="1448717888000" expanded="true" signature="1340:2616" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -575,6 +577,7 @@
           <caret line="57" column="79" selection-start-line="57" selection-start-column="79" selection-end-line="57" selection-end-column="79" />
           <folding>
             <element signature="e#19#30#0" expanded="true" />
+            <marker date="1448717888000" expanded="true" signature="1340:2616" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -621,6 +624,7 @@
           <caret line="57" column="79" selection-start-line="57" selection-start-column="79" selection-end-line="57" selection-end-column="79" />
           <folding>
             <element signature="e#19#30#0" expanded="true" />
+            <marker date="1448717888000" expanded="true" signature="1340:2616" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -659,6 +663,7 @@
           <caret line="57" column="79" selection-start-line="57" selection-start-column="79" selection-end-line="57" selection-end-column="79" />
           <folding>
             <element signature="e#19#30#0" expanded="true" />
+            <marker date="1448717888000" expanded="true" signature="1340:2616" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -697,6 +702,7 @@
           <caret line="57" column="79" selection-start-line="57" selection-start-column="79" selection-end-line="57" selection-end-column="79" />
           <folding>
             <element signature="e#19#30#0" expanded="true" />
+            <marker date="1448717888000" expanded="true" signature="1340:2616" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -711,30 +717,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/person.py">
+    <entry file="file://$PROJECT_DIR$/src/exp_controller.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.222222" vertical-offset="1047" max-vertical-offset="1836">
-          <caret line="75" column="73" selection-start-line="75" selection-start-column="73" selection-end-line="75" selection-end-column="73" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
           <folding>
-            <element signature="e#19#30#0" expanded="true" />
+            <element signature="e#18#42#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/email_model.py">
+    <entry file="file://$PROJECT_DIR$/src/svm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1146" max-vertical-offset="1818">
-          <caret line="80" column="79" selection-start-line="80" selection-start-column="79" selection-end-line="81" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41590214" vertical-offset="1222" max-vertical-offset="2232">
-          <caret line="83" column="8" selection-start-line="83" selection-start-column="8" selection-end-line="83" selection-end-column="8" />
+        <state vertical-scroll-proportion="32.77778" vertical-offset="3045" max-vertical-offset="3672">
+          <caret line="120" column="45" selection-start-line="120" selection-start-column="45" selection-end-line="120" selection-end-column="45" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#18#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -747,23 +745,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exp_controller.py">
+    <entry file="file://$PROJECT_DIR$/src/person.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="1836">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
           <folding>
-            <element signature="e#18#42#0" expanded="true" />
+            <element signature="e#19#30#0" expanded="true" />
+            <marker date="1448717888000" expanded="true" signature="1340:2616" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/svm.py">
+    <entry file="file://$PROJECT_DIR$/src/util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.7798166" vertical-offset="630" max-vertical-offset="2790">
-          <caret line="136" column="8" selection-start-line="136" selection-start-column="8" selection-end-line="136" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2232">
+          <caret line="61" column="76" selection-start-line="61" selection-start-column="76" selection-end-line="61" selection-end-column="76" />
           <folding>
-            <element signature="e#18#35#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/email_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36697248" vertical-offset="1164" max-vertical-offset="1836">
+          <caret line="78" column="75" selection-start-line="78" selection-start-column="75" selection-end-line="79" selection-end-column="77" />
+          <folding />
         </state>
       </provider>
     </entry>
