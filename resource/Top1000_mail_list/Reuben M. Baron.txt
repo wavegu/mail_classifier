@@ -1,39 +1,11 @@
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
-now@abebooks.co.uk	[1]
+[
+    {
+        "content": "available now at abebooks.co.uk - isbn: 9780030215230 - book condition: brand new - book condition: brand new.", 
+        "email_addr_list": [
+            "now@abebooks.co.uk"
+        ], 
+        "cite_url": "www.abebooks.co.uk/Social-Psychology-Reuben-M-Baron/.../...www.google.com/emailwww.spokeo.com/Free.Email.Search", 
+        "cite_name": "AbeBooks", 
+        "title": "Social Psychology - AbeBooksGoogle Business Email‎Barons Email Found - Lookup Barons Email Address‎"
+    }
+]

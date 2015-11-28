@@ -1,0 +1,11 @@
+[
+    {
+        "content": "amin vahdat. google/uc san diego ... verified email at cs.ucsd.edu - homepage  scholar ... js chase, dc anderson, pn thakar, am vahdat, rp doyle.", 
+        "email_addr_list": [
+            "email@cs.ucsd.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=r3aWCRUAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Amin Vahdat - Google Scholar Citations"
+    }
+]

@@ -1,2 +1,11 @@
-mct@aacr.org	[1]
-mct@aacr.org	[1]
+[
+    {
+        "content": "napoleone ferrara. distinguished professor ... verified email at ucsd.edu. scholar ... dw leung, g cachianes, wj kuang, dv goeddel, n ferrara. science 246...", 
+        "email_addr_list": [
+            "email@ucsd.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=WPJnV70AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Napoleone Ferrara - Google Scholar Citations"
+    }
+]

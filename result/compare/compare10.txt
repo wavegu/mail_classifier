@@ -1,0 +1,4 @@
+Accuracy: 0.888889 [1/9]
+误判：1
+漏判：0
+[1/-1] # [eibe frank] [eibe@waikato.ac.nz] [0.500000, 0.500000]

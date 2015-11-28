@@ -117,4 +117,4 @@ class ExpController:
 
 if __name__ == '__main__':
     controller = ExpController(250)
-    controller.run_exp(150, 241, 10)
+    controller.run_exp(150, 240, 10)

@@ -1,6 +1,11 @@
-jproakis@ucsd.edu	[3]
-jproakis@ucsd.edu	[3]
-jproakis@ucsd.edu	[3]
-mitra@ece.ucsb.edu	[2]
-mitra@ece.ucsb.edu	[2]
-mitra@ece.ucsb.edu	[2]
+[
+    {
+        "content": "find athanasios papoulis solutions at chegg.com now.", 
+        "email_addr_list": [
+            "solutions@chegg.com"
+        ], 
+        "cite_url": "https://www.chegg.com/homework.../athanasios-papoulis-author", 
+        "cite_name": "Chegg", 
+        "title": "Athanasios Papoulis Solutions | Chegg.com"
+    }
+]

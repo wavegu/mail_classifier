@@ -1,1 +1,11 @@
-tuecke@mcs.anl.gov	[13]
+[
+    {
+        "content": "cancel. steven tuecke. university of chicago  argonne national laboratory. verified email at uchicago.edu ... i foster, c kesselman, jm nick, s tuecke.", 
+        "email_addr_list": [
+            "email@uchicago.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=sJUhflQAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Steven Tuecke - Google Scholar Citations"
+    }
+]

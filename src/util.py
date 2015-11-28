@@ -47,7 +47,6 @@ def get_top_citation():
 
 def get_known_top_1000():
     global g_name_right_email_list_dict
-    person_list = []
     with open('../resource/citation_top_1000.json') as json_file:
         json_content = json_file.read()
         person_list = sorted(json.loads(json_content), key=lambda person: person['name'])
@@ -68,11 +67,11 @@ def get_top_person_names(top_num):
     return person_list[:top_num]
 
 
-def handle_email_addr(addr):
-    if '\t' in addr:
-        addr = addr[:addr.find('\t')]
-    addr = addr.lower().replace('\n', '').replace(' ', '')
-    return addr
+# def handle_email_addr(addr):
+#     if '\t' in addr:
+#         addr = addr[:addr.find('\t')]
+#     addr = addr.lower().replace('\n', '').replace(' ', '')
+#     return addr
 
 
 def create_dir_if_not_exist(dir_path):
@@ -90,6 +89,23 @@ def del_a_from_b(a, b):
     else:
         b = b[:part_pos] + b[(part_pos+len(a)):]
     return b
+
+
+def is_a_in_b(a, b):
+    a = str(a)
+    b = str(b)
+    if a not in b:
+        return False
+    start_pattern = a + ' '
+    end_pattern = ' ' + a
+    if (' ' + a + ' ') in b:
+        return True
+    if start_pattern in b and b.find(start_pattern) == 0:
+        return True
+    if end_pattern in b and b.find(end_pattern) == (len(b) - len(end_pattern)):
+        return True
+    return False
+
 
 get_known_top_1000()
 

@@ -11,6 +11,10 @@ class EmailModel:
         self.brother_email_addr_list = brother_email_addr_list
         self.person_name = person_name.lower().replace('.', '').replace('-', '')
         self.tag = tag
+        self.is_last_name_in_google_title = False
+        self.is_last_name_in_google_content = False
+        self.is_affiliation_in_google_title = False
+        self.is_affiliation_in_google_content = False
 
     # 除last_name外，地址前缀包含名字的情况
     def get_f_contain_name_without_last(self):
@@ -72,7 +76,9 @@ class EmailModel:
         feature_line += ' 3:' + str(self.get_f_addr_repeat_time())
         feature_line += ' 4:' + str(self.get_f_domain_repeat_time())
         feature_line += ' 5:' + str(self.get_f_first_char_all_in_addr())
-        feature_line += '     # [%s] [%s] [%f, %f]' % (self.person_name, self.email_addr, self.get_f_addr_repeat_time(), self.get_f_domain_repeat_time())
+        feature_line += ' 6:' + str(int(self.is_last_name_in_google_title))
+        feature_line += ' 7:' + str(int(self.is_last_name_in_google_content))
+        feature_line += '     # [%s] [%s] [%f, %f] [%d, %d]' % (self.person_name, self.email_addr, self.get_f_addr_repeat_time(), self.get_f_domain_repeat_time(), int(self.is_last_name_in_google_title), int(self.is_last_name_in_google_content))
         return feature_line
 
     def display(self):

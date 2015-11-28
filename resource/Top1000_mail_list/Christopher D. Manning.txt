@@ -1,4 +1,11 @@
-cmanning@acm.org	[16]
-cmanning@acm.org	[16]
-hinrich@hotmail.com	[2]
-hinrich@hotmail.com	[2]
+[
+    {
+        "content": "christopher d manning. professor of computer science and linguistics, stanford university  natural language processing. verified email at stanford.edu.", 
+        "email_addr_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=1zmDOdwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Christopher D Manning - Google Scholar Citations"
+    }
+]

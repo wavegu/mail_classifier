@@ -1,0 +1,11 @@
+[
+    {
+        "content": "martin abadi. principal scientist ... verified email at cs.ucsc.edu - homepage  scholar. get my own ... m burrows, m abadi, rm needham. proceedings of the...", 
+        "email_addr_list": [
+            "email@cs.ucsc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=vWTI60AAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Martin Abadi - Google Scholar Citations"
+    }
+]

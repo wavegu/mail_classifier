@@ -1,0 +1,6 @@
+Accuracy: 0.955882 [3/68]
+误判：3
+漏判：0
+[1/-1] # [didier raoult] [didier.raoult@medecine.univ-mrs.fr] [0.250000, 0.250000] [1, 0]
+[1/-1] # [doron lancet] [doron.lancet@weizmann.ac.il] [0.600000, 0.600000] [1, 1]
+[1/-1] # [eibe frank] [eibe@waikato.ac.nz] [0.333333, 0.333333] [1, 0]
