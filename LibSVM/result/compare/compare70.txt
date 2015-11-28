@@ -1,0 +1,17 @@
+Accuracy: 0.885246 [14/122]
+误判：10
+漏判：4
+[-1/1] # [david e goldberg] [dgold11@pitt.edu] [0.200000, 0.200000] [1, 0] [0.000000, 0.000000]
+[-1/1] # [david heckerman] [heckerma@microsoft.com] [1.000000, 1.000000] [0, 1] [0.100000, 0.100000]
+[-1/1] # [david wetherall] [david.wetherell@deakin.edu.au] [0.500000, 0.500000] [0, 0] [0.000000, 0.000000]
+[-1/1] # [desmond g higgins] [ei.dcu@sniggih.sed] [1.000000, 1.000000] [1, 1] [0.200000, 0.200000]
+[1/-1] # [david j dewitt] [djs@dewittross.com] [1.000000, 1.000000] [1, 0] [0.000000, 0.250000]
+[1/-1] # [david kulp] [dkulp@cs.umass] [1.000000, 1.000000] [1, 0] [0.066667, 0.066667]
+[1/-1] # [deanna m church] [dbullock@fredcchurch.com] [1.000000, 1.000000] [1, 0] [0.000000, 0.000000]
+[1/-1] # [dennis a benson] [denniscovey@bensonandmangold.com] [0.333333, 0.333333] [1, 0] [0.000000, 0.000000]
+[1/-1] # [dennis a benson] [jahrndt@benson.k12.mn.us] [0.333333, 0.333333] [1, 0] [0.000000, 0.000000]
+[1/-1] # [derek c angus] [angusdc@ccm.upmc.edu] [0.500000, 0.500000] [0, 1] [0.000000, 0.136364]
+[1/-1] # [didier raoult] [didier.raoult@medecine.univ-mrs.fr] [0.250000, 0.250000] [1, 0] [0.000000, 0.000000]
+[1/-1] # [donald a norman] [don@jnd.org] [0.333333, 0.666667] [1, 1] [0.200000, 0.200000]
+[1/-1] # [doron lancet] [doron.lancet@weizmann.ac.il] [0.600000, 0.600000] [1, 1] [0.400000, 0.000000]
+[1/-1] # [eibe frank] [eibe@waikato.ac.nz] [0.333333, 0.333333] [1, 0] [0.000000, 0.000000]

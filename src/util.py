@@ -5,6 +5,7 @@ sys.setdefaultencoding('utf8')
 from constants import AMINER_DATABASE_CONFIG
 
 g_name_right_email_list_dict = {}
+g_name_affiliation_word_list_dict = {}
 
 
 def get_top_citation():
@@ -47,9 +48,12 @@ def get_top_citation():
 
 def get_known_top_1000():
     global g_name_right_email_list_dict
-    with open('../resource/citation_top_1000.json') as json_file:
+    with open('../resource/citation_top_1000_with_affwords.json') as json_file:
         json_content = json_file.read()
         person_list = sorted(json.loads(json_content), key=lambda person: person['name'])
+
+        for person_dict in person_list:
+            g_name_affiliation_word_list_dict[person_dict['name']] = person_dict['affiliation_words']
 
     with open('../resource/known_Top_1000.txt', 'w') as known_file:
         for person in person_list:
@@ -77,6 +81,7 @@ def get_top_person_names(top_num):
 def create_dir_if_not_exist(dir_path):
     import os
     if not os.path.exists(dir_path):
+        print 'creating path:', dir_path
         os.mkdir(dir_path)
 
 

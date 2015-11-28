@@ -13,8 +13,8 @@ class EmailModel:
         self.tag = tag
         self.is_last_name_in_google_title = False
         self.is_last_name_in_google_content = False
-        self.is_affiliation_in_google_title = False
-        self.is_affiliation_in_google_content = False
+        self.max_affiliation_proportion_in_title = 0.0
+        self.max_affiliation_proportion_in_content = 0.0
 
     # 除last_name外，地址前缀包含名字的情况
     def get_f_contain_name_without_last(self):
@@ -78,7 +78,10 @@ class EmailModel:
         feature_line += ' 5:' + str(self.get_f_first_char_all_in_addr())
         feature_line += ' 6:' + str(int(self.is_last_name_in_google_title))
         feature_line += ' 7:' + str(int(self.is_last_name_in_google_content))
-        feature_line += '     # [%s] [%s] [%f, %f] [%d, %d]' % (self.person_name, self.email_addr, self.get_f_addr_repeat_time(), self.get_f_domain_repeat_time(), int(self.is_last_name_in_google_title), int(self.is_last_name_in_google_content))
+        # feature_line += ' 8:' + str(self.max_affiliation_proportion_in_title)
+        # feature_line += ' 9:' + str(self.max_affiliation_proportion_in_content)
+        feature_line += ' 10:' + str(int(self.email_addr[:self.email_addr.find('@')] == 'email'))
+        feature_line += '     # [%s] [%s] [%f, %f] [%d, %d] [%f, %f]' % (self.person_name, self.email_addr, self.get_f_addr_repeat_time(), self.get_f_domain_repeat_time(), int(self.is_last_name_in_google_title), int(self.is_last_name_in_google_content), self.max_affiliation_proportion_in_title, self.max_affiliation_proportion_in_content)
         return feature_line
 
     def display(self):
