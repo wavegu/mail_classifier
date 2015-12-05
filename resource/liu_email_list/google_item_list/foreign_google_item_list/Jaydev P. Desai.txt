@@ -1,0 +1,47 @@
+[
+    {
+        "content": "university of maryland. college park, md 20742. email: jaydev@umd.edu. phone: ... mingyen ho, alan mcmillan, marc simard, rao gullapalli, jaydev p. desai,...", 
+        "email_addr_list": [
+            "jaydev@umd.edu"
+        ], 
+        "cite_url": "www.enme.umd.edu/faculty/desai", 
+        "cite_name": "University of Maryland, College Park", 
+        "title": "Desai, Jaydev | Mechanical Engineering"
+    }, 
+    {
+        "content": "email: jaydev@umd.edu. brief bio: dr. jaydev p. desai is currently a professor in the department of mechanical engineering and a member of the maryland...", 
+        "email_addr_list": [
+            "jaydev@umd.edu"
+        ], 
+        "cite_url": "rams.umd.edu/jaydev-p-desai/", 
+        "cite_name": "", 
+        "title": "Jaydev P. Desai | RAMS"
+    }, 
+    {
+        "content": "... 088, university of maryland, college park, md 20742. email. jaydev@umd.edu ... dr. jaydev p. desai is an associate professor of mechanical engineering at...", 
+        "email_addr_list": [
+            "jaydev@umd.edu"
+        ], 
+        "cite_url": "www.robotics.umd.edu/faculty/desai", 
+        "cite_name": "University of Maryland, College Park", 
+        "title": "Desai, Jaydev | Maryland Robotics Center"
+    }, 
+    {
+        "content": "2125 glenn l. martin hall. email: jaydev@umd.edu. phone: 301.405.4427 ... prior to joining university of maryland, college park, dr. jaydev p. desai was an...", 
+        "email_addr_list": [
+            "jaydev@umd.edu"
+        ], 
+        "cite_url": "https://www.isr.umd.edu/faculty/desai", 
+        "cite_name": "", 
+        "title": "Desai, Jaydev | Institute for Systems Research"
+    }, 
+    {
+        "content": "jaydev p. desai, ph.d. assistant professor, mechanical engineering ... office: randell 2-115 email: jaydev.prataprai.desai@drexel.edu. phone: 215.895.1738...", 
+        "email_addr_list": [
+            "jaydev.prataprai.desai@drexel.edu"
+        ], 
+        "cite_url": "www.biomed.drexel.edu/new04/content/.../dsp_faculty_details.cfm?...13...", 
+        "cite_name": "", 
+        "title": "BIOMED Faculty Details -- Jaydev Desai - School of ..."
+    }
+]

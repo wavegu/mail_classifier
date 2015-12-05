@@ -1,0 +1,29 @@
+[
+    {
+        "content": "antonio bicchi. dati generali; attività didattica ... e-mail: bicchi@centropiaggio.unipi.it sito web: http://www.centropiaggio.unipi.it/~bicchi/ indirizzo della sede...", 
+        "email_addr_list": [
+            "bicchi@centropiaggio.unipi.it"
+        ], 
+        "cite_url": "unimap.unipi.it/.../dettaglio.php?ri...", 
+        "cite_name": "University of Pisa", 
+        "title": "Bicchi Antonio - Università di Pisa - uniMap"
+    }, 
+    {
+        "content": "courses. antonio bicchi is professor of automatic control and robotics at the university of pisa. he graduated at the ... email: info@centropiaggio.unipi.it", 
+        "email_addr_list": [
+            "info@centropiaggio.unipi.it"
+        ], 
+        "cite_url": "131.114.31.13/index.php/component/content/article/35.../77-bicchi", 
+        "cite_name": "", 
+        "title": "Antonio Bicchi"
+    }, 
+    {
+        "content": "antonio bicchi department of electrical systems and automation university of ... center via diotisalvi 2 56 126 pisa (italy) email: bicchi@ing.unipi.it web:...", 
+        "email_addr_list": [
+            "bicchi@ing.unipi.it"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=8480214627", 
+        "cite_name": "", 
+        "title": "Methodology and Tools in Telemanipulation Systems Via Internet"
+    }
+]

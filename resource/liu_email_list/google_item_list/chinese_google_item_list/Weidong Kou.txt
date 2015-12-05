@@ -1,0 +1,11 @@
+[
+    {
+        "content": "kou, weidong, phd, xidian university, smieee. executive, cloud, global alliance solutions, ... of computer science, hku email: wdkou@ecom-icom.hku.hk...", 
+        "email_addr_list": [
+            "wdkou@ecom-icom.hku.hk"
+        ], 
+        "cite_url": "https://www.ecom-icom.hku.hk/.../KouWeidon...", 
+        "cite_name": "University of Hong Kong", 
+        "title": "See Biography"
+    }
+]

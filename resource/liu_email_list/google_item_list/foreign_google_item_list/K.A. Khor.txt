@@ -1,0 +1,39 @@
+[
+    {
+        "content": "email: mkakhor@ntu.edu.sg ... p. angerer, j. wosik, e. neubauer, l.g. yu, g.e. nauer, k.a. khor. ... h.b. ng, c. shearwood, t.j. white, l.g. yu, k.a. khor.", 
+        "email_addr_list": [
+            "mkakhor@ntu.edu.sg"
+        ], 
+        "cite_url": "research.ntu.edu.sg/.../StaffProfile.asp...", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "NTU: Academic Profile: Prof Khor Khiam Aik"
+    }, 
+    {
+        "content": "3 571580 547 bibliometrics analysis of publication trends in young and fast developing universities k. a. khor mkakhor@ntu.edu.sg / research support ofce...", 
+        "email_addr_list": [
+            "mkakhor@ntu.edu.sg"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-mkakhor-ntu-edu-sg-24297931....", 
+        "cite_name": "", 
+        "title": "mkakhor@ntu.edu.sg - The Email Archive"
+    }, 
+    {
+        "content": "no, salutation, name, email address, appointments. 1, mr, stephen tay .... 51, miss, yu ka yan, yu_ka_yan@moe.edu.sg. 52, ms, yvonne kwok lee yang, ... 3, mr, khor eng hwee, patrick, khor_eng_hwee@moe.edu.sg. 4, ms, nur hidayah...", 
+        "email_addr_list": [
+            "yu_ka_yan@moe.edu.sg", 
+            "khor_eng_hwee@moe.edu.sg"
+        ], 
+        "cite_url": "www.sgs.edu.sg/staff-contact-email/", 
+        "cite_name": "", 
+        "title": "Staff contact email - Serangoon Garden Secondary School"
+    }, 
+    {
+        "content": "oct 7, 2011 - tor orbal rakhor ka,jor da bangro shor kator orbal rakhor ka,jor da bangro ... mai ka zakhmi zakhmi,bya me zra takor ka orbal che khor krama, jor da bangro shor kramada […] ... send your lyrics at wsikandari@gmail.com...", 
+        "email_addr_list": [
+            "wsikandari@gmail.com"
+        ], 
+        "cite_url": "pashtolyrics.com/2011/.../tor-orbal-rakhor-ka-lyrics-rahim-shah-nazia-iq...", 
+        "cite_name": "", 
+        "title": "Tor Orbal Rakhor Ka Lyrics - Rahim Shah  Nazia Iqbal ..."
+    }
+]

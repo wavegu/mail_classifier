@@ -1,0 +1,29 @@
+[
+    {
+        "content": "professor yunong zhang, school of information science  technology, sun yat-sen university , guangzhou 510006, china. emails: ynzhang@ieee.org...", 
+        "email_addr_list": [
+            "ynzhang@ieee.org"
+        ], 
+        "cite_url": "sist.sysu.edu.cn/~zhynong/indexe.htm", 
+        "cite_name": "", 
+        "title": "Yunong Zhang - Sun Yat-sen University"
+    }, 
+    {
+        "content": "电子邮件：, zhynong@mail.sysu.edu.cn. 个人主页 ... [57] zhang yunong, yi chenfu, and ma weimu, on a primal-dual neural network for online solution of linear...", 
+        "email_addr_list": [
+            "zhynong@mail.sysu.edu.cn"
+        ], 
+        "cite_url": "sist.sysu.edu.cn/main/default/teainfo.aspx?id...2...", 
+        "cite_name": "", 
+        "title": "张雨浓 - 中山大学信息科学与技术学院 - Sun Yat-sen University"
+    }, 
+    {
+        "content": "jun 16, 2015 - dr yunong huang. individual details; teaching; research .... email: yunong.huang@flinders.edu.au. location: social sciences south (247).", 
+        "email_addr_list": [
+            "yunong.huang@flinders.edu.au"
+        ], 
+        "cite_url": "www.flinders.edu.au/people/yunong.huang", 
+        "cite_name": "Flinders University", 
+        "title": "Yunong Huang - Flinders University"
+    }
+]

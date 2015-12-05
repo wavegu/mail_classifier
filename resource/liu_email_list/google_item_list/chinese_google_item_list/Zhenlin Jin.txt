@@ -1,0 +1,75 @@
+[
+    {
+        "content": "e-mail: jmlin@mail.tsinghua.edu.cn ... zhen lin, xiangnan dou, haifang li, yuan ma, jin-ming lin*, nitrite sensing based on the carbon dots-enhanced...", 
+        "email_addr_list": [
+            "jmlin@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201104041714210458356...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Lin, Jinming"
+    }, 
+    {
+        "content": "dan gao, haifang li*, niejun wang, and jin-ming lin*. anal. ... qiushui chen, jing wu, yan-dong zhang, zhen lin, and jin-ming lin .... department of chemistry, tsinghua university, beijing 100084, china, e-mail: jmlin@mail.tsinghua.edu.cn.", 
+        "email_addr_list": [
+            "jmlin@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.linlab-tsinghua-edu.org/en/fblw.asp?a=81", 
+        "cite_name": "", 
+        "title": "2012Publications26[Currently published364] - Prof. Jin ..."
+    }, 
+    {
+        "content": "zhenlin wang, professor, computer science, michigan technological university. ... low cost working set size tracking, weiming zhao, xinxin jin, zhenlin wang, xiaolin wang, yingwei luo, and xiaoming li, ... email: csdept@mtu.edu.", 
+        "email_addr_list": [
+            "csdept@mtu.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Michigan Technological University", 
+        "title": "Zhenlin Wang | Computer Science | Michigan Tech"
+    }, 
+    {
+        "content": "email: fengg@sjtu.edu.cn ... jin zhenlin, gao feng , zhang xiaohui，“design and analysis of a novel isotropic six-component force/torque sensor”，sensors and...", 
+        "email_addr_list": [
+            "fengg@sjtu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "Feng Gao - School of Mechanical Engineering Shanghai ..."
+    }, 
+    {
+        "content": "email: sunho331@yahoo.com.cn. research field: ... ji zhenlin. tel: 0086 451 82518264. e-mail: jizhenlin@hrbeu.edu.cn. research ... jin guoyong. tel: 0086...", 
+        "email_addr_list": [
+            "sunho331@yahoo.com.cn", 
+            "jizhenlin@hrbeu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Harbin Engineering University", 
+        "title": "College of Power and Energy Engineering - Harbin ..."
+    }, 
+    {
+        "content": "email: rdu@mae.cuhk.edu.hk. tel: (852) 3943 ... 73.prof. wong ka wai 72. leng jing 71 .he kai 70. yeung wai keung 69. li jianping ... dr. jin zhen lin 40.", 
+        "email_addr_list": [
+            "rdu@mae.cuhk.edu.hk"
+        ], 
+        "cite_url": "www.ipe.cuhk.edu.hk/people.html", 
+        "cite_name": "", 
+        "title": "people - The Chinese University of Hong Kong"
+    }, 
+    {
+        "content": "apr 1, 2014 - p. r. china email:zhangpdsg@ouc.edu.cn. education .... (in chinese with english abstract)[43] binduo xu, xianshi jin, zhenlin liang. 2005.", 
+        "email_addr_list": [
+            "zhangpdsg@ouc.edu.cn"
+        ], 
+        "cite_url": "web1.ouc.edu.cn/_s74/50/bf/c5254a20671/page.psp", 
+        "cite_name": "", 
+        "title": "Peidong Zhang"
+    }, 
+    {
+        "content": "apr 1, 2014 - p. r. china email: bdxu@ouc.edu.cn. education ... [4] changzi ge, fan zhang, binduo xu, yiping ren, zhenlin liang. 2013. accumulation flux of nitrogen .... [42] binduo xu, xianshi jin, zhenlin liang. 2005. calculation of...", 
+        "email_addr_list": [
+            "bdxu@ouc.edu.cn"
+        ], 
+        "cite_url": "web1.ouc.edu.cn/_s74/50/be/c5254a20670/page.psp", 
+        "cite_name": "", 
+        "title": "Binduo Xu"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "jingang yi. associate professor. email: jgyi@rutgers.edu. phone: (848) 445-3282 ... currently, dr. yi and the students at ram lab work on various exciting...", 
+        "email_addr_list": [
+            "jgyi@rutgers.edu"
+        ], 
+        "cite_url": "mae.rutgers.edu/content/jingang-yi", 
+        "cite_name": "Rutgers University", 
+        "title": "Jingang Yi | MAE - Rutgers University"
+    }, 
+    {
+        "content": "jun 18, 2015 - phone: 848-445-3282. fax: 732-445-3124. e-mail: jgyi@rutgers.edu. ph.d. university of california, berkeley, 2002 m.a. university of california...", 
+        "email_addr_list": [
+            "jgyi@rutgers.edu"
+        ], 
+        "cite_url": "coewww.rutgers.edu/~jgyi/", 
+        "cite_name": "", 
+        "title": "Jingang Yis homepage - Rutgers University"
+    }, 
+    {
+        "content": "jingang yi ... tel:848-445-3282, fax:732-445-3124, e-mail:jgyi@rutgers.edu, http://coewww.rutgers.edu/∼jgyi .... h. la, r. lim, b. basily, n. gucunski, j. yi. 1.", 
+        "email_addr_list": [
+            "jgyi@rutgers.edu"
+        ], 
+        "cite_url": "coewww.rutgers.edu/~jgyi/CV_web.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Jingang Yi - Rutgers University"
+    }, 
+    {
+        "content": "email: dzsong@cse.tamu.edu ... dezhen song, chang young kim, and jingang yi, simultaneous localization of multiple unknown and transient radio...", 
+        "email_addr_list": [
+            "dzsong@cse.tamu.edu"
+        ], 
+        "cite_url": "https://engineering.tamu.edu/.../dso...", 
+        "cite_name": "Dwight Look College of Engineering", 
+        "title": "Song, Dezhen | People | Computer Science  Engineering ..."
+    }
+]

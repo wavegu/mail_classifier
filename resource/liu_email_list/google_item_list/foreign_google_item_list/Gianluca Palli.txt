@@ -1,0 +1,65 @@
+[
+    {
+        "content": "40136 bologna. tel.: (+39) 051 20 93186. (+39) 051 20 93079 (lar). fax: (+39) 051 20 93073. email: gianluca dot palli at unibo dot it. skype: gianluca_1977...", 
+        "email_addr_list": [
+            "palli@unibo.it"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Bologna", 
+        "title": "Gianluca Pallis Home Page - LAR"
+    }, 
+    {
+        "content": "dr. gianluca palli received the m.sc. and ph.d. degrees in automation ... e-mail: gianluca.palli@unibo.it; tel: +39 051 20 9 3186; fax: +39 051 20 9 3073.", 
+        "email_addr_list": [
+            "gianluca.palli@unibo.it"
+        ], 
+        "cite_url": "https://www.unibo.it/sitoweb/gianluca.palli/en", 
+        "cite_name": "University of Bologna", 
+        "title": "Gianluca Palli — University of Bologna — Home Page"
+    }, 
+    {
+        "content": "gianluca palli si è laureato in ingegneria informatica (vecchio ordinamento) ... e-mail: gianluca.palli@unibo.it; tel: +39 051 20 9 3186; fax: +39 051 20 9 3073.", 
+        "email_addr_list": [
+            "gianluca.palli@unibo.it"
+        ], 
+        "cite_url": "https://www.unibo.it/.../gianluca...", 
+        "cite_name": "University of Bologna", 
+        "title": "Gianluca Palli — Università di Bologna — Home Page"
+    }, 
+    {
+        "content": "eng. gianluca palli, msc, phd. dei - università di bologna. tel. +39 051 20 93186 email: gianluca.palli@unibo.it http://www-lar.deis.unibo.it/people/gpalli/...", 
+        "email_addr_list": [
+            "gianluca.palli@unibo.it"
+        ], 
+        "cite_url": "www-lar.deis.unibo.it/.../gpalli/.../Research%20Act...", 
+        "cite_name": "University of Bologna", 
+        "title": "[PDF]Eng. Gianluca Palli, MSc, PhD DEI - Università di ... - LAR"
+    }, 
+    {
+        "content": "by gianluca palli. ... the observation of the past and current re⋆ corresponding author, email: gianluca.palli@unibo.it search and developments, (kaneko et al.,...", 
+        "email_addr_list": [
+            "gianluca.palli@unibo.it"
+        ], 
+        "cite_url": "www.academia.edu/.../Integrated_mechatronic_design_for...", 
+        "cite_name": "Academia.edu", 
+        "title": "Integrated mechatronic design for a new generation of ..."
+    }, 
+    {
+        "content": "6dieti—università di napoli federico ii, napoli, italy. g. palli, dei—università di bologna, viale risorgimento 2, bologna, italy. email: gianluca.palli@unibo.it...", 
+        "email_addr_list": [
+            "gianluca.palli@unibo.it"
+        ], 
+        "cite_url": "ijr.sagepub.com/content/33/5/799.abstract", 
+        "cite_name": "Sage Publications", 
+        "title": "The DEXMART hand: Mechatronic design and experimental ..."
+    }, 
+    {
+        "content": "luigi villani, fanny ficuciello, vincenzo lippiello, gianluca palli,. fabio ruggiero, bruno siciliano ... 2, 40136 bologna, italy email: gianluca.palli@unibo.it. 219...", 
+        "email_addr_list": [
+            "gianluca.palli@unibo.it"
+        ], 
+        "cite_url": "wpage.unina.it/fabio.ruggiero/.../BC3.pd...", 
+        "cite_name": "University of Naples Federico II", 
+        "title": "[PDF]Grasping and Control of Multi-Fingered Hands"
+    }
+]

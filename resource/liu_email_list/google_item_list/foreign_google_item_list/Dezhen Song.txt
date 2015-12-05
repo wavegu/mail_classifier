@@ -1,0 +1,39 @@
+[
+    {
+        "content": "phone: 979.862.2275. email: amato@cse.tamu.edu ... office: 403 hrbb phone: 979.845.0537. email: caverlee@cse.tamu.edu .... image of dezhen song...", 
+        "email_addr_list": [
+            "amato@cse.tamu.edu", 
+            "caverlee@cse.tamu.edu"
+        ], 
+        "cite_url": "https://engineering.tamu.edu/.../peo...", 
+        "cite_name": "Dwight Look College of Engineering", 
+        "title": "Faculty | People | Computer Science  Engineering - Dwight ..."
+    }, 
+    {
+        "content": "aug 24, 2015 - dezhen song ... e-mail: dzsong@cse.tamu.edu. senior member, ieee ph.d., university of california, berkeley, 2004 m.s., zhejiang university...", 
+        "email_addr_list": [
+            "dzsong@cse.tamu.edu"
+        ], 
+        "cite_url": "faculty.cs.tamu.edu/dzsong/", 
+        "cite_name": "Texas AM University", 
+        "title": "Dezhen Songs homepage"
+    }, 
+    {
+        "content": "email: dzsong@cse.tamu.edu ... dezhen song, chang young kim, and jingang yi, simultaneous localization of multiple unknown and transient radio...", 
+        "email_addr_list": [
+            "dzsong@cse.tamu.edu"
+        ], 
+        "cite_url": "https://engineering.tamu.edu/.../dso...", 
+        "cite_name": "Dwight Look College of Engineering", 
+        "title": "Song, Dezhen | People | Computer Science  Engineering ..."
+    }, 
+    {
+        "content": "see information and reports about dzsong@address.com (dezhen songs e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "dzsong@address.com"
+        ], 
+        "cite_url": "spam-report.email/dzsong/address.com", 
+        "cite_name": "", 
+        "title": "dzsong@address.com (Dezhen Songs e-mail) - Spam ..."
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "content": "adhami, louai instuctor. email: la03 at aub.edu.lb. office: bliss 104/f. image not available. aoude, loa instuctor. email: la52 at aub.edu.lb. office: bliss 114.", 
+        "email_addr_list": [
+            "la03@aub.edu.lb", 
+            "la52@aub.edu.lb"
+        ], 
+        "cite_url": "https://www.aub.edu.lb/.../part_time_facult...", 
+        "cite_name": "American University of Beirut", 
+        "title": "AUB - People - Part Time Faculty"
+    }, 
+    {
+        "content": "(email: ywei@ccad.uiowa.edu) research interests: yu wei is ... louai adhami, ms, june 1998, matching algorithms for bone regitration in. robot-assisted...", 
+        "email_addr_list": [
+            "ywei@ccad.uiowa.edu"
+        ], 
+        "cite_url": "www.engineering.uiowa.edu/~amalek/students.htm", 
+        "cite_name": "University of Iowa", 
+        "title": "Students - University of Iowa"
+    }, 
+    {
+        "content": "louaï adhami. x. louaï adhami. search for articles by this author ... team, inria sophia antipolis (www.inria.fr/chir). e-mail: eve.coste-maniere@sophia.inria.fr.", 
+        "email_addr_list": [
+            "eve.coste-maniere@sophia.inria.fr"
+        ], 
+        "cite_url": "www.semthorcardiovascsurg.com/article/S1043-0679(03)70022-7/abstract", 
+        "cite_name": "", 
+        "title": "Planning, simulation, and augmented reality for robotic ..."
+    }, 
+    {
+        "content": "louaï adhami ... e-mail: eve.coste-maniere@sophia.inria.fr ... 3adhami, l, coste-manière, È, boissonnat, j.-d. planning and simulation of robotically assisted...", 
+        "email_addr_list": [
+            "eve.coste-maniere@sophia.inria.fr"
+        ], 
+        "cite_url": "www.semthorcardiovascsurg.com/article/S1043...7/references", 
+        "cite_name": "", 
+        "title": "References in Planning, simulation, and augmented reality ..."
+    }
+]

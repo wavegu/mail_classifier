@@ -1,0 +1,20 @@
+[
+    {
+        "content": "professor mazur and his group study the dynamics of molecules, chemical reactions, and ... email: mazur@seas.harvard.edu ... north east research associates.", 
+        "email_addr_list": [
+            "mazur@seas.harvard.edu"
+        ], 
+        "cite_url": "https://www.seas.h...", 
+        "cite_name": "Harvard John A. Paulson School of Engineering and...", 
+        "title": "Eric Mazur - School of Engineering and Applied Sciences"
+    }, 
+    {
+        "content": "bruce mazer  christine mccusker  dao nguyen  basil j petrof  william s ... tel: 514-398-3864 x00132. fax: 514-398-7483. e-mail: bruce.mazer@mcgill.ca...", 
+        "email_addr_list": [
+            "bruce.mazer@mcgill.ca"
+        ], 
+        "cite_url": "meakins.mcgill.ca/mazer.php", 
+        "cite_name": "McGill University", 
+        "title": "Bruce Mazer"
+    }
+]

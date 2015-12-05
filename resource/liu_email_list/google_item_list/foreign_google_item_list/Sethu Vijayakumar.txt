@@ -1,0 +1,39 @@
+[
+    {
+        "content": "email: sethu.vijayakumar[at]ed.ac.uk. secretary (admin): ms. heather low 1.37 informatics forum, 10 crichton street, university of edinburgh, edinburgh eh8...", 
+        "email_addr_list": [
+            "sethu.vijayakumar@ed.ac.uk"
+        ], 
+        "cite_url": "homepages.inf.ed.ac.uk/svijayak/contact.1.html", 
+        "cite_name": "University of Edinburgh", 
+        "title": "Sethu Vijayakumar - Informatics Homepages Server"
+    }, 
+    {
+        "content": "apr 10, 2015 - sethu vijayakumar is the professor of robotics and the director of the ... rsvp marjorie dunlop email: mdunlop2@staffmail.ed.ac.uk tel: 0131...", 
+        "email_addr_list": [
+            "mdunlop2@staffmail.ed.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Edinburgh", 
+        "title": "Sethu Vijayakumar | The University of Edinburgh"
+    }, 
+    {
+        "content": "website: http://homepages.inf.ed.ac.uk/svijayak/. email: sethu.vijayakumar@ed.ac.uk. university: university of edinburgh. © edinburgh centre for robotics", 
+        "email_addr_list": [
+            "sethu.vijayakumar@ed.ac.uk"
+        ], 
+        "cite_url": "www.edinburgh-robotics.org/academics/sethu-vijayakumar", 
+        "cite_name": "", 
+        "title": "Prof. Sethu Vijayakumar FRSE | Edinburgh Centre for ..."
+    }, 
+    {
+        "content": "please contact sethu vijayakumar at informatics {email: sethu.vijayakumar [at] ed.ac.uk} or kevin stratford at epcc {email: kevin [at] epcc.ed.ac.uk} if interested...", 
+        "email_addr_list": [
+            "sethu.vijayakumar@ed.ac.uk", 
+            "kevin@epcc.ed.ac.uk"
+        ], 
+        "cite_url": "euscc.intheteam.com/", 
+        "cite_name": "", 
+        "title": "Edinburgh University Staff Cricket Club"
+    }
+]

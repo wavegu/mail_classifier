@@ -1,0 +1,42 @@
+[
+    {
+        "content": "nov 11, 2015 - email:majeed_abdulrahman@yahoo.com, vice-chairman ... email:angaman.kesse@aigf.ci; angaman.kesse@ties.itu.int ... mr. qingjun zeng", 
+        "email_addr_list": [
+            "majeed_abdulrahman@yahoo.com", 
+            "angaman.kesse@aigf.ci", 
+            "angaman.kesse@ties.itu.int"
+        ], 
+        "cite_url": "itu.int/go/rsg6/ch", 
+        "cite_name": "International Telecommunication Union", 
+        "title": "List of Study Groups Chairmen and Vice-Chairmen - ITU"
+    }, 
+    {
+        "content": "jian li, xiaoyang zeng, lei xie, jun chen, jianyun zhang, and yawei guo, “a 1.8-v 22-mw 10-bit 30-ms/s ... yun chen, xiaoyang zeng, an pan, jing wang, “a novel five-point algorithm of phase noise ... email：xyzeng@fudan.edu.cn.", 
+        "email_addr_list": [
+            "xyzeng@fudan.edu.cn"
+        ], 
+        "cite_url": "sme.fudan.edu.cn/faculty/.../zengxiaoyang/index_en.h...", 
+        "cite_name": "", 
+        "title": "欢迎访问复旦微电子 - 复旦大学"
+    }, 
+    {
+        "content": "jin wu. 2*. xinyu wu. 1. email: wuxinyu0102@163.com. zhida chen. 2. email: czd5320@163.com. qingjun liu. 2. email:lqjun175@163.com. wenrong zeng. 2.", 
+        "email_addr_list": [
+            "wuxinyu0102@163.com", 
+            "czd5320@163.com", 
+            "lqjun175@163.com"
+        ], 
+        "cite_url": "downloads.hindawi.com/journals/bmri/aip/617316.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Silencing of Eag1 gene inhibits osteosarcoma proliferation ..."
+    }, 
+    {
+        "content": "li fang 84 mail address is dept.of biochemistry umdnj-rwjms ..... qingjun department: microbiology school: university of virginia from: class 8563 wuhan ... class 8564 wuhan university e-mail: zeng@binah.cc.brandeis.edu us mail: 94...", 
+        "email_addr_list": [
+            "zeng@binah.cc.brandeis.edu"
+        ], 
+        "cite_url": "pages.cs.wisc.edu/~lzheng/.../shengwu....", 
+        "cite_name": "University of Wisconsin‑Madison", 
+        "title": "Department of Biology - Home Page"
+    }
+]

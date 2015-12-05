@@ -1,0 +1,66 @@
+[
+    {
+        "content": "tech. of china, 1995. yin chen. postdoctoral researcher. b.s.: sichuan university m.s.: eth zurich phd: hkust. email: science1986@gmail.com. bo shen.", 
+        "email_addr_list": [
+            "science1986@gmail.com"
+        ], 
+        "cite_url": "ihome.ust.hk/.../mem...", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "Members - Hong Kong University of Science and Technology"
+    }, 
+    {
+        "content": "cv4 7al, tel: 024 76528976. email: y.chen.25@warwick.ac.uk ... publications. view yin chen publications on the university of warwick publication service.", 
+        "email_addr_list": [
+            "y.chen.25@warwick.ac.uk"
+        ], 
+        "cite_url": "www2.warwick.ac.uk/fac/sci/lifesci/people/ychen/", 
+        "cite_name": "University of Warwick", 
+        "title": "Dr Yin Chen - University of Warwick"
+    }, 
+    {
+        "content": "feb 11, 2015 - profile for prof ying (ian) chen, alfred deakin professor and chair in nanotechnology. ... +61 3 52273243. email: ian.chen@deakin.edu.au...", 
+        "email_addr_list": [
+            "ian.chen@deakin.edu.au"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Deakin University", 
+        "title": "Prof Ying (Ian) Chen - Deakin University"
+    }, 
+    {
+        "content": "billy kuan-yin chen. phd student dept. electrical and computer engineering, nyu polytechnic school of engineering. email: kyc257@nyu.edu. bo yan.", 
+        "email_addr_list": [
+            "kyc257@nyu.edu"
+        ], 
+        "cite_url": "https://engineering.nyu.edu/highspeed/people", 
+        "cite_name": "New York University", 
+        "title": "People | High Speed Networking Lab"
+    }, 
+    {
+        "content": "name, title, telephone, e-mail ... chen ying, engineer, 86-10-51686434, ychen2@bjtu.edu.cn .... chen bo, lecturer, 86-10-51683851, bchen@bjtu.edu.cn.", 
+        "email_addr_list": [
+            "ychen2@bjtu.edu.cn", 
+            "bchen@bjtu.edu.cn"
+        ], 
+        "cite_url": "en.bjtu.edu.cn/Faculty/list/list1/index.htm", 
+        "cite_name": "", 
+        "title": "Faculty List - Beijing Jiaotong University"
+    }, 
+    {
+        "content": "zhu_rui_qiu@ssis.asiathis email address is being protected from spambots. you need javascript enabled ... chen bo yi .... yu chen read more, yin xiao min", 
+        "email_addr_list": [
+            "zhu_rui_qiu@ssis.asiathis"
+        ], 
+        "cite_url": "www.ssis.asia/index.php?option=com_contentview=articleid=29", 
+        "cite_name": "", 
+        "title": "Shanghai Singapore International School"
+    }, 
+    {
+        "content": "email: katelin[at]citi.sinica.edu.tw: research interests: multi-user mimo ... bo-xian wu, m.s. student, gice, ntu, 2014; shih-ying chen, m.s. student, ice,...", 
+        "email_addr_list": [
+            "katelin@citi.sinica.edu.tw"
+        ], 
+        "cite_url": "nms.citi.sinica.edu.tw/people.html", 
+        "cite_name": "", 
+        "title": "NMS Lab - Academia Sinica"
+    }
+]

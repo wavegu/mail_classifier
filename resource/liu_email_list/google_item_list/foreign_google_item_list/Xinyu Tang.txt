@@ -1,0 +1,29 @@
+[
+    {
+        "content": "home page for xinyu tang | parasol laboratory ... department of computer science and engineering, email: xinyut@cs.tamu.edu. texas am university, office:...", 
+        "email_addr_list": [
+            "xinyut@cs.tamu.edu"
+        ], 
+        "cite_url": "https://parasol.tamu.edu/~xinyut/", 
+        "cite_name": "Texas AM University", 
+        "title": "Home Page for Xinyu Tang | Parasol Laboratory"
+    }, 
+    {
+        "content": "xinyu tang, ph.d. picture of picture ... email: xtang@uams.edu. phone ... journal article, collins rt ii., fram ry., tang x., robbins jm., sutton msj. hospital...", 
+        "email_addr_list": [
+            "xtang@uams.edu"
+        ], 
+        "cite_url": "www.arpediatrics.org/index.php?option=com_uamsview...sap...", 
+        "cite_name": "", 
+        "title": "Xinyu Tang - UAMS Pediatrics"
+    }, 
+    {
+        "content": "email: tapia@cs.unm.edu .... xinyu tang, shawna thomas, lydia tapia, david p. giedroc, nancy m. amato, simulating rna folding kinetics on approximated...", 
+        "email_addr_list": [
+            "tapia@cs.unm.edu"
+        ], 
+        "cite_url": "https://www.cs.unm.edu/~tapia/", 
+        "cite_name": "University of New Mexico", 
+        "title": "Lydia Tapia - Computer Science - University of New Mexico"
+    }
+]

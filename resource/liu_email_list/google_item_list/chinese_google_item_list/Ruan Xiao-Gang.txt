@@ -1,0 +1,21 @@
+[
+    {
+        "content": "e-mail: alice.dailizhen@gmail.com. e-mail: ... e-mail: chenjing0828@emails.bjut.edu.cn ... xiaogang ruan received his phd from zhejiang university in 1992,...", 
+        "email_addr_list": [
+            "alice.dailizhen@gmail.com", 
+            "chenjing0828@emails.bjut.edu.cn"
+        ], 
+        "cite_url": "www.inderscienceonline.com/doi/pdf/10.1504/IJMIC.2011.043152", 
+        "cite_name": "", 
+        "title": "PDF (413 KB)"
+    }, 
+    {
+        "content": "jun 12, 2009 - zip code. 100085. fax. 010-62923549. email. qinzhanfen@rcees.ac.cn ... xiao-min ren, yin-feng zhang, liang-hong guo*, zhan-fen qin*, qi-yan lv, lian-ying zhang. ... ya-xian zhao, xian-li ruan, yan li, min-chan yan, zhan-fen qin*. ... zhan-fen qin, jing-ming zhou, shao-gang chu, xiao-bai xu.", 
+        "email_addr_list": [
+            "qinzhanfen@rcees.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Faculty and Staff"
+    }
+]

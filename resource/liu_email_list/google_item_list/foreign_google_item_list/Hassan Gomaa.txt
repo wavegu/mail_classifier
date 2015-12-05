@@ -1,0 +1,11 @@
+[
+    {
+        "content": "hassan gomaa is professor of computer science and software engi- neering at ... c hassan gomaa 2011. this publication is in ..... email: hgomaa@gmu.edu.", 
+        "email_addr_list": [
+            "hgomaa@gmu.edu"
+        ], 
+        "cite_url": "gate.upm.ro/management/.../Gomaa-SoftwareModellingAndDesign.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]software modeling and design - FTP Directory Listing"
+    }
+]

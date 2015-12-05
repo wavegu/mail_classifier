@@ -1,0 +1,50 @@
+[
+    {
+        "content": "email: brandenb@nordita.org. or, if full: axelbrandenburg@gmail.com  secretary: +46 8 5537 8436. mob: +46 73 270 4376. cell: +1 (720) 401-7355. jila: +1...", 
+        "email_addr_list": [
+            "brandenb@nordita.org", 
+            "axelbrandenburg@gmail.com"
+        ], 
+        "cite_url": "www.nordita.org/~brandenb/", 
+        "cite_name": "Nordic Institute for Theoretical Physics", 
+        "title": "Axel Brandenburg - Nordita"
+    }, 
+    {
+        "content": "title: professor. office: roslagstullsbacken 17 (122:028). phone: +46 8 5537 8707. fax: +46 8 5537 8404. email: brandenb@nordita.org. or, if full...", 
+        "email_addr_list": [
+            "brandenb@nordita.org"
+        ], 
+        "cite_url": "norlx51.nordita.org/~brandenb/", 
+        "cite_name": "Nordic Institute for Theoretical Physics", 
+        "title": "Axel Brandenburg - Nordita"
+    }, 
+    {
+        "content": "sep 16, 2015 - campus (jila, a604). phone: +46 8 5537 8707. fax: +46 8 5537 8404. email: brandenb@nordita.org. or, if full: axelbrandenburg@gmail.com.", 
+        "email_addr_list": [
+            "brandenb@nordita.org", 
+            "axelbrandenburg@gmail.com"
+        ], 
+        "cite_url": "lcd-www.colorado.edu/~axbr9098/", 
+        "cite_name": "University of Colorado Boulder", 
+        "title": "Axel Brandenburg - LCD"
+    }, 
+    {
+        "content": "axel brandenburg. 5-7738. n216 (spsc). axel.brandenburg@colorado.edu. ben brown ... e-mail. piyush agrawal. 3039313874. piyush.agrawal@colorado.edu.", 
+        "email_addr_list": [
+            "axel.brandenburg@colorado.edu", 
+            "piyush.agrawal@colorado.edu"
+        ], 
+        "cite_url": "www.colorado.edu/aps/.../full-directory", 
+        "cite_name": "University of Colorado Boulder", 
+        "title": "Full APS Directory - University of Colorado Boulder"
+    }, 
+    {
+        "content": "... room: fulton g19; e-mail: simon.candelaresi@gmail.com; phone: +44 (0)1382 384485 ... [3], fabio del sordo, simon candelaresi, and axel brandenburg.", 
+        "email_addr_list": [
+            "simon.candelaresi@gmail.com"
+        ], 
+        "cite_url": "www.maths.dundee.ac.uk/scandelaresi/", 
+        "cite_name": "University of Dundee", 
+        "title": "Dr Simon Candelaresi - University of Dundee"
+    }
+]

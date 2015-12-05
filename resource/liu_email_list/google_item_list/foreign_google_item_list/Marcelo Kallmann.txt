@@ -1,0 +1,38 @@
+[
+    {
+        "content": "marcelo kallmann. marcelo kallmann. title: associate professor. email: mkallmann@ucmerced.edu. phone: (209) 228-4168. website:.", 
+        "email_addr_list": [
+            "mkallmann@ucmerced.edu"
+        ], 
+        "cite_url": "www.ucmerced.edu/.../marcelo-kallman...", 
+        "cite_name": "University of California, Merced", 
+        "title": "Marcelo Kallmann | UC Merced"
+    }, 
+    {
+        "content": "marcelo kallmann. you are here. home. marcelo kallmann. title: associate professor. email: mkallmann@ucmerced.edu. office phone: (209) 228-4168.", 
+        "email_addr_list": [
+            "mkallmann@ucmerced.edu"
+        ], 
+        "cite_url": "https://eecs.ucmerced.edu/.../marcelo-kal...", 
+        "cite_name": "University of California, Merced", 
+        "title": "Marcelo Kallmann | Electrical Engineering and Computer ..."
+    }, 
+    {
+        "content": "contact information. email:mkallmann@ucmerced.edu. phone:(209) 228-4168. fax:(209) 228-4047. location:se2 room 209. (download this users vcard).", 
+        "email_addr_list": [
+            "mkallmann@ucmerced.edu"
+        ], 
+        "cite_url": "directory.ucmerced.edu/.../email/mkallm...", 
+        "cite_name": "University of California, Merced", 
+        "title": "Marcelo Kallmann - UC Merced Directory - People Search"
+    }, 
+    {
+        "content": "html reference: span class=authormarcelo kallmann, robert bargmann and maja j. matarić/span. ... email: maja@robotics.usc.edu. address: 3650...", 
+        "email_addr_list": [
+            "maja@robotics.usc.edu"
+        ], 
+        "cite_url": "robotics.usc.edu/publications/383/", 
+        "cite_name": "", 
+        "title": "USC Robotics Research Labs"
+    }
+]

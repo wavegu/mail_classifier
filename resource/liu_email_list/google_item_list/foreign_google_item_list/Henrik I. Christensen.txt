@@ -1,0 +1,56 @@
+[
+    {
+        "content": "email: hic@cc.gatech.edu. personal webpage: http://www.cc.gatech.edu/~hic ... henrik i. christensen is the kuka chair of robotics and a distinguished...", 
+        "email_addr_list": [
+            "hic@cc.gatech.edu"
+        ], 
+        "cite_url": "www.cc.gatech.ed...", 
+        "cite_name": "Georgia Institute of Technology College of Computing", 
+        "title": "Henrik I. Christensen | Georgia Tech - College of Computing"
+    }, 
+    {
+        "content": "jul 4, 2015 - email: hichristensen@gmail.com. affiliation: institute for robotics and intelligent machines. college of computing - interactive computing.", 
+        "email_addr_list": [
+            "hichristensen@gmail.com"
+        ], 
+        "cite_url": "www.hichristensen.net/pdf/hiccv.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Curriculum Vitae for Dr. Henrik Iskov Christensen"
+    }, 
+    {
+        "content": "dec 3, 2006 - henrik i. christensen is a chaired professor of computer science specialising in autonomous systems, with the ... email, hic@cc.gatech.edu...", 
+        "email_addr_list": [
+            "hic@cc.gatech.edu"
+        ], 
+        "cite_url": "www.nada.kth.se/~hic/", 
+        "cite_name": "Royal Institute of Technology", 
+        "title": "Henrik I Christensen - KTH"
+    }, 
+    {
+        "content": "e-mail: patric@kth.se ... (john folkesson, patric jensfelt and henrik i. christensen) ... (elena pacchierotti, henrik i. christensen and patric jensfelt) roman...", 
+        "email_addr_list": [
+            "patric@kth.se"
+        ], 
+        "cite_url": "www.csc.kth.se/~patric/", 
+        "cite_name": "Royal Institute of Technology", 
+        "title": "Homepage of Patric Jensfelt - KTH"
+    }, 
+    {
+        "content": "about au  danish. search. you are here: » henrik bærbak christensen ... email: au@au.dk. tel: +45 8715 0000. fax: +45 8715 0201. cvr no: 31119103.", 
+        "email_addr_list": [
+            "au@au.dk"
+        ], 
+        "cite_url": "pure.au.dk/.../henrik...christensen(4f747aba.../henrik-b...", 
+        "cite_name": "Aarhus University", 
+        "title": "Henrik Bærbak Christensen - Research - Aarhus University"
+    }, 
+    {
+        "content": "mail: Åbo akademi, asa a 4, 20500 Åbo, finland phone: +358 2 215 4586 e-mail: kimmo.gronlund[at]abo.fi  website ... dr. henrik serup christensen.", 
+        "email_addr_list": [
+            "kimmo.gronlund@abo.fi"
+        ], 
+        "cite_url": "www.samforsk.abo.fi/en/staff", 
+        "cite_name": "Åbo Akademi University", 
+        "title": "Staff | Institutet för samhällsforskning"
+    }
+]

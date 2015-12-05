@@ -1,0 +1,76 @@
+[
+    {
+        "content": "ling fu. brittonchance centerfor biomedical photonics. wuhannational lab for optoelectronics. huazhonguniversityof science ... email: lfu@mail.hust.edu.cnl.", 
+        "email_addr_list": [
+            "lfu@mail.hust.edu.cnl"
+        ], 
+        "cite_url": "en.wnlo.cn/category/59/2013-01-08/163212.html", 
+        "cite_name": "", 
+        "title": "Fu,Ling - Wuhan National Laboratory for Optoelectronics"
+    }, 
+    {
+        "content": "hong kong institute of vocational education (ive). hong kong design ... email: vtcmailbox@vtc.edu.hk .... 3 king ling road, tseung kwan o, ... (pok fu lam)", 
+        "email_addr_list": [
+            "vtcmailbox@vtc.edu.hk"
+        ], 
+        "cite_url": "www.vtc.edu.hk/html/en/contact_us.html", 
+        "cite_name": "", 
+        "title": "Contact us  VTC"
+    }, 
+    {
+        "content": "25+ items - hong kong, (852)-3711-3845, alextam@zungfu.com  website.", 
+        "email_addr_list": [
+            "alextam@zungfu.com"
+        ], 
+        "cite_url": "https://www.rayswheels.co.jp/shop/world.php?gr=2area=5lang...", 
+        "cite_name": "", 
+        "title": "RAYS - The concept is racing. [en]"
+    }, 
+    {
+        "content": "1 po tung road, sai kung, kowloon, 3661 1630, 2791 5129. kwun tong division map ... 1 fu kong shan, mui wo, lantau island, 3661 1696, 2984 1538. pennys bay police post ... email: crimeinformation@police.gov.hk, 2520 2828. (please...", 
+        "email_addr_list": [
+            "crimeinformation@police.gov.hk"
+        ], 
+        "cite_url": "www.police.gov.hk/ppp_en/contact_us.html", 
+        "cite_name": "Hong Kong Police Force", 
+        "title": "Contact us | Hong Kong Police Force"
+    }, 
+    {
+        "content": "correspondence email address. headmaster@ysu.edu.cn. address ... college of information science and engineering kong lingfu. economic administration...", 
+        "email_addr_list": [
+            "headmaster@ysu.edu.cn"
+        ], 
+        "cite_url": "rccse.whu.edu.cn/upload/newsimg/2005-7-11/200571117501456984.doc", 
+        "cite_name": "", 
+        "title": "[DOC]Basic Information"
+    }, 
+    {
+        "content": "chai fu ling  company solicitors are experienced in all areas of practice from litigation ... email: cfl@chaifulingsolicitors.com ... 1992 solicitor, hong kong.", 
+        "email_addr_list": [
+            "cfl@chaifulingsolicitors.com"
+        ], 
+        "cite_url": "chaifulingsolicitors.com/meet-the-team/meet-the-team.html", 
+        "cite_name": "", 
+        "title": "Chai Fu Ling  Company Solicitors - Meet the Team"
+    }, 
+    {
+        "content": "email: vtaa@vingtsun.org.hk ... alex man ving tsun kung fu club (文劍華詠春拳會) ... email: scientificvingtsun@gmail.com / sifu@chankimman-svt.com.", 
+        "email_addr_list": [
+            "vtaa@vingtsun.org.hk", 
+            "scientificvingtsun@gmail.com", 
+            "sifu@chankimman-svt.com"
+        ], 
+        "cite_url": "www.vingtsun.org.hk/cschools.htm", 
+        "cite_name": "", 
+        "title": "SCHOOLS IN HONG KONG - Ving Tsun Athletic Association"
+    }, 
+    {
+        "content": "... house - southeast asia is on facebook. to connect with kung fu house - southeast asia, sign up for facebook today. ... cs email:cs.siamgame@gmail.com.", 
+        "email_addr_list": [
+            "cs.siamgame@gmail.com"
+        ], 
+        "cite_url": "https://www.facebook.com/kfen.siamgame.in.th/", 
+        "cite_name": "", 
+        "title": "Kung Fu House - Southeast Asia - Facebook"
+    }
+]

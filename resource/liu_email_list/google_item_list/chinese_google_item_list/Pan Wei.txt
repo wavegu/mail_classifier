@@ -1,0 +1,75 @@
+[
+    {
+        "content": "a460 mayo building, mmc 303, minneapolis, mn 55455. phone: (612)626-2705 (office); fax: (612)626-0660. e-mail: weip at biostat dot umn dot edu...", 
+        "email_addr_list": [
+            "weip@biostat.umn.edu"
+        ], 
+        "cite_url": "umn.edu/home/panxx014", 
+        "cite_name": "University of Minnesota", 
+        "title": "Wei Pans Home Page"
+    }, 
+    {
+        "content": "dr. wei pan is an associate professor and biostatistician in the school of nursing at ... wei pan, phd. associate professor. email: wei.pan@duke.edu. phone:.", 
+        "email_addr_list": [
+            "wei.pan@duke.edu"
+        ], 
+        "cite_url": "nursing.duke.edu/directories/.../wei.p...", 
+        "cite_name": "Duke University School of Nursing", 
+        "title": "Wei Pan, PhD | Duke School of Nursing"
+    }, 
+    {
+        "content": "office: institute for combustion science and environmental technology phone: 270-745-2272. email: wei-ping.pan@wku.edu. website: http://www.wku.edu/ci...", 
+        "email_addr_list": [
+            "wei-ping.pan@wku.edu"
+        ], 
+        "cite_url": "https://www.wku.edu/.../wei-ping_pan", 
+        "cite_name": "Western Kentucky University", 
+        "title": "Wei-Ping Pan - Western Kentucky University"
+    }, 
+    {
+        "content": "e-mail: panw@mail.tsinghua.edu.cn .... ahmad kaleem, pan wei, enhanced electrical and mechanical properties of alumina-based tic composites by spark...", 
+        "email_addr_list": [
+            "panw@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.mse.tsinghua.edu.cn/.../201012201038237492...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Wei Pan - Department of Materials Science  Engineering ..."
+    }, 
+    {
+        "content": "zhengwei pan, associate professor of physics and engineering. email: panz@uga.edu; phone: 706-542-2882; office: 228d; url...", 
+        "email_addr_list": [
+            "panz@uga.edu"
+        ], 
+        "cite_url": "https://www.physast.uga.edu/people/zhengwei_pan", 
+        "cite_name": "University of Georgia", 
+        "title": "Zhengwei Pan, Associate Professor of Physics and ..."
+    }, 
+    {
+        "content": "pan, jian-wei: title professor, director: telephone 0551-3606493: e-mail pan@ustc.edu. ... j. -w. pan, z. -b. chen, m. zukowski, h. weinfurter and a. zeilinger,...", 
+        "email_addr_list": [
+            "pan@ustc.edu"
+        ], 
+        "cite_url": "quantum.ustc.edu.cn/member/homepage.php?uid=16", 
+        "cite_name": "", 
+        "title": "PAN, Jian-Weis Homepage"
+    }, 
+    {
+        "content": "email: markkahn@mail.med.upenn.edu ... top row from left: patricia mericko-ishizuka, mei chen, zoltan jakus, stephanie chia, david enis, paul hess, wei pan.", 
+        "email_addr_list": [
+            "markkahn@mail.med.upenn.edu"
+        ], 
+        "cite_url": "www.med.upenn.edu/kahnlab/", 
+        "cite_name": "Perelman School of Medicine", 
+        "title": "Kahn Lab || University of Pennsylvania || School of Medicine"
+    }, 
+    {
+        "content": "e-mail: dra@bcm.tmc.edu. hospital affiliation: texas childrens ... 832-355-2666; fax 832-355-6500 e-mail: janton@texasheart.org .... wei pan, md director, cv...", 
+        "email_addr_list": [
+            "dra@bcm.tmc.edu", 
+            "janton@texasheart.org"
+        ], 
+        "cite_url": "www.texasheart.org/AboutUs/.../cv_anest.cfm", 
+        "cite_name": "The Texas Heart Institute", 
+        "title": "Cardiovascular Anesthesiology - Texas Heart Institute"
+    }
+]

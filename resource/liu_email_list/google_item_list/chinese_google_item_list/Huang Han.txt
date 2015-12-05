@@ -1,0 +1,30 @@
+[
+    {
+        "content": "huang han lee. office: 97386112. email: leehuanghan@yahoo.com.sg ... federation singapore email: queries@icfsingapore.org | powered by axon consulting.", 
+        "email_addr_list": [
+            "leehuanghan@yahoo.com.sg", 
+            "queries@icfsingapore.org"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Members - Huang Han Lee - ICF Singapore"
+    }, 
+    {
+        "content": "sep 9, 2015 - professor han huang (program leader) email: han.huang@uq.edu.au. click here for a full list of staff and contact details.", 
+        "email_addr_list": [
+            "han.huang@uq.edu.au"
+        ], 
+        "cite_url": "www.mechmining.uq.edu.au/nanomechanics-a...", 
+        "cite_name": "University of Queensland", 
+        "title": "Nanomechanics and Nanomanufacturing - School of ..."
+    }, 
+    {
+        "content": "you are here: home / sites / johns hopkins university / huang, han-yao. info ... name: han-yao huang (ph.d.) telephone ... email: mailto:hyhuang@jhsph.edu...", 
+        "email_addr_list": [
+            "hyhuang@jhsph.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Huang, Han-Yao — EDRN Public Portal"
+    }
+]

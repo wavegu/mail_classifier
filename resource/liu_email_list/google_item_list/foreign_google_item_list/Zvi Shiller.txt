@@ -1,0 +1,11 @@
+[
+    {
+        "content": "zvi shiller. prof. moshe shoham. assist. prof. amir degani. general chair. chair, steering ... zvi shiller, ariel university. steering ... email: maya@ravinsky.co.il...", 
+        "email_addr_list": [
+            "maya@ravinsky.co.il"
+        ], 
+        "cite_url": "itrade.gov.il/colombia/files/2013/07/icr2013_prospectus.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]sponsorship"
+    }
+]

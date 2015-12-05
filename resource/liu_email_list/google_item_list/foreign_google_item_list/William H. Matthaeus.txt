@@ -1,0 +1,56 @@
+[
+    {
+        "content": "(302) 831-2780. email: yswhm@bartol.udel.edu. website: personal website ... s. chen, h. chen, d. martnez, and w. matthaeus, lattice boltzmann model for...", 
+        "email_addr_list": [
+            "yswhm@bartol.udel.edu"
+        ], 
+        "cite_url": "web.physics.udel.edu/about/directory/faculty/william-matthaeus", 
+        "cite_name": "", 
+        "title": "William Matthaeus - University of Delaware Dept. of Physics ..."
+    }, 
+    {
+        "content": "nov 13, 1996 - william h. matthaeus ... email: yswhm@bartol.udel.edu (internet) ... ms in physics 1977, college of william and mary, williamsburg, va.", 
+        "email_addr_list": [
+            "yswhm@bartol.udel.edu"
+        ], 
+        "cite_url": "www.bartol.udel.edu/~yswhm/", 
+        "cite_name": "", 
+        "title": "William H. Matthaeus, Bartol Research Institute Home Page"
+    }, 
+    {
+        "content": "william h. matthaeus. professor of physics ... verified email at udel.edu. scholar. get my own ... s chen, h chen, d martnez, w matthaeus. physical review...", 
+        "email_addr_list": [
+            "email@udel.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=JCPQhvgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "William H. Matthaeus - Google Scholar Citations"
+    }, 
+    {
+        "content": "william h. matthaeus. address: department of physics and astronomy, university of. delaware, newark de 19716, (tele: (302)-831-2780, whm@udel.edu).", 
+        "email_addr_list": [
+            "whm@udel.edu"
+        ], 
+        "cite_url": "astro.df.uba.ar/matthaeus/cv_matthaeus.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]William H. Matthaeus. Address: Department of Physics and ..."
+    }, 
+    {
+        "content": "university of delaware phone: (302) 831-4084. fax: (302) 831-6654. email: tracyd@udel.edu. web: http://www.udel.edu/geography. dr. william h. matthaeus", 
+        "email_addr_list": [
+            "tracyd@udel.edu"
+        ], 
+        "cite_url": "delspace.org/about-the-consortium/associate-directors.html", 
+        "cite_name": "", 
+        "title": "Delaware Space Grant Consortium - Associate Directors"
+    }, 
+    {
+        "content": "verified email at udel.edu. scholar ... college of william and mary in virginia., 1982. 629, 1982 ... s chen, h chen, d martnez, w matthaeus. physical review...", 
+        "email_addr_list": [
+            "email@udel.edu"
+        ], 
+        "cite_url": "0-scholar.google.com.brum.beds.ac.uk/citations?user...hl=en", 
+        "cite_name": "", 
+        "title": "William H. Matthaeus - Google Scholar Citations"
+    }
+]

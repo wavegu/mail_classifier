@@ -1,0 +1,29 @@
+[
+    {
+        "content": "school of computer science, e-mail: zbigniew.michalewicz@adelaide.edu.au. university of adelaide, office: ingkarni wardli, level 4, room 4.23,. adelaide, sa...", 
+        "email_addr_list": [
+            "zbigniew.michalewicz@adelaide.edu.au"
+        ], 
+        "cite_url": "https://cs.adelaide.edu.au/~zbyszek/", 
+        "cite_name": "University of Adelaide", 
+        "title": "Dr. Zbigniew Michalewicz - School of Computer Science"
+    }, 
+    {
+        "content": "position, professor. email, zbyszek@cs.adelaide.edu.au. fax, +61 8 8313 4366 ... the following url: http://www.adelaide.edu.au/directory/zbigniew.michalewicz.", 
+        "email_addr_list": [
+            "zbyszek@cs.adelaide.edu.au"
+        ], 
+        "cite_url": "www.adelaide.edu.au/.../zbigniew.michalewicz", 
+        "cite_name": "University of Adelaide", 
+        "title": "Professor Zbigniew Michalewicz | The University of Adelaide ..."
+    }, 
+    {
+        "content": "university of adelaide. adelaide, sa 5005. australia. phone: +61 8 8313 4130. fax: +61 8 8313 4366. email: zbigniew.michalewicz@adelaide.edu.au...", 
+        "email_addr_list": [
+            "zbigniew.michalewicz@adelaide.edu.au"
+        ], 
+        "cite_url": "https://cs.adelaide.edu.au/~zbyszek/resume.html", 
+        "cite_name": "University of Adelaide", 
+        "title": "Michalewiczs Resume - School of Computer Science"
+    }
+]

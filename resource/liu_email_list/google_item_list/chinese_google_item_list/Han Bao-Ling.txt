@@ -1,0 +1,50 @@
+[
+    {
+        "content": "nov 2, 2015 - han yong may (韩咏梅) digital editor, cmg cum associate editor, zb. office: (65) 6319 1979. email: hanym@sph.com.sg. chee li foong", 
+        "email_addr_list": [
+            "hanym@sph.com.sg"
+        ], 
+        "cite_url": "www.sph.com.sg/contact-us/.../media-contacts/", 
+        "cite_name": "Singapore Press Holdings", 
+        "title": "Media Contacts - Singapore Press Holdings"
+    }, 
+    {
+        "content": "dr. zhigang han. geometry, topology ... zhigang.han@millersville.edu ... baoling.ma@millersville.edu. office: wickersham 207-c phone: (717) 871-4263...", 
+        "email_addr_list": [
+            "zhigang.han@millersville.edu", 
+            "baoling.ma@millersville.edu"
+        ], 
+        "cite_url": "www.millersville.edu/math/faculty/", 
+        "cite_name": "Millersville University of Pennsylvania", 
+        "title": "Millersville University - Faculty  Staff"
+    }, 
+    {
+        "content": "post, name, did, email. chief prosecutor, ms ... state counsel/dpp, ma hanfeng, 69089209, ma_hanfeng@agc.gov.sg. state counsel/ ... state counsel/dpp, ms goh yi ling, 69089065, goh_yi_ling@agc.gov.sg. assistant ..... state counsel/dpp, ms rachel ng bao ling, 69089171, rachel_ng@agc.gov.sg. state counsel...", 
+        "email_addr_list": [
+            "ma_hanfeng@agc.gov.sg", 
+            "goh_yi_ling@agc.gov.sg", 
+            "rachel_ng@agc.gov.sg"
+        ], 
+        "cite_url": "app.sgdi.gov.sg/listing_expand....", 
+        "cite_name": "List of Singapore Government Ministries", 
+        "title": "Gov.sg - Singapore Government Directory"
+    }, 
+    {
+        "content": "email: loulin.huang@aut.ac.nz. baoling han. school of mechanical and vehicular engineering,. beijing institute of technology,. beijing city 100081, china.", 
+        "email_addr_list": [
+            "loulin.huang@aut.ac.nz"
+        ], 
+        "cite_url": "www.inderscienceonline.com/doi/pdf/10.1504/IJCAT.2015.068398", 
+        "cite_name": "", 
+        "title": "PDF (2745 KB) - Inderscience Online"
+    }, 
+    {
+        "content": "email: infocentrechina@international.gc.ca. mr. christopher maclean ... ms. helen bao trade commissioner forestry ... ms. houling (lene) jie ... ms. ying han", 
+        "email_addr_list": [
+            "infocentrechina@international.gc.ca"
+        ], 
+        "cite_url": "www.tradecommissioner.gc.ca/eng/contact-our-team.jsp?oid=32", 
+        "cite_name": "", 
+        "title": "Contact Our Team - Beijing"
+    }
+]

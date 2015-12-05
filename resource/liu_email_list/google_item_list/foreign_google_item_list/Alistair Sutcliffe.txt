@@ -1,0 +1,11 @@
+[
+    {
+        "content": "email: alistair.sutcliffe@manchester.ac.uk ... alistair sutcliffe (ma cantab-natural sciences, phd wales) is professor of systems engineering, and director of the...", 
+        "email_addr_list": [
+            "alistair.sutcliffe@manchester.ac.uk"
+        ], 
+        "cite_url": "www.manchester.ac.uk/research/Alistair.sutcliffe/", 
+        "cite_name": "University of Manchester", 
+        "title": "Prof Alistair Sutcliffe research profile - personal details | The ..."
+    }
+]

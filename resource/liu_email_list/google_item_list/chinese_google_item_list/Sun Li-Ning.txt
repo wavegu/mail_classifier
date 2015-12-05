@@ -1,0 +1,11 @@
+[
+    {
+        "content": "email: boningli@ust.hk ... lin zhu, dandan liu, yaojun li, and ning li functional phosphoproteomic analysis reveals ... guo d , wong ws , xu wz , sun ff, qing dj and ning li (2011) cis-cinnamic acid-enhanced 1 gene plays a role in...", 
+        "email_addr_list": [
+            "boningli@ust.hk"
+        ], 
+        "cite_url": "life-sci.ust.hk/.../Prof....", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "Prof. Ning Li - Division of Life Science"
+    }
+]

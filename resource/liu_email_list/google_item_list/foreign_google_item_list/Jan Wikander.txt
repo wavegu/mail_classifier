@@ -1,0 +1,38 @@
+[
+    {
+        "content": "sep 14, 2012 - professor, mechatronics. phone: +46 8 790 73 70. mobile: +46 70 341 23 69. e-mail: jan@md.kth.se. visit address: brinellvägen 83...", 
+        "email_addr_list": [
+            "jan@md.kth.se"
+        ], 
+        "cite_url": "https://www.kth.se/.../jan-wikander-1.1820...", 
+        "cite_name": "Royal Institute of Technology", 
+        "title": "KTH | Jan Wikander"
+    }, 
+    {
+        "content": "jan wikander. skolchef, professor. arbetar vid: itm deans office; e-post: jan@md.kth.se; telefon: +46 8 790 73 70; adress: lindstedtsvÄgen 30...", 
+        "email_addr_list": [
+            "jan@md.kth.se"
+        ], 
+        "cite_url": "https://www.kth.se/.../jan...", 
+        "cite_name": "Royal Institute of Technology", 
+        "title": "KTH | Jan Wikander"
+    }, 
+    {
+        "content": "sep 21, 2015 - hello mrs. wikanders class! name: jan wikander. room number: 20. email address: jwikander@wcsd.k12.ca.us. phone number: (925)...", 
+        "email_addr_list": [
+            "jwikander@wcsd.k12.ca.us"
+        ], 
+        "cite_url": "www.walnutcreeksd.org/Domain/270", 
+        "cite_name": "Walnut Creek School District", 
+        "title": "Wikander, Jan / Mrs. Wikander - Walnut Creek School District"
+    }, 
+    {
+        "content": "b-year, 1945. sex, male. title, fide arbiter (2011). address, hornsgatan 84, se-11821. city, stockholm. tel. 070-6427632. email, xzpert@hotmail.com.", 
+        "email_addr_list": [
+            "xzpert@hotmail.com"
+        ], 
+        "cite_url": "https://ratings.fide.com/card.phtml?event=1720635", 
+        "cite_name": "FIDE", 
+        "title": "Wikander, Jan FIDE Chess Profile - Players Arbiters Trainers"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "content": "name：prof.qixin cao. title：. telephone：. email：qxcao@sjtu.edu.cn. website：. detail. copyright © 2010-2011 state key laboratory of mechanical system...", 
+        "email_addr_list": [
+            "qxcao@sjtu.edu.cn"
+        ], 
+        "cite_url": "msv.sjtu.edu.cn/English/Teacher/showDetail.aspx?pid=68", 
+        "cite_name": "", 
+        "title": "Detail"
+    }, 
+    {
+        "content": "email: qingxia@tsinghua.edu.cn .... qixin chen, chongqing kang, qing xia, jin zhong. .... cao yufeng, chen qixin, xia qing, li jianshe, hu yang.", 
+        "email_addr_list": [
+            "qingxia@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201012161109278697265...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Department of Electrical Engineering,Tsinghua"
+    }, 
+    {
+        "content": "email： zhanglei@sjtu.edu.cn. education. 2002-2006 ... [2] zhang lei, cao qixin, a novel ant-based clustering algorithm based on kernel method. information...", 
+        "email_addr_list": [
+            "zhanglei@sjtu.edu.cn"
+        ], 
+        "cite_url": "www.imscenter.net/Members/visitors/CV-zhanglei.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Dr. Lei Zhang"
+    }, 
+    {
+        "content": "... materials science and engineering. wei cao email: wc2476@columbia.edu. advisor: william bailey research interests: materials science and engineering...", 
+        "email_addr_list": [
+            "wc2476@columbia.edu"
+        ], 
+        "cite_url": "apam.columbia.edu/materials-science-engineering-g...", 
+        "cite_name": "Columbia University", 
+        "title": "Materials Science  Engineering Graduate Students ..."
+    }, 
+    {
+        "content": "sep 18, 2015 - name: wang qixin. email: csqwang@comp.polyu.edu.hk phone: ... [tpds14] tao li, feng tan, qixin wang, lei bu, jian-nong cao, xue liu,...", 
+        "email_addr_list": [
+            "csqwang@comp.polyu.edu.hk"
+        ], 
+        "cite_url": "www4.comp.polyu.edu.hk/.../CV_Qi...", 
+        "cite_name": "Hong Kong Polytechnic University", 
+        "title": "[PDF]Curriculum Vitae (PDF) - PolyU"
+    }, 
+    {
+        "content": "email: csjcao@comp.polyu.edu.hk ..... 9(1): 5 (march 2014); tao li, feng tan, qixin wang, lei bu, jiannong cao, xue liu, “from offline toward real-time: a...", 
+        "email_addr_list": [
+            "csjcao@comp.polyu.edu.hk"
+        ], 
+        "cite_url": "www4.comp.polyu.edu.hk/~csjcao/pu...", 
+        "cite_name": "Hong Kong Polytechnic University", 
+        "title": "Jiannong Cao at Hong Kong PolyU - my First Home Page"
+    }, 
+    {
+        "content": "email: meng.cao@colostate.edu. program: ms/ph.d. xin chen room number: 007. email: xin.chen@colostate.edu. program: ms/ph.d. jiarui chi", 
+        "email_addr_list": [
+            "meng.cao@colostate.edu", 
+            "xin.chen@colostate.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Colorado State University", 
+        "title": "Statistics Graduate Students - Colorado State University"
+    }
+]

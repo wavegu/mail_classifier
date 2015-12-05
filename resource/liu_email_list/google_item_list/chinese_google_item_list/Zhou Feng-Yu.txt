@@ -1,0 +1,11 @@
+[
+    {
+        "content": "dr. feng zhou is a full professor in lanzhou institute of chemical physics, cas and deputy director of state ... email: zhouf@lzb.ac.cn ... ·bin li, bo yu, wilhelm ts huck, feng zhou*, weimin liu, electrochemically induced surface-initiated...", 
+        "email_addr_list": [
+            "zhouf@lzb.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Zhou Feng----Lanzhou Institute of Chemical Physics ..."
+    }
+]

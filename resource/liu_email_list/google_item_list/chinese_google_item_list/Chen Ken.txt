@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email: chen@uncc.edu. office: woodward 403c phone: 704 687-8545. fax: 704 687-3516. web: http://www.cs.uncc.edu/~chen/ mailing address: department of...", 
+        "email_addr_list": [
+            "chen@uncc.edu"
+        ], 
+        "cite_url": "coitweb.uncc.edu/~chen/", 
+        "cite_name": "University of North Carolina at Charlotte", 
+        "title": "Ken Chen - Department of Software and Information Systems"
+    }, 
+    {
+        "content": "dr. ken chen. dr. ken chen. regular member. the university of texas ... email: kchen3@mdanderson.org. office: mda fct4.6094 (unit 1410). titles: assistant...", 
+        "email_addr_list": [
+            "kchen3@mdanderson.org"
+        ], 
+        "cite_url": "https://gsbs.uth.edu/faculty/faculty-directory/faculty-profiles.htm?id...", 
+        "cite_name": "", 
+        "title": "Dr. Ken Chen - Faculty Directory - The Graduate School of ..."
+    }, 
+    {
+        "content": "ken cheng; professor; department of biological sciences; macquarie university ... phone: 612 9850-8613; fax: 612 9850-9231: email: ken.cheng@mq.edu.au.", 
+        "email_addr_list": [
+            "ken.cheng@mq.edu.au"
+        ], 
+        "cite_url": "bio.mq.edu.au/research/groups/cheng_lab/", 
+        "cite_name": "Macquarie University", 
+        "title": "Ken Cheng - Studies in Animal Behaviour"
+    }
+]

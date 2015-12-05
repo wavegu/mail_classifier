@@ -1,0 +1,29 @@
+[
+    {
+        "content": "ca vignal 2, room 1-56, tel: +39 045 8027963 paolo.fiorini@univr.it. office hours. appointment by e-mail. assistant. nobody. paolo fiorini. professor. affiliations.", 
+        "email_addr_list": [
+            "paolo.fiorini@univr.it"
+        ], 
+        "cite_url": "profs.sci.univr.it/~fiorini/", 
+        "cite_name": "University of Verona", 
+        "title": "Paolo Fiorini -- University of Verona"
+    }, 
+    {
+        "content": "name: paolo fiorini. position: doctoral (phd) research. room no.: 220. tel: +353 1 716 1729 / 1881. fax: + 353 1 283 0534. e-mail: paolo.fiorini@ucd.ie.", 
+        "email_addr_list": [
+            "paolo.fiorini@ucd.ie"
+        ], 
+        "cite_url": "www.ucd.ie/mecheng/ams/.../paolo_fiorini.htm...", 
+        "cite_name": "University College Dublin", 
+        "title": "Manufacturing Processes, UCD : People, Paolo Fiorini"
+    }, 
+    {
+        "content": "m.c. fiazza and paolo fiorini. department of computer science. university of verona, italy. email: camilla.fiazza@metropolis.sci.univr.it and paolo.fiorini@univr.", 
+        "email_addr_list": [
+            "camilla.fiazza@metropolis.sci.univr.it"
+        ], 
+        "cite_url": "www.robotic.dlr.de/.../paolo_master.pdf", 
+        "cite_name": "German Aerospace Center", 
+        "title": "[PDF]Contact Details: M.C. Fiazza and Paolo Fiorini Department ..."
+    }
+]

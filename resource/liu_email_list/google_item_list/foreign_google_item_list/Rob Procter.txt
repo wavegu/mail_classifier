@@ -1,0 +1,48 @@
+[
+    {
+        "content": "rob.procter@warwick.ac.uk. room 207. department of computer science university .... e-mail: comp-sci@dcs.warwick.ac.uk, telephone: +44 (0)24 7652 3193.", 
+        "email_addr_list": [
+            "rob.procter@warwick.ac.uk", 
+            "comp-sci@dcs.warwick.ac.uk"
+        ], 
+        "cite_url": "https://www2.warwick.ac.uk/fac/sci/.../rob_procter...", 
+        "cite_name": "University of Warwick", 
+        "title": "Rob Procter - University of Warwick"
+    }, 
+    {
+        "content": "feb 15, 2013 - rob procter joins the department as a new professor. rob procter ... e-mail: comp-sci at dcs dot warwick dot ac dot uk, telephone: +44 (0)24...", 
+        "email_addr_list": [
+            "comp-sci@dcs.warwick.ac.uk"
+        ], 
+        "cite_url": "www2.warwick.ac.uk/fac/sci/dcs/news/?...", 
+        "cite_name": "University of Warwick", 
+        "title": "Rob Procter joins the Department as a new Professor - News"
+    }, 
+    {
+        "content": "position: uoe honorary staff; email address. rob.procter, @, warwick.ac.uk ... +44 131 651 5661, fax: +44 131 651 1426, e-mail: school-office@inf.ed.ac.uk", 
+        "email_addr_list": [
+            "school-office@inf.ed.ac.uk"
+        ], 
+        "cite_url": "www.issti.ed.ac....", 
+        "cite_name": "Institute for the Study of Science, Technology and Inn...", 
+        "title": "Rob Procter - ISSTI - University of Edinburgh"
+    }, 
+    {
+        "content": "search. attorneys  attorney robert c. procter ... email: mamlie@axley.com ... robert procter is a partner at the firm practicing dealer/franchise law and real...", 
+        "email_addr_list": [
+            "mamlie@axley.com"
+        ], 
+        "cite_url": "www.axley.com/attorney/robert-procter/", 
+        "cite_name": "Axley Brynelson, LLP", 
+        "title": "Attorney Robert C. Procter | Axley Brynelson, LLP ..."
+    }, 
+    {
+        "content": "web site: http://www.hanpark. net; email: hanpark@ynu.ac.kr rob procter is professor and research director ofthe u.k. national centre for e-social science...", 
+        "email_addr_list": [
+            "hanpark@ynu.ac.kr"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=1135855072", 
+        "cite_name": "", 
+        "title": "E-Research: Transformation in Scholarly Practice"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: yjin.sufe@gmail.com; ... dr. yu jin received his ph.d. in 2012 from iowa state university. he joined the school of ... with zhao chen, yu jin, and ming lu.", 
+        "email_addr_list": [
+            "yjin.sufe@gmail.com"
+        ], 
+        "cite_url": "econ.shufe.edu.cn/iar/yjy_con/363", 
+        "cite_name": "", 
+        "title": "Yu JIN"
+    }, 
+    {
+        "content": "email：, mljin@dlut.edu.cn. update：, 2013-3-26. experience. minglu jin is a professor in the school of information  communication engineering at dalian...", 
+        "email_addr_list": [
+            "mljin@dlut.edu.cn"
+        ], 
+        "cite_url": "gs1.dlut.edu.cn/.../Default_English.aspx...", 
+        "cite_name": "Dalian University of Technology", 
+        "title": "信号与信息处理 - 大连理工大学研究生院-导师信息"
+    }, 
+    {
+        "content": "email: zhaochen@fudan.edu.cn. fudan university ... liu and ming lu,) china agricultural economic review, forthcoming. 2012 ... 2008, “economic opening and industrial agglomeration in china,” (with yu jin and ming lu) in m. fujita, s.", 
+        "email_addr_list": [
+            "zhaochen@fudan.edu.cn"
+        ], 
+        "cite_url": "www.s4.brown.edu/.../UpLoadFile%5CCVENzhaochen...", 
+        "cite_name": "Brown University", 
+        "title": "[PDF]Curriculum Vitae Zhao CHEN China Center for Economic ..."
+    }, 
+    {
+        "content": "yu jin: current contact information and listing of economic research of this author ... email: yjin.sufe@gmail.com ... zhao chen  yu jin  ming lu, 2005.", 
+        "email_addr_list": [
+            "yjin.sufe@gmail.com"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pji76.html", 
+        "cite_name": "", 
+        "title": "Yu Jin at IDEAS"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "content": "keiji nagatani, yoshito okada, seiga kiribayashi, kazuki otake, kazuya yoshida, ... e-mail: keiji@astro.mech.tohoku.ac.jp, okada@astro.mech.tohoku.ac.jp,...", 
+        "email_addr_list": [
+            "keiji@astro.mech.tohoku.ac.jp", 
+            "okada@astro.mech.tohoku.ac.jp"
+        ], 
+        "cite_url": "www.kumarrobotics.org/wp-content/.../07/NSF_RAPID_JFR2012.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Collaborative Mapping of an Earthquake-Damaged Building ..."
+    }, 
+    {
+        "content": "create alert. cancel. keiji nagatani ... verified email at ieee.org. scholar ... k nagatani, s kiribayashi, y okada, k otake, k yoshida, s tadokoro, ... journal of...", 
+        "email_addr_list": [
+            "email@ieee.org"
+        ], 
+        "cite_url": "0-scholar.google.com.brum.beds.ac.uk/citations?user...hl=en", 
+        "cite_name": "", 
+        "title": "Keiji Nagatani - Google Scholar Citations"
+    }, 
+    {
+        "content": "keiji nagatani, ken akiyama, genki yamauchi,. hikaru otsuka ... email: had@cc.kogakuin.ac.jp. shinichi yuta ... tokyo, japan. email: yuta.shinichi@gmail.com.", 
+        "email_addr_list": [
+            "had@cc.kogakuin.ac.jp", 
+            "yuta.shinichi@gmail.com"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Volcanic Ash Observation in Active Volcano Areas using ..."
+    }
+]

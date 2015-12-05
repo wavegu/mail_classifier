@@ -1,0 +1,20 @@
+[
+    {
+        "content": "account information. e-mail: jmano@dep.uminho.pt. profile. name: joão f. mano. birth: 1968-03-20. nacionality: portugal. position: academic  research...", 
+        "email_addr_list": [
+            "jmano@dep.uminho.pt"
+        ], 
+        "cite_url": "www.3bs.uminho.pt/users/jfmano", 
+        "cite_name": "University of Minho", 
+        "title": "João F. Mano | 3Bs Research Group in Biomaterials ..."
+    }, 
+    {
+        "content": "associate professor, dept. of polymer engineering. jmano@dep.uminho.ptthis e-mail address is being protected from spambots. you need javascript enabled...", 
+        "email_addr_list": [
+            "jmano@dep.uminho.ptthis"
+        ], 
+        "cite_url": "www.mitportugal.org/bioengineering-minho-faculty/joao-f-mano.html", 
+        "cite_name": "", 
+        "title": "João F. Mano | Bioengineering Minho Faculty - MIT Portugal ..."
+    }
+]

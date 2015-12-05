@@ -1,0 +1,31 @@
+[
+    {
+        "content": "professor maria fox. maria-fox-new. telephone: +44 020 7848 1579. email: maria.fox@kcl.ac.uk. office: s6.29, strand building, strand campus. research...", 
+        "email_addr_list": [
+            "maria.fox@kcl.ac.uk"
+        ], 
+        "cite_url": "www.kcl.ac.uk/nms/depts/informatics/.../foxm.asp...", 
+        "cite_name": "King's College London", 
+        "title": "Kings College London - Professor Maria Fox"
+    }, 
+    {
+        "content": "please contact me or derek long at maria.fox/derek.long at kcl.ac.uk. items of interest ... maria fox is professor of computer science in the department of informatics at kings college london. previously she held ... email: maria.fox at kcl.ac.uk", 
+        "email_addr_list": [
+            "long@maria.fox", 
+            "derek.long@kcl.ac.uk", 
+            "maria.fox@kcl.ac.uk"
+        ], 
+        "cite_url": "www.inf.kcl.ac.uk/staff/maria/", 
+        "cite_name": "King's College London", 
+        "title": "Maria Fox - Department of Informatics - Kings College London"
+    }, 
+    {
+        "content": "maria fox. graduate student. user photo ... of anthropology 607 s mathews ave. m/c 148. urbana, il 61801; email: mfox9@illinois.edu; cv: download my c.v....", 
+        "email_addr_list": [
+            "mfox9@illinois.edu"
+        ], 
+        "cite_url": "www.anthro.illinois.edu/.../m...", 
+        "cite_name": "University of Illinois at Urbana–Champaign", 
+        "title": "Maria Fox | Department of Anthropology, University of Illinois"
+    }
+]

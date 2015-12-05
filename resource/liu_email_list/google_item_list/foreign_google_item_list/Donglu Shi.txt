@@ -1,0 +1,47 @@
+[
+    {
+        "content": "email:gregory.beaucage@uc. ... email: buchanrc@ucmail.uc.edu. homepage: ... shi, donglu, professor, phd, university of massachusetts amherst chair, the...", 
+        "email_addr_list": [
+            "buchanrc@ucmail.uc.edu"
+        ], 
+        "cite_url": "www.min.uc.edu/me/mse/mse-faculty", 
+        "cite_name": "University of Cincinnati", 
+        "title": "Materials Science  Engineering Graduate Program ..."
+    }, 
+    {
+        "content": "tongji university school of medicine tongji university, 67 chifeng road, shanghai, 200092, china tel: +86-021-65988029 email: inano@tongji.edu.cn", 
+        "email_addr_list": [
+            "inano@tongji.edu.cn"
+        ], 
+        "cite_url": "inano.tongji.edu.cn/html/people.html", 
+        "cite_name": "", 
+        "title": "The Institute for Advanced Materials  Nano ... - iNANO"
+    }, 
+    {
+        "content": "harvard / boston, ma 02139, usa email: ireis@sbi.org. professor donglu shi department of chemical and materials engineering university of cincinnati", 
+        "email_addr_list": [
+            "ireis@sbi.org"
+        ], 
+        "cite_url": "", 
+        "cite_name": "World Scientific", 
+        "title": "Frontiers in Nanobiomedical Research (World Scientific)"
+    }, 
+    {
+        "content": "email: xwen@vcu.edu ... peng zhao, xuejun wen, zhihao bao and donglu shi; improving colloidal properties of quantum dots with combined silica and polymer...", 
+        "email_addr_list": [
+            "xwen@vcu.edu"
+        ], 
+        "cite_url": "chemical.egr.vcu.edu/faculty/xuejun-wen/", 
+        "cite_name": "VCU School of Engineering", 
+        "title": "Xuejun Wen | VCU Chemical and Life Science Engineering"
+    }, 
+    {
+        "content": "jan 19, 2005 - a) author to whom correspondence should be addressed; electronic mail: donglu.shi@uc.edu. appl. phys. lett. 86, 043107 (mon jan 24...", 
+        "email_addr_list": [
+            "donglu.shi@uc.edu"
+        ], 
+        "cite_url": "scitation.aip.org/content/aip/.../1.1846957", 
+        "cite_name": "American Institute of Physics", 
+        "title": "Plasma deposition of thin carbonfluorine films on aligned ..."
+    }
+]

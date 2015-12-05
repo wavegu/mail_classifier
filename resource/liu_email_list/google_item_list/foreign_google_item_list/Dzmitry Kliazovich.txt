@@ -1,0 +1,38 @@
+[
+    {
+        "content": "oct 14, 2015 - 6, rue richard coudenhove-kalergi l-1359 luxembourg. campus office, f 111. email. dzmitry.kliazovich@uni.lu. telephone, (+352) 46 66 44...", 
+        "email_addr_list": [
+            "dzmitry.kliazovich@uni.lu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Luxembourg", 
+        "title": "University of Luxembourg - Dzmitry Kliazovich"
+    }, 
+    {
+        "content": "dzmitry kliazovich. research fellow ... verified email at uni.lu - homepage  scholar. get my own profile ... d kliazovich, st arzo, f granelli, p bouvry, su khan.", 
+        "email_addr_list": [
+            "email@uni.lu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=zkA61soAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Dzmitry Kliazovich - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: cveri@cttc.es. vice-chair: dzmitry kliazovich university of luxembourg 6, rue richard coudenhove-kalergi l-1359 luxembourg phone: +352 46 6644...", 
+        "email_addr_list": [
+            "cveri@cttc.es"
+        ], 
+        "cite_url": "cms.comsoc.org/eprise/main/SiteGen/TC_CSIM/.../CSIM_Officers.html", 
+        "cite_name": "", 
+        "title": "CSIM Officers - IEEE Communications Society"
+    }, 
+    {
+        "content": "dzmitry kliazovich. university of luxembourg ... dzmitry kliazovich (dzmitry.kliazovich@uni.lu). cloud computing .... generate list of email messages. 6.", 
+        "email_addr_list": [
+            "dzmitry.kliazovich@uni.lu"
+        ], 
+        "cite_url": "perso.ens-lyon.fr/laurent.../greendayslille_Dzmitry_Kliazovich.pptx.gz", 
+        "cite_name": "", 
+        "title": "[PPT]7"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "phone: +852 34427136. fax: +852 34420349. e-mail: yyguan@cityu.edu.hk ... $197,025 (2010-2011) , dr zhi hong chen, dr yuyan guan and prof ke bin...", 
+        "email_addr_list": [
+            "yyguan@cityu.edu.hk"
+        ], 
+        "cite_url": "https://www.cb.cityu.edu.hk/staff/yyguan", 
+        "cite_name": "City University of Hong Kong", 
+        "title": "Dr. GUAN Yuyan (官玉燕博士) | City University of Hong Kong"
+    }, 
+    {
+        "content": "email: aczh@ust.hk ... chen, zhihong, yuyan guan, and bin ke, “are stock option grants to directors of state-controlled chinese firms listed in hong kong...", 
+        "email_addr_list": [
+            "aczh@ust.hk"
+        ], 
+        "cite_url": "www.bm.ust.hk/acct/staff/aczh.html", 
+        "cite_name": "HKUST Business School", 
+        "title": "Zhihong Chen"
+    }, 
+    {
+        "content": "email: floralj@znufe.edu.cn. juan li ... [2] juan li, zhi-hong guan, rui-quan liao, ding-xue zhang. ... [4] juan li, zhi-hong guan, yan-wu wang, jingwen yi.", 
+        "email_addr_list": [
+            "floralj@znufe.edu.cn"
+        ], 
+        "cite_url": "infoschool.znufe.edu.cn/English/content.asp?id=98", 
+        "cite_name": "", 
+        "title": "Juan Li - Faculty AZ-School of Statistics and Mathematics"
+    }
+]

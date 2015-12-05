@@ -1,0 +1,38 @@
+[
+    {
+        "content": "phone: +86 571 8795 2034. fax: +86 571 8795 1616. email: kfcen@zju.edu.cn. office: institute for thermal power engineering...", 
+        "email_addr_list": [
+            "kfcen@zju.edu.cn"
+        ], 
+        "cite_url": "www.fe.zju.edu.cn/english/redir.php?catalog_id=6583object_id...", 
+        "cite_name": "", 
+        "title": "Cen Kefa - Faculty of Engineering Zhejiang University"
+    }, 
+    {
+        "content": "kefa cen, professor, ph.d. academician ... email: kfcen@zju.edu.cn .... 《theory and technology of gas-solid separation》, kefa cen, mingjiang ni, jianghua...", 
+        "email_addr_list": [
+            "kfcen@zju.edu.cn"
+        ], 
+        "cite_url": "mypage.zju.edu.cn/en/cenkefa", 
+        "cite_name": "Zhejiang University", 
+        "title": "kefa cen"
+    }, 
+    {
+        "content": "email: qhwang@zju.edu.cn. office ... [1] luo zhongyang, wang qinhui, fang mengxiang, cen kefa. ... [9] wang qinhui, luo zhongyang, ni mingjiang, cen kefa.", 
+        "email_addr_list": [
+            "qhwang@zju.edu.cn"
+        ], 
+        "cite_url": "www.fe.zju.edu.cn/english/redir.php?catalog_id=6583object_id...", 
+        "cite_name": "", 
+        "title": "Wang Qinhui - Faculty of Engineering Zhejiang University"
+    }, 
+    {
+        "content": "email: mxfang@zju.edu.cn. office: room 409, institute for thermal ... 13 shuiping yan, mengxiang fang, zhongyang luo, kefa cen. regeneration of co2 from...", 
+        "email_addr_list": [
+            "mxfang@zju.edu.cn"
+        ], 
+        "cite_url": "www.fe.zju.edu.cn/english/redir.php?catalog_id=6583object_id...", 
+        "cite_name": "", 
+        "title": "Fang Mengxiang - Faculty of Engineering Zhejiang University"
+    }
+]

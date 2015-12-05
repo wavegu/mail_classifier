@@ -1,0 +1,67 @@
+[
+    {
+        "content": "email: xiaotaow@gmail.com, xwu@avaya.com. phone: +1 ... advisor: dr. zengqi sun .... xiaotao wu, zhuang jun, sun zengqi, zhang zhenmin, design and...", 
+        "email_addr_list": [
+            "xiaotaow@gmail.com", 
+            "xwu@avaya.com"
+        ], 
+        "cite_url": "www.cs.columbia.edu/~xiaotaow/main/cv.pdf", 
+        "cite_name": "Columbia University", 
+        "title": "[PDF]Xiaotao Wu (PDF version) - Department of Computer ..."
+    }, 
+    {
+        "content": "fuchun sun; professor; department of computer science and technology; joined department: 1998; email:fcsun@tsinghua.edu.cn; url:http://www.cs.tsinghua.edu.cn/web/workersdetail.aspx? ... [1] fuchun sun, zengqi sun, bo zhang.", 
+        "email_addr_list": [
+            "fcsun@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201012241930394403698...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Fuchun SUN"
+    }, 
+    {
+        "content": "telephone: (968) 95209194; fax: (968) 24141316; email: amery@squ.edu.om .... [j1] feng, shuai , al yahmadi amur, s. and sun, zengqi, biped walking on...", 
+        "email_addr_list": [
+            "amery@squ.edu.om"
+        ], 
+        "cite_url": "https://www.squ.edu.om/.../MIE_AmurAlyahm...", 
+        "cite_name": "Sultan Qaboos University", 
+        "title": "[PDF]Download CV - Sultan Qaboos University"
+    }, 
+    {
+        "content": "view sun zengqis business profile and see work history, affiliations and more. ... road, 100862 beijing +86 10 58 88 16 81 email: sunzq@mail.most.gov.cn.", 
+        "email_addr_list": [
+            "sunzq@mail.most.gov.cn"
+        ], 
+        "cite_url": "www.zoominfo.com/p/Sun-Zengqi/946220961", 
+        "cite_name": "", 
+        "title": "Sun Zengqi | Department of Facilities and Financial Support ..."
+    }, 
+    {
+        "content": "mar 1, 2015 - mar 1, sun. n/tce users will need re-training, email microscopy@adelaide.edu.au. mar 2, mon ... zeng qi and kerrie davies. mar 11, wed.", 
+        "email_addr_list": [
+            "microscopy@adelaide.edu.au"
+        ], 
+        "cite_url": "https://calcium.adelaide.edu.au/.../calcium.pl?...", 
+        "cite_name": "University of Adelaide", 
+        "title": "Calcium - Philips XL20 SEM w EDAX EDS"
+    }, 
+    {
+        "content": "guo lei huang ru qin yuwen sun zengqi you xiaohu zhao qinping zhao wei ... email: richarldu@voxeasy.com， richarldu@gmail.com. home page：", 
+        "email_addr_list": [
+            "richarldu@voxeasy.com", 
+            "richarldu@gmail.com"
+        ], 
+        "cite_url": "info.scichina.com:8083/sciFe/EN/column/item162.shtml", 
+        "cite_name": "", 
+        "title": "2008-2012 Editorial Board - SCIENCE CHINA Information ..."
+    }, 
+    {
+        "content": "feng shuai1,2, al yahmadi amur s.3, sun zengqi1*. 1 state key ... 03 may 2013. corresponding authors: sun zengqi e-mail: szq-dcs@tsinghua.edu.cn...", 
+        "email_addr_list": [
+            "szq-dcs@tsinghua.edu.cn"
+        ], 
+        "cite_url": "info.scichina.com/sciFe/EN/abstract/abstract512672.shtml", 
+        "cite_name": "", 
+        "title": "Biped walking on level ground with torso using only one ..."
+    }
+]

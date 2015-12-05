@@ -1,0 +1,47 @@
+[
+    {
+        "content": "mechanical engineering 2325 engineering bldg ii, ucsb santa barbara, ca 93106-5070, usa, email: bullo at engineering.ucsb.edu. tel: +1 (805) 893.5169,...", 
+        "email_addr_list": [
+            "bullo@engineering.ucsb.edu"
+        ], 
+        "cite_url": "motion.me.ucsb.edu/", 
+        "cite_name": "", 
+        "title": "Francesco Bullos Home Page"
+    }, 
+    {
+        "content": "francesco bullo portrait. professor and chair ... email: bullo@engineering.ucsb.edu ... a. mirtabatabaei, p. jia, n. e. friedkin, and f. bullo. proceedings of the...", 
+        "email_addr_list": [
+            "bullo@engineering.ucsb.edu"
+        ], 
+        "cite_url": "https://www.icb.ucsb.edu/.../franc...", 
+        "cite_name": "University of California, Santa Barbara", 
+        "title": "Francesco Bullo | www.icb.ucsb.edu"
+    }, 
+    {
+        "content": "francesco bullo. co-pi, university of california, santa barbara. phone: 805-893.5169. email: bullo at engineering.ucsb.edu. office: 2325 engineering bldg ii.", 
+        "email_addr_list": [
+            "bullo@engineering.ucsb.edu"
+        ], 
+        "cite_url": "https://muriteams.cs.ucsb.edu/people/bullo", 
+        "cite_name": "", 
+        "title": "Francesco Bullo | MURI Network Science of Teams | UC ..."
+    }, 
+    {
+        "content": "francesco bullo. headshot photo. first name: francesco. last name: bullo. contact information. email: bullo@engineering.ucsb.edu. telephone:.", 
+        "email_addr_list": [
+            "bullo@engineering.ucsb.edu"
+        ], 
+        "cite_url": "www.ieeecss.org/contacts/francesco-bullo", 
+        "cite_name": "IEEE Control Systems Society", 
+        "title": "Francesco Bullo | IEEE Control Systems Society"
+    }, 
+    {
+        "content": "francesco bullo. professor of mechanical engineering, uc santa barbara. verified email at engineering.ucsb.edu. @engineering.ucsb.edu. cited by 12682.", 
+        "email_addr_list": [
+            "email@engineering.ucsb.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?view_op=search...", 
+        "cite_name": "Google Scholar", 
+        "title": "Google Scholar Citations"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "content": "welcome to xuemin (sherman) shens website. skip to the content ... xuemin (sherman) shen. professor and ... email: xshen@bbcr.uwaterloo.ca. homepage:...", 
+        "email_addr_list": [
+            "xshen@bbcr.uwaterloo.ca"
+        ], 
+        "cite_url": "bbcr.uwaterloo.ca/~xshen/", 
+        "cite_name": "University of Waterloo", 
+        "title": "(Sherman) Shen - BBCR Group - University of Waterloo"
+    }, 
+    {
+        "content": "contact information email: sshen@uwaterloo.ca phone: 519-888-4567 x32691 location: eit ... xuemin (sherman) shen electrical and computer engineering...", 
+        "email_addr_list": [
+            "sshen@uwaterloo.ca"
+        ], 
+        "cite_url": "https://uwaterloo.ca/.../xuemin-sherman-shen-fiee...", 
+        "cite_name": "University of Waterloo", 
+        "title": "Xuemin (Sherman) Shen, FIEEE, PEng | Electrical and ..."
+    }, 
+    {
+        "content": "welcome to xuemin (sherman) shens website. skip to the content of the web site. ... 32691. fax: +1 (519) 746-3077. email: xshen@bbcr.uwaterloo.ca.", 
+        "email_addr_list": [
+            "xshen@bbcr.uwaterloo.ca"
+        ], 
+        "cite_url": "bbcr.uwaterloo.ca/~xshen/publications.htm", 
+        "cite_name": "University of Waterloo", 
+        "title": "Publications - Welcome to Xuemin (Sherman) Shens Web Site"
+    }, 
+    {
+        "content": "xuemin shen. professor, university of ... verified email at bbcr.uwaterloo.ca - homepage  scholar ... r lu, x lin, h zhu, ph ho, x shen. infocom 2008.", 
+        "email_addr_list": [
+            "email@bbcr.uwaterloo.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Bjl3GwoAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Xuemin Shen - Google Scholar Citations"
+    }, 
+    {
+        "content": "... science and technology; joined department: 2009; email:yixin.tsinghua@gmail.com ... [3] peng zhang, yixin jiang, chuang lin, xuemin (sherman) shen.", 
+        "email_addr_list": [
+            "yixin.tsinghua@gmail.com"
+        ], 
+        "cite_url": "www.cs.tsinghua.edu.cn/.../csen/.../2010122400140...", 
+        "cite_name": "Tsinghua University", 
+        "title": "计算机科学与技术系 - Department of Computer Science and ..."
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "content": "contact info. title: director of applied physics graduate program. email: haimin.wang@njit.edu. office: 460 tiernan hall. phone: 973-596-5781. dept: physics.", 
+        "email_addr_list": [
+            "haimin.wang@njit.edu"
+        ], 
+        "cite_url": "physics.njit.edu/people/wang.php", 
+        "cite_name": "New Jersey Institute of Technology", 
+        "title": "NJIT: Physics: Haimin Wang"
+    }, 
+    {
+        "content": "haimin wang distinguished professor, physics, njit ... office: 460 tiernan hall phone: (973) 596-5781. email: haimin.wang@njit.edu...", 
+        "email_addr_list": [
+            "haimin.wang@njit.edu"
+        ], 
+        "cite_url": "solar.njit.edu/~haimin/", 
+        "cite_name": "", 
+        "title": "Haimin Wang - Center for Solar-Terrestrial Research"
+    }, 
+    {
+        "content": "dr. haimin wang, distinguished professor, physics. dr. dale e. gary, ... email: haimin.wang@njit.edu. www: http://solar.njit.edu/~haimin/. dr. dale e gary...", 
+        "email_addr_list": [
+            "haimin.wang@njit.edu"
+        ], 
+        "cite_url": "solar.njit.edu/people.htm", 
+        "cite_name": "", 
+        "title": "CSTR - People - Center for Solar-Terrestrial Research"
+    }, 
+    {
+        "content": "... luther king jr. blvd. newark, nj 07102-1982 email: nd7@njit.edu ... 91330-8268. email: na.deng@csun.edu ... carsten denker. co-advisor: dr. haimin wang...", 
+        "email_addr_list": [
+            "nd7@njit.edu", 
+            "na.deng@csun.edu"
+        ], 
+        "cite_url": "www.csun.edu/~ndeng/", 
+        "cite_name": "California State University, Northridge", 
+        "title": "Na Dengs Homepage (NJIT/SWRL  CSUN)"
+    }, 
+    {
+        "content": "haimin wang, professor, new jersey institute of technology. cv, resume ... website: http://physics.njit.edu/people/wang.php. email: haimin.wang@njit.edu.", 
+        "email_addr_list": [
+            "haimin.wang@njit.edu"
+        ], 
+        "cite_url": "192.99.15.201/scholar/wang-haimin-2/", 
+        "cite_name": "", 
+        "title": "Haimin Wang, New Jersey Institute of Technology - PhDTree"
+    }, 
+    {
+        "content": "see information and reports about haimin@solar.njit.edu (haimin wangs e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "haimin@solar.njit.edu"
+        ], 
+        "cite_url": "spam-report.email/haimin/solar.njit.edu", 
+        "cite_name": "", 
+        "title": "haimin@solar.njit.edu (Haimin Wangs e-mail) - Spam ..."
+    }
+]

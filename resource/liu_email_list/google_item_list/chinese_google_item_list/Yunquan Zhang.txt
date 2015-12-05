@@ -1,0 +1,30 @@
+[
+    {
+        "content": "apr 15, 2014 - email: liyan665@gmail.com ... yiqun liu yan li, yunquan zhang, xianyi zhang. ... shengen yan, yunquan zhang, guoping long, yan li.", 
+        "email_addr_list": [
+            "liyan665@gmail.com"
+        ], 
+        "cite_url": "pacman.cs.tsinghua.edu.cn/~liyan/", 
+        "cite_name": "Tsinghua University", 
+        "title": "Li, Yan - PACMAN Group"
+    }, 
+    {
+        "content": "phone: +81(3)5844-2411, email: yagawag@gmail.com. prof. ... phone: +86(10)6260-1034, email: zhanglixin@ncic.ac.cn. prof. yunquan zhang. professor, vice...", 
+        "email_addr_list": [
+            "yagawag@gmail.com", 
+            "zhanglixin@ncic.ac.cn"
+        ], 
+        "cite_url": "www.ncic.ac.cn/codesign/codesign2011/organizers.html", 
+        "cite_name": "", 
+        "title": "Main Page - International Workshop on CO-DESIGN"
+    }, 
+    {
+        "content": "yunquan zhang, lab. of parallel software and computational science, state key laboratory of computer science, cas, p.r. china ... email: zlb@lsec.cc.ac.cn.", 
+        "email_addr_list": [
+            "zlb@lsec.cc.ac.cn"
+        ], 
+        "cite_url": "iwpaps12.csp.escience.cn/dct/page/65578", 
+        "cite_name": "", 
+        "title": "Program Committee - (IWPAPS12): Home"
+    }
+]

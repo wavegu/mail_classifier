@@ -1,0 +1,29 @@
+[
+    {
+        "content": "... version  send by email  pdf version. first name: francky. family name: catthoor. affiliation: imec. country: belgium. email: francky.catthoor@imec.be.", 
+        "email_addr_list": [
+            "francky.catthoor@imec.be"
+        ], 
+        "cite_url": "www.date-conference.com/.../fra...", 
+        "cite_name": "Design, Automation and Test in Europe", 
+        "title": "Francky Catthoor, IMEC, Belgium | DATE 2016"
+    }, 
+    {
+        "content": "contact person: dr. francky catthoor smart systems and energy technology phone: +32 /16 28 12 02. fax: +32 16 28 15 15. e-mail: catthoor@imec.bethis...", 
+        "email_addr_list": [
+            "catthoor@imec.bethis"
+        ], 
+        "cite_url": "www.harpa-project.eu/index.php?option=com_contentview...", 
+        "cite_name": "", 
+        "title": "HARPA Harnessing Performance Variability"
+    }, 
+    {
+        "content": "enza3 francky catthoor2 * dimitrios soudris1 jose manuel mendias3 and antonios ... catthoor@imec.be 3 dacya ucm avda computence s/n 28040 madrid...", 
+        "email_addr_list": [
+            "catthoor@imec.be"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-catthoor-imec-be-13141209.htm", 
+        "cite_name": "", 
+        "title": "catthoor@imec.be - The Email Archive"
+    }
+]

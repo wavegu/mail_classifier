@@ -1,0 +1,11 @@
+[
+    {
+        "content": "e-mail: juan-manuel.ahuactzin@inrialpes.fr ... [ahuactzin94] juan manuel ahuactzin: le fil dariadne: une méthode de planification générale. application à la...", 
+        "email_addr_list": [
+            "juan-manuel.ahuactzin@inrialpes.fr"
+        ], 
+        "cite_url": "emotion.inrialpes.fr/~ahuactzin/personal/cvEnglish.html", 
+        "cite_name": "", 
+        "title": "Curriculum Vitae Juan Manuel Ahuactzin Larios - e-Motion"
+    }
+]

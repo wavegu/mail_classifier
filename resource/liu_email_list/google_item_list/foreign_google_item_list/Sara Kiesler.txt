@@ -1,0 +1,20 @@
+[
+    {
+        "content": "sara kiesler. hillman professor of computer science ... phone: (412) 268-2848. email: kiesler@cs.cmu.edu. website: http://www.cs.cmu.edu/~kiesler/index.html...", 
+        "email_addr_list": [
+            "kiesler@cs.cmu.edu"
+        ], 
+        "cite_url": "https://www.cmu.edu/.../sds/.../sara-kiesler.ht...", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Sara Kiesler - Carnegie Mellon University"
+    }, 
+    {
+        "content": "sara kiesler: publications, bio, bibliography, etc. ... personal homepage: http://www.cs.cmu.edu/~kiesler/; employer: (); email: kiesler@cs.cmu.edu...", 
+        "email_addr_list": [
+            "kiesler@cs.cmu.edu"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/sara-kiesler", 
+        "cite_name": "", 
+        "title": "Sara Kiesler: Publications, bio, bibliography, etc ..."
+    }
+]

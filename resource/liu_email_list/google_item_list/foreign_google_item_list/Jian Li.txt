@@ -1,0 +1,75 @@
+[
+    {
+        "content": "contact details. tel: +61 3 990 39702. fax: +61 3 9903 9629. email: jian.li@monash.edu. web: http://www.pharm.monash.edu.au/research/mips/d4/index.html.", 
+        "email_addr_list": [
+            "jian.li@monash.edu"
+        ], 
+        "cite_url": "https://www.monash.edu/pharm/research/researchers/profile.html?sid...", 
+        "cite_name": "", 
+        "title": "Professor Jian Li - Researcher Profile - Monash University"
+    }, 
+    {
+        "content": "jian li is currently an assistant professor at institute for interdisciplinary ... email: lapordge at gmail dot com, lijian83 at mail dot tsinghua dot edu dot cn. nestia.", 
+        "email_addr_list": [
+            "lapordge@gmail.com", 
+            "lijian83@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "iiis.tsinghua.edu.cn/~jianli/", 
+        "cite_name": "Tsinghua University", 
+        "title": "Jian Lis Homepage"
+    }, 
+    {
+        "content": "162 a, avenue de la faïencerie l-1511 luxembourg campus office : bra 3.07. phone : (+352) 466644 6367. email : jian.li@uni.lu. skype : jian.li_research...", 
+        "email_addr_list": [
+            "jian.li@uni.lu"
+        ], 
+        "cite_url": "https://sites.google.com/site/jianli507n841e/home", 
+        "cite_name": "", 
+        "title": "Jian Li - Google Sites"
+    }, 
+    {
+        "content": "home  staff  jian li, m.d.. jian li, m.d.. photograph of jian li sitting in chair in front of window. email: lijian@mail.med.upenn.edu. tel. #: 215-898-0181. fax:", 
+        "email_addr_list": [
+            "lijian@mail.med.upenn.edu"
+        ], 
+        "cite_url": "www.med.upenn.edu/schererlab/Li.shtml", 
+        "cite_name": "Perelman School of Medicine", 
+        "title": "Jian Li, M.D."
+    }, 
+    {
+        "content": "dr jian li. 74 oakfield avenue, g12 8ls,. research associate (electronic and nanoscale engineering). telephone: 0141 330 3159 email: jian.li@glasgow.ac.", 
+        "email_addr_list": [
+            "jian.li@glasgow.ac"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Glasgow", 
+        "title": "Dr Jian Li - University of Glasgow"
+    }, 
+    {
+        "content": "email: li.jian@pku.edu.cn. phone: +86 10 62767123（o）. dr. jian li is a principal investigator at the department of psychology, and the idg/mcgovern institute...", 
+        "email_addr_list": [
+            "li.jian@pku.edu.cn"
+        ], 
+        "cite_url": "www.psy.pku.edu.cn/en/jianli.html", 
+        "cite_name": "Peking University", 
+        "title": "Jian Li - Department of Psychology, PKU"
+    }, 
+    {
+        "content": "dr jian li. email: jian.li@manchester.ac.uk  twitter  youtube  contact details  maps  mahsc logo. part of the faculty of medical and human sciences.", 
+        "email_addr_list": [
+            "jian.li@manchester.ac.uk"
+        ], 
+        "cite_url": "www.inflammation-repair.manchester.ac.uk/.../...", 
+        "cite_name": "University of Manchester", 
+        "title": "Dr Jian Li - Institute of Inflammation and Repair - University ..."
+    }, 
+    {
+        "content": "apr 21, 2015 - 162 a, avenue de la faïencerie l-1511 luxembourg. campus office, bra 3.07. email. jian.li@uni.lu. telephone, (+352) 46 66 44 6367.", 
+        "email_addr_list": [
+            "jian.li@uni.lu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Luxembourg", 
+        "title": "University of Luxembourg - Jian LI"
+    }
+]

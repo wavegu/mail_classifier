@@ -1,0 +1,29 @@
+[
+    {
+        "content": "e-mail address: ssamui@gmail.com. present ... kandaswamy subramanian , iucaa, ... kandaswamy subramanian, raghunathan srianand, saumyadip samui,.", 
+        "email_addr_list": [
+            "ssamui@gmail.com"
+        ], 
+        "cite_url": "presiuniv.ac.in/staff/staffcv/1404806796__Resume_Samui.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Download CV - Presidency University"
+    }, 
+    {
+        "content": "jan 22, 2014 - kandaswamy subramanian, iucaa, pune. topics to be ... email: sapnp@ctp-jamia.res.in ... to request invitation, send email to the organisers.", 
+        "email_addr_list": [
+            "sapnp@ctp-jamia.res.in"
+        ], 
+        "cite_url": "www.ctp-jamia.res.in/events/sapnp/sapnp-poster.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]here - Centre for Theoretical Physics"
+    }, 
+    {
+        "content": "kandaswamy subramanian. professor, inter university centre for astronomy and astrophysics. verified email at iucaa.ernet.in. @iucaa.ernet.in. cited by 4711.", 
+        "email_addr_list": [
+            "email@iucaa.ernet.in"
+        ], 
+        "cite_url": "scholar.google.com/citations?view_op=search...", 
+        "cite_name": "Google Scholar", 
+        "title": "Google Scholar Citations"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "content": "email: yangxiao at ieee.org. the university of alabama. home page: http://cs.ua.edu/~yangxiao/ .... dr. zhifeng xiao (graduated in 4.5 years of ph.d. studies).", 
+        "email_addr_list": [
+            "yangxiao@ieee.org"
+        ], 
+        "cite_url": "yangxiao.cs.ua.edu/W4-NET_Members.html", 
+        "cite_name": "", 
+        "title": "Welcome to Dr. Yang Xiaos Home Page"
+    }, 
+    {
+        "content": "sf state faculty sites. photo of yang xiao. yang xiao. main menu. about  research  teaching  blog. about yang xiao. email: yangxiao@sfsu.edu...", 
+        "email_addr_list": [
+            "yangxiao@sfsu.edu"
+        ], 
+        "cite_url": "https://faculty.sfsu.edu/~yangxiao", 
+        "cite_name": "San Francisco State University", 
+        "title": "About Yang Xiao | Yang Xiao | SF State Faculty Sites"
+    }, 
+    {
+        "content": "email@polyu.edu.hk. professor. professor yang xiao-qi ... wang c.y., yang x.q. and yang x.m., nonlinear augmented lagrangian and duality theory,...", 
+        "email_addr_list": [
+            "email@polyu.edu.hk"
+        ], 
+        "cite_url": "www.polyu.edu.hk/ama/people/.../12/", 
+        "cite_name": "Hong Kong Polytechnic University", 
+        "title": "Professor Yang Xiao-qi - PolyU"
+    }, 
+    {
+        "content": "yang xiao is associate professor of philosophy at kenyon college. prof. ... xiao has been the book review editor of dao: a journal of comparative philosophy since 2005. in 2011 he was elected .... email: xiaoy@kenyon.edu. august 2011...", 
+        "email_addr_list": [
+            "xiaoy@kenyon.edu"
+        ], 
+        "cite_url": "personal.kenyon.edu/xiaoy/", 
+        "cite_name": "", 
+        "title": "Yang Xiaos Kenyon Website - Kenyon College"
+    }, 
+    {
+        "content": "yang xiao. lecturer. email: xiao@ucdavis.edu. office: 313 sproul. education and degree(s): ph.d., chinese linguistics and pedagogy, university of hawaii...", 
+        "email_addr_list": [
+            "xiao@ucdavis.edu"
+        ], 
+        "cite_url": "ealc.ucdavis.edu/people/profile/73", 
+        "cite_name": "University of California, Davis", 
+        "title": "Yang Xiao | East Asian Languages and Cultures at UC Davis"
+    }, 
+    {
+        "content": "yang xiao can be reached by email at xiaoy@kenyon.edu. he now lives with his wife anna xiao dong sun at kenyon, who is a socioloigist and published writer.", 
+        "email_addr_list": [
+            "xiaoy@kenyon.edu"
+        ], 
+        "cite_url": "www.baylorisr.org/scholars/x/yang-xiao/", 
+        "cite_name": "", 
+        "title": "Yang Xiao | Baylor Institute for Studies of Religion"
+    }
+]

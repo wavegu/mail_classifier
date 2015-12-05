@@ -1,0 +1,38 @@
+[
+    {
+        "content": "jun 12, 2013 - fabrizio granelli. fabrizio granelli ... email: fabrizio.granelli@unitn.it. phone: +390461282062. vcard: info. web link: http://disi.unitn.it/~granelli/...", 
+        "email_addr_list": [
+            "fabrizio.granelli@unitn.it"
+        ], 
+        "cite_url": "https://www5.unitn.it/.../PER0003...", 
+        "cite_name": "University of Trento", 
+        "title": "People - Fabrizio Granelli - Università degli Studi di Trento"
+    }, 
+    {
+        "content": "fabrizio granelli. associate ... verified email at disi.unitn.it - homepage  scholar ... f granelli, p pawelczak, vr prasad, kp subbalakshmi, r chandramouli, .", 
+        "email_addr_list": [
+            "email@disi.unitn.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Qk5Ni_IAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Fabrizio Granelli - Google Scholar Citations"
+    }, 
+    {
+        "content": "apr 11, 2008 - viale delle scienze, 90128. palermo, italy email: ilenia.tinnirello@tti.unipa.it. fabrizio granelli. disi. university of trento. via sommarive 14, i-...", 
+        "email_addr_list": [
+            "ilenia.tinnirello@tti.unipa.it"
+        ], 
+        "cite_url": "www.springer.com/.../CFP_11036_20080...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Special Issue on Recent Advances in IEEE ... - Springer"
+    }, 
+    {
+        "content": "... technological educational institution p.o. box 141 gr - 57400 thessaloniki greece email: pchatzimisios@ieee.org fabrizio granelli disi university of trento...", 
+        "email_addr_list": [
+            "pchatzimisios@ieee.org"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-granelli-disi-uni-13198683.htm", 
+        "cite_name": "", 
+        "title": "granelli@disi.uni - The Email Archive"
+    }
+]

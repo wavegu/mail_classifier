@@ -1,0 +1,67 @@
+[
+    {
+        "content": "faculty. yang xubo, email: yangxubo at cs.sjtu.edu.cn; xiao shuangjiu, email: xsjiu99 at cs.sjtu.edu.cn; sun yan; xiao kai...", 
+        "email_addr_list": [
+            "yangxubo@cs.sjtu.edu.cn", 
+            "xsjiu99@cs.sjtu.edu.cn"
+        ], 
+        "cite_url": "dalab.se.sjtu.edu.cn/www/home/?page_id=17", 
+        "cite_name": "", 
+        "title": "People | Digital Art Laboratory of Shanghai Jiao Tong ..."
+    }, 
+    {
+        "content": "email: rpl@mail.tsinghua.edu.cn. affiliation: tsinghua university, china. name: xubo yang. email: xubo.yang@gmail.com. affiliation: shanghai jiaotong univ.,...", 
+        "email_addr_list": [
+            "rpl@mail.tsinghua.edu.cn", 
+            "xubo.yang@gmail.com"
+        ], 
+        "cite_url": "www.ai.soc.i.kyoto-u.ac.jp/culture2012/Pc%20members.html", 
+        "cite_name": "", 
+        "title": "Pc members"
+    }, 
+    {
+        "content": "may 6, 2013 - xiaoyue wu,; xubo yang† and; yang yang. article first published ... tong university. †. corresponding author email: yangxubo@sjtu.edu.cn...", 
+        "email_addr_list": [
+            "yangxubo@sjtu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "technique with detail capture - Wiley Online Library"
+    }, 
+    {
+        "content": "email: jtan34@gatech.edu. georgia ... advisor: xubo yang. 2002 - ... a multi-layer grid approach for fluid animation, jie tan, xubo yang, xin zhao and zhanxin.", 
+        "email_addr_list": [
+            "jtan34@gatech.edu"
+        ], 
+        "cite_url": "www.cc.gatech.ed...", 
+        "cite_name": "Georgia Institute of Technology College of Computing", 
+        "title": "[PDF]CV (pdf) - Georgia Institute of Technology"
+    }, 
+    {
+        "content": "email: xgli@pku.edu.cn ... jie zheng, yuan yang, xubo song, bo yu, xingguo li, [0001] oriented aluminum nitride one-dimensional nanostructures: synthesis,...", 
+        "email_addr_list": [
+            "xgli@pku.edu.cn"
+        ], 
+        "cite_url": "web5.pku.edu.cn/engineering/Faculty/.../2182.htm", 
+        "cite_name": "Peking University", 
+        "title": "Xingguo Li"
+    }, 
+    {
+        "content": "xubo song, biomedical engineering. ... email: songx@ohsu.edu ... a. adami, k. yang, x. song, m. pavel and d. dirschl, model-based image processing and...", 
+        "email_addr_list": [
+            "songx@ohsu.edu"
+        ], 
+        "cite_url": "www.ohsu.edu/.../xubo-song.cfm", 
+        "cite_name": "Oregon Health  Science University", 
+        "title": "Xubo Song | Biomedical Engineering | OHSU"
+    }, 
+    {
+        "content": "corresponding author email: yangxubo@sjtu.edu.cn. figure 1: an octopus expels ink in a sph fluid. small scale vortical details are captured around it and are...", 
+        "email_addr_list": [
+            "yangxubo@sjtu.edu.cn"
+        ], 
+        "cite_url": "www.cs.ubc.ca/~yefan/pg_sph.pdf", 
+        "cite_name": "University of British Columbia", 
+        "title": "[PDF]paper - UBC Department of Computer Science"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "content": "hubing shi, yujie huang, hao zhou, xiaomin song, shaopeng yuan, yan fu,  yongzhang luo (2007). “nucleolin is a ... e-mail:protein@tsinghua.edu.cn", 
+        "email_addr_list": [
+            "protein@tsinghua.edu.cn"
+        ], 
+        "cite_url": "life.tsinghua.edu.cn/english/faculty/faculty/682.html", 
+        "cite_name": "Tsinghua University", 
+        "title": "Yongzhang Luo - school of Life Sclences,Tsinghua University"
+    }, 
+    {
+        "content": "shu-hong yu studied chemistry in hefei university of technology and received bs in 1988. he got ms from .... jie xu 徐杰 ... guchao@mail.ustc.edu.cn.", 
+        "email_addr_list": [
+            "guchao@mail.ustc.edu.cn"
+        ], 
+        "cite_url": "staff.ustc.edu.cn/.../Peopl...", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "People - Welcome to the Yu laboratory"
+    }, 
+    {
+        "content": "yujie xiong ... hao huang (b.s. in chemistry, ustc, special class for the gifted young, 2013): hefei national lab ... yu li (b.s. in chemistry, ustc, 2013): school of chemistry and materials science, entry year .... email: yjxiong@ustc.edu.cn.", 
+        "email_addr_list": [
+            "yjxiong@ustc.edu.cn"
+        ], 
+        "cite_url": "staff.ustc.edu.cn/.../mem...", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "Xiong Group Members"
+    }, 
+    {
+        "content": "apr 11, 2014 - ye hu1,*, hao-yan chen1,*, chen-yang yu1,*, jie xu1, ji-lin wang1, jin qian1, ... jing-yuan fang, email: jingyuanfang2007@126.com.", 
+        "email_addr_list": [
+            "jingyuanfang2007@126.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "A long non-coding RNA signature to improve prognosis ..."
+    }, 
+    {
+        "content": "jun 12, 2009 - 100085. fax. 0086-10-62923564. email. zpinghao@rcees.ac.cn ... xiaoping wang, jujie yu, jie chen, zhengping hao, zhiping xu. 2008, high...", 
+        "email_addr_list": [
+            "zpinghao@rcees.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "HAO Zhengping"
+    }
+]

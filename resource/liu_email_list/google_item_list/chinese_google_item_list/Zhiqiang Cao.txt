@@ -1,0 +1,30 @@
+[
+    {
+        "content": "zhiqiang cao. photo for zhiqiang cao. assistant professor, chemical engineering. 313-577-3800 (phone). zcao@wayne.edu  http://www.caoresearch.com...", 
+        "email_addr_list": [
+            "zcao@wayne.edu"
+        ], 
+        "cite_url": "https://engineering.wayne...", 
+        "cite_name": "Wayne State University College of Engineering", 
+        "title": "Zhiqiang Cao - College of Engineering - Wayne State ..."
+    }, 
+    {
+        "content": "zhiqiang cao (cv) ph.d., chemical engineering, university of washington email: zcao@wayne.edu. sorry, you ... email: zhigang.wang@wayne.edu. sorry, you...", 
+        "email_addr_list": [
+            "zcao@wayne.edu", 
+            "zhigang.wang@wayne.edu"
+        ], 
+        "cite_url": "caoresearch.com/people.html", 
+        "cite_name": "", 
+        "title": "People - Welcome to Cao Lab"
+    }, 
+    {
+        "content": "email: zqcao@mit.edu. dr. zhiqiang cao received his ph.d. in chemical engineering from the university of washington in 2011 under the guidance of prof.", 
+        "email_addr_list": [
+            "zqcao@mit.edu"
+        ], 
+        "cite_url": "https://sites.google.com/site/caolab1/people", 
+        "cite_name": "", 
+        "title": "People - Cao Lab - Google Sites"
+    }
+]

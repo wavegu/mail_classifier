@@ -1,0 +1,29 @@
+[
+    {
+        "content": "contact professor benhabib: professor b. benhabib email: benhabib@mie.utoronto.ca. office: room mc417 (mechanical engineering building) phone: (416)...", 
+        "email_addr_list": [
+            "benhabib@mie.utoronto.ca"
+        ], 
+        "cite_url": "cimlab.mie.utoronto.ca/contact-us/", 
+        "cite_name": "", 
+        "title": "Contact Us | CIMLab"
+    }, 
+    {
+        "content": "contact information email: bowen@uwaterloo.ca phone: 519-888-4567 x33334 ... s1, pp. s51-s63, september 2006; w. s. owen, e. a. croft, and b. benhabib,...", 
+        "email_addr_list": [
+            "bowen@uwaterloo.ca"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Waterloo", 
+        "title": "William Owen | Mechanical and Mechatronics Engineering"
+    }, 
+    {
+        "content": "email: benhabib@nyu.edu. *shanghai .... for instance, benhabib and wen. (2004) ..... one-percent increase in labor supply then increases output by b percent.", 
+        "email_addr_list": [
+            "benhabib@nyu.edu"
+        ], 
+        "cite_url": "www.econ.nyu.edu/.../benhabib/AdvSelSunSpot21....", 
+        "cite_name": "New York University", 
+        "title": "[PDF]download and view paper - New York University"
+    }
+]

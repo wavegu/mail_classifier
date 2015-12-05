@@ -1,0 +1,59 @@
+[
+    {
+        "content": "email: cexzhang@tongji.edu.cn. office phone: +86-21- .... xiaoning zhang, h.m. zhang, hai-jun huang, lijun sun, tie-qiao tang. competitive, cooperative and...", 
+        "email_addr_list": [
+            "cexzhang@tongji.edu.cn"
+        ], 
+        "cite_url": "sem.tongji.edu.cn/semen/wp.../sites/.../zhang-xiaoning-Detailed-CV.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Zhang Xiaoning Professor Position： Department: School of ..."
+    }, 
+    {
+        "content": "email: cexzhang@tongji.edu.cn. office phone: +86-21- .... xiaoning zhang, h.m. zhang, hai-jun huang, lijun sun, tie-qiao tang. competitive, cooperative and...", 
+        "email_addr_list": [
+            "cexzhang@tongji.edu.cn"
+        ], 
+        "cite_url": "sem.tongji.edu.cn/semen_data/attachments/month.../201543105925.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Zhang Xiaoning Professor Department: School of ..."
+    }, 
+    {
+        "content": "... london, nw1 2fd united kingdom. email: w.zhang@cs.ucl.ac.uk ... ying zhang, weinan zhang, bin gao, xiaojie yuan, tie-yan liu ipm. 2014 vol. 50, no. 4.", 
+        "email_addr_list": [
+            "w.zhang@cs.ucl.ac.uk"
+        ], 
+        "cite_url": "www0.cs.ucl.ac.uk/staff/Weinan.Zhang", 
+        "cite_name": "University College London", 
+        "title": "Weinan Zhang - UCL"
+    }, 
+    {
+        "content": "more. email: michael.meaney@mcgill.ca ... more. email: andree-anne.bouvette-turcot@mail.mcgill.ca ..... more. email: tieyuan.zhang@douglas.mcgill.ca...", 
+        "email_addr_list": [
+            "michael.meaney@mcgill.ca", 
+            "andree-anne.bouvette-turcot@mail.mcgill.ca", 
+            "tieyuan.zhang@douglas.mcgill.ca"
+        ], 
+        "cite_url": "michael-meaney.lab.mcgill.ca/en/team_en.html", 
+        "cite_name": "", 
+        "title": "Michael Meaneys Lab - Team"
+    }, 
+    {
+        "content": "phone: +61 2 4221 4145. email: gursel@uow.edu.au ... dr guangqing zhang. phone: +61 2 4221 4527 ... email: dhastie@uow.edu.au. location: building 8...", 
+        "email_addr_list": [
+            "gursel@uow.edu.au", 
+            "dhastie@uow.edu.au"
+        ], 
+        "cite_url": "eis.uow.edu.au...", 
+        "cite_name": "University of Wollongong Faculty of Engineering and I...", 
+        "title": "MMM Directory - Engineering and Information Sciences ..."
+    }, 
+    {
+        "content": "email: renyi-zhang@tamu.edu. office: eller om 1108. address: texas am .... lei, w., r. zhang, x. tie, and p. hess, chemical characterization of ozone...", 
+        "email_addr_list": [
+            "renyi-zhang@tamu.edu"
+        ], 
+        "cite_url": "atmo.tamu.edu/people/faculty/zhangrenyi.html", 
+        "cite_name": "Texas AM University", 
+        "title": "Dr. Renyi Zhang - Department of Atmospheric Sciences"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "professor huosheng hu msc china, dphil oxford, fiet, finstmc, smieee smacm ceng. staff position, professor. email, hhu@essex.ac.uk. telephone, 01206...", 
+        "email_addr_list": [
+            "hhu@essex.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Essex", 
+        "title": "Professor Huosheng Hu MSc China, DPhil Oxford, FIET ..."
+    }, 
+    {
+        "content": "... users who are willing to work in the same area. further information: url: http://cswww.essex.ac.uk , or contact: prof. huosheng hu, email: hhu@essex.ac.uk.", 
+        "email_addr_list": [
+            "hhu@essex.ac.uk"
+        ], 
+        "cite_url": "dces.essex.ac.uk/staff/hhu/research.html", 
+        "cite_name": "", 
+        "title": "Huosheng Hu - University of Essex"
+    }, 
+    {
+        "content": "add your e-mail address to receive forthcoming issues of this journal: journal browser ... e-mail: robotics@mdpi.com. tel. +41 61 ... dr. huosheng hu editor-in-...", 
+        "email_addr_list": [
+            "robotics@mdpi.com"
+        ], 
+        "cite_url": "www.mdpi.com/journal/robotics/editors", 
+        "cite_name": "MDPI", 
+        "title": "Robotics - MDPI.com"
+    }, 
+    {
+        "content": "e-mail: wpedrycz@ualberta.ca .... professor huosheng hu is a professor in the school of computer science  electronic engineering at the university of essex,...", 
+        "email_addr_list": [
+            "wpedrycz@ualberta.ca"
+        ], 
+        "cite_url": "www.qub.ac.uk/sites/lsms.../KeynoteSpeakers/", 
+        "cite_name": "Queen's University Belfast", 
+        "title": "Queens University Conference - lsms-icsee-2014"
+    }
+]

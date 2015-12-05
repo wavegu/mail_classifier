@@ -1,0 +1,20 @@
+[
+    {
+        "content": "rajesh p.n. rao. rao@cs.washington.edu 206-685-9141. professor, department of computer science  engineering. home page. the goal of my research is...", 
+        "email_addr_list": [
+            "rao@cs.washington.edu"
+        ], 
+        "cite_url": "depts.washington.edu/behneuro/.../rao.shtml", 
+        "cite_name": "University of Washington", 
+        "title": "Rajesh P.N. Rao - University of Washington"
+    }, 
+    {
+        "content": "nov 5, 2014 - a direct brain-to-brain interface in humans. rajesh p. n. rao ,. * e-mail: rao@cs.washington.edu (rpnr). affiliation: department of computer...", 
+        "email_addr_list": [
+            "rao@cs.washington.edu"
+        ], 
+        "cite_url": "journals.plos.org/plosone/article?id=10.1371/journal.pone.0111332", 
+        "cite_name": "", 
+        "title": "A Direct Brain-to-Brain Interface in Humans"
+    }
+]

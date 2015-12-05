@@ -1,0 +1,41 @@
+[
+    {
+        "content": "email: bisheng.wu@csiro.au. postal address: private bag 10. clayton south. vic. 3169. australia. download vcard. staff directory. dr bisheng wu...", 
+        "email_addr_list": [
+            "bisheng.wu@csiro.au"
+        ], 
+        "cite_url": "people.csiro.au/W/B/Bisheng-Wu", 
+        "cite_name": "", 
+        "title": "Dr Bisheng Wu - Staff directory"
+    }, 
+    {
+        "content": "zhejiang bisheng plastics co., ltd. ... china 314100; tel: +86-573-84182611; fax: +86-573-84182600; e-mail: sale@bisn-pvb.cn; website: www.bisn-pvb.cn...", 
+        "email_addr_list": [
+            "sale@bisn-pvb.cn"
+        ], 
+        "cite_url": "www.bisn-pvb.cn/contact.asp", 
+        "cite_name": "", 
+        "title": "Zhejiang Bisheng Plastics Co., Ltd. Contact us"
+    }, 
+    {
+        "content": "yang, bisheng, ph.d. ... phone: e-mail: b32yang@uwaterloo.ca, bshyang@whu.edu.cn ... bisheng yang, zhen wei, qingquan li, 2012, automated extraction of...", 
+        "email_addr_list": [
+            "b32yang@uwaterloo.ca", 
+            "bshyang@whu.edu.cn"
+        ], 
+        "cite_url": "www.environment.uwate...", 
+        "cite_name": "University of Waterloo Faculty of Environment", 
+        "title": "[RSGTech - Bisheng Yang] - Faculty of Environment"
+    }, 
+    {
+        "content": "jul 30, 2015 - noreply@pcplus.ca. new offers bisheng! earn even more points. 2015-07-30 18:30:31. to: huabisheng@emailz.ga. from: noreply@pcplus.ca", 
+        "email_addr_list": [
+            "noreply@pcplus.ca", 
+            "huabisheng@emailz.ga", 
+            "noreply@pcplus.ca"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "New offers Bisheng! Earn even more points. - email-fake ..."
+    }
+]

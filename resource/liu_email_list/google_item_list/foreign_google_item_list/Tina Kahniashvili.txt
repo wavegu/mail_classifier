@@ -1,0 +1,11 @@
+[
+    {
+        "content": "tina kahniashvili. research professor, physics. office: wean hall 8313. phone: 412-268-1818. fax: 412-681-0648. email: tinatin@andrew.cmu.edu...", 
+        "email_addr_list": [
+            "tinatin@andrew.cmu.edu"
+        ], 
+        "cite_url": "https://www.cmu.edu/.../kahniashvili.html", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Tina Kahniashvili-Dept of Physics - Carnegie Mellon ..."
+    }
+]

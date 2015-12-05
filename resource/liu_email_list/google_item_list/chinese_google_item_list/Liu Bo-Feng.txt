@@ -1,0 +1,58 @@
+[
+    {
+        "content": "email: zhouf@licp.cas.cn .... bin li, bo yu, wilhelm t. s. huck, weimin liu, feng zhou*, electrochemically mediated atom transfer radical polymerization on...", 
+        "email_addr_list": [
+            "zhouf@licp.cas.cn"
+        ], 
+        "cite_url": "www.licp.cas.cn/zfz/english/gl/", 
+        "cite_name": "", 
+        "title": "Group leader----Lanzhou Institute of Chemical Physics ..."
+    }, 
+    {
+        "content": "aug 19, 2013 - email: wangda@licp.cas.cn ... daoai wang, bo yu, chengwei wang, feng zhou, weimin liu, a novel protocol towards perfect alignment of...", 
+        "email_addr_list": [
+            "wangda@licp.cas.cn"
+        ], 
+        "cite_url": "www.licp.cas.cn/zfz/english/gm/201308/t20130819_3914869.html", 
+        "cite_name": "", 
+        "title": "Group members----Lanzhou Institute of Chemical Physics ..."
+    }, 
+    {
+        "content": "bofeng lius record entry: name, bofeng liu. computing id, bl5zk. office phone. email. bl5zk@virginia.edu  bl5zk@virginia.edu (registered); [add alias]. title •...", 
+        "email_addr_list": [
+            "bl5zk@virginia.edu", 
+            "bl5zk@virginia.edu"
+        ], 
+        "cite_url": "its.virginia.edu/search/people/?u...Bofeng++Liu", 
+        "cite_name": "University of Virginia", 
+        "title": "Liu, Bofeng - UVa People Search - University of Virginia"
+    }, 
+    {
+        "content": "meina liu, george washington university e-mail: meinaliu@gwu. ... bo feng, university of california, davis e-mail: ... e-mail: liuwuyu@msu.edu; webmaster...", 
+        "email_addr_list": [
+            "liuwuyu@msu.edu"
+        ], 
+        "cite_url": "www.uni.edu/comstudy/accs/offi.html", 
+        "cite_name": "University of Northern Iowa", 
+        "title": "ACCS - University of Northern Iowa"
+    }, 
+    {
+        "content": "email: bo.huang@ucsf.edu. daichi kamiyama ... harrison liu ... email: rie.kamiyama@ucsf.edu. siyu feng bioengineering graduate student (may 2015)", 
+        "email_addr_list": [
+            "bo.huang@ucsf.edu", 
+            "rie.kamiyama@ucsf.edu"
+        ], 
+        "cite_url": "huanglab.ucsf.edu/People.html", 
+        "cite_name": "University of California, San Francisco", 
+        "title": "Huang Lab - Group Members"
+    }, 
+    {
+        "content": "verified email at hawk.iit.edu. scholar ... d sulakhe, s balasubramanian, b xie, b feng, a taylor, s wang, ... nucleic acids ... b feng, n liu, s he, xh sun.", 
+        "email_addr_list": [
+            "email@hawk.iit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=gMpzMqYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Bo Feng - Google Scholar Citations"
+    }
+]

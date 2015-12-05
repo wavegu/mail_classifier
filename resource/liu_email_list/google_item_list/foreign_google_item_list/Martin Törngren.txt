@@ -1,0 +1,39 @@
+[
+    {
+        "content": "oct 19, 2015 - martin törngren. professor. phone: +46 8 790 63 07. e-mail: martin@md.kth.se. visiting address: brinellvägen 83. embedded control systems...", 
+        "email_addr_list": [
+            "martin@md.kth.se"
+        ], 
+        "cite_url": "https://www.kth.se/.../martin-torngren-1.18...", 
+        "cite_name": "Royal Institute of Technology", 
+        "title": "KTH | Martin Törngren"
+    }, 
+    {
+        "content": "martin törngren. professor. arbetar vid: mekatronik; e-post: martint@kth.se; telefon: +46 8 ... om mig. see my home page: http://www.md.kth.se/~martin...", 
+        "email_addr_list": [
+            "martint@kth.se"
+        ], 
+        "cite_url": "https://www.kth.se/.../ma...", 
+        "cite_name": "Royal Institute of Technology", 
+        "title": "KTH | Martin Törngren"
+    }, 
+    {
+        "content": "seminar - martin törngren: challenges and approaches for integrated multidisciplinary ... martin törngren , martin törngren ... email: martin@damek.kth.se.", 
+        "email_addr_list": [
+            "martin@damek.kth.se"
+        ], 
+        "cite_url": "www.es.mdh.se/.../88-Seminar___Martin_T_...", 
+        "cite_name": "Mälardalen University College", 
+        "title": "Seminar - Martin Törngren: Challenges and ... - IDT - ES"
+    }, 
+    {
+        "content": "email: werner damm damm@offis.de, tel: +49 441 9722 500 ... email: martin törngren martin@md.kth.se, tel: +46 8 790 63 07 +46 70 5136582 (mobile)...", 
+        "email_addr_list": [
+            "damm@offis.de", 
+            "martin@md.kth.se"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "ArtistDesign NoE - Cluster: Real-Time Components"
+    }
+]

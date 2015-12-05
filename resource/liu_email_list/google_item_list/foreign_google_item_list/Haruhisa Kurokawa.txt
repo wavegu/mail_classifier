@@ -1,0 +1,21 @@
+[
+    {
+        "content": "may 16, 2010 - haruhisa kurokawa1,*, kohji tomita1,*, akiya kamimura1,*, shigeru kokaji1,*, ... *contact email: kurokawa-h@aist.go.jp, k.tomita@aist.go.jp,...", 
+        "email_addr_list": [
+            "kurokawa-h@aist.go.jp", 
+            "k.tomita@aist.go.jp"
+        ], 
+        "cite_url": "eudl.eu/doi/10.4108/ICST.ROBOCOMM2007.2119", 
+        "cite_name": "", 
+        "title": "Self-Reconfigurable Modular Robot M-TRAN ... - EUDL"
+    }, 
+    {
+        "content": "e-mail: inc11@semiconportal.com. tel: +81-3-5733-4971／fax: +81-3-5733-4973 ... -haruhisa kurokawa aist. -naofumi moriya. cao. -toshio baba. jst.", 
+        "email_addr_list": [
+            "inc11@semiconportal.com"
+        ], 
+        "cite_url": "ec.europa.eu/newsroom/dae/document.cfm?doc_id=8555", 
+        "cite_name": "Europa", 
+        "title": "[PDF]INC11_flyer_150122 - European Commission"
+    }
+]

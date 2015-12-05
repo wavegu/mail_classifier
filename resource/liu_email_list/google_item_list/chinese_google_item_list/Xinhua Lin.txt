@@ -1,0 +1,29 @@
+[
+    {
+        "content": "xinhua lin, phd, is a faculty member of the division of developmental biology at cincinnati childrens hospital medical center ... email xinhua.lin@cchmc.org.", 
+        "email_addr_list": [
+            "xinhua.lin@cchmc.org"
+        ], 
+        "cite_url": "www.cincinnatichildrens.or...", 
+        "cite_name": "Cincinnati Children's Hospital Medical Center", 
+        "title": "Xinhua Lin, PhD"
+    }, 
+    {
+        "content": "feb 19, 2009 - ... fellow and research assistant positions in dr. xinhua lin laboratory, ... for three references to dr. xinhua lin (email: xinhua.lin@cchmc.org).", 
+        "email_addr_list": [
+            "xinhua.lin@cchmc.org"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Join Us--Institute of Zoology Chinese Academy of Sciences"
+    }, 
+    {
+        "content": "jul 16, 2009 - e-mail: xinhua.lin@ioz.ac.cn. address: state key laboratory of biomembrane and membrane biotechnology, institute of zoology, chinese...", 
+        "email_addr_list": [
+            "xinhua.lin@ioz.ac.cn"
+        ], 
+        "cite_url": "sourcedb.cas.cn/sourcedb_ioz_cas/yw/scs/.../t20090716_2088468.html", 
+        "cite_name": "", 
+        "title": "LIN, Xin-Hua----Institute of Zoology Chinese Academy of ..."
+    }
+]

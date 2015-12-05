@@ -1,0 +1,29 @@
+[
+    {
+        "content": "chinese academy of sciences china tel: +86-10-6488-8980. fax: +86-10-6488-6533. email: dengxz.ccap@igsnrr.ac.cn. xiangzheng deng is a full professor of...", 
+        "email_addr_list": [
+            "dengxz.ccap@igsnrr.ac.cn"
+        ], 
+        "cite_url": "https://ugec.org/xi...", 
+        "cite_name": "Urbanization and Global Environmental Change Proj...", 
+        "title": "Xiangzheng Deng - ugec.org"
+    }, 
+    {
+        "content": "dec 1, 2011 - xiangzheng deng. xiangzheng deng is a professor of geography at the institute of geographic sciences ... email: dengxz.ccap@gmail.com.", 
+        "email_addr_list": [
+            "dengxz.ccap@gmail.com"
+        ], 
+        "cite_url": "cmhp.sysu.edu.cn/cmhp2011/Item/223.aspx", 
+        "cite_name": "Sun Yat‑sen University", 
+        "title": "Xiangzheng Deng - Center for Migrant Health Policy of ..."
+    }, 
+    {
+        "content": "dec 1, 2011 - xiangzheng deng is a professor of geography at the institute of geographic sciences and natural ... email: dengxz.ccap@gmail.com. source:...", 
+        "email_addr_list": [
+            "dengxz.ccap@gmail.com"
+        ], 
+        "cite_url": "cmhp.sysu.edu.cn/.../223.aspx", 
+        "cite_name": "Sun Yat‑sen University", 
+        "title": "Xiangzheng Deng - 中山大学流动人口卫生政策研究中心 ..."
+    }
+]

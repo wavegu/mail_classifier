@@ -1,0 +1,47 @@
+[
+    {
+        "content": "e-mail: rgreis@dep.uminho.pt ... for more details on dr. rui l. reis click here ... researcher id reis, rui l (a-8938-2008); scopus author id 7103370557;...", 
+        "email_addr_list": [
+            "rgreis@dep.uminho.pt"
+        ], 
+        "cite_url": "www.3bs.uminho.pt/users/rgreis", 
+        "cite_name": "University of Minho", 
+        "title": "Rui L. Reis | 3Bs Research Group in Biomaterials ..."
+    }, 
+    {
+        "content": "dec 17, 2013 - ... cape verdean/portuguese. email: nelson.monteiro@gmail.com .... n. monteiro, a. martins, r. l. reis, n. m. neves. “liposomes in tissue...", 
+        "email_addr_list": [
+            "nelson.monteiro@gmail.com"
+        ], 
+        "cite_url": "www.mitportugal.org/index.php?option=com_docmantask...", 
+        "cite_name": "", 
+        "title": "[PDF]Download - MIT Portugal"
+    }, 
+    {
+        "content": "email: alberto.reis@lneg.pt ... alberto delgado dos reis ... mendes rl and reis a (2003) effect of contaminants on mass transfer coefficients in bubble column...", 
+        "email_addr_list": [
+            "alberto.reis@lneg.pt"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "alberto.reis - LNEG - Laboratório Nacional de Energia e ..."
+    }, 
+    {
+        "content": "verified email at dep.uminho.pt - homepage  scholar. get my own profile ... a paiva, r craveiro, i aroso, m martins, rl reis, arc duarte. acs sustainable...", 
+        "email_addr_list": [
+            "email@dep.uminho.pt"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=iOX1-igAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ivo Aroso - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at dep.uminho.pt ... jm sobral, sg caridade, ra sousa, jf mano, rl reis ... lp yan, jm oliveira, al oliveira, sg caridade, jf mano, rl reis.", 
+        "email_addr_list": [
+            "email@dep.uminho.pt"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=_rtbp30AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Sofia Caridade - Google Scholar Citations"
+    }
+]

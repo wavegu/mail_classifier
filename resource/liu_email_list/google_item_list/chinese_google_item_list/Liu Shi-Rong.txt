@@ -1,0 +1,31 @@
+[
+    {
+        "content": "... iufro – the worlds... who is who; officeholder shirong liu. change language: english. officeholder shirong liu. shirong liu ... email: lixuejiaoli@163.com", 
+        "email_addr_list": [
+            "lixuejiaoli@163.com"
+        ], 
+        "cite_url": "www.iufro.org/.../Liu/", 
+        "cite_name": "International Union of Forest Research Organizations", 
+        "title": "IUFRO: Officeholder Shirong Liu / Who is Who"
+    }, 
+    {
+        "content": "e-mail: dominik.stangler@iww.uni-freiburg.de. work package 1: ... e-mail: christopher.morhart@iww.uni-freiburg.de  institute of ... dr. liu shirong tel: +86 / 10-...", 
+        "email_addr_list": [
+            "dominik.stangler@iww.uni-freiburg.de", 
+            "christopher.morhart@iww.uni-freiburg.de"
+        ], 
+        "cite_url": "www.valwood.uni-freiburg.de/contact_en.php", 
+        "cite_name": "", 
+        "title": "Contact - Valwood"
+    }, 
+    {
+        "content": "email: wupf@swun.cn;wupengfei2000@163.com. research interests ... wu pengfei, liu xingliang, liu shirong, wang jingxin, wang yong. composition and...", 
+        "email_addr_list": [
+            "wupf@swun.cn", 
+            "wupengfei2000@163.com"
+        ], 
+        "cite_url": "https://blogs.cornell.edu/wickings/.../WU-Pengfei-2014-CV-21xbbhj.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]PENGFEI WU - Cornell University"
+    }
+]

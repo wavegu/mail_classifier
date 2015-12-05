@@ -1,0 +1,29 @@
+[
+    {
+        "content": "eleri cardozo. professor titular ... verified email at dca.fee.unicamp.br. scholar ... l agostinho, g feliciano, l olivi, e cardozo, e guimaraes. dependable...", 
+        "email_addr_list": [
+            "email@dca.fee.unicamp.br"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=4NuItPQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Eleri Cardozo - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: pinheiro@ic.unicamp.br. eleri cardozo. school of electrical and. computer engineering (feec). university of campinas. campinas,brazil 13083-852.", 
+        "email_addr_list": [
+            "pinheiro@ic.unicamp.br"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0710...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Anticipative Shared Control for Robotic Wheelchairs Used ..."
+    }, 
+    {
+        "content": "computing. lucio a. rocha. school of electrical and computer engineering. univerity of campinas. campinas, brazil. email: larocha@ufscar.br. eleri cardozo.", 
+        "email_addr_list": [
+            "larocha@ufscar.br"
+        ], 
+        "cite_url": "www.computer.org/csdl/.../ucc/.../7881a011.pdf", 
+        "cite_name": "IEEE Computer Society", 
+        "title": "A Hybrid Optimization Model for Green Cloud Computing"
+    }
+]

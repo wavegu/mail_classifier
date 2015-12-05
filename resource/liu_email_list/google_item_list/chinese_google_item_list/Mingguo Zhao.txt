@@ -1,0 +1,57 @@
+[
+    {
+        "content": "email: hubiao_007@163.com. christoph-probst-str. 16 ... [1] biao hu, mingguo zhao. the optimization of spring ... [2] mingguo zhao, biao hu. analysis of the...", 
+        "email_addr_list": [
+            "hubiao_007@163.com"
+        ], 
+        "cite_url": "www6.in.tum.de/pub/Main/.../CV_Biao.p...", 
+        "cite_name": "Technische Universität München", 
+        "title": "[PDF]BIAO HU - Robotics and Embedded Systems"
+    }, 
+    {
+        "content": "team name tsinghua hephaestus. team leader or contact person mingguo zhao. email mgzhao@mail.tsinghua.edu.cn. homepage...", 
+        "email_addr_list": [
+            "mgzhao@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "https://www.robocuphumanoid.org/.../b52f0ffb2ba83ff85581aacf7d3a7...", 
+        "cite_name": "", 
+        "title": "Qualification for RoboCup Humanoid League 2014"
+    }, 
+    {
+        "content": "team name tsinghua hephaestus. team leader or contact person mingguo zhao. email mgzhao@mail.tsinghua.edu.cn. homepage...", 
+        "email_addr_list": [
+            "mgzhao@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "https://www.robocuphumanoid.org/.../452d7f6af32ba9e9032db19d0faaf...", 
+        "cite_name": "", 
+        "title": "Qualification for RoboCup Humanoid League 2013"
+    }, 
+    {
+        "content": "email: zhaoyong@ise.neu.edu.cn ... near-infrared spectral absorption method,optical engineering,2004, vol.43, no.10:2216－2217; yong zhao, mingguo zhao,...", 
+        "email_addr_list": [
+            "zhaoyong@ise.neu.edu.cn"
+        ], 
+        "cite_url": "www.scirp.org/journal/DetailedInforOfEditorialBoard.aspx?personID...", 
+        "cite_name": "", 
+        "title": "Yong Zhao - Journals, Conferences, Proceedings, Open ..."
+    }, 
+    {
+        "content": "team name tsinghua hephaestus. team leader or contact person mingguo zhao. email mgzhao@mail.tsinghua.edu.cn. homepage...", 
+        "email_addr_list": [
+            "mgzhao@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "nyx.informatik.uni-bremen.de/.../b52f0ffb2ba83ff85581aacf7d3a7bb25...", 
+        "cite_name": "", 
+        "title": "Qualification for RoboCup Humanoid League 2014"
+    }, 
+    {
+        "content": "email: jx.xue@student.sic.ac.cn ... wei-ming guo email: wm82@live.cn  return to [members]. -----------------------------------------------------------------------. jian zhao", 
+        "email_addr_list": [
+            "jx.xue@student.sic.ac.cn", 
+            "wm82@live.cn"
+        ], 
+        "cite_url": "119.78.242.243:8080/ketizu/zhangguojun/En0503.html", 
+        "cite_name": "", 
+        "title": "ANOCs Group of SICCAS-Student"
+    }
+]

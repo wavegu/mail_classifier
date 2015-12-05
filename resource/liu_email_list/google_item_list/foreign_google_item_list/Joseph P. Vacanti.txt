@@ -1,0 +1,30 @@
+[
+    {
+        "content": "joseph vacanti, md ... dr. joseph vacanti received his bachelor of science, summa cum laude, from ... contact information. email: jvacanti@partners.org...", 
+        "email_addr_list": [
+            "jvacanti@partners.org"
+        ], 
+        "cite_url": "hsci.harvard.edu/people/joseph-vacanti-md", 
+        "cite_name": "Harvard University", 
+        "title": "Joseph Vacanti, MD | Harvard Stem Cell Institute (HSCI)"
+    }, 
+    {
+        "content": "nov 11, 2015 - e-mail: tmcnaughton@hartregen.com ... tissue engineering pioneer dr. joseph p. vacanti agrees to chair new scientific advisory board for...", 
+        "email_addr_list": [
+            "tmcnaughton@hartregen.com"
+        ], 
+        "cite_url": "investor.harvardapparatusregen.com/.../tissue-engineering-pioneer-dr-jos...", 
+        "cite_name": "", 
+        "title": "Tissue Engineering Pioneer Dr. Joseph P. Vacanti Agrees to ..."
+    }, 
+    {
+        "content": "e-mail: albanese@mit.edu ... manufacture, and testing of cellular and acellular lung assist devices in the lab of joseph p. vacanti. ... email: js8686@mit.edu...", 
+        "email_addr_list": [
+            "albanese@mit.edu", 
+            "js8686@mit.edu"
+        ], 
+        "cite_url": "https://lmrt.mit.edu/.../recent-alum...", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "Recent Alumni | Laboratory for Multiscale Regenerative ..."
+    }
+]

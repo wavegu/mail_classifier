@@ -1,0 +1,20 @@
+[
+    {
+        "content": "nov 4, 2014 - li, wen jung ... email: wenjli@cityu.edu.hk ... feifei wang, pan li, dong wang, longhai li, shuangxi xie, lianqing liu, yuechao wang, and...", 
+        "email_addr_list": [
+            "wenjli@cityu.edu.hk"
+        ], 
+        "cite_url": "www.cityu.edu.hk/mbe/wenjli/", 
+        "cite_name": "City University of Hong Kong", 
+        "title": "Prof. LI, Wen Jung - City University of Hong Kong"
+    }, 
+    {
+        "content": "li wen phd. lauder laboratory 26 oxford street, harvard university, ... email: liwen@oeb.harvard.edu. my researches mainly focus on aquatic bio-inspired...", 
+        "email_addr_list": [
+            "liwen@oeb.harvard.edu"
+        ], 
+        "cite_url": "www.people.fas.harvard.edu/~liwen/", 
+        "cite_name": "Harvard University", 
+        "title": "Li Wen: index - Harvard University"
+    }
+]

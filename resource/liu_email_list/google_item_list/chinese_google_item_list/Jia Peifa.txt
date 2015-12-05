@@ -1,0 +1,48 @@
+[
+    {
+        "content": "peifa jia; professor; department of computer science and technology; joined department: 1992; email:dcsjpf@tsinghua.edu.cn; url: phone:+86-10-...", 
+        "email_addr_list": [
+            "dcsjpf@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201012241745265813598...", 
+        "cite_name": "Tsinghua University", 
+        "title": "计算机科学与技术系"
+    }, 
+    {
+        "content": "jia peifa. back. jia peifa professor jia peifa graduated from department of automatic control, tsinghua university in 1970, ... email:dcsjpf@mail.tsinghua.edu.cn.", 
+        "email_addr_list": [
+            "dcsjpf@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "csai.tsinghua.edu.cn/researchers/en_researchers_lab/jiapeifa.shtm", 
+        "cite_name": "", 
+        "title": "Jia Peifa - 实验室人员信息"
+    }, 
+    {
+        "content": "peifa jia. prof. peifa jia. he is professor of tsinghua university and p.h.d. tutor at cs department. he is also ... email: dcsjpf at mail.tsinghua.edu.cn. ^ top.", 
+        "email_addr_list": [
+            "dcsjpf@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.csai.tsinghua.edu.cn/iar/en/group_members/jiapeifa.htm", 
+        "cite_name": "", 
+        "title": "Prof. Peifa JIA"
+    }, 
+    {
+        "content": "jia peifa, tsinghua university, dcsjpf@mail.tsinghua.edu.cn. jiang ping, hull university, uk, p.jiang@bradford.ac.uk. mei tao, china security  surveillance...", 
+        "email_addr_list": [
+            "dcsjpf@mail.tsinghua.edu.cn", 
+            "p.jiang@bradford.ac.uk"
+        ], 
+        "cite_url": "robot.sia.cn/en/lm.asp?hg_id=7", 
+        "cite_name": "", 
+        "title": "Robot"
+    }, 
+    {
+        "content": "ye (george) jia. phd. assistant professor. email: yjia@upei.ca. phone: (902) 566-0566. department: economics. office: main building, 326. education:.", 
+        "email_addr_list": [
+            "yjia@upei.ca"
+        ], 
+        "cite_url": "www.upei.ca/arts/ye-george-jia", 
+        "cite_name": "University of Prince Edward Island", 
+        "title": "Ye (George) Jia | Faculty of Arts | UPEI."
+    }
+]

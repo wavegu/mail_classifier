@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: wkjiang@sjtu.edu.cn ..... 66 wenbo lu,weikang jiang,guoqing yuan,li yan, a gearbox fault diagnosis scheme based on near-field acoustic holography...", 
+        "email_addr_list": [
+            "wkjiang@sjtu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "JIANG Weikang - School of Mechanical Engineering ..."
+    }, 
+    {
+        "content": "jan 15, 2012 - email: yuanl@suda.edu.cn ... hongwei wang, yanwei wang, lin yuan*, lei wang, weikang yang, zhaoqiang wu, dan li, hong chen*.", 
+        "email_addr_list": [
+            "yuanl@suda.edu.cn"
+        ], 
+        "cite_url": "www.sudapolymer.com/en/articleinfo/detail_32_86_435.aspx", 
+        "cite_name": "", 
+        "title": "YUAN Lin-Welcome to Sudapolymer"
+    }, 
+    {
+        "content": "dec 6, 2014 - copyright © 2014 american chemical society. *phone: (+86) 21-64251928; fax: (86) 21-64251928; e-mail: yifanhan@ecust.edu.cn.", 
+        "email_addr_list": [
+            "yifanhan@ecust.edu.cn"
+        ], 
+        "cite_url": "pubs.acs.org/doi/abs/10.1021/jp5065159", 
+        "cite_name": "American Chemical Society", 
+        "title": "First-Principles Study of C2 Oxygenates Synthesis Directly ..."
+    }, 
+    {
+        "content": "wei-kang wang. associate professor director, office of international affairs. tel：. +886-3-4638800 ext. 2589. email：. jameswang@saturn.yzu.edu.tw. specialty...", 
+        "email_addr_list": [
+            "jameswang@saturn.yzu.edu.tw"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Yuan Ze University", 
+        "title": "College of Management , Yuan-Ze University"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "content": "email: areyes@iie.org.mx. matthijs t. j. spaan. institute for systems and robotics. instituto superior técnico. lisbon, portugal. email: mtjspaan@isr.ist.utl.pt.", 
+        "email_addr_list": [
+            "areyes@iie.org.mx", 
+            "mtjspaan@isr.ist.utl.pt"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0535...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "An Intelligent Assistant for Power Plants based on Factored ..."
+    }, 
+    {
+        "content": "dp tasks matthijs t.j. spaan institute for systems and robotics instituto ... tel: +351 218 418 196 e-mail: mtjspaan@isr.ist.utl.pt francisco antnio c. s....", 
+        "email_addr_list": [
+            "mtjspaan@isr.ist.utl.pt"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-mtjspaan-isr-ist-utl-4504756.htm", 
+        "cite_name": "", 
+        "title": "mtjspaan@isr.ist.utl - The Email Archive"
+    }, 
+    {
+        "content": "matthijs t. j. spaan. informatics institute. university of amsterdam. kruislaan 403, 1098sj, amsterdam. the netherlands. email: mtjspaan@science.uva.nl.", 
+        "email_addr_list": [
+            "mtjspaan@science.uva.nl"
+        ], 
+        "cite_url": "www.roboticsproceedings.org/rss01/p29.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Robot Planning in Partially Observable Continuous Domains"
+    }
+]

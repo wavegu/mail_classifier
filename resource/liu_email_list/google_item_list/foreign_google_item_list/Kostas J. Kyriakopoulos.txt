@@ -1,0 +1,50 @@
+[
+    {
+        "content": "konstantinos (kostas) j. kyriakopoulos, ph.d. professor ... e-mail : kkyria@central.ntua.gr ...... [47] giannis roussos and kostas j. kyriakopoulos, “decentralized...", 
+        "email_addr_list": [
+            "kkyria@central.ntua.gr"
+        ], 
+        "cite_url": "users.ntua.gr/.../Resume_kyriako...", 
+        "cite_name": "National Technical University of Athens", 
+        "title": "[PDF]Konstantinos (Kostas) J. Kyriakopoulos, Ph.D. Professor of ..."
+    }, 
+    {
+        "content": "kostas j. kyriakopoulos, professor. 9 heroon ... and industry. for more information, please visit: www.robocademy.eu or email contact@robocademy.eu...", 
+        "email_addr_list": [
+            "contact@robocademy.eu"
+        ], 
+        "cite_url": "https://robotik.dfki-bremen.de/fileadmin/content/.../ESR9_NTUA.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Robocademy – The Maritime Robotics Research and ..."
+    }, 
+    {
+        "content": "kostas j. kyriakopoulos ... email: chmpechl at mail.ntua.gr | chmpechl at auth.gr | chmpechl at gmail.com ... email: giwrgos_boutselis at hotmail.com", 
+        "email_addr_list": [
+            "chmpechl@mail.ntua.gr", 
+            "chmpechl@auth.gr", 
+            "chmpechl@gmail.com", 
+            "giwrgos_boutselis@hotmail.com"
+        ], 
+        "cite_url": "www.thehandembodied.eu/ntua", 
+        "cite_name": "", 
+        "title": "National Technical University Athens - The Hand Embodied"
+    }, 
+    {
+        "content": "e-mail: dimos@kth.se ... email me for more information. .... dimos v. dimarogonas and kostas j. kyriakopoulos, a feedback control scheme for multiple...", 
+        "email_addr_list": [
+            "dimos@kth.se"
+        ], 
+        "cite_url": "people.kth.se/~dimos/", 
+        "cite_name": "Royal Institute of Technology", 
+        "title": "Dimos Dimarogonas Homepage"
+    }, 
+    {
+        "content": "email: minas.liarokapis@yale.edu. kostas j. kyriakopoulos is with the control systems lab,. school of mechanical engineering, national technical university of.", 
+        "email_addr_list": [
+            "minas.liarokapis@yale.edu"
+        ], 
+        "cite_url": "www.minasliarokapis.com/IROS2015_Mavrogiannis_QuantifyingAnthro...", 
+        "cite_name": "", 
+        "title": "[PDF]Quantifying Anthropomorphism of Robot Arms - Minas ..."
+    }
+]

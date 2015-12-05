@@ -1,0 +1,47 @@
+[
+    {
+        "content": "sun, shouheng  curriculum vitae  shouheng_sun@brown.edu email icon ... professor sun received his phd in chemistry from brown university in 1996.", 
+        "email_addr_list": [
+            "shouheng_sun@brown.edu"
+        ], 
+        "cite_url": "https://vivo.brown.edu/display/ssun", 
+        "cite_name": "", 
+        "title": "Sun, Shouheng - Researchers @ Brown - Brown University"
+    }, 
+    {
+        "content": "in 2008, dr. sun received her bachelors degree in chemistry and chemical engineering from nanjing university ... shouheng sun. ... email: info@nibib.nih.gov.", 
+        "email_addr_list": [
+            "info@nibib.nih.gov"
+        ], 
+        "cite_url": "www.nibib.nih....", 
+        "cite_name": "National Institute of Biomedical Imaging and Bioengin...", 
+        "title": "Xiaolian Sun, Ph.D. | National Institute of Biomedical ..."
+    }, 
+    {
+        "content": "see information and reports about ssun0609@email.com (shouheng suns e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "ssun0609@email.com"
+        ], 
+        "cite_url": "spam-report.email/ssun0609/email.com", 
+        "cite_name": "", 
+        "title": "ssun0609@email.com (Shouheng Suns e-mail) - Spam ..."
+    }, 
+    {
+        "content": "all registered students have one e-mail address (studentnumber@sun.ac.za) with ... if you exceed the limit, your e-mail will be blocked automatically. a maximum...", 
+        "email_addr_list": [
+            "studentnumber@sun.ac.za"
+        ], 
+        "cite_url": "https://stbsp01.stb.sun.ac.za/.../Student%20E-Mail...", 
+        "cite_name": "Stellenbosch University", 
+        "title": "Student E-Mail - Sharepoint"
+    }, 
+    {
+        "content": "hao zeng, jing li, j. p. liu, zhong l. wang  shouheng sun ... and requests for materials should be addressed to s.s. (e-mail: email: ssun@us.ibm.com).", 
+        "email_addr_list": [
+            "ssun@us.ibm.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Nature", 
+        "title": "Exchange-coupled nanocomposite magnets by nanoparticle ..."
+    }
+]

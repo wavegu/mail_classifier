@@ -1,0 +1,20 @@
+[
+    {
+        "content": "nikolaus correll assistant professor primary ... office: ecot 733; phone: (303) 492-0430; fax: (303) 492-2758; e-mail: nikolaus.correll@colorado.edu...", 
+        "email_addr_list": [
+            "nikolaus.correll@colorado.edu"
+        ], 
+        "cite_url": "https://ecee.colorado.edu/fac_staff/personnel_pages/correll.html", 
+        "cite_name": "", 
+        "title": "Nikolaus Correll - Department of Electrical, Computer, and ..."
+    }, 
+    {
+        "content": "assistant professor computer science office: ecot 733 phone: (303) 492-2233 email: nikolaus.correll@colorado.edu website: http://correll.cs.colorad.", 
+        "email_addr_list": [
+            "nikolaus.correll@colorado.edu"
+        ], 
+        "cite_url": "mse.colorado.edu/faculty/nikolaus-correll/", 
+        "cite_name": "University of Colorado Boulder", 
+        "title": "Nikolaus Correll - Materials Science and Engineering Program"
+    }
+]

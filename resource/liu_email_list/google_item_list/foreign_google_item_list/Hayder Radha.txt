@@ -1,0 +1,40 @@
+[
+    {
+        "content": "email: radha@msu.edu. web: www.egr.msu.edu/waves. hayder radha is a professor of electrical and computer engineering (ece) at michigan state...", 
+        "email_addr_list": [
+            "radha@msu.edu"
+        ], 
+        "cite_url": "www.nisairaq.com/wp.../MNISA_BIO_HayderRadha_April_2010.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Professor Hayder Radha Professor and Associate Chair for ..."
+    }, 
+    {
+        "content": "hayder radha michigan state university east lansing mi 48824 usa radha@egr.msu.edu (pfgs) 16 coders where the former uses the enhancement layer...", 
+        "email_addr_list": [
+            "radha@egr.msu.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-radha-egr-msu-edu-3374614.htm", 
+        "cite_name": "", 
+        "title": "radha@egr.msu.edu - The Email Archive"
+    }, 
+    {
+        "content": "rahul shukla†, hayder radha§ and martin vetterli†. †audio-visual ... email: rahul.shukla@epfl.ch, radha@egr.msu.edu, martin.vetterli@epfl.ch. abstract.", 
+        "email_addr_list": [
+            "rahul.shukla@epfl.ch", 
+            "radha@egr.msu.edu", 
+            "martin.vetterli@epfl.ch"
+        ], 
+        "cite_url": "infoscience.epfl.ch/.../ShuklaR...", 
+        "cite_name": "École Polytechnique Fédérale de Lausanne", 
+        "title": "[PDF]ShuklaRV03a (pdf, 154 KiB) - Infoscience - EPFL"
+    }, 
+    {
+        "content": "hayder radha (email: radha@egr.msu.edu) is with the department of electrical  computer engineering, michigan state university, east lansing, mi, usa.", 
+        "email_addr_list": [
+            "radha@egr.msu.edu"
+        ], 
+        "cite_url": "www.academia.edu/.../Multihop_Rate_Adaptive_Wireless_...", 
+        "cite_name": "Academia.edu", 
+        "title": "Multihop Rate Adaptive Wireless Scalable Video Using ..."
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "zhong-can ou-yang, dean of the school of physical sciences, ustc, professor in theoretical physics. ... e-mail: yyzhou@ustc.edu.cn ... professor hou jianguo is a member of the chinese academy of science, president of ustc.", 
+        "email_addr_list": [
+            "yyzhou@ustc.edu.cn"
+        ], 
+        "cite_url": "en.physics.ustc.edu.cn/Fa...", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "Academician (CAS) - University of Science and Technology ..."
+    }, 
+    {
+        "content": "email: sibcb@sibs.ac.cn. website: www.sibcb.ac.cn. representative publications. 2015. cuiqing zhong, zhenfei xie, qi yin, rui dong, suming yang, yuxuan wu, .... chao wang, wenxiang zhang, mengxin yin, lianxin hu, peixue li, jiajun...", 
+        "email_addr_list": [
+            "sibcb@sibs.ac.cn"
+        ], 
+        "cite_url": "www.sibcb.ac.cn/ep2-3.asp", 
+        "cite_name": "", 
+        "title": "Representative Publications - Institute of Biochemistry and ..."
+    }
+]

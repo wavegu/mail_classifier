@@ -1,0 +1,11 @@
+[
+    {
+        "content": "oct 16, 2006 - hu ai qun from southeast university, china. phd. students: li qiang , sun mei, ... email: chen0185@ntu.edu.sg. thesis topic: a study of...", 
+        "email_addr_list": [
+            "chen0185@ntu.edu.sg"
+        ], 
+        "cite_url": "www3.ntu.edu.sg/home/.../people.htm", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "people"
+    }
+]

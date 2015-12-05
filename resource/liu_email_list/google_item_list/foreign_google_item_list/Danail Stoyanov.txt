@@ -1,0 +1,11 @@
+[
+    {
+        "content": "jul 24, 2013 - name: danail stoyanov; email: danail.stoyanov@ucl.ac.uk; phone: room: edit | attach | refresh | diffs | more | revision r1.2 - 24 jul 2013...", 
+        "email_addr_list": [
+            "danail.stoyanov@ucl.ac.uk"
+        ], 
+        "cite_url": "campar.in.tum.de/Main/DanailStoyanov", 
+        "cite_name": "Technische Universität München", 
+        "title": "DanailStoyanov"
+    }
+]

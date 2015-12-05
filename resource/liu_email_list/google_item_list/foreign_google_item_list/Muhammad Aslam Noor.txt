@@ -1,0 +1,59 @@
+[
+    {
+        "content": "email: noormaslam@hotmail.com. biography: prof. dr. muhammad aslam noor earned his phd degree from brunel university, london, uk (1975) in the field of...", 
+        "email_addr_list": [
+            "noormaslam@hotmail.com"
+        ], 
+        "cite_url": "ww3.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=465", 
+        "cite_name": "", 
+        "title": "Dr. Muhammad Aslam Noor - Faculty Proflle"
+    }, 
+    {
+        "content": "faton z. merovci email: fmerovci@yahoo.com ... email: cch@dmat.ufpe.br, claudiocue@gmail.com. difference equations .... muhammad aslam noor email:...", 
+        "email_addr_list": [
+            "fmerovci@yahoo.com", 
+            "cch@dmat.ufpe.br", 
+            "claudiocue@gmail.com"
+        ], 
+        "cite_url": "www.emis.de/journals/BMAA/editorial.html", 
+        "cite_name": "", 
+        "title": "Bulletin of Mathematical Analysis and Applications"
+    }, 
+    {
+        "content": "muhammad aslam noor etisalat college of engineering, sharjah, united arab emirates email: noor@ece.ac.ae. noor, m.a. operator-splitting methods for...", 
+        "email_addr_list": [
+            "noor@ece.ac.ae"
+        ], 
+        "cite_url": "emis.dsd.sztaki.hu/journals/JIPAM/author/noor.html", 
+        "cite_name": "", 
+        "title": "Muhammad Aslam Noor - EMIS"
+    }, 
+    {
+        "content": "email address: regina.burachik [at] unisa.edu.au. portrait, muhammad aslam noor. professor, mathematics department, comsats institute of information...", 
+        "email_addr_list": [
+            "regina.burachik@unisa.edu.au"
+        ], 
+        "cite_url": "cjms.journals.umz.ac.ir/journal/editorial.board", 
+        "cite_name": "", 
+        "title": "Caspian Journal of Mathematical Sciences - Editorial Board"
+    }, 
+    {
+        "content": "e-mail: babedallah@yahoo.com. school of ... 4- muhammad aslam noor and abdellah bnouhachem `` self-adaptive methods for mixed quasi- variational...", 
+        "email_addr_list": [
+            "babedallah@yahoo.com"
+        ], 
+        "cite_url": "www.austms.org.au/.../resume_bnouhac...", 
+        "cite_name": "Australian Mathematical Society", 
+        "title": "[PDF]Abdellah Bnouhachem EDUCATION - Australian ..."
+    }, 
+    {
+        "content": "t.m.karade, nagpur, india, email: t_karade@yahoo.co.in. b.d.acharya, new delhi, india ... muhammad aslam noor, pakistan, email: noormaslam@hotmail.com.", 
+        "email_addr_list": [
+            "t_karade@yahoo.co.in", 
+            "noormaslam@hotmail.com"
+        ], 
+        "cite_url": "https://sites.google.com/site/drbimalmishra/membersoftheeditorialboard", 
+        "cite_name": "", 
+        "title": "membersoftheeditorialboard - IJMMSA - Google Sites"
+    }
+]

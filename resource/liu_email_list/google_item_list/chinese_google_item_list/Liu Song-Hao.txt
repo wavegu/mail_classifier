@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email: ceghchen@ust.hk ... minimization of sludge production in biotreatment processes through energy-spilling - guang-hao chen, y. liu and l.f. song", 
+        "email_addr_list": [
+            "ceghchen@ust.hk"
+        ], 
+        "cite_url": "www.ce.ust.hk/.../Fac...", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "Guang-Hao CHEN - FacultyStaffDetail"
+    }, 
+    {
+        "content": "jul 13, 2009 - 100029. fax. 010-62010846. email. tyhao@mail.iggcas.ac.cn .... hao tian yao, yang chang chun; liu hong;song hai bin;jiang wei wei.", 
+        "email_addr_list": [
+            "tyhao@mail.iggcas.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Hao Tianyao - Staff--INSTITUTE OF GEOLOGY AND ..."
+    }, 
+    {
+        "content": "hao wei, ning ma, feng shi, zhiqiang wang and xi zhang, artificial nacre by alternating preparation of ... shouchun yin, bo song, guanqing liu, zhiqiang wang and xi zhang, self-organization of .... e-mail: xi@mail.tsinghua.edu.cn...", 
+        "email_addr_list": [
+            "xi@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/publish/.../faculties-2-39.html", 
+        "cite_name": "Tsinghua University", 
+        "title": "ZHANG Xi - 清华大学 - Tsinghua University"
+    }
+]

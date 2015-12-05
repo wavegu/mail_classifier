@@ -1,0 +1,57 @@
+[
+    {
+        "content": "antonios g. mikos ... 6500 main st, houston, tx 77030. email mikos@rice.edu contact number 713-348-5355 faculty web page link  mikos research group...", 
+        "email_addr_list": [
+            "mikos@rice.edu"
+        ], 
+        "cite_url": "profiles.gulfcoastconsortia.org/profilesystem/editprofile.php?pid=1738", 
+        "cite_name": "", 
+        "title": "Mikos, Antonios G. (Faculty Profile) - Faculty Profiles"
+    }, 
+    {
+        "content": "e-mail: g-ameer@northwestern.edu. kristi anseth e-mail: ... e-mail: julia.babensee@bme.gatech.edu. stephen f. badylak e-mail: ... antonios g. mikos e-mail:...", 
+        "email_addr_list": [
+            "g-ameer@northwestern.edu", 
+            "julia.babensee@bme.gatech.edu"
+        ], 
+        "cite_url": "https://onlinelibrary.wiley.com/.../EditorialBoard.html", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Journal of Biomedical Materials Research Part A - Editorial ..."
+    }, 
+    {
+        "content": "antonios g. mikos. professor of bioengineering and chemical and biomolecular engineering, rice university. verified email at rice.edu. @rice.edu. cited by...", 
+        "email_addr_list": [
+            "email@rice.edu"
+        ], 
+        "cite_url": "scholar.google.com.br/citations?view_op=search...hl...", 
+        "cite_name": "Google", 
+        "title": "Google Scholar Citations"
+    }, 
+    {
+        "content": "cance@roswellpark.org nci mikos antonios g. rice university rice university 6100 main houston texas 77005-1892 mikos@rice.", 
+        "email_addr_list": [
+            "cance@roswellpark.org"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-mikos-rice-edu-22491431.htm", 
+        "cite_name": "", 
+        "title": "mikos@rice.edu - The Email Archive"
+    }, 
+    {
+        "content": "engineering complex tissues. anthony atala,; f. kurtis kasper and; antonios g. mikos,*. + author ... e-mail: mikos@rice.edu. science translational medicine 14...", 
+        "email_addr_list": [
+            "mikos@rice.edu"
+        ], 
+        "cite_url": "stm.sciencemag.org/content/4/.../160rv12", 
+        "cite_name": "Science Translational Medicine", 
+        "title": "Engineering Complex Tissues | Science Translational ..."
+    }, 
+    {
+        "content": "7635261398, mn 55112. work phone: (763) 505-4549. fax: (763) 505-4712. email: suping.lyu@medtronic.com. antonios g. mikos, phd. member. professor.", 
+        "email_addr_list": [
+            "suping.lyu@medtronic.com"
+        ], 
+        "cite_url": "biomaterials-org.securec7.ezhostingserver.com/.../meetings_committee.p...", 
+        "cite_name": "", 
+        "title": "[PDF]committee members - Society for Biomaterials"
+    }
+]

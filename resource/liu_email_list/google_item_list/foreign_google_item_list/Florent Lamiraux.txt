@@ -1,0 +1,30 @@
+[
+    {
+        "content": "email: florent.lamiraux@laas.fr. address: laas-cnrs 7, avenue du colonel roche 31077 toulouse cedex 4. tel: 05.61.33.64.54. fax: 05.61.33.69.69", 
+        "email_addr_list": [
+            "florent.lamiraux@laas.fr"
+        ], 
+        "cite_url": "projects.laas.fr/.../Fl...", 
+        "cite_name": "Laboratory for Analysis and Architecture of Systems", 
+        "title": "Gepetto Team Members/Florent Lamiraux - LAAS"
+    }, 
+    {
+        "content": "author 3: florent lamiraux. address: laas-cnrs, av du colonel roche, n 7,. 31077 toulouse, france. email: florent@laas.fr. telf: +33 05 61 33 6946...", 
+        "email_addr_list": [
+            "florent@laas.fr"
+        ], 
+        "cite_url": "https://webdiis.unizar.es/~montesan/web/pdfs/MbICP_TRO.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Metric-Based Iterative Closest Point Scan Matching for ..."
+    }, 
+    {
+        "content": "verified email at disneyresearch.com. @disneyresearch.com ... verified email at cs.umd.edu. @cs.umd.edu. cited by ... florent lamiraux. laas, cnrs. verified...", 
+        "email_addr_list": [
+            "email@disneyresearch.com", 
+            "email@cs.umd.edu"
+        ], 
+        "cite_url": "scholar.google.be/citations?view_op=search_authors...", 
+        "cite_name": "Google", 
+        "title": "Humanoid Robotics - Google Scholar Citations"
+    }
+]

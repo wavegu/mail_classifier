@@ -1,0 +1,38 @@
+[
+    {
+        "content": "weissleder, ralph, md, phd ... email: rweissleder@mgh.harvard.edu ... glenn dr#, lee k#, park h, weissleder r, yacoby a, lukin md, lee h*, walsworth rl*,...", 
+        "email_addr_list": [
+            "rweissleder@mgh.harvard.edu"
+        ], 
+        "cite_url": "https://csb.mgh.harvard.edu/.../ralph_weissleder", 
+        "cite_name": "Harvard University", 
+        "title": "Weissleder, Ralph - MGH Center for Systems Biology"
+    }, 
+    {
+        "content": "... several discoveries into new drugs. search pubmed for papers by ralph weissleder, md, phd. contact information. email: rweissleder@mgh.harvard.edu...", 
+        "email_addr_list": [
+            "rweissleder@mgh.harvard.edu"
+        ], 
+        "cite_url": "hsci.harvard.edu/people/ralph-weissleder-md-phd", 
+        "cite_name": "Harvard University", 
+        "title": "Ralph Weissleder, MD, PhD | Harvard Stem Cell Institute ..."
+    }, 
+    {
+        "content": "weissleder, ralph, md, phd. ralph_weissleder ... email: rweissleder@mgh.harvard.edu ... ghazani aa, castro cm, gorbatov r, lee h, weissleder r. sensitive...", 
+        "email_addr_list": [
+            "rweissleder@mgh.harvard.edu"
+        ], 
+        "cite_url": "https://csb.mgh.harvard.edu/weissleder/pi_bio", 
+        "cite_name": "Harvard University", 
+        "title": "Dr. Ralph Weissleder - MGH Center for Systems Biology"
+    }, 
+    {
+        "content": "dr. ralph weissleder. biography. dr. weissleder is the thrall professor of radiology and professor of systems biology at .... email: bioengineering@tum.de.", 
+        "email_addr_list": [
+            "bioengineering@tum.de"
+        ], 
+        "cite_url": "www.bioengineering.gs.tum.de/en/network/.../prof-dr-ralph-weissleder/", 
+        "cite_name": "", 
+        "title": "Prof. Dr. Ralph Weissleder - TUM - Graduate School of ..."
+    }
+]

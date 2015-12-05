@@ -1,0 +1,38 @@
+[
+    {
+        "content": "sep 18, 2015 - email: zhongchuan.zhang@drexel.edu. advisor: fernand cohen ... tiegen liu, jijie deng, zhongchuan zhang, et al. study on extraction...", 
+        "email_addr_list": [
+            "zhongchuan.zhang@drexel.edu"
+        ], 
+        "cite_url": "www.pages.drexel.edu/~zz57/", 
+        "cite_name": "", 
+        "title": "Zhongchuan Zhang - Drexel University"
+    }, 
+    {
+        "content": "apr 30, 2012 - posts about teigen liu written by mindmadeup. ... tag archives: teigen liu .... got a screenshot for us? email theantibogan@gmail.com...", 
+        "email_addr_list": [
+            "theantibogan@gmail.com"
+        ], 
+        "cite_url": "https://theantibogan.wordpress.com/tag/teigen-liu/", 
+        "cite_name": "", 
+        "title": "Teigen Liu | you said it..."
+    }, 
+    {
+        "content": "feb 15, 2011 - hongxia zhang1,2,a), kun liu1,2, dagong jia1,2, tianhua xu1,3, tiegen liu1,2, gangding peng1,4, ... electronic mail: hxzhang@tju.edu.cn.", 
+        "email_addr_list": [
+            "hxzhang@tju.edu.cn"
+        ], 
+        "cite_url": "scitation.aip.org/content/aip/.../1.3534077", 
+        "cite_name": "American Institute of Physics", 
+        "title": "Improved low concentration gas detection system based on ..."
+    }, 
+    {
+        "content": "phone: (703) 444-0850 or (714) 289-3112; email: ouzounov@chapman.edu .... ouzounov, dimitar; pulinets, sergey; tramutoli, valerio; liu, tiegen; hattori,...", 
+        "email_addr_list": [
+            "ouzounov@chapman.edu"
+        ], 
+        "cite_url": "https://www.chapman.edu/our.../dimitar-ouzounov", 
+        "cite_name": "Chapman University", 
+        "title": "Dr. Dimitar Ouzounov | Faculty Directory | Chapman University"
+    }
+]

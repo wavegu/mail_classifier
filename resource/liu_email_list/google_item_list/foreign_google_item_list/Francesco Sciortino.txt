@@ -1,0 +1,20 @@
+[
+    {
+        "content": "colloidal particles? francesco sciortino. dipartimento di fisica, universita di roma la sapienza, roma, italy. email: francesco.sciortino@uniroma1.it. abstract:.", 
+        "email_addr_list": [
+            "francesco.sciortino@uniroma1.it"
+        ], 
+        "cite_url": "events.tifrh.res.in/sof2014/talkabstracts/Francesco-Sciortino.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Francesco Sciortino"
+    }, 
+    {
+        "content": "presentation on theme: dynamic arrest in colloidal systems: from glasses to gels francesco sciortino email: francesco.sciortino@phys.uniroma1.it titolo !", 
+        "email_addr_list": [
+            "francesco.sciortino@phys.uniroma1.it"
+        ], 
+        "cite_url": "slideplayer.com/slide/6932705/", 
+        "cite_name": "", 
+        "title": "Presentation Dynamic arrest in colloidal systems: from ..."
+    }
+]

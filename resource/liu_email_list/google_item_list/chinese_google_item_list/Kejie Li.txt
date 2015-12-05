@@ -1,0 +1,29 @@
+[
+    {
+        "content": "mr kejie li. position: honours student. email: u5541735@anu.edu.au. building: rsise (115). room: b236. groups: cs, ai, machinelearning. staff category...", 
+        "email_addr_list": [
+            "u5541735@anu.edu.au"
+        ], 
+        "cite_url": "people.cecs.anu.edu....", 
+        "cite_name": "ANU College of Engineering and Computer Science", 
+        "title": "Kejie LI - CECS People - ANU"
+    }, 
+    {
+        "content": "kejie li, phd. postdoctoral associate kejie@broadinstitute.org phd, computational biology, purdue university, 2011. bs, biological sciences, sichuan...", 
+        "email_addr_list": [
+            "kejie@broadinstitute.org"
+        ], 
+        "cite_url": "https://www.broadinstitute.org/.../group-members", 
+        "cite_name": "Broad Institute", 
+        "title": "Group Members | Broad Institute of MIT and Harvard"
+    }, 
+    {
+        "content": "qiong wu - phd, office: hock 334, x46207, email: wu41@purdue.edu, office: x48124; james ... kejie li - phd, computational biologist at biogen idec email:...", 
+        "email_addr_list": [
+            "wu41@purdue.edu"
+        ], 
+        "cite_url": "rna.genomics.purdue.edu/Gribskov_Lab", 
+        "cite_name": "", 
+        "title": "Gribskov Lab - Purdue Genomics Wiki"
+    }
+]

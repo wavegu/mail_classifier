@@ -1,0 +1,12 @@
+[
+    {
+        "content": "email: ncheng26@uwo.ca, mohammad norouzi banis room: teb 315 ... email: bxiao4@uwo.ca, wei xiao ph.d. candidate ... dr. xiangbo meng ph. d student", 
+        "email_addr_list": [
+            "ncheng26@uwo.ca", 
+            "bxiao4@uwo.ca"
+        ], 
+        "cite_url": "www.eng.uwo.ca/people/asun/groups.htm", 
+        "cite_name": "University of Western Ontario", 
+        "title": "Dr. Suns Nanomaterials and Energy Group - Western ..."
+    }
+]

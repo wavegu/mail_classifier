@@ -1,0 +1,30 @@
+[
+    {
+        "content": "long cheng received his b. eng. in control engineering from nankai university, ... email: chenglong@compsys.ia.ac.cn or long.cheng.1982@gmail.com ..... ting wu, siyao fu, long cheng, rui zheng, xiuqing wang, xinkai kuai, guosheng...", 
+        "email_addr_list": [
+            "chenglong@compsys.ia.ac.cn", 
+            "long.cheng.1982@gmail.com"
+        ], 
+        "cite_url": "compsys.ia.ac.cn/~chenglong/", 
+        "cite_name": "", 
+        "title": "Welcome to Dr. Long (Leo) Chengs Homepage"
+    }, 
+    {
+        "content": "email: clong@cse.ust.hk. url: http://www.cse.ust.hk/~ ... cheng long, raymond chi-wing wong, ke wang and ada wai-chee fu;. “collective spatial keyword...", 
+        "email_addr_list": [
+            "clong@cse.ust.hk"
+        ], 
+        "cite_url": "www.cse.ust.hk/~clon...", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "[PDF]Cheng LONG - Department of Computer Science and ..."
+    }, 
+    {
+        "content": "jul 31, 2014 - chenglong fu, jianmei wang, ken chen, zhangguo yu and qiang huang. a1 state key ... e-mail: fcl@tsinghua.edu.cn. how to cite this...", 
+        "email_addr_list": [
+            "fcl@tsinghua.edu.cn"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S02635747...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Robotica - A walking control strategy combining global ..."
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "content": "professor joemon jose. sawb 202, school of computing science, ... (computing science). telephone: 01413301636 email: joemon.jose@glasgow.ac.uk...", 
+        "email_addr_list": [
+            "joemon.jose@glasgow.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Glasgow", 
+        "title": "Professor Joemon Jose - University of Glasgow"
+    }, 
+    {
+        "content": "oct 2, 2012 - email: anuj at cs dot cmu dot edu , goyal dot anuj at gmail dot com ... martin halvey, anuj goyal, robert villa, joemon m. jose.", 
+        "email_addr_list": [
+            "anuj@cs.cmu.edu", 
+            "anuj@gmail.com"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~akgoyal/", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Anuj Goyals Home Page - School of Computer Science"
+    }, 
+    {
+        "content": "joemon m. jose department of computing science university of glasgow uk. hideo@dcs.gla.ac.uk villar@dcs.gla.ac.uk jj@dcs.gla.ac.uk abstract the...", 
+        "email_addr_list": [
+            "hideo@dcs.gla.ac.uk", 
+            "villar@dcs.gla.ac.uk", 
+            "jj@dcs.gla.ac.uk"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-jj-dcs-gla-ac-11638458.htm", 
+        "cite_name": "", 
+        "title": "jj@dcs.gla.ac - The Email Archive"
+    }, 
+    {
+        "content": "image of envelope icon to indicate email address e-mail: r.p.cummins@greenwich.ac.uk ... ronan cummins, joemon m. jose and colm oriordan. improved...", 
+        "email_addr_list": [
+            "r.p.cummins@greenwich.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Greenwich", 
+        "title": "Staff profiles - Computing  Information Systems - University ..."
+    }
+]

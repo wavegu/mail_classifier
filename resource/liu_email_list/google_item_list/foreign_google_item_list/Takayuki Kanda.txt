@@ -1,0 +1,20 @@
+[
+    {
+        "content": "kanda, takayuki. address: atr intelligent robotics and communication ... email: kanda@atr.jp. web page: keywords: intelligent robotics; human-robot...", 
+        "email_addr_list": [
+            "kanda@atr.jp"
+        ], 
+        "cite_url": "www.colorado.edu/.../indiadd.cgi?...Kan...", 
+        "cite_name": "University of Colorado Boulder", 
+        "title": "Takayuki Kanda"
+    }, 
+    {
+        "content": "see information and reports about takkanda@hotmail.com (takayuki kandas e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "takkanda@hotmail.com"
+        ], 
+        "cite_url": "spam-report.email/takkanda/hotmail.com", 
+        "cite_name": "", 
+        "title": "takkanda@hotmail.com (Takayuki Kandas e-mail) - Spam ..."
+    }
+]

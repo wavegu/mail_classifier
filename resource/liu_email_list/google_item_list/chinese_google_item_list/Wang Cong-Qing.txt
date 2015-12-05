@@ -1,0 +1,56 @@
+[
+    {
+        "content": "174# shazhengjie street , shapingba district, chongqing , 400030, p. r. china. phone: 13527546605 email: wangyong@cqu.edu.cn. positions. school of...", 
+        "email_addr_list": [
+            "wangyong@cqu.edu.cn"
+        ], 
+        "cite_url": "ceba.cqu.edu.cn/eba/index.eda?method=teacherid=32", 
+        "cite_name": "", 
+        "title": "教师主页 - [ Wang Yong ]"
+    }, 
+    {
+        "content": "174# shazhengjie street, shapingba district, chongqing, 400030, p. r. china phone: 13637900236 email: wcxmx@cqu.edu.cn. education: bachelor...", 
+        "email_addr_list": [
+            "wcxmx@cqu.edu.cn"
+        ], 
+        "cite_url": "ceba.cqu.edu.cn/eba/index.eda?method=teacherid=50", 
+        "cite_name": "", 
+        "title": "教师主页 - [ Wang Chunxiu ]"
+    }, 
+    {
+        "content": "leaders and teachers from chongqing intellectual property college also attended the meeting. .... chen yu, lin zhihua, wang yue, mi lin, deng ming, du changhua, li shan, yang wu, zheng yimin, quan xuejun, .... email:wb@cqut.edu.cn", 
+        "email_addr_list": [
+            "wb@cqut.edu.cn"
+        ], 
+        "cite_url": "english.cqut.edu.cn/", 
+        "cite_name": "", 
+        "title": "Chongqing University of Technology"
+    }, 
+    {
+        "content": "aug 6, 2015 - contact:darren wang, branch manager tel:(+86) 23 6707 9890. fax:(+86) 23 6707 9893. email:chongqing@globeexpress.com", 
+        "email_addr_list": [
+            "chongqing@globeexpress.com"
+        ], 
+        "cite_url": "www.globeexpress.com/en/chongqing-china/", 
+        "cite_name": "", 
+        "title": "Chongqing - China - Globe Express Services"
+    }, 
+    {
+        "content": "email: qingxia@tsinghua.edu.cn. tel: +86-10-62792540, fax: +86-10- .... haiwang zhong, qing xia, yang wang, chongqing kang. dynamic economic dispatch...", 
+        "email_addr_list": [
+            "qingxia@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201012161109278697265...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Department of Electrical Engineering,Tsinghua"
+    }, 
+    {
+        "content": "zhengzhou office, chongqing office. room 1611, weilai building, no.69 ... location, scope, contact name, email, phone number. nanchang, all trade, ian wang, ian.wang@oocl.com, (86-791) 86560335. wuhan /changsha, all trade, kitty...", 
+        "email_addr_list": [
+            "ian.wang@oocl.com"
+        ], 
+        "cite_url": "www.oocl.com/china/eng/.../inland?site...", 
+        "cite_name": "Orient Overseas Container Line", 
+        "title": "OOCL - Xian / Zhengzhou / Chengdu / Chongqing /Wuhan ..."
+    }
+]

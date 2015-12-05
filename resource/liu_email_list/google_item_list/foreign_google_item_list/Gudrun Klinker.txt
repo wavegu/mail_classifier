@@ -1,0 +1,29 @@
+[
+    {
+        "content": "nov 3, 2015 - germany; raum 00.013.034; tel: +49 (89) 289-18215. fax: +49 (89) 289-17059; email: klinker@in.tum.de; office hour: by appointment (email).", 
+        "email_addr_list": [
+            "klinker@in.tum.de"
+        ], 
+        "cite_url": "campar.in.tum.de/Main/GudrunKlinker", 
+        "cite_name": "Technische Universität München", 
+        "title": "Prof. Gudrun Klinker, Ph.D."
+    }, 
+    {
+        "content": "gudrun klinker ph.d. setzt sich sehr fr den games engineering studiengang ein. * klinker@in.tum.de 15 hochschule die studienzuschsse warum wir es...", 
+        "email_addr_list": [
+            "klinker@in.tum.de"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-klinker-in-tu...", 
+        "cite_name": "", 
+        "title": "klinker@in.tum.de - The Email Archive"
+    }, 
+    {
+        "content": "nov 13, 2007 - münchen, germany. e-mail: pustka@in.tum.de .... daniel pustka , manuel huber , martin bauer , gudrun klinker, spatial relationship patterns:...", 
+        "email_addr_list": [
+            "pustka@in.tum.de"
+        ], 
+        "cite_url": "dl.acm.org/citation.cfm?id=1514360", 
+        "cite_name": "Association for Computing Machinery", 
+        "title": "A System Architecture for Ubiquitous Tracking Environments"
+    }
+]

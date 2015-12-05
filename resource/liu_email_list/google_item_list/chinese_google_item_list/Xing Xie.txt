@@ -1,0 +1,11 @@
+[
+    {
+        "content": "email address: xingx@microsoft.com. web site: ... nicholas jing yuan, yu zheng, xing xie, yingzi wang, kai zheng, hui xiong,. discovering urban functional...", 
+        "email_addr_list": [
+            "xingx@microsoft.com"
+        ], 
+        "cite_url": "research.microsoft.com/.../xingx/curriculumvitae-xin...", 
+        "cite_name": "Microsoft Research", 
+        "title": "[PDF]Curriculum Vitae – Xing Xie - Microsoft Research"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "catholic university of america. eecs department. washington, dc 20064 phone: 202-319-6465 email: plaku@cua.edu http://faculty.cua.edu/plaku  erion plaku.", 
+        "email_addr_list": [
+            "plaku@cua.edu"
+        ], 
+        "cite_url": "faculty.cua.edu/plaku/ErionPlaku_CV.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Erion Plaku - The Catholic University of America"
+    }, 
+    {
+        "content": "erion plaku. dept. of computer science, johns hopkins university, baltimore, md 21218 usa. e-mail: erion@cs.jhu.edu. work conducted primarily during the...", 
+        "email_addr_list": [
+            "erion@cs.jhu.edu"
+        ], 
+        "cite_url": "www.cs.rice.edu/~vardi/papers/cav07r2.pdf", 
+        "cite_name": "Rice University", 
+        "title": "[PDF]Hybrid Systems - Rice University"
+    }
+]

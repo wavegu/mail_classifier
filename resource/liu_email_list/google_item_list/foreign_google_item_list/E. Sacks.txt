@@ -1,0 +1,11 @@
+[
+    {
+        "content": "telephone us: +44 (0)20 7286 6391. write to us: the office of rabbi sacks, p.o. box 72007, london, nw6 6rw, uk. email us: info@rabbisacks.org. all speaker...", 
+        "email_addr_list": [
+            "info@rabbisacks.org"
+        ], 
+        "cite_url": "www.rabbisacks.org/contact-us/", 
+        "cite_name": "", 
+        "title": "Contact Us - Rabbi Sacks"
+    }
+]

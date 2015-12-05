@@ -1,0 +1,30 @@
+[
+    {
+        "content": "nov 11, 2015 - dr. paras n. prasad is a distinguished professor of chemistry, physics, ... you can contact dr. prasad by e-mail at pnprasad@buffalo.edu.", 
+        "email_addr_list": [
+            "pnprasad@buffalo.edu"
+        ], 
+        "cite_url": "www.photonics.buffalo.edu/prasad.html", 
+        "cite_name": "University at Buffalo", 
+        "title": "Paras N. Prasad - The Institute for Lasers, Photonics and ..."
+    }, 
+    {
+        "content": "paras n. prasad ... e-mail: pnprasad@buffalo.edu ... i. klejbor, e. k. stachowiak, p. dutta, i. roy, n. kaur, e. j. bergey, p. n. prasad and m. k. stachowiak, natl.", 
+        "email_addr_list": [
+            "pnprasad@buffalo.edu"
+        ], 
+        "cite_url": "chemistry.buffalo.edu/people/prasad/", 
+        "cite_name": "University at Buffalo", 
+        "title": "Paras N. Prasad - Department of Chemistry :: University at ..."
+    }, 
+    {
+        "content": "paras n. prasad. n.v.s. rao ... fax: 303.384.6655. email: mailto:jao.vandelagemaat@nrel.gov ... fax: 303.497.3387. email: bertness@boulder.nist.gov", 
+        "email_addr_list": [
+            "jao.vandelagemaat@nrel.gov", 
+            "bertness@boulder.nist.gov"
+        ], 
+        "cite_url": "www.colorado.edu/physics/.../collabs.ht...", 
+        "cite_name": "University of Colorado Boulder", 
+        "title": "Smalyukh Research Group - University of Colorado Boulder"
+    }
+]

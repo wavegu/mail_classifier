@@ -1,0 +1,33 @@
+[
+    {
+        "content": "university of tsukuba, japan e-mail: lijie at cs.tsukuba.ac.jp ... e-mail: peris at it.teithe.gr, pchatzimisios at ieee.org ... vice chair kwang-cheng chen national...", 
+        "email_addr_list": [
+            "lijie@cs.tsukuba.ac.jp", 
+            "peris@it.teithe.gr", 
+            "pchatzimisios@ieee.org"
+        ], 
+        "cite_url": "cms.comsoc.org/eprise/main/SiteGen/TC_BDPAN/.../Officers.html", 
+        "cite_name": "", 
+        "title": "Officers"
+    }, 
+    {
+        "content": "kwang-cheng chen, national taiwan university (chenkc@cc.ee.ntu.edu.tw) track vice- ... p. lins email and website addresses are plin@csie.ntu.edu.tw and...", 
+        "email_addr_list": [
+            "chenkc@cc.ee.ntu.edu.tw", 
+            "plin@csie.ntu.edu.tw"
+        ], 
+        "cite_url": "globecom2009.ieee-globecom.org/call_for.../GSSAC_ConsNet_bios.htm...", 
+        "cite_name": "", 
+        "title": "Kwang-Cheng Chen - IEEE GLOBECOM 2009"
+    }, 
+    {
+        "content": "... usa, email: rosehu@ieee.org. advisor: kwang-cheng chen, national taiwan university, taiwan, email: chenkc@cc.ee.ntu.edu.tw. dedicated sig web site:.", 
+        "email_addr_list": [
+            "rosehu@ieee.org", 
+            "chenkc@cc.ee.ntu.edu.tw"
+        ], 
+        "cite_url": "https://sites.google.com/site/gcccomsoc/sig/-sig-on-green-cellular-networks", 
+        "cite_name": "", 
+        "title": "IEEE SIG on Green Cellular Networks - Google Sites"
+    }
+]

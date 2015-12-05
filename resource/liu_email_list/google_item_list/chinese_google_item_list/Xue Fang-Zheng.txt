@@ -1,0 +1,47 @@
+[
+    {
+        "content": "jun 3, 2012 - xue fangzheng. 023-65105096; frank_xfz@sina.com.cn. motto: do the core technology for the benefit of the whole world. description:", 
+        "email_addr_list": [
+            "frank_xfz@sina.com.cn"
+        ], 
+        "cite_url": "accu.cqu.edu.cn/web/eteacher/571.jhtml", 
+        "cite_name": "", 
+        "title": "Xue，Fang-Zheng - 重庆大学自动化学院"
+    }, 
+    {
+        "content": "email: fzpeng@msu.edu ... xinke wu; hui chen; junming zhang; fangzheng peng; zhaoming qian ..... yaosuo xue; baoming ge; fang zheng peng. reliability...", 
+        "email_addr_list": [
+            "fzpeng@msu.edu"
+        ], 
+        "cite_url": "scholars.opb.msu.edu/printpage_cv_ctrl.asp?n=Fang+Zheng...", 
+        "cite_name": "", 
+        "title": "[PDF]Fang Zheng Peng - MSU Scholars - Michigan State University"
+    }, 
+    {
+        "content": "email : defuxu1@163.com. research interests: ◇ bioremediation ... (11) xu de-fu, li ying-xue, zheng jian-wei, zhao xiao-li, fang hua. effect of substrates on.", 
+        "email_addr_list": [
+            "defuxu1@163.com"
+        ], 
+        "cite_url": "https://www.purdue.edu/.../Curriculum%20Vitae.pdf", 
+        "cite_name": "Purdue University", 
+        "title": "[PDF]Prof. Xus CV - Purdue University"
+    }, 
+    {
+        "content": "verified email at cityu.edu.hk. @cityu.edu. ... department of automatic control engineering, feng chia university, assistant professor. verified ... fangzheng xue.", 
+        "email_addr_list": [
+            "email@cityu.edu.hk"
+        ], 
+        "cite_url": "scholar.google.com/citations?view_op=search...", 
+        "cite_name": "Google Scholar", 
+        "title": "Google Scholar Citations"
+    }, 
+    {
+        "content": "phone：, +86-24-83688521. email：, fangzheng@mail.neu.edu.cn. address: 309#,no.11, lane 3, wenhua road, heping district, shenyang, liaoning, china.", 
+        "email_addr_list": [
+            "fangzheng@mail.neu.edu.cn"
+        ], 
+        "cite_url": "faculty.neu.edu.cn/fangzheng/", 
+        "cite_name": "", 
+        "title": "Welcome to Zheng Fangs Home Page"
+    }
+]

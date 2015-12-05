@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: liuhong@ntu.edu.sg phone: (+65)65927570/7571. office: hss-05-56a/ 05-17. education. phd (hist) ohio university 1995; ma (hist  asian stud)...", 
+        "email_addr_list": [
+            "liuhong@ntu.edu.sg"
+        ], 
+        "cite_url": "research.ntu.edu.sg/.../StaffProfile.asp...", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "NTU: Academic Profile: Prof Liu Hong"
+    }, 
+    {
+        "content": "dr hong liu - personal details. select a page. personal details, research ... role: senior lecturer in marketing. email: hong.liu@manchester.ac.uk. websites.", 
+        "email_addr_list": [
+            "hong.liu@manchester.ac.uk"
+        ], 
+        "cite_url": "www.manchester.ac.uk/research/hong.liu/", 
+        "cite_name": "University of Manchester", 
+        "title": "Dr Hong Liu research profile - personal details | The ..."
+    }, 
+    {
+        "content": "mar 5, 2015 - hong liu, professor of physics ... email: hong_liu@mit.edu ... hong liu has long been interested in issues in quantum gravity, such as the...", 
+        "email_addr_list": [
+            "hong_liu@mit.edu"
+        ], 
+        "cite_url": "web.mit.edu/physics/.../liu_hong.ht...", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "Hong Liu - MIT Department of Physics"
+    }, 
+    {
+        "content": "email:liuhong@ntu.edu.sg. phone: (65) 6592-7570. fax: (65) ... hong kong: center of asian studies, hong kong university, 2002. back to top. back to top...", 
+        "email_addr_list": [
+            "liuhong@ntu.edu.sg"
+        ], 
+        "cite_url": "cicdatabank.library.ohiou.edu/opac/scholar_view.php?...110...1...", 
+        "cite_name": "", 
+        "title": "Hong Liu (刘宏) - Database on Scholars and Librarians in ..."
+    }
+]

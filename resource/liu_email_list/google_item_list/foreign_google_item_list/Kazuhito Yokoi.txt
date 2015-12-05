@@ -1,0 +1,20 @@
+[
+    {
+        "content": "email: kazuhito.yokoi@aist.go.jp. abstract—we developed a key pose input system using a. kinect. tm sensor for choreonoid, an integrated software that.", 
+        "email_addr_list": [
+            "kazuhito.yokoi@aist.go.jp"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Whole-Body Motion Input Method for Bipedal Humanoid ..."
+    }, 
+    {
+        "content": "jun 21, 2013 - email: sylvain.miossec@bourges.univ-orleans.fr. sébastien lengagne ... email: {abderrahmane.kheddar,kazuhito.yokoi}@aist.go.jp. 1 problem...", 
+        "email_addr_list": [
+            "sylvain.miossec@bourges.univ-orleans.fr"
+        ], 
+        "cite_url": "https://hal.archives-ouvertes.fr/hal-00836312/.../BFG09_miossec_hal.pdf", 
+        "cite_name": "", 
+        "title": "Motion Optimization of Robots, Application to HRP-2 - Hal"
+    }
+]

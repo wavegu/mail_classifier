@@ -1,0 +1,29 @@
+[
+    {
+        "content": "réka albert. distinguished professor of ... e-mail: ralbert@phys.psu.edu. affiliations ... s. n. steinway, m. biggs, t. p. loughran, j. papin, r. albert, inference of...", 
+        "email_addr_list": [
+            "ralbert@phys.psu.edu"
+        ], 
+        "cite_url": "www.phys.psu.edu/~ralbert/", 
+        "cite_name": "Pennsylvania State University", 
+        "title": "Réka Albert at Penn State - Department of Physics"
+    }, 
+    {
+        "content": "you are here: home › people › reka albert ... email: ralbert@phys.psu.edu ... j. j. thakar, a.k. pathak, l. murphy, r. albert, i.m. cattadori, network model of...", 
+        "email_addr_list": [
+            "ralbert@phys.psu.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Pennsylvania State University", 
+        "title": "Reka Albert — Penn State University Department of Biology"
+    }, 
+    {
+        "content": "you are here: home → people → reka albert ... s. n. steinway, m. biggs, t. p. loughran, j. papin, r. albert. inference of network ... email: rza1@psu.edu.", 
+        "email_addr_list": [
+            "rza1@psu.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Pennsylvania State University", 
+        "title": "Reka Albert — CIDD"
+    }
+]

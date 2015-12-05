@@ -1,0 +1,38 @@
+[
+    {
+        "content": "liyang luo,* ram b. ambre, sandeep b. mane, eric wei-guang diau* and ... e-mail：peiru0120@nctu.edu.tw, 建議使用chrome, firefox, 以獲得最佳瀏覽效果", 
+        "email_addr_list": [
+            "peiru0120@nctu.edu.tw"
+        ], 
+        "cite_url": "diau08.ac.nctu.edu.tw/", 
+        "cite_name": "National Chiao Tung University", 
+        "title": "Eric Wei-Guang Diau"
+    }, 
+    {
+        "content": "room. tel. email. teh-lu liao (distinguished professor). 41403. 63337 ... hshwchen@mail.ncku.edu.tw. ming-tzu ho ... wei-guang teng (associate professor). 41301 ... che-ming li (quantum computer) (assistant professor). 41405.", 
+        "email_addr_list": [
+            "hshwchen@mail.ncku.edu.tw"
+        ], 
+        "cite_url": "www.es.ncku.edu.tw/.../page.teacher.act...", 
+        "cite_name": "National Cheng Kung University", 
+        "title": "faculty"
+    }, 
+    {
+        "content": "3350132368@qq.com is owned by li wei guang (bei jing shen ya fei wu ye guan li you xian gong si). find domain names registred with...", 
+        "email_addr_list": [
+            "3350132368@qq.com"
+        ], 
+        "cite_url": "domainbigdata.com/email/3350132368@qq.com", 
+        "cite_name": "", 
+        "title": "3350132368@qq.com : Li Wei Guang, China"
+    }, 
+    {
+        "content": "prof zhu weiguang, professor,school of electrical  electronic engineering,college of ... email: ewzhu@ntu.edu.sg ... x. guo, x. lu, z. p. li, and w. zhu.", 
+        "email_addr_list": [
+            "ewzhu@ntu.edu.sg"
+        ], 
+        "cite_url": "research.ntu.edu.sg/.../StaffProfile.asp...", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "NTU: Academic Profile: Prof Zhu Weiguang"
+    }
+]

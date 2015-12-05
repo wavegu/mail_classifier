@@ -1,0 +1,21 @@
+[
+    {
+        "content": "voice: (412) 268-8804. fax: (412) 268-7350. email: matt.mason@cs.cmu.edu. administrative assistant: jean harpley (412) 268-3802 jean@cs.cmu.edu  matts...", 
+        "email_addr_list": [
+            "matt.mason@cs.cmu.edu", 
+            "jean@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~mason/", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Matthew T. Mason"
+    }, 
+    {
+        "content": "matthew t. mason. director, robotics institute; professor, computer science and robotics. email: matt.mason@cs.cmu.edu. website:...", 
+        "email_addr_list": [
+            "matt.mason@cs.cmu.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Matthew T. Mason - Carnegie Mellon University"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "content": "xueyi zhang. assistant professor of chemical engineering. office: 167 fenske laboratory. phone: (814) 865-9746. xuz32@psu.edu  photo of distinguished...", 
+        "email_addr_list": [
+            "xuz32@psu.edu"
+        ], 
+        "cite_url": "www.che.psu.edu/people/index.htm", 
+        "cite_name": "Pennsylvania State University", 
+        "title": "Faculty of The Department of Chemical Engineering at Penn ..."
+    }, 
+    {
+        "content": "xueyi zhang (xuz32 at psu dot edu); project: fischer-tropsch synthesis ... robert carr (robocarr at gmail dot com); project: catalytic consequences of...", 
+        "email_addr_list": [
+            "xuz32@psu.edu", 
+            "robocarr@gmail.com"
+        ], 
+        "cite_url": "iglesia.cchem.berkeley.edu/Members.html", 
+        "cite_name": "", 
+        "title": "LSAC-Members - University of California, Berkeley"
+    }
+]

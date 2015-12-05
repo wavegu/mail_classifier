@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email: g-memik@northwestern.edu. scival experts url: http://www.scholars.northwestern.edu//expert.asp?n=gokhan+memiku_id=1595. vivo uri:...", 
+        "email_addr_list": [
+            "g-memik@northwestern.edu"
+        ], 
+        "cite_url": "scholars.northwestern.edu/printpage_cv_ctrl.asp?...", 
+        "cite_name": "Northwestern University", 
+        "title": "Curriculum Vitae of Gokhan Memik - Northwestern Scholars ..."
+    }, 
+    {
+        "content": "seda ogrenci-memik. associate professor mentor/advisor to current graduate students. graduate director. email: f-memik@northwestern.edu. co-liaisons with...", 
+        "email_addr_list": [
+            "f-memik@northwestern.edu"
+        ], 
+        "cite_url": "www.mccormic...", 
+        "cite_name": "Robert R. McCormick School of Engineering and App...", 
+        "title": "Contact EECS Graduate Student Services | Electrical ..."
+    }, 
+    {
+        "content": "oct 15, 2015 - email: boz283 at ece.northwestern.edu i have been advised by professor alok choudhary and co-advised by professor gokhan memik.", 
+        "email_addr_list": [
+            "boz283@ece.northwestern.edu"
+        ], 
+        "cite_url": "gold.video4mark.com/gokhan-memik-home-page-northwestern-universi...", 
+        "cite_name": "", 
+        "title": "Gokhan Memik Home Page Northwestern University | Video ..."
+    }
+]

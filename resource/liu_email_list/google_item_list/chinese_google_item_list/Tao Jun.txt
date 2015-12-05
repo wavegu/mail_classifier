@@ -1,0 +1,47 @@
+[
+    {
+        "content": "jun tao. ph.d. associate professor, supervisor of phd candidates key laboratory of computer ... fax:0086-25-52090880. e-mail: juntao at seu dot edu dot cn", 
+        "email_addr_list": [
+            "juntao@seu.edu.cn"
+        ], 
+        "cite_url": "cse.seu.edu.cn/people/juntao/", 
+        "cite_name": "", 
+        "title": "Jun Tao"
+    }, 
+    {
+        "content": "nov 9, 2012 - e-mail: junliu@im.ac.cn ... [3] jun liu*, james elmore* and gitta coaker. ... [5] tao chen*, jun liu*, gang lei, yun-feng liu, zhi-gang li,...", 
+        "email_addr_list": [
+            "junliu@im.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "LIU Jun - Faculty and Staff----INSTITUTE OF ..."
+    }, 
+    {
+        "content": "email: junt@mtu.edu  curriculum vitae. i am a phd student in department of computer science at michigan technological university. my advisors are dr.", 
+        "email_addr_list": [
+            "junt@mtu.edu"
+        ], 
+        "cite_url": "www.cs.mtu.edu/~junt/", 
+        "cite_name": "Michigan Technological University", 
+        "title": "Jun Tao - Department of Computer Science - Michigan ..."
+    }, 
+    {
+        "content": "skip contact us mr. tao jun jun@tjfashion.com ms. lisa ....swf. download swf documents of womens navy blue belt from beltssuspenders.com.", 
+        "email_addr_list": [
+            "jun@tjfashion.com"
+        ], 
+        "cite_url": "www.beltssuspenders.com/.../skip-contact-us-mr-tao-jun-jun-tjfashion-com-...", 
+        "cite_name": "", 
+        "title": "SKIP Contact Us Mr. Tao Jun [email protected] Ms. Lisa"
+    }, 
+    {
+        "content": "guo, jun-tao ... email: jguo4@uncc.edu ... biography: jun-tao guo is an associate professor in the department of bioinformatics and genomics, college of...", 
+        "email_addr_list": [
+            "jguo4@uncc.edu"
+        ], 
+        "cite_url": "bioinformatics.uncc.edu/.../guo-...", 
+        "cite_name": "University of North Carolina at Charlotte", 
+        "title": "Guo, Jun-tao | Department of Bioinformatics and Genomics ..."
+    }
+]

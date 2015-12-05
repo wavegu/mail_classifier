@@ -1,0 +1,30 @@
+[
+    {
+        "content": "oct 6, 2015 - dr. guangming xing. professor. office: cohh 4140. phone: 270-745-8848. email: guangming.xing@wku.edu. website:...", 
+        "email_addr_list": [
+            "guangming.xing@wku.edu"
+        ], 
+        "cite_url": "https://www.wku.edu/cs/.../guangming_xin...", 
+        "cite_name": "Western Kentucky University", 
+        "title": "Dr. Guangming Xing - Western Kentucky University"
+    }, 
+    {
+        "content": "email:xjq@263.net. ** beijing institute of technology/school of mechanical and vehicular engineering, beijing, china. email:xiongguangming@bit.edu.cn.", 
+        "email_addr_list": [
+            "xjq@263.net", 
+            "xiongguangming@bit.edu.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../04...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Application of Automatic Manual Transmission Technology ..."
+    }, 
+    {
+        "content": "zhang,guangming. professor .... hui hu, guang-ming zhang, jia-lin zhu, and jia-jiong xiong, 2001, low energy ... email：gmzhang@mail.tsinghua.edu.cn", 
+        "email_addr_list": [
+            "gmzhang@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "info.phys.tsinghua.edu.cn:8080/english/personnel/profile.php?lang...", 
+        "cite_name": "", 
+        "title": "FacultyStaff--Zhang,GuangMing"
+    }
+]

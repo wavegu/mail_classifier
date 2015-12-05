@@ -1,0 +1,39 @@
+[
+    {
+        "content": "jun 12, 2015 - hubbell lab: jeffrey hubbell. hubbell lab  research  people ... contact. email jhubbell@uchicago.edu; assistant yolanda tyler...", 
+        "email_addr_list": [
+            "jhubbell@uchicago.edu"
+        ], 
+        "cite_url": "ime.uchicago.edu/hubbell_group/.../jeffrey_hubbe...", 
+        "cite_name": "University of Chicago", 
+        "title": "Jeffrey Hubbell - Institute for Molecular Engineering"
+    }, 
+    {
+        "content": "e-mail jeffrey.hubbell@epfl.ch. home address: chemin des cond mines 22b. ch-1028 pr verenges, switz. telephone +41 21 803 00 50. telefax +41 1 355...", 
+        "email_addr_list": [
+            "jeffrey.hubbell@epfl.ch"
+        ], 
+        "cite_url": "www.nae.edu/.../31121.aspx?...Print...", 
+        "cite_name": "National Academy of Engineering", 
+        "title": "NAE Website - Prof. Jeffrey A. Hubbell"
+    }, 
+    {
+        "content": "e-mail: jeffrey.hubbell@epfl.ch. career history: ph.d. chemical engineering, rice university, 1986. 2004-present. professor of bioengineering, ecole...", 
+        "email_addr_list": [
+            "jeffrey.hubbell@epfl.ch"
+        ], 
+        "cite_url": "park.itc.u-tokyo.ac.jp/CNBI/.../abst/CVHubbell.pdf", 
+        "cite_name": "University of Tokyo", 
+        "title": "[PDF]NAME: Jeffrey A. HUBBELL AFFILIATION AND ADDRESS ..."
+    }, 
+    {
+        "content": "... school of engineering, ecole polytechnique fédérale de lausanne (epfl), lausanne, switzerland. e-mail jhubbell@uchicago.edu or jeffrey.hubbell@epfl.ch.", 
+        "email_addr_list": [
+            "jhubbell@uchicago.edu", 
+            "jeffrey.hubbell@epfl.ch"
+        ], 
+        "cite_url": "stm.sciencemag.org/content/7/291/291fs23", 
+        "cite_name": "Science Translational Medicine", 
+        "title": "Prescription for a pharmacyte | Science Translational Medicine"
+    }
+]

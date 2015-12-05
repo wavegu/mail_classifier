@@ -1,0 +1,20 @@
+[
+    {
+        "content": "mark w. spong. headshot photo. first name: mark. last name: spong. contact information. email: mspong@utdallas.edu. telephone: (972) 883-2974. fax:.", 
+        "email_addr_list": [
+            "mspong@utdallas.edu"
+        ], 
+        "cite_url": "www.ieeecss.org/contacts/mark-w-spong", 
+        "cite_name": "IEEE Control Systems Society", 
+        "title": "Mark W. Spong | IEEE Control Systems Society"
+    }, 
+    {
+        "content": "mark w spong - ... mark w spong. electrical engineering. email: mws081000@utdallas.edu•phone: 972/883-2974. summary. research outputs (1981...", 
+        "email_addr_list": [
+            "mws081000@utdallas.edu"
+        ], 
+        "cite_url": "utdallas.influuent.utsystem.edu/.../mark-w-spong(379e1d29.../coauthors....", 
+        "cite_name": "", 
+        "title": "Mark W Spong - UT Dallas"
+    }
+]

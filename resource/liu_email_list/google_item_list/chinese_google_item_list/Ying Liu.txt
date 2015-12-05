@@ -1,0 +1,47 @@
+[
+    {
+        "content": "icmm, homepage for ying liu. ... ying liu. associate professor. email: ying@sund.ku.dk. telephone: (+45) 35 32 77 61. room: 18.2.14...", 
+        "email_addr_list": [
+            "ying@sund.ku.dk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Copenhagen", 
+        "title": "liu, ying – University of Copenhagen - Københavns Universitet"
+    }, 
+    {
+        "content": "ying liu. ying liu. postdoctoral fellow. email: grapheneliu@gmail.com; office: rac2 2106; office: qnc b211. supervisor. guo-xing miao. people by group.", 
+        "email_addr_list": [
+            "grapheneliu@gmail.com"
+        ], 
+        "cite_url": "https://services.iqc.uwaterloo.ca/.../yingliu@iqc/", 
+        "cite_name": "University of Waterloo", 
+        "title": "Ying Liu - IQC People | Institute for Quantum Computing"
+    }, 
+    {
+        "content": "ying liu. department of ioms, operations management group. email: yliu2@stern.nyu.edu. nyu stern school of business. mobile: (267) 994-1145. 44 west...", 
+        "email_addr_list": [
+            "yliu2@stern.nyu.edu"
+        ], 
+        "cite_url": "pages.stern.nyu.edu/~yliu...", 
+        "cite_name": "New York University Stern School of Business", 
+        "title": "[PDF]Ying Liu - NYU Stern School of Business - New York ..."
+    }, 
+    {
+        "content": "... at fordham, a to z  psychology department  people  faculty  ying liu ... email: yliu22@fordham.edu, office hours: thursdays, 11:30 am-12:30 pm...", 
+        "email_addr_list": [
+            "yliu22@fordham.edu"
+        ], 
+        "cite_url": "legacy.fordham.edu/academics/programs_at.../ying_liu_77651.asp", 
+        "cite_name": "", 
+        "title": "Ying Liu, Ph.D. - Fordham University Psychology Department"
+    }, 
+    {
+        "content": "ying liu. email: ying.liu@csulb.edu. ying liu is an assistant professor at the department of information systems, california state university long beach.", 
+        "email_addr_list": [
+            "ying.liu@csulb.edu"
+        ], 
+        "cite_url": "web.csulb.edu/.../index.php?...yli...", 
+        "cite_name": "California State University, Long Beach", 
+        "title": "Ying Liu - CBA Faculty Information"
+    }
+]

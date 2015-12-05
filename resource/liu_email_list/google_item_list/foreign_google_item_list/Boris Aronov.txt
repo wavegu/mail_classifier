@@ -1,0 +1,20 @@
+[
+    {
+        "content": "phone: 646.997.3092; email: boris.aronov@nyu.edu; office: 10.008 (2 metrotech ... p.k. agarwal and b. aronov, counting facets and incidences, discrete and...", 
+        "email_addr_list": [
+            "boris.aronov@nyu.edu"
+        ], 
+        "cite_url": "engineering.nyu.edu/people/boris-aronov", 
+        "cite_name": "New York University", 
+        "title": "Boris Aronov | NYU Tandon School of Engineering"
+    }, 
+    {
+        "content": "boris aronov, ph.d., sc.d. (pdf version download). e-mail: baronov@mediaone.net. 1978 (sc. d.) russian academy of sciences, dissertation on underwater...", 
+        "email_addr_list": [
+            "baronov@mediaone.net"
+        ], 
+        "cite_url": "www1.umassd.edu/.../aronov.cfm", 
+        "cite_name": "University of Massachusetts Dartmouth", 
+        "title": "Dr. Boris Aronov - University of Massachusetts Dartmouth"
+    }
+]

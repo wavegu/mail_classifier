@@ -1,0 +1,30 @@
+[
+    {
+        "content": "jack y. b. lee, scalable continuous media streaming systems ... ke liu and jack y. b. lee, improving tcp performance over mobile data ... [general enquiry]: tel: (852) 3943-8385 fax: (852) 2603-5032 email: dept@ie.cuhk.edu.hk", 
+        "email_addr_list": [
+            "dept@ie.cuhk.edu.hk"
+        ], 
+        "cite_url": "https://www.ie.cuhk.edu.hk/.../ybl...", 
+        "cite_name": "The Chinese University of Hong Kong", 
+        "title": "Prof. Lees personal website - Department of Information ..."
+    }, 
+    {
+        "content": "tel: (86)13810814278. email: liuke@ict.ac.cn ... ke liu and jack y. b. lee, “on tcp performance over mobile data networks,” to appear in ieee trans. on...", 
+        "email_addr_list": [
+            "liuke@ict.ac.cn"
+        ], 
+        "cite_url": "acs.ict.ac.cn/network-system/liuke/cv/cv.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Ke Liu"
+    }, 
+    {
+        "content": "aug 8, 2001 - email address: ... new member - jack y.b. lee from cuhk ... from: jack lee  yblee@ie.cuhk.edu.hk; to: wg-multicast@internet2.edu...", 
+        "email_addr_list": [
+            "yblee@ie.cuhk.edu.hk", 
+            "wg-multicast@internet2.edu"
+        ], 
+        "cite_url": "https://lists.internet2.edu/sympa/arc/wg-multicast/2001.../msg00001.html", 
+        "cite_name": "", 
+        "title": "wg-multicast - New Member - Jack Y.B. Lee from CUHK - arc"
+    }
+]

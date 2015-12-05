@@ -1,0 +1,12 @@
+[
+    {
+        "content": "email: vincenzo.deflorio@ua.ac.be or vincenzo.deflorio@gmail.com ... vincenzo de florio received his msc, computer science from the university of bari (italy,...", 
+        "email_addr_list": [
+            "vincenzo.deflorio@ua.ac.be", 
+            "vincenzo.deflorio@gmail.com"
+        ], 
+        "cite_url": "www.sersc.org/directors/deflorio.htm", 
+        "cite_name": "", 
+        "title": "Vincenzo De Florio - SERSC"
+    }
+]

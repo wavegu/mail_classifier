@@ -1,0 +1,20 @@
+[
+    {
+        "content": "chapel hill, nc 27599-3175. pho: (919) 590-6074. fax: (919) 590-6105. email ..... for more information, contact ming c. lin, lin@cs.unc.edu...", 
+        "email_addr_list": [
+            "lin@cs.unc.edu"
+        ], 
+        "cite_url": "www.cs.unc.edu/~lin/", 
+        "cite_name": "University of North Carolina at Chapel Hill", 
+        "title": "Ming C. Lin - University of North Carolina at Chapel Hill"
+    }, 
+    {
+        "content": "biosketch / results /. ming lin. hospital operations. contact info. phone: 212/263-4024. email: ming.lin@nyumc.org. nyu langone medical center  student...", 
+        "email_addr_list": [
+            "ming.lin@nyumc.org"
+        ], 
+        "cite_url": "www.med.nyu.edu/biosketch/linm03", 
+        "cite_name": "NYU Langone Medical Center", 
+        "title": "Ming C Lin | NYU School of Medicine"
+    }
+]

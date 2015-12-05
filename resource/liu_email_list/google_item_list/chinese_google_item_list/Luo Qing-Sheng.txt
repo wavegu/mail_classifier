@@ -1,0 +1,48 @@
+[
+    {
+        "content": "contact: +86 791 83804990. email: liqing@jxufe.edu.cn. qingsheng luo. responsible for course coordinators affairs, course evaluation, teaching assistants...", 
+        "email_addr_list": [
+            "liqing@jxufe.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Staff and Program Coordinators"
+    }, 
+    {
+        "content": "e-mail: luojianhong@zju.edu.cn .... shen y, zhu lj, liu ss, zhou sy, luo jh*. ... shu-jun xu, zhong chen, li-jun zhu, hai-qing shen, jian-hong luo*,...", 
+        "email_addr_list": [
+            "luojianhong@zju.edu.cn"
+        ], 
+        "cite_url": "www.cmm.zju.edu.cn/english/scholar.php?uid=383", 
+        "cite_name": "", 
+        "title": "Luo jianhong - Zhejiang University School of Medicine"
+    }, 
+    {
+        "content": "oct 2, 2015 - email : anuprathap@ntu.edu.sg. ​ ..... supervisor (pi): a/p lu xuehong and a/p lee pooi see. ​. liu fucai (dr) ..... zeng qingsheng (dr). email...", 
+        "email_addr_list": [
+            "anuprathap@ntu.edu.sg"
+        ], 
+        "cite_url": "www.mse.ntu.edu.sg/.../ResearchStaff....", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "Research Staff - MSE - Nanyang Technological University"
+    }, 
+    {
+        "content": "jul 10, 2014 - title:professor, email: qmhu@imr.ac.cn. tel. ... chun-xia li, hu-bin luo, qing-miao hu*, rui yang, fu-xing yin, osamu umezawa, solid state...", 
+        "email_addr_list": [
+            "qmhu@imr.ac.cn"
+        ], 
+        "cite_url": "sourcedb.cas.cn/sourcedb_imr_cas/yw/rck/.../t20140710_4153669.html", 
+        "cite_name": "", 
+        "title": "Details of the Faculty or Staff----Institute of Metal Research"
+    }, 
+    {
+        "content": "... huang,a shuqing huang,a dongmei li,*a yanhong luo,a qing shen,*b,c ... email: qbmeng@iphy.ac.cn, dmli@iphy.ac.cn; tel  fax: 86-10-82649242.", 
+        "email_addr_list": [
+            "qbmeng@iphy.ac.cn", 
+            "dmli@iphy.ac.cn"
+        ], 
+        "cite_url": "www.rsc.org/suppdata/cp/.../c0cp02099k.pdf", 
+        "cite_name": "Royal Society of Chemistry", 
+        "title": "[PDF]Electronic Supplementary Information Highly efficient CdS ..."
+    }
+]

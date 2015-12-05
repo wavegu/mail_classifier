@@ -1,0 +1,57 @@
+[
+    {
+        "content": "email: qhwang@zju.edu.cn. office: institute for thermal ... [10] wang qinhui luo zhongyang fang mengxiang ni mingjiang cen kefa. development of a new...", 
+        "email_addr_list": [
+            "qhwang@zju.edu.cn"
+        ], 
+        "cite_url": "www.fe.zju.edu.cn/english/redir.php?catalog_id=6583object_id...", 
+        "cite_name": "", 
+        "title": "Wang Qinhui - Faculty of Engineering Zhejiang University"
+    }, 
+    {
+        "content": "name:ni mingjiang(professor) ... e-mail address: mjn@zju.edu.cn. email: cmee_master@zju.edu.cn telephone number: 0571-87951466 address: 38 zheda...", 
+        "email_addr_list": [
+            "mjn@zju.edu.cn", 
+            "cmee_master@zju.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Ni Mingjiang - Energy Engineering of Zhejiang University"
+    }, 
+    {
+        "content": "email: chiyong@zju.edu.cn ... wang bo, chi yong, yan jianhua, ni mingjiang, experimental study on ccl4/ch4/o2/n2 oxidation, science in china series e:...", 
+        "email_addr_list": [
+            "chiyong@zju.edu.cn"
+        ], 
+        "cite_url": "www.fe.zju.edu.cn/english/redir.php?catalog_id=6583object_id...", 
+        "cite_name": "", 
+        "title": "Chi Yong - Faculty of Engineering Zhejiang University"
+    }, 
+    {
+        "content": "mingjiang xu, associate professor ... email: mx2@iupui.edu .... xu m, bruno e, chao j, ni h, lindgren v, nunez r, mahmud n, finazzi g, fruchtman s, popat u,...", 
+        "email_addr_list": [
+            "mx2@iupui.edu"
+        ], 
+        "cite_url": "tftm2.nankai.edu.cn/faculty/xumingjiang.html?tp=1", 
+        "cite_name": "", 
+        "title": "Mingjiang Xu - Tianjin Forum on Tumor Microenvironment"
+    }, 
+    {
+        "content": "email: weiming.ni@gmail.com ... mr2326181 (2008c:35077) jiang, huiqiang; ni, wei-ming on steady states of van der waals force driven thin film equations.", 
+        "email_addr_list": [
+            "weiming.ni@gmail.com"
+        ], 
+        "cite_url": "www.cpde.ecnu.edu.cn/peopledetail.php?id=3", 
+        "cite_name": "", 
+        "title": "Professor Wei-Ming Ni(倪维明) - Welcome to Center for PDE"
+    }, 
+    {
+        "content": "... huo wang, zhong yi, luo zhong-yang, cen ke-fa, ni ming-jiang and chen le-ming ... corresponding authors: gao xiang email: xgao@cmee.zju.edu.cn...", 
+        "email_addr_list": [
+            "xgao@cmee.zju.edu.cn"
+        ], 
+        "cite_url": "59.72.0.32/hxyj/CN/abstract/abstract11697.shtml", 
+        "cite_name": "", 
+        "title": "Effects of Magnesium and Ferric Ions on Crystallization of ..."
+    }
+]

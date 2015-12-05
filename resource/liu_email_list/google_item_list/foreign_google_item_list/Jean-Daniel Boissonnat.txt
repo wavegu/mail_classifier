@@ -1,0 +1,29 @@
+[
+    {
+        "content": "... lucioles, bp 93, 06902 sophia antipolis - france téléphone : (+33)(0)4 92 38 7760. fax : (+33)(0)4 92 38 76 43. email : jean-daniel.boissonnat@inria.fr...", 
+        "email_addr_list": [
+            "jean-daniel.boissonnat@inria.fr"
+        ], 
+        "cite_url": "www-sop.inria.fr/...", 
+        "cite_name": "French Institute for Research in Computer Science an...", 
+        "title": "Jean-Daniel Boissonnat - Geometrica - Sophia Antipolis - Inria"
+    }, 
+    {
+        "content": "jean-daniel boissonnat. homepage: http://www-sop.inria.fr/geometrica/team/jeandaniel. ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_addr_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/jean_daniel_boisso...", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Jean-Daniel Boissonnat - VideoLectures.NET"
+    }, 
+    {
+        "content": "antipolis cedex, france;. tel: +33 4 93 65 77 60, fax: +33 4 93 65 77 65. email: jean-daniel.boissonnat@sophia.inria.fr. url: http://zenon.inria.fr/prisme/scg97.", 
+        "email_addr_list": [
+            "jean-daniel.boissonnat@sophia.inria.fr"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1111/1467-8659.../pdf", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Günther Greiner Calendar of Events"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "milan sonka dept. of electrical and computer engineering the university of iowa iowa city ia 52242, usa email: milan-sonka[at]uiowa.edu phone: (319)-335-...", 
+        "email_addr_list": [
+            "milan-sonka@uiowa.edu"
+        ], 
+        "cite_url": "www.engineering.uiowa.edu/~sonka/", 
+        "cite_name": "University of Iowa", 
+        "title": "Milan Sonka"
+    }, 
+    {
+        "content": "this is the faculty profile for milan sonka. ... http://www.engineering.uiowa.edu/~sonka/. pdf icon cvmilan. ... contact us via e-mail ece@engineering.uiowa.edu.", 
+        "email_addr_list": [
+            "ece@engineering.uiowa.edu"
+        ], 
+        "cite_url": "www.engineering.uiowa.edu/ece/faculty.../milan-sonk...", 
+        "cite_name": "University of Iowa", 
+        "title": "Milan Sonka | College of Engineering | The University of Iowa"
+    }, 
+    {
+        "content": "aug 4, 2015 - email: milan-sonka@uiowa.edu ... zhang l, lee k, niemeijer m, mullins r, sonka m, abramoff m. automated segmentation of the choroid from...", 
+        "email_addr_list": [
+            "milan-sonka@uiowa.edu"
+        ], 
+        "cite_url": "www.medicine.uiowa.e...", 
+        "cite_name": "Roy J. and Lucille A. Carver College of Medicine", 
+        "title": "Milan Sonka, PhD - University of Iowa Carver College of ..."
+    }
+]

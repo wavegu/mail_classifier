@@ -1,0 +1,31 @@
+[
+    {
+        "content": "jun 2, 2009 - email: pierre-brice.wieber@inrialpes.fr. abstract—a humanoid walking robot is a highly nonlinear dynamical system that relies strongly on...", 
+        "email_addr_list": [
+            "pierre-brice.wieber@inrialpes.fr"
+        ], 
+        "cite_url": "https://hal.archives-ouvertes.fr/inria-00390462/document", 
+        "cite_name": "", 
+        "title": "[PDF]Trajectory Free Linear Model Predictive Control for ... - Hal"
+    }, 
+    {
+        "content": "perturbations. pierre-brice wieber. inria rhône-alpes. 38331 st ismier cedex, france. email: pierre-brice.wieber@inrialpes.fr. abstract—a humanoid walking...", 
+        "email_addr_list": [
+            "pierre-brice.wieber@inrialpes.fr"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0411...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Trajectory Free Linear Model Predictive Control for Stable ..."
+    }, 
+    {
+        "content": "nov 27, 2008 - email: mitsuhiro.hayashibe@lirmm.fr, david.guiraud@lirmm.fr, ... 4 76 61 53 92 fax: +33 4 76 61 54 77 email: pierre-brice.wieber@inrialpes.fr.", 
+        "email_addr_list": [
+            "mitsuhiro.hayashibe@lirmm.fr", 
+            "david.guiraud@lirmm.fr", 
+            "pierre-brice.wieber@inrialpes.fr"
+        ], 
+        "cite_url": "hal-lirmm.ccsd.cnrs.fr/lirmm-00342335/file/Eckert_article_envoye.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Simulating the Human Motion under Functional Electrical ..."
+    }
+]

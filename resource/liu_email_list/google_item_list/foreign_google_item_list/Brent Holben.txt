@@ -1,0 +1,47 @@
+[
+    {
+        "content": "data center personnel. name: brent n. holben. phone: 301-614-6658. fax: 301-614-6695. email: brent.n.holben at nasa.gov. contact address: nasa", 
+        "email_addr_list": [
+            "brent.n.holben@nasa.gov"
+        ], 
+        "cite_url": "gcmd.nasa.gov/records/GCMD_AERONET_NASA.html", 
+        "cite_name": "", 
+        "title": "The AErosol RObotic NETwork (AERONET) from NASA/GSFC"
+    }, 
+    {
+        "content": "maintainer. brent holben. maintainer email. brent.n.holben@nasa.gov. id, {$oid: 55942a78c63a7fe59b49747e}. public access level, public. data update...", 
+        "email_addr_list": [
+            "brent.n.holben@nasa.gov"
+        ], 
+        "cite_url": "https://catalog.data.gov/dataset/aeronet-aod", 
+        "cite_name": "data.gov", 
+        "title": "Aeronet AOD - Data.gov"
+    }, 
+    {
+        "content": "maintainer. brent holben. maintainer email. brent.n.holben@nasa.gov. id, {$oid: 55942a78c63a7fe59b49748d}. public access level, public. data update...", 
+        "email_addr_list": [
+            "brent.n.holben@nasa.gov"
+        ], 
+        "cite_url": "https://catalog.data.gov/dataset/aeronet-ocean-color", 
+        "cite_name": "data.gov", 
+        "title": "AERONET-OCEAN COLOR - Data.gov"
+    }, 
+    {
+        "content": "maintainer. brent holben. maintainer email. brent.n.holben@nasa.gov. id, {$oid: 55942a79c63a7fe59b497598}. public access level, public. data update...", 
+        "email_addr_list": [
+            "brent.n.holben@nasa.gov"
+        ], 
+        "cite_url": "https://catalog.data.gov/dataset/aeronet-sda-retrievals", 
+        "cite_name": "data.gov", 
+        "title": "AERONET-SDA Retrievals - Data.gov"
+    }, 
+    {
+        "content": "brent holben will receive the 2015 yoram j. kaufman unselfish cooperation in research award at the ... unselfish collaboration for research award to brent holben of the goddard space flight center, nasa, ... email: eparedes@agu.org.", 
+        "email_addr_list": [
+            "eparedes@agu.org"
+        ], 
+        "cite_url": "honors.agu.org/.../holben-receives-2015-y...", 
+        "cite_name": "American Geophysical Union", 
+        "title": "Holben Receives 2015 Yoram J. Kaufman Unselfish ..."
+    }
+]

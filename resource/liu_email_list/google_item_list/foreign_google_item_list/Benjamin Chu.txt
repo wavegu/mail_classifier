@@ -1,0 +1,11 @@
+[
+    {
+        "content": "ph.d., 1959, cornell university research associate, cornell university, 1958-62; tel: (631) 632-7928. email: benjamin.chu@sunysb.edu  publications  ben...", 
+        "email_addr_list": [
+            "benjamin.chu@sunysb.edu"
+        ], 
+        "cite_url": "www.chem.sunysb.edu:81/faculty/bchu.htm", 
+        "cite_name": "", 
+        "title": "Ben Chu - Chemistry Department at Stony Brook"
+    }
+]

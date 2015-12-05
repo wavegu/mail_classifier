@@ -1,0 +1,20 @@
+[
+    {
+        "content": "verified email at jaist.ac.jp - homepage ... ny chong, t kotoku, k ohba, k komoriya, n matsuhira, k tanie ... ny chong, h hongu, k ohba, s hirai, k tanie.", 
+        "email_addr_list": [
+            "email@jaist.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=B6wsA3YAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Nak Young Chong - Google Scholar Citations"
+    }, 
+    {
+        "content": "tania książka - tanie książki i podręczniki ... glosel spółka z ograniczoną odpowiedzialnością sp.k. (dawniej kierus sp.j.) ul. ... e-mail: sklep@taniaksiazka.pl.", 
+        "email_addr_list": [
+            "sklep@taniaksiazka.pl"
+        ], 
+        "cite_url": "www.taniaksiazka.pl/Pomoc/Artykul-Kontakt", 
+        "cite_name": "", 
+        "title": "Tania książka"
+    }
+]

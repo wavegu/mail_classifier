@@ -1,0 +1,11 @@
+[
+    {
+        "content": "mamoru mitsuishi professor: mechanobioengineering: field of study: medical robotics, manufacturing system. [mail] mamoru@nml.t.u-tokyo.ac.jp; [url]...", 
+        "email_addr_list": [
+            "mamoru@nml.t.u-tokyo.ac.jp"
+        ], 
+        "cite_url": "www.bioeng.t.u-tokyo.ac.jp/en/.../20_mitsuishi.html", 
+        "cite_name": "University of Tokyo", 
+        "title": "Mamoru MITSUISHI Professor - Faculty | Department of ..."
+    }
+]

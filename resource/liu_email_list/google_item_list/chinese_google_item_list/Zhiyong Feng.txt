@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email: wangx@tju.edu.cn ... changlong wang, zhiyong feng, guozheng rao, xin wang, xiaowang ... xuedong lyu, xin wang, yuan-fang li, zhiyong feng.", 
+        "email_addr_list": [
+            "wangx@tju.edu.cn"
+        ], 
+        "cite_url": "cs.tju.edu.cn/faculty/wangxin/index-en.html", 
+        "cite_name": "", 
+        "title": "Xin Wang (王鑫)s Home Page"
+    }, 
+    {
+        "content": "tel : +86 (10) 88396164. zhiyong feng. e-mail : zyfeng@citmd.com. tel : +86 (10) 84094928-813. fax: +86 (10) 68316046. adress: cardiovascular institute and...", 
+        "email_addr_list": [
+            "zyfeng@citmd.com"
+        ], 
+        "cite_url": "www.citmd.com/CIT/2014/contact.php", 
+        "cite_name": "", 
+        "title": "Contact Us-CIT Conference 2014"
+    }, 
+    {
+        "content": "guest editors: zhang ping, feng zhiyong,. hu fei ... liang xiao, wang qiaofeng, li jiandong .... fax: +86 10 6606 9587 email: chinacom@china-cic.cn.", 
+        "email_addr_list": [
+            "chinacom@china-cic.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0731...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "October 2015 Vol.12 No.10 Guest Editors: ZHANG Ping ..."
+    }
+]

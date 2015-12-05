@@ -1,0 +1,21 @@
+[
+    {
+        "content": "nov 3, 2015 - yanyong zhang yyzhang@winlab.rutgers.edu, prof. luigi alfredo grieco alfredo.grieco@poliba.it, emmanuel baccelli emmanuel.", 
+        "email_addr_list": [
+            "yyzhang@winlab.rutgers.edu", 
+            "alfredo.grieco@poliba.it"
+        ], 
+        "cite_url": "https://datatracker.ietf.org/...zhang.../em...", 
+        "cite_name": "Internet Engineering Task Force", 
+        "title": "Email expansions for draft-zhang-icnrg-icniot-requirements-00"
+    }, 
+    {
+        "content": "email: chenren at cs dot cmu dot edu ... yanyong zhang at winlab/department of electrical and computer engineering of rutgers university in 2014.", 
+        "email_addr_list": [
+            "chenren@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~chenren/", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Chenren Xus Homepage; 许辰人"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "content": "stefano panzieri home page. ... 3376 (keep the zero!) fax. +39 06 5733 3612 (keep the zero!) e-mail panzieri at uniroma3.it or stefano.panzieri at uniroma3.it...", 
+        "email_addr_list": [
+            "panzieri@uniroma3.it", 
+            "stefano.panzieri@uniroma3.it"
+        ], 
+        "cite_url": "panzieri.dia.uniroma3.it/", 
+        "cite_name": "Roma Tre University", 
+        "title": "prof. Stefano Panzieri"
+    }, 
+    {
+        "content": "email, stefano.panzieri@uniroma3.it. indirizzo, via della vasca navale 79. struttura/afferenza, dipartimento di ingegneria. cariche e responsabilità.", 
+        "email_addr_list": [
+            "stefano.panzieri@uniroma3.it"
+        ], 
+        "cite_url": "www.uniroma3.it/persona.php?...", 
+        "cite_name": "Roma Tre University", 
+        "title": "Università degli Studi Roma Tre :: Prof. Stefano Panzieri"
+    }, 
+    {
+        "content": "room number: 232. e-mail: stefano.panzeri[at]iit.it. picture of panzeri, stefano ... quian quiroga r and panzeri s person : principles of neural coding, 663, crc...", 
+        "email_addr_list": [
+            "stefano.panzeri@iit.it"
+        ], 
+        "cite_url": "www.kyb.tuebingen.mpg.de/nc/.../stefano.html", 
+        "cite_name": "Max Planck Society", 
+        "title": "Stefano Panzeri - Employee"
+    }, 
+    {
+        "content": "home  cerca  elenco strutture  elenco telefonico  stefano panzeri  persona  struttura ... people stefano panzeri. none ... email: stefano.panzeri@unitn.it...", 
+        "email_addr_list": [
+            "stefano.panzeri@unitn.it"
+        ], 
+        "cite_url": "https://www5.unitn.it/.../PER0133...", 
+        "cite_name": "University of Trento", 
+        "title": "People - Stefano Panzeri - Università degli Studi di Trento"
+    }, 
+    {
+        "content": "verified email at iit.it. scholar ... s panzeri, rs petersen, sr schultz, m lebedev, me diamond ... c kayser, ma montemurro, nk logothetis, s panzeri.", 
+        "email_addr_list": [
+            "email@iit.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=C-HCQ9cAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Stefano Panzeri - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "content": "associate professor, finance discipline group. core member, quantitative finance research centre. phd economics. email. jianxin.wang@uts.edu.au. phone.", 
+        "email_addr_list": [
+            "jianxin.wang@uts.edu.au"
+        ], 
+        "cite_url": "www.uts.edu.au/staff/jianxin.wang", 
+        "cite_name": "University of Technology Sydney", 
+        "title": "Jianxin Wang | University of Technology Sydney"
+    }, 
+    {
+        "content": "associate professor jianxin wang. core member, quantitative finance research centre. phd economics. email: jianxin.wang@uts.edu.au. phone: +61 2...", 
+        "email_addr_list": [
+            "jianxin.wang@uts.edu.au"
+        ], 
+        "cite_url": "cfsites1.uts.edu.au/qfrc/.../detail.cfm?...", 
+        "cite_name": "University of Technology Sydney", 
+        "title": "UTS: Associate Professor Jianxin Wang - Quantitative ..."
+    }, 
+    {
+        "content": "jianxin wang. no photo available. jianxin wang. meteorologist. jianxin.wang-1@nasa.gov. sorry ... nasa/gsfc; mail code: 612; greenbelt , md 20771.", 
+        "email_addr_list": [
+            "jianxin.wang-1@nasa.gov"
+        ], 
+        "cite_url": "science.gsfc.nasa.gov/sed/bio/jianxin.wang-1", 
+        "cite_name": "NASA", 
+        "title": "Bio - Jianxin Wang"
+    }, 
+    {
+        "content": "this is the science, engineering and technology faculty profile for dr jianxin (kevin) li. ... tel: +61 3 9214 8741. office: en511c. email: jianxinli@swin.edu.au ... rui zhou, chengfei liu, jianxin li, junhu wang, and jeffrey xu yu. evaluating...", 
+        "email_addr_list": [
+            "jianxinli@swin.edu.au"
+        ], 
+        "cite_url": "www.swinburne.edu.au/.../view.ph...", 
+        "cite_name": "Swinburne University of Technology", 
+        "title": "Li, Jianxin - Swinburne University of Technology"
+    }, 
+    {
+        "content": "jianxin ma ... e-mail: maj@purdue.edu .... guan, r.x., wang, j.y., liu, y.l., jin, l.g., zhang, x.q., liu, z.x., zhang, l.j., chen, j., wang, k.j., nielsen, r., li, r.q.,...", 
+        "email_addr_list": [
+            "maj@purdue.edu"
+        ], 
+        "cite_url": "https://ag.purdue.edu/.../maj.asp...", 
+        "cite_name": "Purdue University College of Agriculture", 
+        "title": "Jianxin Ma - Purdue Agriculture - Purdue University"
+    }, 
+    {
+        "content": "jianxin (josh) wang, md, ms assistant professor of research. wang. line. mailing address: ... fax: (405) 271-3973. email: jianxin-wang@ouhsc.edu...", 
+        "email_addr_list": [
+            "jianxin-wang@ouhsc.edu"
+        ], 
+        "cite_url": "www.ouhsc.edu/.../Wang...", 
+        "cite_name": "University of Oklahoma Health Sciences Center", 
+        "title": "Jianxin (Josh) Wang, MD, MS - University of Oklahoma ..."
+    }, 
+    {
+        "content": "department of physiology - jian-xing ma m-d- ph-d- ... zhang, s.x., wang, j.j., lu, k. mott, r. and ma, j-x. (2006) ... email: jian-xing-ma@ouhsc.edu...", 
+        "email_addr_list": [
+            "jian-xing-ma@ouhsc.edu"
+        ], 
+        "cite_url": "https://www.oumedicine.com/physiology/.../jian-xing-ma", 
+        "cite_name": "OU Medicine", 
+        "title": "Department of Physiology - Jian-Xing Ma M-D- Ph-D-"
+    }, 
+    {
+        "content": "feb 12, 2015 - jianxin wang. home » doctors » interns » jianxin wang ... jianxin wang clinic practice schedule ... email: info@cctcma.com. telephone:...", 
+        "email_addr_list": [
+            "info@cctcma.com"
+        ], 
+        "cite_url": "clinic.cctcma.com/jianxin-wang/", 
+        "cite_name": "", 
+        "title": "Jianxin Wang - Oriental Health Clinic - CCTCMA"
+    }
+]

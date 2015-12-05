@@ -1,0 +1,57 @@
+[
+    {
+        "content": "yan zhu, assistant professor. yan zhu. email: zhuyan@ibcas.ac.cn. phone: 86-10-62836141. address: institute of botany, cas ,no.20 nanxincun, xiangshan,...", 
+        "email_addr_list": [
+            "zhuyan@ibcas.ac.cn"
+        ], 
+        "cite_url": "www.biodiv.ibcas.ac.cn/en/staff/zhuyan.html", 
+        "cite_name": "", 
+        "title": "Yan Zhu | The Research Group of Biodiversity and Biosafety"
+    }, 
+    {
+        "content": "dr. yanzhu liu is the director of columbia acupuncture pc, new york, ny, founded in 2006. dr. liu is also a professor of traditional chinese medicine at pacific college of oriental medicine, nyc and an .... email: info@goacacare.com.", 
+        "email_addr_list": [
+            "info@goacacare.com"
+        ], 
+        "cite_url": "www.acacares.com/users/yanzhu-liu", 
+        "cite_name": "", 
+        "title": "Dr. Yanzhu Liu | Acupuncture Corporation of America"
+    }, 
+    {
+        "content": "verified email at njau.edu.cn. scholar. get my own profile ... w zhou, x cao, z zeng, w shi, y zhu, q yan, h liu, j wang, h zhang. energy  environmental...", 
+        "email_addr_list": [
+            "email@njau.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=51ZR348AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yan Zhu - Google Scholar Citations"
+    }, 
+    {
+        "content": "organization, zhu liu yan. email, josephine2212@163.com, is associated with 6 domains. address, nan cheng qu xi ping san lu dong guan dong man...", 
+        "email_addr_list": [
+            "josephine2212@163.com"
+        ], 
+        "cite_url": "domainbigdata.com/purchasezone2015.com", 
+        "cite_name": "", 
+        "title": "Purchasezone2015.com - WHOIS  Domain Info ..."
+    }, 
+    {
+        "content": "email: mdil@cs.rutgers.edu. tel: (732)445- ... jingjing liu. office: cbim ... yan zhu. office: cbim. email: yz328@cs.rutgers.edu. tel: (732)445-2001 ext 9896...", 
+        "email_addr_list": [
+            "mdil@cs.rutgers.edu", 
+            "yz328@cs.rutgers.edu"
+        ], 
+        "cite_url": "www.cbim.rutgers.edu/people-160/students", 
+        "cite_name": "Rutgers University", 
+        "title": "Students"
+    }, 
+    {
+        "content": "guibin liu, di xiao, yugui yao, xiaodong xu and wang yao*,. chem. soc. rev. ... g. aivazian, zhirui gong, a. jones, r. chu, j. yan, d. mandrus, c. zhang, d. cobden, wang yao* and x. xu* ... s. wu, j. s. ross, g. liu, g. aivazian, a. jones, z. fei, w. zhu, d. xiao, w. yao, d. cobden, x. xu, ... email: wangyao@hku.hk.", 
+        "email_addr_list": [
+            "wangyao@hku.hk"
+        ], 
+        "cite_url": "www.physics.hku.hk/~wangyao/", 
+        "cite_name": "University of Hong Kong", 
+        "title": "Yao Group @ HKU Physics - Department of Physics, HKU"
+    }
+]

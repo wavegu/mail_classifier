@@ -1,0 +1,39 @@
+[
+    {
+        "content": "e-mail: a.giorgetti@ieee.org. secretary. yuan shen. tsingua university, china email: shenyuan_ee@mail.tsinghua.edu.cn. standards liaison ... moe z. win.", 
+        "email_addr_list": [
+            "a.giorgetti@ieee.org", 
+            "shenyuan_ee@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "cms.comsoc.org/eprise/main/SiteGen/TC_RC/Content/.../Officers.html", 
+        "cite_name": "", 
+        "title": "Officers"
+    }, 
+    {
+        "content": "moe z. win. laboratory for information and decision systems. massachusetts institute of technology, usa. email: moewin@mit.edu. abstract—we analyze the...", 
+        "email_addr_list": [
+            "moewin@mit.edu"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0568...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Superanalysis of the Interference Effect on Adaptive ..."
+    }, 
+    {
+        "content": "moe z. win. wgroup-mit, lids. massachusetts institute of technology. cambridge, ma 02139, usa email: moewin@mit.edu. abstract—this paper focuses on...", 
+        "email_addr_list": [
+            "moewin@mit.edu"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../04...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "A General Framework for the Distribution of the Eigenvalues ..."
+    }, 
+    {
+        "content": "moe z. win. massachusetts institute of technology. 77 massachusetts avenue. cambridge, ma 02139 usa om. email moewin@mit.edu. abstract this paper...", 
+        "email_addr_list": [
+            "moewin@mit.edu"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../04...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Estimation Error in - IEEE Xplore"
+    }
+]

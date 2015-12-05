@@ -1,0 +1,74 @@
+[
+    {
+        "content": "dr. jiang li received his ph.d. degree in electrical engineering from the university of texas at arlington, tx, in 2004, the m.s. degree in ... email: jli@odu.edu", 
+        "email_addr_list": [
+            "jli@odu.edu"
+        ], 
+        "cite_url": "www.ece.odu.edu/~jli/", 
+        "cite_name": "", 
+        "title": "Jiang Lis Homepage - Electrical  Computer Engineering"
+    }, 
+    {
+        "content": "title: samuel p. massie chair professor; office location: cbeis 304; phone: 443-885-4202; email: jiang.li@morgan.edu; website:...", 
+        "email_addr_list": [
+            "jiang.li@morgan.edu"
+        ], 
+        "cite_url": "www.morgan.edu/school_of.../dr_jiang_li.html", 
+        "cite_name": "Morgan State University", 
+        "title": "Dr. Jiang Li - Morgan State University"
+    }, 
+    {
+        "content": "dr jiang, li. bs, phd. associate professor. telephone: 27667405. email: l.jiang@polyu.edu.hk. room: m616. consulting, research and teaching interests:.", 
+        "email_addr_list": [
+            "l.jiang@polyu.edu.hk"
+        ], 
+        "cite_url": "www.lgt.polyu.edu.hk/.../academic-st...", 
+        "cite_name": "Hong Kong Polytechnic University", 
+        "title": "Academic Staff - The Department of Logistics and Maritime ..."
+    }, 
+    {
+        "content": "jiang li, phd. 2130 prb, 191 west woodruff ave., columbus, oh43210. tel: 614-292-1177 (office), 614-264-2379 (cell) email: li.810@osu.edu...", 
+        "email_addr_list": [
+            "li.810@osu.edu"
+        ], 
+        "cite_url": "https://chemistry.osu.edu/~jiangli/", 
+        "cite_name": "Ohio State University", 
+        "title": "Jiang Lis Homepage - OSU Chemistry"
+    }, 
+    {
+        "content": "jiang li. graduate student. office: lseb, room 248. 617-358-2767. email: jiangli@bu.edu. directory: faculty/lecturers  research scientists  research faculty...", 
+        "email_addr_list": [
+            "jiangli@bu.edu"
+        ], 
+        "cite_url": "physics.bu.edu/people/show/jiangli", 
+        "cite_name": "Boston University", 
+        "title": "Jiang Li | Boston University Physics"
+    }, 
+    {
+        "content": "jiang li is an assistant professor in the department of computer science  engineering at shanghai .... tel: 86-21-34208232 email:jiangli at cs.sjtu.edu.cn.", 
+        "email_addr_list": [
+            "jiangli@cs.sjtu.edu.cn"
+        ], 
+        "cite_url": "www.cs.sjtu.edu.cn/~jiangli/", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "Jiang Lis Homepage"
+    }, 
+    {
+        "content": "xiao-jiang li, m.d., ph.d. photo of ... email: xli2@emory.edu ... the main interest of the li lab is to understand the molecular mechanisms of inherited...", 
+        "email_addr_list": [
+            "xli2@emory.edu"
+        ], 
+        "cite_url": "genetics.emory.edu/faculty/primary/li-xiao-jiang.html", 
+        "cite_name": "Emory University", 
+        "title": "Xiao-Jiang Li, M.D., Ph.D."
+    }, 
+    {
+        "content": "email: jiangli@caas.cn. feng guo,phd, standford university stanford university school of medicine 269 campus drive ccsr, rm 3110. stanford, ca, 94305", 
+        "email_addr_list": [
+            "jiangli@caas.cn"
+        ], 
+        "cite_url": "mcardle.wisc.edu/xing/members.html", 
+        "cite_name": "University of Wisconsin‑Madison", 
+        "title": "Xing Lab | University of Wisconsin  Madison"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "content": "jun 1, 2015 - phone: 646.997.3731; email: name.surname@nyu.edu; office: 10.082 ... enrico bertini is assistant professor at the nyu polytechnic school of...", 
+        "email_addr_list": [
+            "name.surname@nyu.edu"
+        ], 
+        "cite_url": "engineering.nyu.edu/user/5001", 
+        "cite_name": "New York University", 
+        "title": "Enrico Bertini | NYU Tandon School of Engineering"
+    }, 
+    {
+        "content": "email: enrico.bertini@nyu.edu. www: enrico.bertini.me. current position. assistant professor. research interests. visual analytics, information visualization,...", 
+        "email_addr_list": [
+            "enrico.bertini@nyu.edu"
+        ], 
+        "cite_url": "enrico.bertini.io/s/cv-enrico-bertini.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Enrico Bertini"
+    }, 
+    {
+        "content": "name, enrico bertini. email address, enrico.bertini@gmail.com. paper title, empirical studies in information visualization: seven scenarios. link to paper...", 
+        "email_addr_list": [
+            "enrico.bertini@gmail.com"
+        ], 
+        "cite_url": "vacommunity.org/item52", 
+        "cite_name": "", 
+        "title": "Enrico Bertini - User-Centered Evaluation"
+    }, 
+    {
+        "content": "enrico silvio bertini. facoltà di medicina e chirurgia  sede di roma. contatti: e-mail: enricosilvio.bertini@opbg.net...", 
+        "email_addr_list": [
+            "enricosilvio.bertini@opbg.net"
+        ], 
+        "cite_url": "docenti.unicatt....", 
+        "cite_name": "Catholic University of the Sacred Heart", 
+        "title": "BERTINI ENRICO SILVIO - Docente Università Cattolica del ..."
+    }, 
+    {
+        "content": "email:psp.laboratori@opbg.net. roma san paolo - roma viale di san paolo, 15 - 00146. personale. dott. enrico bertini. dott.ssa rosalba carrozzo. dott.ssa...", 
+        "email_addr_list": [
+            "psp.laboratori@opbg.net"
+        ], 
+        "cite_url": "www.ospedalebambinogesu.it/malattie-muscolari-e-ne...", 
+        "cite_name": "", 
+        "title": "Malattie Muscolari e Neurodegenetative - Ospedale ..."
+    }
+]

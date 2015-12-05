@@ -1,0 +1,29 @@
+[
+    {
+        "content": "... view, ca 94040. email: zli [at] liwai.us ... zhiwei li, warren he, devdatta akhawe, and dawn song. ... zhiwei li, di pu, weichao wang, and alex wyglinsk.", 
+        "email_addr_list": [
+            "zli@liwai.us"
+        ], 
+        "cite_url": "www.liwai.us/", 
+        "cite_name": "", 
+        "title": "Zhiwei (William) Lis homepage"
+    }, 
+    {
+        "content": "xiaojing wang, m.s.; soochow univ., 2013; xwang038[at]email .ucr.edu ... zhiwei li, m.s.; soochow univ., 2014; zhiwei.li[at]ucr.edu. dawei wang, m.s.; hohai...", 
+        "email_addr_list": [
+            "zhiwei.li@ucr.edu"
+        ], 
+        "cite_url": "faculty.ucr.edu/~yadongy/people.html", 
+        "cite_name": "University of California, Riverside", 
+        "title": "People - Yin Group"
+    }, 
+    {
+        "content": "corporate title patent attorney phone: +86-10-6213 0298 fax: +86-10-6213 1630 email: patent@chofn.cn gender male professional title p.", 
+        "email_addr_list": [
+            "patent@chofn.cn"
+        ], 
+        "cite_url": "en.chofn.com/zhiwei-li/", 
+        "cite_name": "", 
+        "title": "Zhiwei Li- Chofn intellectual property"
+    }
+]

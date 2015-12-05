@@ -1,0 +1,29 @@
+[
+    {
+        "content": "feb 19, 2014 - prof. tao tang, head and chair professor, department of mathematics, hong kong baptist university. ... email: ttang@hkbu.edu.hk.", 
+        "email_addr_list": [
+            "ttang@hkbu.edu.hk"
+        ], 
+        "cite_url": "www.math.hkbu.edu.hk/~ttang/", 
+        "cite_name": "Hong Kong Baptist University", 
+        "title": "TANG Taos Home Page - Department of Mathematics"
+    }, 
+    {
+        "content": "tangtao. tang tao. professor. address. room 809 siyuan building , beijing jiaotong university, haidian district, beijing 100044 ... email, ttang@bjtu.edu.cn...", 
+        "email_addr_list": [
+            "ttang@bjtu.edu.cn"
+        ], 
+        "cite_url": "eaie.bjtu.edu.cn/EnglishVersion/faculty/professor/tangtao.html", 
+        "cite_name": "", 
+        "title": "TANG Tao"
+    }, 
+    {
+        "content": "tao tang, professor. computational fluid dynamics. address: lsec, institute of computational mathematics, ... email: ttang@lsec.cc.ac.cn. picture of tao tang...", 
+        "email_addr_list": [
+            "ttang@lsec.cc.ac.cn"
+        ], 
+        "cite_url": "icmsec.cc.ac.cn/staff/ttang.html", 
+        "cite_name": "", 
+        "title": "ICMSEC Staff Tang Tao Home Page"
+    }
+]

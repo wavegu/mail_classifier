@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: zyluo@cmee.zju.edu.cn. office: zhejiang university, yuquan ... dan luo, zhongyang luo*, chunjiang yu and kefa cen. study on agglomeration and...", 
+        "email_addr_list": [
+            "zyluo@cmee.zju.edu.cn"
+        ], 
+        "cite_url": "www.fe.zju.edu.cn/english/redir.php?catalog_id=6583object_id...", 
+        "cite_name": "", 
+        "title": "Luo Zhongyang - Faculty of Engineering Zhejiang University"
+    }, 
+    {
+        "content": "email: qhwang@zju.edu.cn. office ... [1] luo zhongyang, wang qinhui, fang mengxiang, cen kefa. ... [9] wang qinhui, luo zhongyang, ni mingjiang, cen kefa.", 
+        "email_addr_list": [
+            "qhwang@zju.edu.cn"
+        ], 
+        "cite_url": "www.fe.zju.edu.cn/english/redir.php?catalog_id=6583object_id...", 
+        "cite_name": "", 
+        "title": "Wang Qinhui - Faculty of Engineering Zhejiang University"
+    }, 
+    {
+        "content": "email: zhoujs@zju.edu.cn ... hua xiao-yu, zhou jin-song, li qiankun, luo zhong-yang, cen ke-fa, gas-phase elemental mercury removal by ceo2...", 
+        "email_addr_list": [
+            "zhoujs@zju.edu.cn"
+        ], 
+        "cite_url": "www.fe.zju.edu.cn/english/redir.php?catalog_id=6583object_id...", 
+        "cite_name": "", 
+        "title": "Zhou Jingsong - Faculty of Engineering Zhejiang University"
+    }, 
+    {
+        "content": "yangchao luo, ph.d. assistant ... email: yangchao.luo@uconn.edu ... luo y, pan k, zhong q. casein/pectin nanocomplexes as potential oral delivery vehicles.", 
+        "email_addr_list": [
+            "yangchao.luo@uconn.edu"
+        ], 
+        "cite_url": "www.cag.uconn.edu/nutsci/nutsci/.../yluo.html", 
+        "cite_name": "University of Connecticut", 
+        "title": "Department of Nutritional Sciences | UConn | Yangchao Luo"
+    }
+]

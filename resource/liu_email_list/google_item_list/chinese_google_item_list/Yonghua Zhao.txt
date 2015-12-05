@@ -1,0 +1,20 @@
+[
+    {
+        "content": "wgroup member: yonghua zhao. graduate ... email: zhyh@pku.org.cn ... zhihua ma, yonghua zhao, nan jiang, xianglin jin, jianbo wang tetrahedron lett.", 
+        "email_addr_list": [
+            "zhyh@pku.org.cn"
+        ], 
+        "cite_url": "www.chem.pku.edu.cn/physicalorganic/zhaoyh.htm", 
+        "cite_name": "Peking University", 
+        "title": "Yinghua Zhao"
+    }, 
+    {
+        "content": "apr 18, 2013 - zhao lin. degree. doctor. e-mail. linzhao@lzb.ac.cn. phone .... erji du, hongbing fang, zhiwei wang, yonghua zhao, yongjian ding.2012.", 
+        "email_addr_list": [
+            "linzhao@lzb.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Zhao Lin----Cold and Arid Regions Environmental and ..."
+    }
+]

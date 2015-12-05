@@ -1,0 +1,47 @@
+[
+    {
+        "content": "tel, 86-10-51688260. fax, 86-10-51688260. email. boai@bjtu.edu.cn ... bo ai, zhi-xing yang, chang-yong pan, jian-hua ge, yong wang and zhen lu, “on the...", 
+        "email_addr_list": [
+            "boai@bjtu.edu.cn"
+        ], 
+        "cite_url": "eaie.bjtu.edu.cn/EnglishVersion/faculty/associate_professor/aibo.html", 
+        "cite_name": "", 
+        "title": "Lecturer of SEIE"
+    }, 
+    {
+        "content": "zhixin yang. university of wisconsin-eau claire  stochastic control, stability, actuarial science. verified email at uwec.edu ... z yang, g yin, ly wang, h zhang.", 
+        "email_addr_list": [
+            "email@uwec.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=7Q5SrEkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Zhixin Yang - Google Scholar Citations"
+    }, 
+    {
+        "content": "zhixing yang, professor. department of ... e-mail: yangzhx@tsinghua.edu.cn ... yang, l.) first class, chinese institute of electronics (2006). 6. national...", 
+        "email_addr_list": [
+            "yangzhx@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201012191253229382344...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Yang,Zhixing"
+    }, 
+    {
+        "content": "email: xieqiuliang@gmail[dot]com ... email: xieqiuliang[at]gmail.com ... zaishuang liu, qiuliang xie, kewu peng, and zhixing yang, “apsk constellation with...", 
+        "email_addr_list": [
+            "xieqiuliang@gmail.com"
+        ], 
+        "cite_url": "https://sites.google.com/site/qiuliangxie/research", 
+        "cite_name": "", 
+        "title": "Research - Qiuliang XIEs Homepage - Google Sites"
+    }, 
+    {
+        "content": "see information and reports about zhixin.yang@usa.dupont.com (zhixin yangs e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "zhixin.yang@usa.dupont.com"
+        ], 
+        "cite_url": "spam-report.email/zhixin.yang/usa.dupont.com", 
+        "cite_name": "", 
+        "title": "zhixin.yang@usa.dupont.com (Zhixin Yangs e-mail) - Spam ..."
+    }
+]

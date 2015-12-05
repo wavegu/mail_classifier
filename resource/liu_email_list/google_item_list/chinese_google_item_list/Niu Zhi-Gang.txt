@@ -1,0 +1,31 @@
+[
+    {
+        "content": "zhigang shuai, theoretical chemistry ... email: zgshuai@tsinghua.edu.cn .... qian peng, yingli niu, qinghua shi, xing gao, zhigang shuai*, correlation...", 
+        "email_addr_list": [
+            "zgshuai@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201104042313070105498...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Shuai, Zhigang"
+    }, 
+    {
+        "content": "sep 7, 2015 - these authors made equal contributions. email: zhi-gang niu (niuzhigang1982@126.com). *college of chemistry and chemical engineering,...", 
+        "email_addr_list": [
+            "niuzhigang1982@126.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "New Cu(I) Coordination Complexes Based on ..."
+    }, 
+    {
+        "content": "chair: yichao wu, north carolina state university, email: wu@stat.ncsu.edu ... speaker 2: zhigang yao, national university of singapore, email: zhigang.yao@nus.edu. .... speaker 1: linlin niu, xiamen university, email: linlin.niu@gmail.com", 
+        "email_addr_list": [
+            "wu@stat.ncsu.edu", 
+            "zhigang.yao@nus.edu", 
+            "linlin.niu@gmail.com"
+        ], 
+        "cite_url": "www.math.sjtu.edu.cn/.../invitedsession2....", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "无标题文档"
+    }
+]

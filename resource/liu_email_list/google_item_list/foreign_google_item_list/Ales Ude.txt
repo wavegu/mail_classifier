@@ -1,0 +1,47 @@
+[
+    {
+        "content": "search email number information data on the internet ... z jamova 39 1000 ljubljana slovenia e-mail: ales.ude@ijs.si abstract pose estimation from an arbitrary...", 
+        "email_addr_list": [
+            "ales.ude@ijs.si"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-ude-ijs-si-27371682.htm", 
+        "cite_name": "", 
+        "title": "ude@ijs.si - The Email Archive"
+    }, 
+    {
+        "content": "mailing address: aleš ude jožef stefan institute humanoid and cognitive robotics lab jamova cesta 39 1000 ljubljana slovenia email: ales.ude at ijs.si", 
+        "email_addr_list": [
+            "ales.ude@ijs.si"
+        ], 
+        "cite_url": "www-hcr.ijs.si/access/", 
+        "cite_name": "", 
+        "title": "HCR Access and Contact"
+    }, 
+    {
+        "content": "ales by mail, image house, 34 radford way, billericay, essex, cm12 0dx. email us. send us your questions and suggestions. help@alesbymail.co.uk...", 
+        "email_addr_list": [
+            "help@alesbymail.co.uk"
+        ], 
+        "cite_url": "www.alesbymail.co.uk/contact-us/", 
+        "cite_name": "", 
+        "title": "Contact Us | Ales by Mail"
+    }, 
+    {
+        "content": "aleš ude, jožef stefan institute (jsi), ljubljana, slovenia; atr computational neuroscience laboratories, kyoto, japan. email: ales.ude@ijs.si...", 
+        "email_addr_list": [
+            "ales.ude@ijs.si"
+        ], 
+        "cite_url": "adb.sagepub.com/content/21/5/328.short", 
+        "cite_name": "Adaptive Behavior", 
+        "title": "Integrating visual perception and manipulation for ..."
+    }, 
+    {
+        "content": "jul 15, 2014 - ales udes atr home page. personal information, research ... aleš ude atr computational ... e-mail: aude at atr.jp. tel: +81 - 774 - 95 1080,...", 
+        "email_addr_list": [
+            "aude@atr.jp"
+        ], 
+        "cite_url": "www.cns.atr.jp/~aude/", 
+        "cite_name": "", 
+        "title": "Ales Udes ATR Home Page"
+    }
+]

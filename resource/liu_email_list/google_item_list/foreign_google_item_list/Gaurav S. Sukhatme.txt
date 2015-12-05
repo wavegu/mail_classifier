@@ -1,0 +1,47 @@
+[
+    {
+        "content": "you are here. home / gaurav s. sukhatme ... computer science 941 w. 37th place, rth 405. los angeles, ca 90089-0781. email: gaurav@usc.edu. website:.", 
+        "email_addr_list": [
+            "gaurav@usc.edu"
+        ], 
+        "cite_url": "https://gapp.usc.edu/.../gaurav-sukhatm...", 
+        "cite_name": "University of Southern California", 
+        "title": "Gaurav S. Sukhatme | USC Viterbi School of Engineering"
+    }, 
+    {
+        "content": "sukhatme is interested in developing tools and techniques to design and understand large-scale, distributed, robotic systems. ... gaurav s. sukhatme is an associate professor of computer science (joint ... email: gaurav@usc.edu...", 
+        "email_addr_list": [
+            "gaurav@usc.edu"
+        ], 
+        "cite_url": "ee.usc.edu/faculty.../sukhatme.htm", 
+        "cite_name": "University of Southern California", 
+        "title": "Gaurav S. Sukhatme - USC Ming Hsieh Department of ..."
+    }, 
+    {
+        "content": "span class=authorjohn caffrey, ramesh govindan, erik johnson, bhaskar krishnamachari, sami masri, gaurav s. sukhatme, ... email: jcaffrey@usc.edu...", 
+        "email_addr_list": [
+            "jcaffrey@usc.edu"
+        ], 
+        "cite_url": "robotics.usc.edu/publications/421/", 
+        "cite_name": "", 
+        "title": "Details - USC Robotics Research Labs"
+    }, 
+    {
+        "content": "studying the feasibility of energy harvesting in a mobile sensor network mohammad rahimi hardik shah gaurav s. sukhatme mhr hardiksh gaurav@usc.edu...", 
+        "email_addr_list": [
+            "gaurav@usc.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-gaurav-usc-edu-5952282.htm", 
+        "cite_name": "", 
+        "title": "gaurav@usc.edu - The Email Archive"
+    }, 
+    {
+        "content": "gaurav s. sukhatme. department of computer science. university of southern california. los angeles,. ca 90089. email: gaurav@usc.edu. vijay kumar.", 
+        "email_addr_list": [
+            "gaurav@usc.edu"
+        ], 
+        "cite_url": "www.roboticsproceedings.org/rss09/p46.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]A Topological Approach to Using Cables to Separate and ..."
+    }
+]

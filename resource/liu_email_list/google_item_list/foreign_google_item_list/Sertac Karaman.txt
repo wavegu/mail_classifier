@@ -1,0 +1,20 @@
+[
+    {
+        "content": "department of aeronautics and astronautics 33-332. massachusetts institute of technology 77 massachusetts avenue cambridge, ma 02139. sertac@mit.edu.", 
+        "email_addr_list": [
+            "sertac@mit.edu"
+        ], 
+        "cite_url": "aeroastro.mit.edu/.../sertac-karama...", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "Sertac Karaman | MIT AeroAstro"
+    }, 
+    {
+        "content": "sertac karaman. charles ... sertac karaman is the charles stark draper assistant professor of aeronautics and astronautics at the ... email:sertac@mit.edu.", 
+        "email_addr_list": [
+            "sertac@mit.edu"
+        ], 
+        "cite_url": "idss.mit.edu/staff/sertac-karaman/", 
+        "cite_name": "", 
+        "title": "Sertac Karaman | IDSS"
+    }
+]

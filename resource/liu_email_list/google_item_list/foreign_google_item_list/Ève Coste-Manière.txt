@@ -1,0 +1,20 @@
+[
+    {
+        "content": "Ève coste-manière. eves logo. research scientist ... eve coste-maniere can be contacted here : evereve@mac.com. i am a research scientist at inria sophia...", 
+        "email_addr_list": [
+            "evereve@mac.com"
+        ], 
+        "cite_url": "www-sop.inria.fr/...", 
+        "cite_name": "French Institute for Research in Computer Science an...", 
+        "title": "Ève Coste-Manière Inria Sophia Antipolis"
+    }, 
+    {
+        "content": "e-mail: eve.coste-maniere@sophia.inria.fr ... 3adhami, l, coste-manière, È, boissonnat, j.-d. planning and simulation of robotically assisted minimal invasive...", 
+        "email_addr_list": [
+            "eve.coste-maniere@sophia.inria.fr"
+        ], 
+        "cite_url": "www.semthorcardiovascsurg.com/article/S1043...7/references", 
+        "cite_name": "", 
+        "title": "References in Planning, simulation, and augmented reality ..."
+    }
+]

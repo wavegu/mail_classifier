@@ -1,0 +1,29 @@
+[
+    {
+        "content": "dr. maren bennewitz. rheinische friedrich-wilhelms-universität bonn ... secr.: +49 (0) 228 73-4422. fax: +49 (0) 228 73-4425. email: maren@cs.uni-bonn.de...", 
+        "email_addr_list": [
+            "maren@cs.uni-bonn.de"
+        ], 
+        "cite_url": "https://www.hrl.uni-bonn.de/", 
+        "cite_name": "", 
+        "title": "Welcome — Humanoid Robots Lab"
+    }, 
+    {
+        "content": "you are here: home / members / maren. info. maren bennewitz. photo by n. zeller. since october ... fax: +49 (0) 228 73-4425. email: maren@cs.uni-bonn.de...", 
+        "email_addr_list": [
+            "maren@cs.uni-bonn.de"
+        ], 
+        "cite_url": "https://www.hrl.uni-bonn.de/Members/maren", 
+        "cite_name": "", 
+        "title": "Maren Bennewitz — Humanoid Robots Lab"
+    }, 
+    {
+        "content": "office, telephone, email. head. prof. dr. maren bennewitz. i.44 (lbh), +49 (0) 228 73-54164, maren@cs.uni-bonn.de. ph.d. students. abd el-moniem bayoumi.", 
+        "email_addr_list": [
+            "maren@cs.uni-bonn.de"
+        ], 
+        "cite_url": "https://www.hrl.uni-bonn.de/people", 
+        "cite_name": "", 
+        "title": "Staff — Humanoid Robots Lab"
+    }
+]

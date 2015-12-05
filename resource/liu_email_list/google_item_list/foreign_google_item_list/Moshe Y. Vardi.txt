@@ -1,0 +1,29 @@
+[
+    {
+        "content": "moshe y. vardi is karen ostrum george distinguished service professor in computational engineering and ... email: vardi_delete_this_@cs.rice.edu.", 
+        "email_addr_list": [
+            "vardi_delete_this_@cs.rice.edu"
+        ], 
+        "cite_url": "www.cs.rice.edu/~vardi/", 
+        "cite_name": "Rice University", 
+        "title": "Moshe Y. Vardis Home Page - Rice University"
+    }, 
+    {
+        "content": "oct 16, 2012 - moshe y. vardi. email: vardi at cs.rice.edu. membership number: 2473 ... homepage: http://www.cs.rice.edu/~vardi. present and previous...", 
+        "email_addr_list": [
+            "vardi@cs.rice.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Academy of Europe: Vardi Moshe"
+    }, 
+    {
+        "content": "a logical revolution by moshe y. vardi from rice university. date(s): tuesday 8th december ... fax: +44 (0) 115 951 4254 email: csit-enquiries@cs.nott.ac.uk...", 
+        "email_addr_list": [
+            "csit-enquiries@cs.nott.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Nottingham", 
+        "title": "A Logical Revolution by Moshe Y. Vardi from Rice University ..."
+    }
+]

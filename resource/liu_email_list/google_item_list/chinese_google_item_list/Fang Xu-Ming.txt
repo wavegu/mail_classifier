@@ -1,0 +1,57 @@
+[
+    {
+        "content": "verified email at stanford.edu. scholar ... z wang, y sun, xq chen, c franchini, g xu, h weng, x dai, z fang ... g xu, w ming, y yao, x dai, sc zhang, z fang.", 
+        "email_addr_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=BTtzMdMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Xu Gang - Google Scholar Citations"
+    }, 
+    {
+        "content": "email this article to a colleague. add to bookshelf ... li zhi-jie fang xu-ming. school of information ... e-mail: xmfang@swjtu．edu．cn. email: sclslzj@163.com.", 
+        "email_addr_list": [
+            "sclslzj@163.com"
+        ], 
+        "cite_url": "202.38.194.234/zrb/EN/abstract/abstract9547.shtml", 
+        "cite_name": "", 
+        "title": "JSCUT (Natural Science Edition), 2011, 39 (7): 56-62, 69 ..."
+    }, 
+    {
+        "content": "mingxing xu; associate professor; department of computer science and technology ... email:xumx@tsinghua.edu.cn; url: phone:+86-10-62797580; fax:+86-10-62782266 ... [1] wei wu, thomas fang zheng, mingxing xu, frank song.", 
+        "email_addr_list": [
+            "xumx@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.cs.tsinghua.edu.cn/.../2010122423490497966...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Mingxing Xu - Department of Computer Science and ..."
+    }, 
+    {
+        "content": "dr mingliang he (何明亮博士) ... email: minglihe@cityu.edu.hk .... jianhua lu, chunli wu, shishong fang, xu xie, hanwu ma, martha i. nelson, hsiang-fu ... jin-fang zhang, ming-liang he, wei-ming fu, hua wang, lian-zhou chen, xiao zhu,...", 
+        "email_addr_list": [
+            "minglihe@cityu.edu.hk"
+        ], 
+        "cite_url": "www.cityu.edu.hk/bms/.../minglianghe.ht...", 
+        "cite_name": "City University of Hong Kong", 
+        "title": "Dr Mingliang He | Department of Biomedical Sciences, CityU"
+    }, 
+    {
+        "content": "email: sibcb@sibs.ac.cn. website: ... tel: 54921251. email: jychen@@sibcb.ac.cn ... xuming mao, yandong li, huafeng wang, fang cao, jiangye chen*.", 
+        "email_addr_list": [
+            "sibcb@sibs.ac.cn"
+        ], 
+        "cite_url": "www.sibcb.ac.cn/ePI.asp?id=53", 
+        "cite_name": "", 
+        "title": "CHEN Jiangye - Institute of Biochemistry and Cell Biology ..."
+    }, 
+    {
+        "content": "0571-28866223. email. junping.liu@mcri.edu.au. jun-ping.liu@monash.edu ... shi-ming chen, jun-ping liu, jun-xu zhou, chen chen, yu-qin deng, yan wang and ... lucy cassar, he li, fang-xu jiang and jun-ping liu (2010) tgf-beta...", 
+        "email_addr_list": [
+            "junping.liu@mcri.edu.au", 
+            "jun-ping.liu@monash.edu"
+        ], 
+        "cite_url": "ageing.hznu.edu.cn/en/rcdw_show.asp?ID=123", 
+        "cite_name": "", 
+        "title": "Experts and Professors - 衰老研究所| 杭州师范大学"
+    }
+]

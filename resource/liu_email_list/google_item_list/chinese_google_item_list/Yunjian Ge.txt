@@ -1,0 +1,50 @@
+[
+    {
+        "content": "oct 8, 2013 - name : yunjian ge ... email : geyunjian@126.com ... [2] ge yun-jian, yang gui-shan the conservation situation of the grus japonensis habitat...", 
+        "email_addr_list": [
+            "geyunjian@126.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Yunjian GE - Nanjing University of Information Science ..."
+    }, 
+    {
+        "content": "... +86 25 5873 1191, fanxm@lreis.ac.cn  yunjian ge, +86 25 5873 1191, geyunjian@126.com  shaoqi gong, +86 25 5873 1191, shaoqigong@nuist.edu.cn.", 
+        "email_addr_list": [
+            "fanxm@lreis.ac.cn", 
+            "geyunjian@126.com", 
+            "shaoqigong@nuist.edu.cn"
+        ], 
+        "cite_url": "en.nuist.edu.cn/FacultySRS.jhtml", 
+        "cite_name": "", 
+        "title": "Nanjing University of Information Science  Technology"
+    }, 
+    {
+        "content": "email: fshuang@iim.ac.cn, shuangfeng@ustc.edu.cn ... flexible arrayed tactile sensor, junxiang ding,yunjian ge,shanhong li,fei xu,feng shuang, sensors...", 
+        "email_addr_list": [
+            "fshuang@iim.ac.cn", 
+            "shuangfeng@ustc.edu.cn"
+        ], 
+        "cite_url": "rsl.iim.ac.cn/groupshuang/english.html", 
+        "cite_name": "", 
+        "title": "Research Group of Feng Shuang"
+    }, 
+    {
+        "content": "yunji chen professor ..... jun ge associate professor, tsinghua university 2015 innovator under 35. ×. jun ge ...... contact eventsreg@technologyreview.com.", 
+        "email_addr_list": [
+            "eventsreg@technologyreview.com"
+        ], 
+        "cite_url": "www.technologyreview.com/emtech/.../schedul...", 
+        "cite_name": "MIT Technology Review", 
+        "title": "Schedule | EmTech 2015 | MIT Technology Review"
+    }, 
+    {
+        "content": "may 5, 2009 - zhen gaoa1a2, dan zhanga3, xiaolin hua3 and yunjian gea1. a1 institute of intelligent ... e-mail: dan.zhang@uoit.ca. how to cite this article...", 
+        "email_addr_list": [
+            "dan.zhang@uoit.ca"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S0263574709...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Robotica - Design, analysis, and stiffness optimization of a ..."
+    }
+]

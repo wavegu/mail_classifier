@@ -1,0 +1,20 @@
+[
+    {
+        "content": "email: jhli@ipe.ac.cn ... jinghai li, yuanki tung and mooson kwauk (1988). ... jinghai li, lixiong wen, guihua qian, heping cui, mooson kwauk, jaap c.", 
+        "email_addr_list": [
+            "jhli@ipe.ac.cn"
+        ], 
+        "cite_url": "www.emms.cn/lijinghai.htm", 
+        "cite_name": "", 
+        "title": "emms website"
+    }, 
+    {
+        "content": "jinghai li，wei ge and mooson kwauk. state key laboratory of ... beijing 100190, peoples republic of china, email: jhli@home.ipe.ac.cn. integrated process.", 
+        "email_addr_list": [
+            "jhli@home.ipe.ac.cn"
+        ], 
+        "cite_url": "arxiv.org/pdf/0912.5407", 
+        "cite_name": "arXiv", 
+        "title": "[PDF]MOU between NETL and CAS - arXiv"
+    }
+]

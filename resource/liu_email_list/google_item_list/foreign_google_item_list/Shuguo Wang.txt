@@ -1,0 +1,57 @@
+[
+    {
+        "content": "president wang is a member of the cpc committee and the standing committee of ... born in hebei province in october 1958, dr. wang shuguo was admitted to ... 2014 email: ic@mail.xjtu.edu.cn no.28, xianning west road, xian, shaanxi,...", 
+        "email_addr_list": [
+            "ic@mail.xjtu.edu.cn"
+        ], 
+        "cite_url": "en.xjtu.edu.cn/info/1013/1536.htm", 
+        "cite_name": "", 
+        "title": "Wang Shuguo-Xian Jiaotong University"
+    }, 
+    {
+        "content": "oct 14, 2011 - e-mail: president@hit.edu.cn  iea1@hit.edu.cn (english) ... 22nd, the hit delegation, led by president wang shuguo went to north korea to ... on sept. 20th, president wang shuguo attended the 65th kim il-sung university...", 
+        "email_addr_list": [
+            "president@hit.edu.cn", 
+            "iea1@hit.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Harbin Institute of Technology", 
+        "title": "President WANG Shuguo and His Entourage Participating in ..."
+    }, 
+    {
+        "content": "domain report for shuguo wang, zgfapiao@gmail.com, associated with 21 domains and 11 emails.", 
+        "email_addr_list": [
+            "zgfapiao@gmail.com"
+        ], 
+        "cite_url": "www.domainiq.com/name?shuguo_Wang", 
+        "cite_name": "", 
+        "title": "shuguo Wang - domainIQ"
+    }, 
+    {
+        "content": "wang tong(full professor); wang xiang(full professor); wang zulin(full professor) ... xiong huagang(full professor); xiong qingxu(full professor); xie shuguo(full professor); xie yongjun(full professor) ... email:webmaster@ee.buaa.edu.cn.", 
+        "email_addr_list": [
+            "webmaster@ee.buaa.edu.cn"
+        ], 
+        "cite_url": "www.ee.buaa.edu.cn/oldeeweb/html/english/common/.../full_pro.html", 
+        "cite_name": "", 
+        "title": "School of Electronic and Information Engineering"
+    }, 
+    {
+        "content": "email: jwwang@home.ipe.ac.cn. dr. junwu wang is a professor in state key laboratory of multiphase complex systems, institute of ... zhan shu, guo peng, junwu wang*, nan zhang, songgeng li, weigang lin, comparative cfd analysis of...", 
+        "email_addr_list": [
+            "jwwang@home.ipe.ac.cn"
+        ], 
+        "cite_url": "www.emms.cn/wangjunwu.htm", 
+        "cite_name": "", 
+        "title": "Junwu Wang - emms.cn"
+    }, 
+    {
+        "content": "knoxville, tennessee, 37996. email: zwang32 at utk.edu ... [tmc] shuguo zhuo, zhi wang, ye-qiong song, zhibo wang, and luis almeida. a traffic adaptive...", 
+        "email_addr_list": [
+            "zwang32@utk.edu"
+        ], 
+        "cite_url": "web.eecs.utk.edu/~zwang32/", 
+        "cite_name": "University of Tennessee", 
+        "title": "Zhibo Wangs Home Page - EECS User Home Pages"
+    }
+]

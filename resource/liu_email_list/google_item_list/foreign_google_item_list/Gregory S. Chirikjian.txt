@@ -1,0 +1,11 @@
+[
+    {
+        "content": "lab director. gregory s. chirikjian. chirikjian. professor of mechanical engineering. secondary appointments in cs, ams, ece. email: gregc@jhu.edu.", 
+        "email_addr_list": [
+            "gregc@jhu.edu"
+        ], 
+        "cite_url": "rpk.lcsr.jhu.edu/people/", 
+        "cite_name": "", 
+        "title": "People | Robot and Protein Kinematics Laboratory"
+    }
+]

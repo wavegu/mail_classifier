@@ -1,0 +1,21 @@
+[
+    {
+        "content": "kiyoyuki chinzei , ph.d. research fellow ... email: chin@bwh.harvard.edu; post: spl, radiology, brigham and womens hospital 75 francis st. boston, ma...", 
+        "email_addr_list": [
+            "chin@bwh.harvard.edu"
+        ], 
+        "cite_url": "https://www.spl.harvard.edu/archive/spl-pre2007/.../chinzei/index.html", 
+        "cite_name": "", 
+        "title": "Kiyoyuki Chinzei"
+    }, 
+    {
+        "content": "mar 7, 2012 - dr. kiyoyuki chinzei. leader ... e-mail: mamoru@nmlt.t.u-tokyo.ac.jp. phone: 03-5841-6355. gcoe事務局. e-mail: gmsi-office@mechasys.jp.", 
+        "email_addr_list": [
+            "mamoru@nmlt.t.u-tokyo.ac.jp", 
+            "gmsi-office@mechasys.jp"
+        ], 
+        "cite_url": "gmsi.t.u-tokyo.ac.jp/.../The_97th_open_seminar.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Dr. Kiyoyuki Chinzei - GMSI教育プログラム - 東京大学"
+    }
+]

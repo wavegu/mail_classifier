@@ -1,0 +1,74 @@
+[
+    {
+        "content": "1 west dawang road chaoyang district beijing 100026, p.r. china. tel +86 10 5650 0676. fax +86 10 5650 0670. email info@gaofengadv.com...", 
+        "email_addr_list": [
+            "info@gaofengadv.com"
+        ], 
+        "cite_url": "www.gaofengadv.com/contact.php", 
+        "cite_name": "", 
+        "title": "GAO FENG | CONTACT US"
+    }, 
+    {
+        "content": "dr. feng gao is a professor at the department of accounting and information systems at rutgers business school. ... office email: feng.gao.actg@rutgers.edu.", 
+        "email_addr_list": [
+            "feng.gao.actg@rutgers.edu"
+        ], 
+        "cite_url": "www.business.rut...", 
+        "cite_name": "Rutgers Business School – Newark and New Brunswi...", 
+        "title": "Feng Gao | Rutgers Business School"
+    }, 
+    {
+        "content": "gaofeng is a special enterprise that offers the design, manufacture and service of ... guizhou gaofeng petroleum machinery co., ltd., (gaofeng as shortened), ... email: sales@gaofeng-petro.com. address: no. 22, changling south road,...", 
+        "email_addr_list": [
+            "sales@gaofeng-petro.com"
+        ], 
+        "cite_url": "www.gaofeng-petro.com/", 
+        "cite_name": "", 
+        "title": "Drilling Rigs China | Oil Field Equipment for Sale"
+    }, 
+    {
+        "content": "email address feng.gao@duke.edu. dr. feng gao is professor of medicine at duke university and leader of the laboratory of molecular virology at the duke...", 
+        "email_addr_list": [
+            "feng.gao@duke.edu"
+        ], 
+        "cite_url": "https://medicine.duke.edu/faculty/feng-gao-md", 
+        "cite_name": "Duke University", 
+        "title": "Feng Gao, MD | Duke Department of Medicine"
+    }, 
+    {
+        "content": "gaofeng wangs research home page ... contact info: email: gaofeng.wang@stanfordalumni.org; phone: (408)382-5474 (office)", 
+        "email_addr_list": [
+            "gaofeng.wang@stanfordalumni.org"
+        ], 
+        "cite_url": "www-tcad.stanford.edu/~gaofeng/", 
+        "cite_name": "", 
+        "title": "Gaofeng Wangs Research Home Page - Stanford TCAD"
+    }, 
+    {
+        "content": "email: fengg@sjtu.edu.cn ... feng gao, yong zhang and weimin li, “type synthesis of 3-dof reducible translational mechanisms”. robotica, 2005, vol.", 
+        "email_addr_list": [
+            "fengg@sjtu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "Feng Gao - School of Mechanical Engineering Shanghai ..."
+    }, 
+    {
+        "content": "dong, gaofeng research associate. laboratory: xianping dong email: gaofeng.dong@dal.ca. phone: 902-494-3370. elustondo, pia postdoctoral fellow", 
+        "email_addr_list": [
+            "gaofeng.dong@dal.ca"
+        ], 
+        "cite_url": "medicine.dal.ca/.../postdoctoral...", 
+        "cite_name": "Dalhousie University Faculty of Medicine", 
+        "title": "Postdoctoral Fellows  Research Associates - Department ..."
+    }, 
+    {
+        "content": "mar 20, 2015 - “gao feng is a pre-eminent strategy and management consulting firm”, said ... media relations | email: aashish.washikar@techmahindra.com.", 
+        "email_addr_list": [
+            "aashish.washikar@techmahindra.com"
+        ], 
+        "cite_url": "www.techmahindra.com/.../Tech-Mahindra-and-Gao-Fen...", 
+        "cite_name": "Tech Mahindra", 
+        "title": "Tech Mahindra and Gao Feng Advisory Company Sign ..."
+    }
+]

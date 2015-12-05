@@ -1,0 +1,39 @@
+[
+    {
+        "content": "jun 2, 2014 - daqing he. associate professor, school of ... daqing he, ph.d. room 618, information ... fax: (412) 648 7001. email: dah44 at pitt dot edu...", 
+        "email_addr_list": [
+            "dah44@pitt.edu"
+        ], 
+        "cite_url": "www.pitt.edu/~dah44/", 
+        "cite_name": "University of Pittsburgh", 
+        "title": "Daqing Hes Homepage - University of Pittsburgh"
+    }, 
+    {
+        "content": "verified email at pitt.edu - homepage ... d he, dw oard, j wang, j luo, d demner-fushman, k darwish, . ... he huacan, liu yonghuai, he daqing, c hua.", 
+        "email_addr_list": [
+            "email@pitt.edu"
+        ], 
+        "cite_url": "scholar.google.ca/citations?user=FpyCxD4AAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "He Daqing - Google Scholar Citations"
+    }, 
+    {
+        "content": "versity of pittsburgh, pittsburgh, pa 15260. email: daqing@mail.sis.pitt.edu. †. email:demner@cs.umd.edu ... ument selection task (knaus et al., 1995; he et al.,.", 
+        "email_addr_list": [
+            "daqing@mail.sis.pitt.edu", 
+            "demner@cs.umd.edu"
+        ], 
+        "cite_url": "https://terpconnect.umd.edu/~oard/pdf/trec04.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Improving Passage Retrieval Using Interactive Elicition and ..."
+    }, 
+    {
+        "content": "his email address is gormange@gmail.com. daqing he is associate professor in the school of information sciences at the university of pittsburgh. he is also an...", 
+        "email_addr_list": [
+            "gormange@gmail.com"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=1780524714", 
+        "cite_name": "", 
+        "title": "Library and Information Science Trends and Research: ..."
+    }
+]

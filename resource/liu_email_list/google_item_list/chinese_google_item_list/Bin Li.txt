@@ -1,0 +1,29 @@
+[
+    {
+        "content": "welcome to bin lis homepage ... email: lib@illinois.edu ... bin li received his b.s. degree in electronic and information engineering in 2005, m.s. degree in...", 
+        "email_addr_list": [
+            "lib@illinois.edu"
+        ], 
+        "cite_url": "www.ifp.illinois.edu/~lib/", 
+        "cite_name": "", 
+        "title": "Welcome to Bin Lis homepage"
+    }, 
+    {
+        "content": "dr. bin li. ... email: bin.li@cmich.edu; courses: introduction to geographic information science – geo 203, geographic information systems i geo 303.", 
+        "email_addr_list": [
+            "bin.li@cmich.edu"
+        ], 
+        "cite_url": "https://www.cmich.edu/.../Dr.-Ben-Li.aspx", 
+        "cite_name": "Central Michigan University", 
+        "title": "Dr. Bin Li | Central Michigan University"
+    }, 
+    {
+        "content": "bin li. phd-fellow. email: bin.li@aho.no. biography. bin li is an architecture and landscape designer, trained and practiced in beijing, hong kong, vienna,...", 
+        "email_addr_list": [
+            "bin.li@aho.no"
+        ], 
+        "cite_url": "www.oculs.no/people/bin-li/", 
+        "cite_name": "", 
+        "title": "Bin Li - OCULS"
+    }
+]

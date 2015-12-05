@@ -1,0 +1,11 @@
+[
+    {
+        "content": "sep 13, 2012 - ... kyoto, japan contact: prof. nagahisa yoshimura at kyoto university email: nagaeye@kuhp.kyoto-u.ac.jp http://66ringan.jtbcom.co.jp...", 
+        "email_addr_list": [
+            "nagaeye@kuhp.kyoto-u.ac.jp"
+        ], 
+        "cite_url": "osnapao.healio.com/i/109159-september-2012/60", 
+        "cite_name": "", 
+        "title": "Ocular Surgery News APAO Edition - September 2012"
+    }
+]

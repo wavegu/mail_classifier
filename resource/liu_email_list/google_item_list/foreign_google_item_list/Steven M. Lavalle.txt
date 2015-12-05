@@ -1,0 +1,39 @@
+[
+    {
+        "content": "steven m. lavalle. computer science. steven m. lavalle. professor. (217) 265-6313. lavalle@illinois.edu. 3318 siebel center for comp sci...", 
+        "email_addr_list": [
+            "lavalle@illinois.edu"
+        ], 
+        "cite_url": "https://cs.illinois....", 
+        "cite_name": "Department of Computer Science, University of Illinoi...", 
+        "title": "Steven M. LaValle - Department of Computer Science at ..."
+    }, 
+    {
+        "content": "steven m. lavalle. photograph steven_lavalle. title professor. department department of computer science. email lavalle@nospam561e4a2b29511.illinois.", 
+        "email_addr_list": [
+            "lavalle@nospam561e4a2b29511.illinois"
+        ], 
+        "cite_url": "roboticslab.csl.illinois.edu/people/steven-m-lavalle/", 
+        "cite_name": "", 
+        "title": "Steven M. LaValle - Intelligent Robotics Lab"
+    }, 
+    {
+        "content": "next divide the 2 2 square 1 kuffner@cs.cmu.edu lavalle is with the ... chapel hill nc 27599 usa lin@cs.unc.edu 919-962-1974 steven m. lavalle professor...", 
+        "email_addr_list": [
+            "kuffner@cs.cmu.edu", 
+            "lin@cs.unc.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-lavalle-uiuc-edu-19083129.htm", 
+        "cite_name": "", 
+        "title": "lavalle@uiuc.edu - The Email Archive"
+    }, 
+    {
+        "content": "stephan ewert, giso grimm, torben wendt, steven van de par, and volker hohmann – virtual ... steven m lavalle – what can vr applied to various organisms teach us about engineering? .... email: tobias.meilinger@tuebingen.mpg.de.", 
+        "email_addr_list": [
+            "tobias.meilinger@tuebingen.mpg.de"
+        ], 
+        "cite_url": "www.bccn-munich.de/talks-events/vr-workshop-2015-abstract-book", 
+        "cite_name": "", 
+        "title": "[PDF]Abstract book - BCCN Munich"
+    }
+]

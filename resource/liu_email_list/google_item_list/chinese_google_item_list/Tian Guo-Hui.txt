@@ -1,0 +1,56 @@
+[
+    {
+        "content": "tian an guo hui luxury hotel, beijing – find the best deal at hotelscombined.ca. compare all the top travel sites at once. browse 502 other hotels near tian an...", 
+        "email_addr_list": [
+            "deal@hotelscombined.ca"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Tian An Guo Hui Luxury Hotel, Beijing - Compare Deals"
+    }, 
+    {
+        "content": "e-mail: hui.guo@uc.edu. office: 418 carl h. lindner hall. phone: 513-556-7077. fax: ... adam a. ding, shaonan tian, yan yu, hui guo, (2012). a class of...", 
+        "email_addr_list": [
+            "hui.guo@uc.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Cincinnati", 
+        "title": "Hui Guo, University of Cincinnati"
+    }, 
+    {
+        "content": "hui guo: current contact information and listing of economic research of this author provided by repec/ideas. ... short-id: pgu113. email: hui.guo@uc.edu. homepage .... a. adam ding  shaonan tian  yan yu  hui guo, 2012. a class of...", 
+        "email_addr_list": [
+            "hui.guo@uc.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pgu113.html", 
+        "cite_name": "", 
+        "title": "Hui Guo at IDEAS"
+    }, 
+    {
+        "content": "harvard-smithsonian center for astrophysics 60 garden street, ms-58. cambridge, ma 02138 usa phone: (617)4967871. email: hui.tian@cfa.harvard.edu.", 
+        "email_addr_list": [
+            "hui.tian@cfa.harvard.edu"
+        ], 
+        "cite_url": "kurasuta.cfa.harvard.edu/~htian/", 
+        "cite_name": "", 
+        "title": "Dr. Hui Tian - Virtual Solar Observatory"
+    }, 
+    {
+        "content": "email: sibcb@sibs.ac.cn ... email: glxu@@sibcb.ac.cn ... tian-peng gu, fan guo, hui yang, hai-ping wu, gui-fang xu, wei liu, zhi-guo xie, linyu shi, xinyi...", 
+        "email_addr_list": [
+            "sibcb@sibs.ac.cn"
+        ], 
+        "cite_url": "www.sibcb.ac.cn/ePI.asp?id=8.", 
+        "cite_name": "", 
+        "title": "Guo-Liang Xu - Institute of Biochemistry and Cell Biology ..."
+    }, 
+    {
+        "content": "sunglow corporation tian guo hui ... shanghai branch tel:+86-21-65072469. fax:+86-21-65215587. e-mail:shanghai@sunglowcorp.jp...", 
+        "email_addr_list": [
+            "shanghai@sunglowcorp.jp"
+        ], 
+        "cite_url": "www.sunglowcorp.jp/corp-e.html", 
+        "cite_name": "", 
+        "title": "SUNGLOW CORPORATION | CORPORATE PROFILE"
+    }
+]

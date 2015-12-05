@@ -1,0 +1,29 @@
+[
+    {
+        "content": "you are here. unlv home » directories » woosoon yim, ph.d. back ... code: 4027. phone: 702-895-0956. fax: 702-895-3936. email: woosoon.yim@unlv.edu...", 
+        "email_addr_list": [
+            "woosoon.yim@unlv.edu"
+        ], 
+        "cite_url": "https://www.unlv.edu/.../woosoon-yim", 
+        "cite_name": "University of Nevada, Las Vegas", 
+        "title": "Woosoon Yim, Ph.D. | People | University of Nevada, Las ..."
+    }, 
+    {
+        "content": "woosoon yim, professor and chairman. office: tbe a-219. phone: (702) 895-0956. email: woosoon.yim@unlv.edu. dynamics, active material control, robotics.", 
+        "email_addr_list": [
+            "woosoon.yim@unlv.edu"
+        ], 
+        "cite_url": "www.me.unlv.edu/GeneralInfo/faculty/faculty.html", 
+        "cite_name": "", 
+        "title": "Department of Mechanical Engineering"
+    }, 
+    {
+        "content": "see information and reports about wy@me.unlv.edu (woosoon yims e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "wy@me.unlv.edu"
+        ], 
+        "cite_url": "spam-report.email/wy/me.unlv.edu", 
+        "cite_name": "", 
+        "title": "wy@me.unlv.edu (Woosoon Yims e-mail) - Spam-Report ..."
+    }
+]

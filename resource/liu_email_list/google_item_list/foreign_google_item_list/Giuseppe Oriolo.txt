@@ -1,0 +1,11 @@
+[
+    {
+        "content": "ricevimento studenti, giovedì 14:00-16:00 presso il dipartimento di informatica e sistemistica, via eudossiana 18, oppure via e- mail a oriolo@dis.uniroma1.it.", 
+        "email_addr_list": [
+            "oriolo@dis.uniroma1.it"
+        ], 
+        "cite_url": "https://lost-contact.mit.edu/.../schedaDocente.php%3Fi...", 
+        "cite_name": "", 
+        "title": "Oriolo Giuseppe"
+    }
+]

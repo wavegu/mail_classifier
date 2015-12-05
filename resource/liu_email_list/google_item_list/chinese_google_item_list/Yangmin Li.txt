@@ -1,0 +1,48 @@
+[
+    {
+        "content": "yangmin li ph.d, professor department of ... (853)8822-4462(office); fax:(853)8822-2426. e-mail: ymli@umac.mo or yangmin_li@hotmail.com. um webmail...", 
+        "email_addr_list": [
+            "ymli@umac.mo", 
+            "yangmin_li@hotmail.com"
+        ], 
+        "cite_url": "www.cis.umac.mo/~yangmin/", 
+        "cite_name": "", 
+        "title": "Dr. Yangmin Lis Personel Homepage"
+    }, 
+    {
+        "content": "email: yangmingli@yahoo.com.cn. selected publications: 1. k. a. jackson, m. yang, and j. jellinek, site-specific electric dipole polarizabilities: atomic-level...", 
+        "email_addr_list": [
+            "yangmingli@yahoo.com.cn"
+        ], 
+        "cite_url": "ccg.scu.edu.cn/Yang%20Ming%20Li.htm", 
+        "cite_name": "", 
+        "title": "Prof. Yang Ming Li"
+    }, 
+    {
+        "content": "jun 12, 2009 - 100085. fax. 0086-10-62923541. email. yangmin@rcees.ac.cn ... dong li, tao yu, yu zhang, min yang*, zhen li, miaomiao liu, rong qi.", 
+        "email_addr_list": [
+            "yangmin@rcees.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "YANG Min"
+    }, 
+    {
+        "content": "+886-02-28250936. e-mail. president@ym.edu.tw. add. president office, national yang-ming university no. 155, sec. 2, li-nong st, taipei, 112 taiwan (roc)...", 
+        "email_addr_list": [
+            "president@ym.edu.tw"
+        ], 
+        "cite_url": "nymu-e.web.ym.edu.tw/.../ptdetail.phtml...", 
+        "cite_name": "National Yang‑Ming University", 
+        "title": "National Yang-Ming University -- Curriculum Vitae"
+    }, 
+    {
+        "content": "the latest tweets from yangmin li (@liymname): keywords: agile,scrum,tdd,ci ... yangmin li retweeted. macrumors.com ... email it to tips@macrumors.com.", 
+        "email_addr_list": [
+            "tips@macrumors.com"
+        ], 
+        "cite_url": "https://twitter.com/liymname", 
+        "cite_name": "", 
+        "title": "Yangmin Li (@liymname) | Twitter"
+    }
+]

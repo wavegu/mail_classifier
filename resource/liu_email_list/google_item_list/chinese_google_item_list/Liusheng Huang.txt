@@ -1,0 +1,38 @@
+[
+    {
+        "content": "jul 2, 2011 - phone: +86-551-3602475. email: lshuang@ustc.edu.cn. homepage:huang,liusheng (in chinese). research area: internet of thing, wireless...", 
+        "email_addr_list": [
+            "lshuang@ustc.edu.cn"
+        ], 
+        "cite_url": "en.nhpcc.ustc.edu.cn/.../t...", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "Professor Liusheng Huang - National High Performance ..."
+    }, 
+    {
+        "content": "liusheng huang. school of computer science and technology. university of science and. technology of china. email: lshuang@ustc.edu.cn. hongli xu.", 
+        "email_addr_list": [
+            "lshuang@ustc.edu.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Achieving Handoff Optimization and Throughput Efficiency ..."
+    }, 
+    {
+        "content": "email: jianwang@cityu.edu.hk .... wang liu, kejie lu, jianping wang, yi qian, liusheng huang, jun liu, and dapeng wu, on the throughput-delay trade-off...", 
+        "email_addr_list": [
+            "jianwang@cityu.edu.hk"
+        ], 
+        "cite_url": "www.cs.cityu.edu.hk/~jianwang/", 
+        "cite_name": "", 
+        "title": "Dr. Jianping Wang"
+    }, 
+    {
+        "content": "sep 24, 2015 - liusheng huang, email: ude.fscu@gnauh.gnehsuil. victor bigira, email: ... mary m. kakuru, email: moc.liamg@urukakmyram. rada savic...", 
+        "email_addr_list": [
+            "ude.fscu@gnauh.gnehsuil"
+        ], 
+        "cite_url": "www.ncbi.nlm.nih.gov/.../P...", 
+        "cite_name": "National Center for Biotechnology Information", 
+        "title": "Variable piperaquine exposure significantly impacts ..."
+    }
+]

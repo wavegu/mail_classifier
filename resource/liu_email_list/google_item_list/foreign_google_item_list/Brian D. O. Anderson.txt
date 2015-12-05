@@ -1,0 +1,38 @@
+[
+    {
+        "content": "brian david outram anderson ... fax: (02) 6125 8660. email:brian.anderson@anu.edu.au. web address: http://www.nicta.com.au or http://www.anu.edu.au...", 
+        "email_addr_list": [
+            "brian.anderson@anu.edu.au"
+        ], 
+        "cite_url": "users.cecs.anu.edu.a...", 
+        "cite_name": "ANU College of Engineering and Computer Science", 
+        "title": "Brian D. O. Anderson - Engineering  Computer Science"
+    }, 
+    {
+        "content": "brian d. o. andersons publication list. where a publication is not available, please enquire by e-mail to brian.anderson@anu.edu.au. javascript must be...", 
+        "email_addr_list": [
+            "brian.anderson@anu.edu.au"
+        ], 
+        "cite_url": "users.cecs.anu.edu.a...", 
+        "cite_name": "ANU College of Engineering and Computer Science", 
+        "title": "Brian D. O. Andersons Publication List"
+    }, 
+    {
+        "content": "canberra, act, 0200, australia. telephone: +61 2 6125 8667. email:brian.anderson@anu.edu.au. web address: http://users.cecs.anu.edu.au/~briandoa/...", 
+        "email_addr_list": [
+            "brian.anderson@anu.edu.au"
+        ], 
+        "cite_url": "users.cecs.anu.edu.a...", 
+        "cite_name": "ANU College of Engineering and Computer Science", 
+        "title": "Brian D. O. Anderson"
+    }, 
+    {
+        "content": "brian d.o. anderson. headshot photo. first name: brian. last name: anderson. contact information. email: support@ieeecss.org. affiliation: australian national...", 
+        "email_addr_list": [
+            "support@ieeecss.org"
+        ], 
+        "cite_url": "www.ieeecss.org/.../brian-do-anderson", 
+        "cite_name": "IEEE Control Systems Society", 
+        "title": "Brian D.O. Anderson | IEEE Control Systems Society"
+    }
+]

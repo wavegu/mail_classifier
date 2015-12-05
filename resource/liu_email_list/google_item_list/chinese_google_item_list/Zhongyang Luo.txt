@@ -1,0 +1,38 @@
+[
+    {
+        "content": "phone: +86 571 8795 2440. fax: +86 571 8795 1616. email: zyluo@cmee.zju.edu.cn. office: zhejiang university, yuquan campus...", 
+        "email_addr_list": [
+            "zyluo@cmee.zju.edu.cn"
+        ], 
+        "cite_url": "www.fe.zju.edu.cn/english/redir.php?catalog_id=6583object_id...", 
+        "cite_name": "", 
+        "title": "Luo Zhongyang - Faculty of Engineering Zhejiang University"
+    }, 
+    {
+        "content": "email: mxfang@zju.edu.cn ... 3 guanyi chen, mengxiang fang, andries, j.，zhongyang luo, spliethoff, h.,kefa cen，“kinetics study on biomass pyrolysis for...", 
+        "email_addr_list": [
+            "mxfang@zju.edu.cn"
+        ], 
+        "cite_url": "www.fe.zju.edu.cn/english/redir.php?catalog_id=6583object_id...", 
+        "cite_name": "", 
+        "title": "Fang Mengxiang - Faculty of Engineering Zhejiang University"
+    }, 
+    {
+        "content": "email: qhwang@zju.edu.cn. office ... [1] luo zhongyang, wang qinhui, fang mengxiang, cen kefa. ... [9] wang qinhui, luo zhongyang, ni mingjiang, cen kefa.", 
+        "email_addr_list": [
+            "qhwang@zju.edu.cn"
+        ], 
+        "cite_url": "www.fe.zju.edu.cn/english/redir.php?catalog_id=6583object_id...", 
+        "cite_name": "", 
+        "title": "Wang Qinhui - Faculty of Engineering Zhejiang University"
+    }, 
+    {
+        "content": "email: mxfang@zju.edu.cn ... res., 2013, 52 (34), pp 12170–12182; zhen wang, mengxiang fang,hai yu,qinhui ma, andzhongyang luomodeling of co2...", 
+        "email_addr_list": [
+            "mxfang@zju.edu.cn"
+        ], 
+        "cite_url": "www.scirp.org/journal/DetailedInforOfEditorialBoard.aspx?personID=8410", 
+        "cite_name": "", 
+        "title": "Meng-Xiang Fang - Journals, Conferences, Proceedings ..."
+    }
+]

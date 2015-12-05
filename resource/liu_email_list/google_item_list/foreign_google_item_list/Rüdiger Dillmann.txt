@@ -1,0 +1,20 @@
+[
+    {
+        "content": "rüdiger dillmann ... email: dillmann@ira.uka.de ... burgert, o., salb, t., dillmann, r.: modellierung von gewebestrukturen und simulation risikominimierender...", 
+        "email_addr_list": [
+            "dillmann@ira.uka.de"
+        ], 
+        "cite_url": "sfb414.ira.uka.de/mitarbeiter/dillmann.htm", 
+        "cite_name": "", 
+        "title": "Prof. Dr.-Ing. Rüdiger Dillmann - SFB 414"
+    }, 
+    {
+        "content": "prof. dr.-ing. rüdiger dillmann ... kontakt. telefon: +49 721 9654-200. fax: +49 721 9654-213. e-mail: dillmann@dont-want-spam.fzi.de. zurück.", 
+        "email_addr_list": [
+            "dillmann@dont-want-spam.fzi.de"
+        ], 
+        "cite_url": "https://www.fzi.de/wir-ueber-uns/.../dillmann/", 
+        "cite_name": "", 
+        "title": "Prof. Dr.-Ing. Rüdiger Dillmann - FZI"
+    }
+]

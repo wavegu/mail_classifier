@@ -1,0 +1,29 @@
+[
+    {
+        "content": "tomomichi sugihara. english/japanese. sugihara with mighty. associate professor, department of ... tel  fax +81-6-6879-7348. e-mail: zhidao[at]ieee.org...", 
+        "email_addr_list": [
+            "zhidao@ieee.org"
+        ], 
+        "cite_url": "www.mi.ams.eng.osaka-u.ac.jp/member/sugihara/index-e.html", 
+        "cite_name": "", 
+        "title": "Tomomichi Sugihara"
+    }, 
+    {
+        "content": "tomomichi sugihara. department of mechano- ... e-mail: zhidao@ieee.org tel.: +81-3-5841-6380 ... [1] tomomichi sugihara and yoshihiko nakamura.", 
+        "email_addr_list": [
+            "zhidao@ieee.org"
+        ], 
+        "cite_url": "www.jsps-bonn.de/images/stories/Sugihara.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Tomomichi Sugihara - JSPS Bonn Office"
+    }, 
+    {
+        "content": "tomomichi sugihara. ∗1. yoshihiko nakamura. ∗1∗2. hirochika inoue. ∗1. ∗1 ... bunkyo-ku, tokyo, 113–0033, japan. email: sugihara@ynl.t.u-tokyo.ac.jp. ∗2.", 
+        "email_addr_list": [
+            "sugihara@ynl.t.u-tokyo.ac.jp"
+        ], 
+        "cite_url": "www.ynl.t.u-tokyo.ac.jp/publications/.../sugihara.pd...", 
+        "cite_name": "University of Tokyo", 
+        "title": "[PDF]Realtime Humanoid Motion Generation through ZMP ..."
+    }
+]

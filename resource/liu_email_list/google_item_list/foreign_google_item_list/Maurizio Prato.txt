@@ -1,0 +1,38 @@
+[
+    {
+        "content": "prof. maurizio prato. address dipartimento scienze chimiche e farmaceutiche,. piazzale europepa 1, 34127 trieste, italy. room 163. e-mail prato@units.it.", 
+        "email_addr_list": [
+            "prato@units.it"
+        ], 
+        "cite_url": "www2.units.it/pratoweb/Maurizio_Prato/Prof._Prato....", 
+        "cite_name": "University of Trieste", 
+        "title": "Prof. Maurizio Prato"
+    }, 
+    {
+        "content": "verified email at units.it - homepage ... d tasis, n tagmatarchis, a bianco, m prato ... v georgakilas, k kordatos, m prato, dm guldi, m holzinger, a hirsch.", 
+        "email_addr_list": [
+            "email@units.it"
+        ], 
+        "cite_url": "scholar.google.it/citations?user=SCP6c0gAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Maurizio Prato - Google Scholar Citations"
+    }, 
+    {
+        "content": "azienda usl 4 di prato ... informazioni sul medico bellini maurizio ... nominativo: bellini maurizio; tipologia: generico; comune: prato; continuità assistenziale: il medico fa parte del gruppo ... e-mail redazioneweb@usl4.toscana.it.", 
+        "email_addr_list": [
+            "redazioneweb@usl4.toscana.it"
+        ], 
+        "cite_url": "servizi.usl4.toscana.it/.../elencoambulatoriorario.php?...", 
+        "cite_name": "", 
+        "title": "bellini maurizio - Informazioni sul medico scelto - Azienda ..."
+    }, 
+    {
+        "content": "name maurizio prato email prato@ksu.edu.sa address department of food and nutrition, college of food and agriculture science building(2) office: 2a84...", 
+        "email_addr_list": [
+            "prato@ksu.edu.sa"
+        ], 
+        "cite_url": "dsfp.ksu.edu.sa/en/Maurizio-Prato", 
+        "cite_name": "", 
+        "title": "Maurizio Prato | Distinguished Scientist Fellowship Program"
+    }
+]

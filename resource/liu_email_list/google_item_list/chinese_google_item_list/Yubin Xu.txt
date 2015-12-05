@@ -1,0 +1,47 @@
+[
+    {
+        "content": "nov 24, 2015 - email: xiayubin at sjtu dot edu dot cn. im now working in ipads, ... yubin xia, chun yang, yan niu, and xu cheng. credit-hc: an i/o-friendly...", 
+        "email_addr_list": [
+            "xiayubin@sjtu.edu.cn"
+        ], 
+        "cite_url": "ipads.se.sjtu.edu.cn/pub/members/yubin_xia", 
+        "cite_name": "", 
+        "title": "Yubin Xias Homepage (夏虞斌) [IPADS] - 上海交通大学"
+    }, 
+    {
+        "content": "yubin xu and lin ma. harbin institute of technology. nan gang district, harbin, china. email:ybxu, malin@hit.edu.cn. abstract—the laborious collection of...", 
+        "email_addr_list": [
+            "malin@hit.edu.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Physical Distance vs. Signal Distance - IEEE Xplore"
+    }, 
+    {
+        "content": "his current research interests include wireless positioning, machine learning and signal processing. email: dengzhianan@163.com. xu yubin, professor and...", 
+        "email_addr_list": [
+            "dengzhianan@163.com"
+        ], 
+        "cite_url": "www.chinacommunications.cn/EN/abstract/abstract7849.shtml", 
+        "cite_name": "", 
+        "title": "Energy Efficient Access Point Selection and Signal ..."
+    }, 
+    {
+        "content": "jan 6, 2015 - dr.yubin fu. professorof ... (1)yubin fu, qian xu, xuerong zai, yuanyuan liu, zhikai lu. ... tel：0532-66781690 email：cailiao@ouc.edu.cn.", 
+        "email_addr_list": [
+            "cailiao@ouc.edu.cn"
+        ], 
+        "cite_url": "web1.ouc.edu.cn/mse/7c/1d/c3957a31773/page.psp", 
+        "cite_name": "", 
+        "title": "Fu Yubin"
+    }, 
+    {
+        "content": "aug 14, 2012 - tian yubin executive vice dean email: tianyb@bit.edu.cn ... of the chinese academy of sciences scholarship, xu teli scholarship and youbo...", 
+        "email_addr_list": [
+            "tianyb@bit.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Beijing Institute of Technology", 
+        "title": "School of Mathematics - Beijing Institute of Technology"
+    }
+]

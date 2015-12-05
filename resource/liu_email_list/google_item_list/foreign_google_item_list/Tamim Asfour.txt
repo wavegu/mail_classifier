@@ -1,0 +1,20 @@
+[
+    {
+        "content": "http://wwwiaim.ira.uka.de. email: asfour@ira.uka.de tel.: +49-721-608-7379. born august 29, 1967. career. 2003-present postdoctoral researcher and lecturer.", 
+        "email_addr_list": [
+            "asfour@ira.uka.de"
+        ], 
+        "cite_url": "www.jsps-bonn.de/images/stories/Asfour.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Tamim Asfour"
+    }, 
+    {
+        "content": "please contact: antonis argyros forth-ics greece e-mail:argyros@ics.forth.gr tamin asfour rdiger dillmann institute for anthropomatics karlsruhe institute of...", 
+        "email_addr_list": [
+            "argyros@ics.forth.gr"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-asfour-kit-edu-22047938.htm", 
+        "cite_name": "", 
+        "title": "asfour@kit.edu - The Email Archive"
+    }
+]

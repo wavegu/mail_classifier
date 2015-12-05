@@ -1,0 +1,40 @@
+[
+    {
+        "content": "lorario di ricevimento è aperto, a condizione di avere preventivamente concordato lappuntamento via e-mail (allindirizzo: bononi@cs.unibo.it).", 
+        "email_addr_list": [
+            "bononi@cs.unibo.it"
+        ], 
+        "cite_url": "https://www.unibo.it/.../luciano....", 
+        "cite_name": "University of Bologna", 
+        "title": "Luciano Bononi — Università di Bologna — Home Page"
+    }, 
+    {
+        "content": "curriculum vitae of luciano bononi. ... di informatica: scienza e ingegneria), phone: 051-2094972, fax: 051-2094510, email: bononi@cs.unibo.it", 
+        "email_addr_list": [
+            "bononi@cs.unibo.it"
+        ], 
+        "cite_url": "https://www.unibo.it/sitoweb/luciano.bononi/cv-en", 
+        "cite_name": "University of Bologna", 
+        "title": "Luciano Bononi — University of Bologna — Curriculum vitae"
+    }, 
+    {
+        "content": "curriculum vitae di luciano bononi. ... scienza e ingegneria), tel: 051-2094972, fax: 051-2094510, email: bononi@cs.unibo.it , luciano.bononi@unibo.it", 
+        "email_addr_list": [
+            "bononi@cs.unibo.it", 
+            "luciano.bononi@unibo.it"
+        ], 
+        "cite_url": "https://www.unibo.it/.../luciano....", 
+        "cite_name": "University of Bologna", 
+        "title": "Luciano Bononi — Università di Bologna — Curriculum vitae"
+    }, 
+    {
+        "content": "mar 1, 2004 - from : luciano bononi bononi@cs.unibo.it ... system chair luciano bononi universita di bologna, italy email: bononi@cs.unibo.it program...", 
+        "email_addr_list": [
+            "bononi@cs.unibo.it", 
+            "bononi@cs.unibo.it"
+        ], 
+        "cite_url": "", 
+        "cite_name": "World Wide Web Consortium", 
+        "title": "[CFP] IEEE/ACM* MSWiM 2004 in Venice, Italy from Luciano ..."
+    }
+]

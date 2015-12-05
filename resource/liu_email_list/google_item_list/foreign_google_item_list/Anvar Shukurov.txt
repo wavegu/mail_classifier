@@ -1,0 +1,49 @@
+[
+    {
+        "content": "sep 9, 2011 - email: anvar.shukurov@ncl.ac.uk; telephone: +44 (0) 191 208 5398; fax: +44 (0) 191 208 8020; personal website:...", 
+        "email_addr_list": [
+            "anvar.shukurov@ncl.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Newcastle University", 
+        "title": "Professor Anvar Shukurov - Newcastle University"
+    }, 
+    {
+        "content": "anvar shukurov. professor of astrophysical fluid ... verified email at ncl.ac.uk - homepage  scholar ... r beck, a brandenburg, d moss, a shukurov, d sokoloff.", 
+        "email_addr_list": [
+            "email@ncl.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=iV0CefkAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Anvar Shukurov - Google Scholar Citations"
+    }, 
+    {
+        "content": "view anvar shukurovs business profile as member at royal astronomical ... anvar shukurov] email: anvar.shukurov@ncl.ac.uk telephone: 222 5398 fax: 222...", 
+        "email_addr_list": [
+            "anvar.shukurov@ncl.ac.uk"
+        ], 
+        "cite_url": "www.zoominfo.com/p/Anvar-Shukurov/633262235", 
+        "cite_name": "", 
+        "title": "Anvar Shukurov | Royal Astronomical Society | ZoomInfo.com"
+    }, 
+    {
+        "content": "... uk email: andrew.fletcher@ncl.ac.uk, anvar.shukurov@ncl.ac.uk 2observatory, tahtitorninmaki (po box 14), fi-00014 university of helsinki, finland email:...", 
+        "email_addr_list": [
+            "andrew.fletcher@ncl.ac.uk", 
+            "anvar.shukurov@ncl.ac.uk"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=0521889901", 
+        "cite_name": "", 
+        "title": "Cosmic Magnetic Fields (IAU S259): From Planets to Stars ..."
+    }, 
+    {
+        "content": "daniel a. henderson, andrew w. baggaley, anvar shukurov, richard j. boys, ... ne1 7ru, uk (email: daniel.henderson@ncl.ac.uk; anvar.shukurov@ncl.ac.uk;...", 
+        "email_addr_list": [
+            "daniel.henderson@ncl.ac.uk", 
+            "anvar.shukurov@ncl.ac.uk"
+        ], 
+        "cite_url": "antiquity.ac.uk/projgall/henderson342/", 
+        "cite_name": "Antiquity", 
+        "title": "Regional variations in the European Neolithic ... - Antiquity"
+    }
+]

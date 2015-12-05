@@ -1,0 +1,22 @@
+[
+    {
+        "content": "tel: 6790 4192. email: phillis.teng@ntu.edu.sg ... wang bing project officer .... zhang he project officer tel: 6790 4264. email: zhanghe@ntu.edu.sg. location:...", 
+        "email_addr_list": [
+            "phillis.teng@ntu.edu.sg", 
+            "zhanghe@ntu.edu.sg"
+        ], 
+        "cite_url": "www.mae.ntu.edu.sg/.../T-Z.aspx", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "T - Z - School of Mechanical and Aerospace Engineering"
+    }, 
+    {
+        "content": "correspondence to: teng leng ooizijiang j. he email: zjhe@louisville.edu. email: tlooi@pco.edu. top of page. by itself, the absolute distance of an object...", 
+        "email_addr_list": [
+            "zjhe@louisville.edu", 
+            "tlooi@pco.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Nature", 
+        "title": "Perceiving distance accurately by a directional process of ..."
+    }
+]

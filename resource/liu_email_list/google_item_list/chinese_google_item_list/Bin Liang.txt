@@ -1,0 +1,11 @@
+[
+    {
+        "content": "sitting; left to right: dr. hongliang li, dr. ming-hui zou, dr. zhonglin xie, dr. ping song, dr. miao ... dr. bin liang, dr. jun zhou, dr. huaiping zhu, dr. qilong wang, dr. yu zhao, dr. shuangxi wang, mr. ... email: huaiping-zhu@ouhsc.edu.", 
+        "email_addr_list": [
+            "huaiping-zhu@ouhsc.edu"
+        ], 
+        "cite_url": "https://www.oumedicine.com/internalmedicine/.../personnel", 
+        "cite_name": "OU Medicine", 
+        "title": "Department of Internal Medicine - Personnel - OU Medicine"
+    }
+]

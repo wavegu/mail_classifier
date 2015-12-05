@@ -1,0 +1,39 @@
+[
+    {
+        "content": "jin-soo kim professor. e-mailjskim01@snu.ac.kr. address503-106. office+82-2-880-9327fax+82-2-889-1568lab+82-2-880-6643. current research...", 
+        "email_addr_list": [
+            "e-mailjskim01@snu.ac.kr"
+        ], 
+        "cite_url": "https://chem.snu.ac.kr/eng/faculty/faculty_view.asp?seqno=1015", 
+        "cite_name": "", 
+        "title": "Jin-Soo Kim - SNU Chemistry"
+    }, 
+    {
+        "content": "after viewing dr. kims schedule, please contact dr. kim via phone (253-394-4186) or email (jinsoo.kimdds@yahoo.com) to schedule a treatment appointment...", 
+        "email_addr_list": [
+            "jinsoo.kimdds@yahoo.com"
+        ], 
+        "cite_url": "www.anesthesiafordds.com/team.htm", 
+        "cite_name": "", 
+        "title": "Dr. Jinsoo Kim, DDS"
+    }, 
+    {
+        "content": "mr. jin soo kim. contact details. korea. email: office@asianhandball.comthis email ... contact form. name *: email *: subject *: message *. event calendar...", 
+        "email_addr_list": [
+            "office@asianhandball.comthis"
+        ], 
+        "cite_url": "www.asianhandball.org/index.php?option...jin-soo-kim...", 
+        "cite_name": "", 
+        "title": "Mr. Jin Soo KIM - AHF"
+    }, 
+    {
+        "content": "name, title, email ... agraham@asn-online.org. jin soo kim, director of education, jkim@asn-online.org. phillip kokemueller, special advisor to the executive...", 
+        "email_addr_list": [
+            "agraham@asn-online.org", 
+            "jkim@asn-online.org"
+        ], 
+        "cite_url": "https://www.asn-online.org/.../staff.aspx", 
+        "cite_name": "American Society of Nephrology", 
+        "title": "Councilors  Staff - American Society of Nephrology"
+    }
+]

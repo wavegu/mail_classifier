@@ -1,0 +1,56 @@
+[
+    {
+        "content": "professor jian s dai. jian-dai. telephone: +44 020 7848 2321. email: jian.dai@kcl.ac.uk. office: s1.25, strand campus. research group: centre for robotics...", 
+        "email_addr_list": [
+            "jian.dai@kcl.ac.uk"
+        ], 
+        "cite_url": "www.kcl.ac.uk/nms/depts/informatics/.../daij.aspx", 
+        "cite_name": "King's College London", 
+        "title": "Kings College London - Professor Jian S Dai"
+    }, 
+    {
+        "content": "prof. jian s dai. jian-dai professor jian s dai professor of mechanisms and robotics. linkedin  researchgate ... email: jian.dai@kcl.ac.uk. telephone: +44...", 
+        "email_addr_list": [
+            "jian.dai@kcl.ac.uk"
+        ], 
+        "cite_url": "nms.kcl.ac.uk/core/?page_id=168", 
+        "cite_name": "", 
+        "title": "Prof. Jian S Dai - Kings College London"
+    }, 
+    {
+        "content": "mar 20, 2014 - past chair of asme uk  ireland chapter. kings college, university of london. tianjin university, tianjin. email: jian.dai@kcl.ac.uk. jian s.", 
+        "email_addr_list": [
+            "jian.dai@kcl.ac.uk"
+        ], 
+        "cite_url": "ewdom.irccyn.ec-nantes.fr/material/presentation/.../Dai/Presentation-Dai....", 
+        "cite_name": "", 
+        "title": "[PDF]Jian S. Dai"
+    }, 
+    {
+        "content": "jul 15, 2014 - jian s dai, kings college london, kings college london strand london, wc2r 2ls united kingdom. email: jian.dai@kcl.ac.uk...", 
+        "email_addr_list": [
+            "jian.dai@kcl.ac.uk"
+        ], 
+        "cite_url": "pic.sagepub.com/content/early/.../0954406214541430.ref...", 
+        "cite_name": "Sage Publications", 
+        "title": "Characteristics of the double-cycled motion-ruled surface of ..."
+    }, 
+    {
+        "content": "... and mathematics, kings college london, london, uk. jian s dai, centre for advanced mechanisms and robotics, tianjin university, also, centre for robotics, king s college london, wc2r 2ls, london, uk. email: jian.dai@kcl.ac.uk...", 
+        "email_addr_list": [
+            "jian.dai@kcl.ac.uk"
+        ], 
+        "cite_url": "pic.sagepub.com/content/229/5/965.abstract?rss=1", 
+        "cite_name": "Sage Publications", 
+        "title": "Inverse kinematics and workspace analysis of the ..."
+    }, 
+    {
+        "content": "aug 27, 2015 - email: ketao.zhang@kcl.ac.uk. jian s. dai∗. asme fellow, chair of mechanisms and robotics. moe key laboratory for mechanism theory...", 
+        "email_addr_list": [
+            "ketao.zhang@kcl.ac.uk"
+        ], 
+        "cite_url": "mechanismsrobotics.asmedigitalcollection.asme.org/data/.../JMR-15-1122.p...", 
+        "cite_name": "", 
+        "title": "Repelling-Screw Based Force Analysis of Origami ..."
+    }
+]

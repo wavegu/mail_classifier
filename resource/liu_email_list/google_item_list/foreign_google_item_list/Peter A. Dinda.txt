@@ -1,0 +1,11 @@
+[
+    {
+        "content": "peter a. dinda pdinda@northwestern.edu http://www.pdinda.org http://www.presciencelab.org. august 30, 2015. department of electrical engineering and...", 
+        "email_addr_list": [
+            "pdinda@northwestern.edu"
+        ], 
+        "cite_url": "www.cs.northwestern.edu/~pdinda/cv.pdf", 
+        "cite_name": "Northwestern University", 
+        "title": "[PDF]Peter A. Dinda - Computer Science Division - Northwestern ..."
+    }
+]

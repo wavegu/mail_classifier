@@ -1,0 +1,11 @@
+[
+    {
+        "content": "jan 29, 2015 - nothing to fear from artificial intelligence: microsofts eric horvitz ... in a later blog, horvitz admitted the procession of ai towards super-intelligence would present challenges in realms of privacy, .... emailnewstips@stuff.co.nz.", 
+        "email_addr_list": [
+            "emailnewstips@stuff.co.nz"
+        ], 
+        "cite_url": "www.stuff.co.nz/.../Nothing-to-fear-from-artificial-intelligence-...", 
+        "cite_name": "Stuff.co.nz", 
+        "title": "Nothing to fear from artificial intelligence: Microsofts Eric ..."
+    }
+]

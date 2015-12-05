@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: yangxiao@ieee.org. jianda han. state key laboratory of robotics,. shenyang institute of automation,. chinese academy of sciences,. 114 nanta street...", 
+        "email_addr_list": [
+            "yangxiao@ieee.org"
+        ], 
+        "cite_url": "www.escience.cn/system/download/64207", 
+        "cite_name": "", 
+        "title": "[PDF]Energy-aware utility optimisation for joint multi-path routing ..."
+    }, 
+    {
+        "content": "jianda han, sia, cas, china. daokui qu, siasun, china. jie zhao, hit, china ... (email: cyber2015@sia.cn). general chairs: haibin yu, sia, cas, china.", 
+        "email_addr_list": [
+            "cyber2015@sia.cn"
+        ], 
+        "cite_url": "www.ieee-cyber.org/2015/wp.../CYBER-2015-CALL-FOR-PAPER1.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]IEEE-CYBER 2015 Call For Papers (PDF)"
+    }, 
+    {
+        "content": "sep 15, 2011 - yang chena1a2a3, jianda hana1 and xingang zhaoa1. a1 state key laboratory of ... e-mail: jdhan@sia.cn. how to cite this article; link to...", 
+        "email_addr_list": [
+            "jdhan@sia.cn"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S0263574711...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Robotica - Three-dimensional path planning for unmanned ..."
+    }, 
+    {
+        "content": "may 17, 2012 - yi lu, xuili zhang, chunping sui, jianda han and bo hu. a1 robotics research ... e-mail: luyi@ysu.edu.cn. how to cite this article; link to...", 
+        "email_addr_list": [
+            "luyi@ysu.edu.cn"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S0263574712...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Robotica - Kinematics/statics and workspace analysis of a 3 ..."
+    }
+]

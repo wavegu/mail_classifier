@@ -1,0 +1,23 @@
+[
+    {
+        "content": "jan 7, 2015 - ... hall, room b62 e-mail: christopher.bonastia@lehman.cuny.edu ... room b59 e-mail: thomas.conroy@lehman.cuny.edu ... susan a. dumais.", 
+        "email_addr_list": [
+            "christopher.bonastia@lehman.cuny.edu", 
+            "thomas.conroy@lehman.cuny.edu"
+        ], 
+        "cite_url": "www.lehman.edu/academics/.../faculty-directory.php", 
+        "cite_name": "Lehman College", 
+        "title": "Lehman College - Department of Sociology - Faculty Directory"
+    }, 
+    {
+        "content": "authors addresses: j. teevan e-mail: teevan@microsoft.com; susan t. dumais e-mail: sdumais@microsoft.com; eric horvitz e-mail: horvitz@microsoft.com.", 
+        "email_addr_list": [
+            "teevan@microsoft.com", 
+            "sdumais@microsoft.com", 
+            "horvitz@microsoft.com"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-horvitz-microsoft-com-5967827...", 
+        "cite_name": "", 
+        "title": "horvitz@microsoft.com - The Email Archive"
+    }
+]

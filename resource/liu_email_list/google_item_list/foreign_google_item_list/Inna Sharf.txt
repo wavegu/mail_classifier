@@ -1,0 +1,11 @@
+[
+    {
+        "content": "email: inna.sharf@mcgill.ca. abstract. contact dynamics modeling continues to be an intensive research area with new applications of contact dynamics.", 
+        "email_addr_list": [
+            "inna.sharf@mcgill.ca"
+        ], 
+        "cite_url": "https://proceedings.asmedigitalcollection.asme.org/pdfaccess.ashx?...13", 
+        "cite_name": "", 
+        "title": "Experimental Validation of Nonlinear Compliant Contact ..."
+    }
+]

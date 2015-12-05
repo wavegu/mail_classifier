@@ -1,0 +1,38 @@
+[
+    {
+        "content": "department of computer science and engineering, email: jyh-ming-lien@tamu.edu ... lien, jyh-ming is a ph.d. student in the department of computer science at ... approximate convex decomposition of polyhedra, jyh-ming lien, nancy m.", 
+        "email_addr_list": [
+            "jyh-ming-lien@tamu.edu"
+        ], 
+        "cite_url": "https://parasol.tamu.edu/~neilien/", 
+        "cite_name": "Texas AM University", 
+        "title": "Jyh-Ming Lien - Parasol Laboratory - Texas AM University"
+    }, 
+    {
+        "content": "department of computer science and engineering, email: jyh-ming-lien@tamu.edu. texas am university, office: 407e hrbb. college station, tx 77843-3112...", 
+        "email_addr_list": [
+            "jyh-ming-lien@tamu.edu"
+        ], 
+        "cite_url": "https://parasol.tamu.edu/~neilien/personal.php", 
+        "cite_name": "Texas AM University", 
+        "title": "Jyh-Ming Lien - Parasol Laboratory - Texas AM University"
+    }, 
+    {
+        "content": "department of computer science and engineering, email: jyh-ming-lien@tamu.edu ... lien, jyh-ming is a ph.d. student in the department of computer science at ... liens research is in the areas of computational geometry, computer graphics...", 
+        "email_addr_list": [
+            "jyh-ming-lien@tamu.edu"
+        ], 
+        "cite_url": "https://parasol.tamu.edu/~neilien/seminar.php", 
+        "cite_name": "Texas AM University", 
+        "title": "Seminars - Parasol Laboratory - Texas AM University"
+    }, 
+    {
+        "content": "department of computer science and engineering, email: jyh-ming-lien@tamu.edu. texas am university, office: 407e hrbb. college station, tx 77843-3112...", 
+        "email_addr_list": [
+            "jyh-ming-lien@tamu.edu"
+        ], 
+        "cite_url": "https://stroustrup.com/~neilien/personal.php", 
+        "cite_name": "Bjarne Stroustrup", 
+        "title": "Jyh-Ming Lien | Parasol Laboratory"
+    }
+]

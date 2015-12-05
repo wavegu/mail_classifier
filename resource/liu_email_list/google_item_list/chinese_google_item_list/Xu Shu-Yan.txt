@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email: shuyan.xu@nie.edu.sg ... shuyan is a professor of plasma physics with a combination of experimental, analytical, and computational knowledge and...", 
+        "email_addr_list": [
+            "shuyan.xu@nie.edu.sg"
+        ], 
+        "cite_url": "www.nie.edu.sg/profile/xu-shuyan", 
+        "cite_name": "National Institute of Education", 
+        "title": "XU Shuyan | Staff Directory | National Institute of Education ..."
+    }, 
+    {
+        "content": "please mark “elective application” on the envelope. email: miss shu-yan xu at kyo0918@hotmail.com. personal particulars. first name: family name:.", 
+        "email_addr_list": [
+            "kyo0918@hotmail.com"
+        ], 
+        "cite_url": "www.umm.uni-heidelberg.de/.../application%20_ji...", 
+        "cite_name": "Heidelberg University", 
+        "title": "[PDF]application _jiao"
+    }, 
+    {
+        "content": "verified email at ustc.edu.cn - homepage  scholar ... y xu, cw shu. journal of ... yr zhang, yz xu, y xia, w huang, fa liu, yc yang, zl li. journal of colloid...", 
+        "email_addr_list": [
+            "email@ustc.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=uoHDQjAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yan Xu - Google Scholar Citations"
+    }
+]

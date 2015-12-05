@@ -1,0 +1,47 @@
+[
+    {
+        "content": "nov 2, 2015 - han yong hong(韩咏红) china news editor, zb cum head, zb china online. office: (65) 6319 1388. email: hanyh@sph.com.sg. lim chung...", 
+        "email_addr_list": [
+            "hanyh@sph.com.sg"
+        ], 
+        "cite_url": "www.sph.com.sg/contact-us/.../media-contacts/", 
+        "cite_name": "Singapore Press Holdings", 
+        "title": "Media Contacts - Singapore Press Holdings"
+    }, 
+    {
+        "content": "sep 14, 2009 - e-mail: yonghong.yan@hccl.ioa.ac.cn ... he served as director of intel microprocessors laboratory division engineers and computer interface...", 
+        "email_addr_list": [
+            "yonghong.yan@hccl.ioa.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Prof. YAN Yonghong - Institute Of Acoustics Chinese ..."
+    }, 
+    {
+        "content": "sep 30, 2015 - han yong hong (韩咏红) china news editor, zb cum head, zb china online, tel 1 : 6319 1388. email : hanyh@sph.com.sg...", 
+        "email_addr_list": [
+            "hanyh@sph.com.sg"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Singapore Publications - SG Press Centre"
+    }, 
+    {
+        "content": "email: computeren@behost.com.cn ... yonghong electronics manufactures computer power supply devices. .... p: as long as he doesnt look like a kid…", 
+        "email_addr_list": [
+            "computeren@behost.com.cn"
+        ], 
+        "cite_url": "sacom.hk/wp-content/uploads/.../yonghongelectronicsreport_eng.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Yonghong Electronics Factory"
+    }, 
+    {
+        "content": "jan 10, 2011 - email heyh@sz.tsinghua.edu.cn. education. 2002.07 phd in biomedical physics, institute of laser life science (ills), south china normal...", 
+        "email_addr_list": [
+            "heyh@sz.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.sz.tsinghua.edu.cn/.../2011011009331921744...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Professor HE Yonghong - Graduate School at Shenzhen ..."
+    }
+]

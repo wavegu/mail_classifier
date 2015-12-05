@@ -1,0 +1,47 @@
+[
+    {
+        "content": "dr. jiazhong chen. member ... henry clay road, wilmington. country / region: united states. phone: +1 302 695 2553. email: jiazhong.chen@usa.dupont.com...", 
+        "email_addr_list": [
+            "jiazhong.chen@usa.dupont.com"
+        ], 
+        "cite_url": "www.iupac.org/.../me...", 
+        "cite_name": "International Union of Pure and Applied Chemistry", 
+        "title": "Chen - IUPAC - International Union of Pure and Applied ..."
+    }, 
+    {
+        "content": "see information and reports about xpst@yahoo.com (jiazhong chens e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "xpst@yahoo.com"
+        ], 
+        "cite_url": "spam-report.email/xpst/yahoo.com", 
+        "cite_name": "", 
+        "title": "xpst@yahoo.com (Jiazhong Chens e-mail) - Spam-Report ..."
+    }, 
+    {
+        "content": "fujian jiazhong biotechnology development co.,ltd ... i am jack chen, a foreign trader for seafooods, at your services! supply: ... email: jack@jzseafoods.com", 
+        "email_addr_list": [
+            "jack@jzseafoods.com"
+        ], 
+        "cite_url": "seafooddemand.com/profile?id=3776", 
+        "cite_name": "", 
+        "title": "Fujian Jiazhong Biotechnology Development Co.,Ltd"
+    }, 
+    {
+        "content": "email:wcxq2011@163.com. tel:027-67813107 ... xiaoqi chen,yancheng xu, haohua deng, jiazhong sun, zhe dai, yuwen wu, miao yang.plasma il-17a is...", 
+        "email_addr_list": [
+            "wcxq2011@163.com"
+        ], 
+        "cite_url": "wsm70.whu.edu.cn/sysyxb/enshowtea.asp?id=269", 
+        "cite_name": "Wuhan University", 
+        "title": "Faculty Of Medical Sciences"
+    }, 
+    {
+        "content": "e-mail: kqyu@mail.shcnc.ac.cn ... sun jiazhong ... zhi chen, hong-lin li, qi-jun zhang, xiao-guang bao, kun-qian yu, xiao-min luo, wei-liang zhu and...", 
+        "email_addr_list": [
+            "kqyu@mail.shcnc.ac.cn"
+        ], 
+        "cite_url": "www.dddc.ac.cn/group/Kunqian_yu.htm", 
+        "cite_name": "", 
+        "title": "Kunqian Yu - DDDC"
+    }
+]

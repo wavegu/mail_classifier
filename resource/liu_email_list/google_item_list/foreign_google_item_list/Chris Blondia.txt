@@ -1,0 +1,47 @@
+[
+    {
+        "content": "chris blondia. head of iminds - mosaic - university of antwerp chris.blondia@uantwerp.be  open calls  vacancies  press  human capital strategy (hrs4r)...", 
+        "email_addr_list": [
+            "chris.blondia@uantwerp.be"
+        ], 
+        "cite_url": "https://www.iminds.be/en/.../iminds-mosaic-university-of-antwerp", 
+        "cite_name": "", 
+        "title": "iMinds - MOSAIC - University of Antwerp - iMinds"
+    }, 
+    {
+        "content": "chris blondia. head of iminds - mosaic - uantwerpen chris.blondia@uantwerp.be  openstaande oproepen  vacatures  pers  human capital strategy...", 
+        "email_addr_list": [
+            "chris.blondia@uantwerp.be"
+        ], 
+        "cite_url": "https://www.iminds.be/.../iminds-mosaic-university-of-...", 
+        "cite_name": "", 
+        "title": "iMinds - MOSAIC - UAntwerpen - iMinds"
+    }, 
+    {
+        "content": "... antwerp - ibbt, pats research group, middelheimlaan 1, b-2020 antwerpen. telephone: (0032) 32653903 email: sylwia.romaszko,chris.blondia@ua.ac.be.", 
+        "email_addr_list": [
+            "chris.blondia@ua.ac.be"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../01...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Neighbour and Energy -Aware Contention Avoidance MAC ..."
+    }, 
+    {
+        "content": "email: wim.torfs, chris.blondia@ua.ac.be. abstract—a neighborhood discovery (nd), also referred to as a rendezvous (rdv), is a challenging and fundamental.", 
+        "email_addr_list": [
+            "chris.blondia@ua.ac.be"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "AND: Asynchronous Neighborhood Discovery protocols for ..."
+    }, 
+    {
+        "content": "e-mail: chris.blondia@ua.ac.be. marco conti national research council department of engineering, ict and technologies for energy and transport (diitet)", 
+        "email_addr_list": [
+            "chris.blondia@ua.ac.be"
+        ], 
+        "cite_url": "cnd.iit.cnr.it/ifipwg63/listmembers.html", 
+        "cite_name": "", 
+        "title": "List members WG6.3"
+    }
+]

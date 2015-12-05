@@ -1,0 +1,38 @@
+[
+    {
+        "content": "contact information email: jwmark@uwaterloo.ca phone: 519-888-4567 x32532 location: eit 4156 fax: 519-746-3077.", 
+        "email_addr_list": [
+            "jwmark@uwaterloo.ca"
+        ], 
+        "cite_url": "https://uwaterloo.ca/electrical.../people.../jon-mark", 
+        "cite_name": "University of Waterloo", 
+        "title": "Jon W. Mark - University of Waterloo"
+    }, 
+    {
+        "content": "phone: (023) 8059 2794; email: j.w.essex@soton.ac.uk ... professor jonathan w essex is professor of computational systems chemistry within chemistry at...", 
+        "email_addr_list": [
+            "j.w.essex@soton.ac.uk"
+        ], 
+        "cite_url": "www.southampton.ac.uk/chemistry/.../jwe1.p...", 
+        "cite_name": "University of Southampton", 
+        "title": "Professor Jonathan Essex | Chemistry | University of ..."
+    }, 
+    {
+        "content": "(email at jon.steed@durham.ac.uk). biography. jonathan w. steed was born in london, uk in 1969. he obtained his b.sc. and ph.d. degrees at university...", 
+        "email_addr_list": [
+            "email@jon.steed"
+        ], 
+        "cite_url": "https://www.dur.ac.uk/chemistry/staff/profile/?id...", 
+        "cite_name": "Durham University", 
+        "title": "Prof. Jonathan W. Steed - Durham University"
+    }, 
+    {
+        "content": "email: zqy@hit.edu.cn. phone: +86-755-26033786. personal profile ... bin cao, qinyu zhang*, jon w. mark, lin x. cai, and h. vincent poor, towards...", 
+        "email_addr_list": [
+            "zqy@hit.edu.cn"
+        ], 
+        "cite_url": "www.hitsz.edu.cn/body/shizi/detailen.php?strID=262", 
+        "cite_name": "", 
+        "title": "ZHAGN Qinyu"
+    }
+]

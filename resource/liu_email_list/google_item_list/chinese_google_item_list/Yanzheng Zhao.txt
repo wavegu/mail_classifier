@@ -1,0 +1,58 @@
+[
+    {
+        "content": "email: miaorui@sjtu.edu.cn ... miao rui, ying yangjian, yang dong, zhao yanzheng, jiang zhibin modeling and analysis of dimensional variation stream...", 
+        "email_addr_list": [
+            "miaorui@sjtu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "MIAO Rui - School of Mechanical Engineering Shanghai ..."
+    }, 
+    {
+        "content": "email：zhfu@sjtu.edu.cn. academic ... zhuang fu, fei ni， qixin cao and yanzheng zhao，the facial texture analysis for the automatic portrait drawing，pattern...", 
+        "email_addr_list": [
+            "zhfu@sjtu.edu.cn"
+        ], 
+        "cite_url": "www.robot.sjtu.edu.cn/English/Teacher/showDetail.aspx?pid=28", 
+        "cite_name": "", 
+        "title": "Welcome to Robotics Institute of Sjtu"
+    }, 
+    {
+        "content": "yan zheng. school of computing ... lake city, utah 84112. email: yan.zheng at utah.edu ... yan zheng, guangshun shi, lin zhang, qinren wang, yajing zhao", 
+        "email_addr_list": [
+            "yan.zheng@utah.edu"
+        ], 
+        "cite_url": "www.cs.utah.edu/~yanzheng/", 
+        "cite_name": "University of Utah", 
+        "title": "Yan Zheng - School of Computing - University of Utah"
+    }, 
+    {
+        "content": "solar cell arrays. wu yuexin, fu zhuang, zhao yanzheng and zhao hui ... corresponding author e-mail: yzh-zhao@sjtu.edu.cn, wuyuexin@sjtu.edu.cn. abstract:...", 
+        "email_addr_list": [
+            "yzh-zhao@sjtu.edu.cn", 
+            "wuyuexin@sjtu.edu.cn"
+        ], 
+        "cite_url": "www.intechopen.com/download/pdf/4210", 
+        "cite_name": "", 
+        "title": "[PDF]Download as PDF - InTech"
+    }, 
+    {
+        "content": "email: majun_an68@tju.edu.cn .... email:njtjuchem@gmail.com .... wei meng, hai-tao zhao, jing nie, yan zheng, aiping fu, jun-an ma*, “allenoate-derived 1...", 
+        "email_addr_list": [
+            "majun_an68@tju.edu.cn", 
+            "njtjuchem@gmail.com"
+        ], 
+        "cite_url": "www.tjuchemistry.org/usr/maja.htm", 
+        "cite_name": "", 
+        "title": "马军安博士 - 天津大学化学系"
+    }, 
+    {
+        "content": "yanzheng zhao i , zhuang fu i, qixin cao i , mingbo chen , jun zhang *, zeqi tang ... institute of space-power, shanghai 200233 (email: sispcc@oniine.sh.cn).", 
+        "email_addr_list": [
+            "sispcc@oniine.sh.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0134...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Adhesive dispensing robot used for the bonding operation ..."
+    }
+]

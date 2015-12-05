@@ -1,0 +1,22 @@
+[
+    {
+        "content": "gao junyao, school of mechatronic engineering, beijing institute of technology, no. 5 zhongguancun south ... 100081, china. email: gaojunyao@bit.edu.cn...", 
+        "email_addr_list": [
+            "gaojunyao@bit.edu.cn"
+        ], 
+        "cite_url": "pic.sagepub.com/content/228/14/2557.abstract", 
+        "cite_name": "Sage Publications", 
+        "title": "The modeling and controlling of electrohydraulic actuator for ..."
+    }, 
+    {
+        "content": "daxing.gao@utsouthwestern.edu b.s., university of ... junyao.ren@utsouthwestern.edu b.s., tongji university ... shiqianhust@gmail.com b.s., huazhong...", 
+        "email_addr_list": [
+            "daxing.gao@utsouthwestern.edu", 
+            "junyao.ren@utsouthwestern.edu", 
+            "shiqianhust@gmail.com"
+        ], 
+        "cite_url": "www.utsouthwestern.ed...", 
+        "cite_name": "University of Texas Southwestern Medical Center", 
+        "title": "Chen Lab - UT Southwestern Medical Center at Dallas"
+    }
+]

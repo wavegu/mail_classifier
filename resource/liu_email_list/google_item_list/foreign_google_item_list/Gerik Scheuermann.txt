@@ -1,0 +1,38 @@
+[
+    {
+        "content": "room: paulinum, p729. telephone: +49 341 97 32251. fax: +49 341 97 32252. e-mail: scheuermann at informatik.uni-leipzig.de...", 
+        "email_addr_list": [
+            "scheuermann@informatik.uni-leipzig.de"
+        ], 
+        "cite_url": "www.informatik.uni-leipzig.de/.../gerik-scheuermann", 
+        "cite_name": "Leipzig University", 
+        "title": "Gerik Scheuermann - Institut für Informatik - Universität Leipzig"
+    }, 
+    {
+        "content": "gerik scheuermann ... raum: p 7-29. telefon: +49 341 97 32251. fax: +49 341 97 32252. e-mail: scheuermann at informatik.uni-leipzig.de...", 
+        "email_addr_list": [
+            "scheuermann@informatik.uni-leipzig.de"
+        ], 
+        "cite_url": "www.informatik.uni-leipzig.de/.../g...", 
+        "cite_name": "Leipzig University", 
+        "title": "Gerik Scheuermann - Institut für Informatik - Universität Leipzig"
+    }, 
+    {
+        "content": "jan 15, 2004 - email: twischgo@uci.edu. university of ... mail code: 2526. irvine, ca 92697 ... thomas wischgoll, gerik scheuermann, hans hagen: tracking...", 
+        "email_addr_list": [
+            "twischgo@uci.edu"
+        ], 
+        "cite_url": "www.faculty.uci.edu/profile.cfm?faculty...", 
+        "cite_name": "University of California, Irvine", 
+        "title": "Thomas Wischgoll - UC Irvine - Faculty Profile System"
+    }, 
+    {
+        "content": "oct 16, 2014 - ... +49 341 3928738 0. fax: +49 341 3928738 9. email: info@infai.org ... homepage. prof. dr. gerik scheuermann phone: +49 341 97–32251", 
+        "email_addr_list": [
+            "info@infai.org"
+        ], 
+        "cite_url": "infai.org/en/Contact?show_comments=1", 
+        "cite_name": "", 
+        "title": "InfAI : en / Contact"
+    }
+]

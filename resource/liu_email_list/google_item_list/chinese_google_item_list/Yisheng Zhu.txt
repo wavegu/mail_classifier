@@ -1,0 +1,20 @@
+[
+    {
+        "content": "professors: wang chengtao, lan ning, gu lixu, xie le, zhu yisheng. associate professor: jingfeng ... +86 21 62934959/62932392. email: dm_sjtu@163.com.", 
+        "email_addr_list": [
+            "dm_sjtu@163.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "MOE Engineering Research Center of Digital Medicine"
+    }, 
+    {
+        "content": "follow yisheng zhu. yisheng zhu. are you yisheng zhu? ...... building, room 411, 1954 huashan road, shanghai, 200240, china. shanbao.tong@gmail.com.", 
+        "email_addr_list": [
+            "shanbao.tong@gmail.com"
+        ], 
+        "cite_url": "www.pubfacts.com/author/Yisheng+Zhu", 
+        "cite_name": "", 
+        "title": "Publications Authored by Yisheng Zhu - PubFacts"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "wayne j. lee » member directory ... add to address book. ... la 70130 work work phone: 504-581-3200work work email: wlee@stonepigman.cominternet.", 
+        "email_addr_list": [
+            "wlee@stonepigman.cominternet"
+        ], 
+        "cite_url": "gnomartinet.com/member-directory/name/wayne-lee/", 
+        "cite_name": "", 
+        "title": "Wayne J. Lee Member Directory"
+    }
+]

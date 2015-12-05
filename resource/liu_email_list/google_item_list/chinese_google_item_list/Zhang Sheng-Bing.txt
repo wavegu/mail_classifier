@@ -1,0 +1,75 @@
+[
+    {
+        "content": "jan 9, 2014 - bing zhang, shanshan li, changshan wu, lianru gao, wenjuan zhang and man peng, 2012, ... bing zhang, yanhong wu, liping zhu, junbo wang, junsheng li, dongmei chen.(2011),estimation .... email: zb@ceode.ac.cn...", 
+        "email_addr_list": [
+            "zb@ceode.ac.cn"
+        ], 
+        "cite_url": "english.radi.cas.cn/Education/PhDS/201401/t20140109_115415.html", 
+        "cite_name": "", 
+        "title": "ZHANG Bing - Institute of Remote Sensing and Digital Earth ..."
+    }, 
+    {
+        "content": "bingsheng zhang at texas am university, dept. of mathematics. ... bingsheng zhang. graduate student ... email, bszhang at math.tamu.edu.", 
+        "email_addr_list": [
+            "bszhang@math.tamu.edu"
+        ], 
+        "cite_url": "www.math.tamu.edu/.../formalpg.php?user=bszha...", 
+        "cite_name": "Texas AM University", 
+        "title": "Bingsheng Zhang, Dept of Mathematics, Texas AM University"
+    }, 
+    {
+        "content": "oct 23, 2013 - e-mail：zhangsb@nwpu.edu.cn ... yan mengmeng, zhang shengbing. ... ahmad waqar, zhang shengbing, amjad hafiz muhammad, gillani...", 
+        "email_addr_list": [
+            "zhangsb@nwpu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Zhang Shengbin-软件与微电子学院"
+    }, 
+    {
+        "content": "sheng, ping (沈平). dr william m w mong ... telephone: 2358 7474 email: sheng@ust.hk. scopus: ... zhang, haijing hkust affiliated (currently or previously)...", 
+        "email_addr_list": [
+            "sheng@ust.hk"
+        ], 
+        "cite_url": "repository.ust.hk/.../sh...", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "Sheng, Ping - HKUST Scholarly Publications"
+    }, 
+    {
+        "content": "sheng zhang. associate ... detroit, michigan 48202. e-mail: szhang at wayne dot edu ... office hours: tr 12:00 -- 1:0 pm, or email me to make an appointment.", 
+        "email_addr_list": [
+            "szhang@wayne.edu"
+        ], 
+        "cite_url": "www.math.wayne.edu/~sheng/", 
+        "cite_name": "Wayne State University", 
+        "title": "Sheng Zhang at Wayne State University - Mathematics"
+    }, 
+    {
+        "content": "kang zhang, m.d., ph.d. ... email: k5zhang@ucsd.edu ... core, other igm investigators: kun zhang, bing ren, xiang-dong fu, trey ideker, sheng zhong", 
+        "email_addr_list": [
+            "k5zhang@ucsd.edu"
+        ], 
+        "cite_url": "igm.ucsd.edu/.../kang-zhang.shtml", 
+        "cite_name": "University of California, San Diego", 
+        "title": "Kang Zhang, MD, Ph.D. - Institute for Genomic Medicine ..."
+    }, 
+    {
+        "content": "email : tamar.farfel-becker@nih.gov ... email : suntao@ninds.nih.gov ... 3) xiu-tang cheng, bing zhou, mei-yao lin, qian cai, and zu-hang sheng (2015) ... 5) dinesh c. joshi, chuan-li zhang, tien-min lin, anchal gusain, melissa g. harris,...", 
+        "email_addr_list": [
+            "tamar.farfel-becker@nih.gov", 
+            "suntao@ninds.nih.gov"
+        ], 
+        "cite_url": "https://neuroscience.nih.gov/.../zu-hang-shen...", 
+        "cite_name": "National Institutes of Health", 
+        "title": "Zu-Hang Sheng, Ph.D. - Neuroscience@NIH"
+    }, 
+    {
+        "content": "email: whjiang@sibs.ac.cn; dr. sheng yang, professor. ... jun chen, he huang, yu jiang, hui-qi he, hong zhu, chang-sheng cai, guo-song zheng ... dong, chong-mao xu, jun-jie yang, jin lu, ying-miao liu, biao chen, bing-bing sun", 
+        "email_addr_list": [
+            "whjiang@sibs.ac.cn"
+        ], 
+        "cite_url": "www.sippe.ac.cn/klsb/ep4_jiangwh.asp", 
+        "cite_name": "", 
+        "title": "Prof. Dr. Wei-Hong Jiang Prof. Dr. Sheng Yang Microbial ..."
+    }
+]

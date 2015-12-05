@@ -1,0 +1,57 @@
+[
+    {
+        "content": "zhihui du; associate professor; department of computer science and technology; joined department: 2000; email:duzh@tsinghua.edu.cn...", 
+        "email_addr_list": [
+            "duzh@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201012232315214144124...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Zhihui DU"
+    }, 
+    {
+        "content": "p.r.china. email: duzh@tsinghua.edu.cn zhihuidu@gmail.com homepage: ... ruichun tang, zhihui du, qunsheng ma, ziyu zhu and feng yang. in chinese.", 
+        "email_addr_list": [
+            "duzh@tsinghua.edu.cn", 
+            "zhihuidu@gmail.com"
+        ], 
+        "cite_url": "hpclab.cs.tsinghua.edu.cn/~duzh/cv.htm", 
+        "cite_name": "", 
+        "title": "Zhihui Du"
+    }, 
+    {
+        "content": "... joined department/school: 1955; email: lsl-dcs@mail.tsinghua.edu.cn; url: ... [3] kun wang, zhihui du, sanli li, a parallel biomedical data transportation...", 
+        "email_addr_list": [
+            "lsl-dcs@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201012261101513345707...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Sanli LI"
+    }, 
+    {
+        "content": "serene du 3. angie lee zhi hui. do drop us an email with a printscreen of your like and share to contest@ohvola.com to redeem your discount code!", 
+        "email_addr_list": [
+            "contest@ohvola.com"
+        ], 
+        "cite_url": "https://www.facebook.com/OHVOLA/posts/10151701688147975", 
+        "cite_name": "", 
+        "title": "OHVOLA - Hi ladies, thank you for taking part in this..."
+    }, 
+    {
+        "content": "address 2: tsinghua university. address 3: city, state, postal code: beijing china 100084. country: china. email: zhihui.du@ligo.org. office number: +86 (10)...", 
+        "email_addr_list": [
+            "zhihui.du@ligo.org"
+        ], 
+        "cite_url": "https://roster.ligo.org/roster.php?do=memberuid=2195...56...", 
+        "cite_name": "", 
+        "title": "Zhihui Du - LIGO Scientific Collaboration Directory"
+    }, 
+    {
+        "content": "email:duzh@tsinghua.edu.cn. home page: ... zhihui du, yu chen, peng liu,grid computing，tsinghua university publication，isbn 7-302-05939-x, 2002.10.", 
+        "email_addr_list": [
+            "duzh@tsinghua.edu.cn"
+        ], 
+        "cite_url": "pire.fiu.edu/faculty/Dr_Du.php", 
+        "cite_name": "", 
+        "title": "Zhihui Du - PIRE: Partnerships for International Research ..."
+    }
+]

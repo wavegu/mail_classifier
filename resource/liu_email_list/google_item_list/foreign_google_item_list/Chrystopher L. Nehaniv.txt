@@ -1,0 +1,21 @@
+[
+    {
+        "content": "authorchrystopher l. nehanivemailc.l.nehaniv@herts.ac.uk/email/author. authorjames mitchellemailjdm3@st-and.ac.uk/email/author.", 
+        "email_addr_list": [
+            "nehanivemailc.l.nehaniv@herts.ac.uk", 
+            "mitchellemailjdm3@st-and.ac.uk"
+        ], 
+        "cite_url": "https://github.com/gap-system/sgpdec/blob/master/doc/title.xml", 
+        "cite_name": "", 
+        "title": "sgpdec/title.xml at master · gap-system/sgpdec · GitHub"
+    }, 
+    {
+        "content": "jun 13, 2012 - e-mail: c.lyon@herts.ac.uk. affiliation: adaptive systems ... caroline lyon,; chrystopher l. nehaniv,; joe saunders. plos. x. published: june...", 
+        "email_addr_list": [
+            "c.lyon@herts.ac.uk"
+        ], 
+        "cite_url": "journals.plos.org/plosone/article?id=10.1371/journal.pone.0038236", 
+        "cite_name": "", 
+        "title": "Interactive Language Learning by Robots - PLoS Journals"
+    }
+]

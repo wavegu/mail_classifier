@@ -1,0 +1,11 @@
+[
+    {
+        "content": "dr. ning xi ... email: xin@egr.msu.edu ... at the department of electrical and computer engineering, michigan state university, is directed by dr.ning xi.", 
+        "email_addr_list": [
+            "xin@egr.msu.edu"
+        ], 
+        "cite_url": "www.egr.msu.edu/ralab/", 
+        "cite_name": "Michigan State University College of Engineering", 
+        "title": "The Robotics and Automation Laboratory Homepage"
+    }
+]

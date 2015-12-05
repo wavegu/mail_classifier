@@ -1,0 +1,20 @@
+[
+    {
+        "content": "718 sis building 135 n. bellefield ave. pittsburgh pa 15260. voice: (412) 624-5144. fax: (412) 624-2788. email: prashant at mail dot sis dot pitt dot edu...", 
+        "email_addr_list": [
+            "prashant@mail.sis.pitt.edu"
+        ], 
+        "cite_url": "www.pitt.edu/~prashk/", 
+        "cite_name": "University of Pittsburgh", 
+        "title": "Prashant Krishnamurthy"
+    }, 
+    {
+        "content": "instructor: dr. prashanth krishnamurthy, lc029, pk@crrl.poly.edu. office hours: monday 2:00 pm - 3:30 pm, wednesday 1:00 pm - 2:30 pm; or by appoint- ment.", 
+        "email_addr_list": [
+            "pk@crrl.poly.edu"
+        ], 
+        "cite_url": "crrl.poly.edu/522/syllabus.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]NYU Polytechnic School of Engineering Department of ..."
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "content": "paulo novais. e-mail: pjon@di.uminho.pt. url: http://www.di.uminho.pt/~pjn. francisco andrade. e-mail: fandrade@direito.uminho.pt. josé neves. e-mail:...", 
+        "email_addr_list": [
+            "pjon@di.uminho.pt", 
+            "fandrade@direito.uminho.pt"
+        ], 
+        "cite_url": "islab.di.uminho.pt/tiarac/p3.php", 
+        "cite_name": "University of Minho", 
+        "title": "TIARAC - ISLab"
+    }, 
+    {
+        "content": "email: david.camacho@uam.es. dr. tülay yildirim ... 34349 beşiktaş/istanbul, turkey email: tulay@yildiz.edu.tr ... dr. paulo novais department of computer...", 
+        "email_addr_list": [
+            "david.camacho@uam.es", 
+            "tulay@yildiz.edu.tr"
+        ], 
+        "cite_url": "www.inista.org/inista15/contact.php", 
+        "cite_name": "", 
+        "title": "2015 International Symposium on INnovations in Intelligent ..."
+    }, 
+    {
+        "content": "nome, paulo novais de almeida. email, pnovais@ufba.br. graduado em piano e em regência pela ufba, é professor e membro do madrigal nesta instituição,...", 
+        "email_addr_list": [
+            "pnovais@ufba.br"
+        ], 
+        "cite_url": "www.escolademusica.ufba.br/.../Paulo-Novais-de-Alm...", 
+        "cite_name": "", 
+        "title": "Paulo Novais de Almeida - Escola de Música - Universidade ..."
+    }, 
+    {
+        "content": "paulo novais: publications, bio, bibliography, etc. ... send us an email at hello@interaction-design.org or through our online contact form. or find us on:...", 
+        "email_addr_list": [
+            "hello@interaction-design.org"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/paulo-novais", 
+        "cite_name": "", 
+        "title": "Paulo Novais - Interaction Design Foundation"
+    }
+]

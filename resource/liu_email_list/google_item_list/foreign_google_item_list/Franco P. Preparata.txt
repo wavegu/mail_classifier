@@ -1,0 +1,20 @@
+[
+    {
+        "content": "franco p. preparata. an wang professor of computer science. franco@cs.brown.edu  address/phone/fax  department of. computer science cit building (the...", 
+        "email_addr_list": [
+            "franco@cs.brown.edu"
+        ], 
+        "cite_url": "cs.brown.edu/~franco/", 
+        "cite_name": "Brown University", 
+        "title": "Franco P. Preparatas Home Page - Brown University"
+    }, 
+    {
+        "content": "i can then ask it to show me the mail from prof preparata. leonghw, soc, nus ... from: franco@cs.brown.edu (franco p. preparata). hon-wai,. details of email...", 
+        "email_addr_list": [
+            "franco@cs.brown.edu"
+        ], 
+        "cite_url": "www.comp.nus.edu.sg/.../2010-01-intro...", 
+        "cite_name": "National University of Singapore", 
+        "title": "[PPT]ppt - School of Computing"
+    }
+]

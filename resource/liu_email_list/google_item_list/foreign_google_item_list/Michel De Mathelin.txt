@@ -1,0 +1,40 @@
+[
+    {
+        "content": "e-mail gestionnaire vanessa.manglon@insa-strasbourg.fr ... email : herve.pelletier@insa-strasbourg.fr ... nom du directeur de laboratoire : michel de mathelin.", 
+        "email_addr_list": [
+            "vanessa.manglon@insa-strasbourg.fr", 
+            "herve.pelletier@insa-strasbourg.fr"
+        ], 
+        "cite_url": "https://www.galaxie.enseignementsup-recherche.gouv....", 
+        "cite_name": "", 
+        "title": "[PDF]INSA DE STRASBOURG Référence GALAXIE : 4060"
+    }, 
+    {
+        "content": "michel de mathelin email : demathelin@unistra.fr. icube (see the map) télécom physique strasbourg 300 bd s. brant - bp 10413 - 67412 illkirch cedex", 
+        "email_addr_list": [
+            "demathelin@unistra.fr"
+        ], 
+        "cite_url": "equipex-robotex.fr/en/contacts-and-useful-information/", 
+        "cite_name": "", 
+        "title": "Contacts and useful information - Robotex"
+    }, 
+    {
+        "content": "sep 7, 2015 - email : amnatu@unistra.fr ... emails : [jacques.gangloff,christian.heinrich]@unistra.fr ... responsable cursus médecine : michel de mathelin.", 
+        "email_addr_list": [
+            "amnatu@unistra.fr"
+        ], 
+        "cite_url": "masteririv.u-strasbg.fr/.../Presentation_M1_IRIV_sept...", 
+        "cite_name": "", 
+        "title": "[PDF]téléchargeables ici - Master IRIV"
+    }, 
+    {
+        "content": "tél : 04 50 56 12 72 - email : aubergesurlyand@wanadoo.fr. au château ... adresse mail : contact@lachocolaterieduhameau.fr. site web ... mathelin michel", 
+        "email_addr_list": [
+            "aubergesurlyand@wanadoo.fr", 
+            "contact@lachocolaterieduhameau.fr"
+        ], 
+        "cite_url": "s406051126.onlinehome.fr/WEB/pages/p8.htm", 
+        "cite_name": "", 
+        "title": "Auberge de Sur Lyand - CORBONOD.net"
+    }
+]

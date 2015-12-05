@@ -1,0 +1,47 @@
+[
+    {
+        "content": "li shun-chu,wang jun-chao,xu li. ... correspondence to: shunchu li, college of science, xihua university, chengdu, china. email: lishunchu@163.com...", 
+        "email_addr_list": [
+            "lishunchu@163.com"
+        ], 
+        "cite_url": "www.sciepub.com/reference/110038", 
+        "cite_name": "", 
+        "title": "LI Shun-chu,WANG Jun-chao,XU Li. The Similar Structure of ..."
+    }, 
+    {
+        "content": "tel：(03)5731155. email：bschen@ee.nthu.edu.tw .... professor：associate prof. li, meng-lin (李夢麟) ... professor：associate prof. ta-shun chu (朱大舜)", 
+        "email_addr_list": [
+            "bschen@ee.nthu.edu.tw"
+        ], 
+        "cite_url": "cc.ee.nthu.edu.tw/english/people/people.php", 
+        "cite_name": "", 
+        "title": "People - EE, NTHU - 國立清華大學"
+    }, 
+    {
+        "content": "icon-email pekweehaur@singapore.edu.hkthis ... ms tan, li ping icon-phone (852) 2919 6901 icon- ..... ms yip, chu kwan icon-phone (852) 2870 6887 icon-...", 
+        "email_addr_list": [
+            "pekweehaur@singapore.edu.hkthis"
+        ], 
+        "cite_url": "www.singapore.edu.hk/.../staff-and-facult...", 
+        "cite_name": "Singapore International School", 
+        "title": "Staff and Faculty - Singapore International School"
+    }, 
+    {
+        "content": "may 7, 2015 - email: wkyuen@hksyu.edu. office hour: ... more details. dr. li yi man, rita ... more details. dr. chu wan ling ... mr. tsang chun kei, thomas", 
+        "email_addr_list": [
+            "wkyuen@hksyu.edu"
+        ], 
+        "cite_url": "www.hksyu.edu/economics/staff.html", 
+        "cite_name": "Hong Kong Shue Yan University", 
+        "title": "Department of Economics and Finance, HKSYU | 香港樹仁 ..."
+    }, 
+    {
+        "content": "e-mail: chiayu@ntu.edu.tw .... tjiu jw, chen js, shun ct, lin sj, liao yh, chu cy, tsai tf, chiu hc, dai ... lee ch, chen yc, cho yt, chang cy, chu cy*.", 
+        "email_addr_list": [
+            "chiayu@ntu.edu.tw"
+        ], 
+        "cite_url": "derm.ntuh.gov.tw/English/TeamMembers.asp?DR_ID=14", 
+        "cite_name": "", 
+        "title": "Chia-Yu Chu - 【臺大醫院皮膚部】"
+    }
+]

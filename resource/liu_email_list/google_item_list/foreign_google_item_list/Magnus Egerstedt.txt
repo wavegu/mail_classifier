@@ -1,0 +1,11 @@
+[
+    {
+        "content": "magnus egerstedt is a professor in the school of electrical and computer ... email: magnus@ece.gatech.edu. affiliation: georgia institute of technology.", 
+        "email_addr_list": [
+            "magnus@ece.gatech.edu"
+        ], 
+        "cite_url": "www.ieeecss.org/contacts/magnus-egerstedt", 
+        "cite_name": "IEEE Control Systems Society", 
+        "title": "Magnus Egerstedt | IEEE Control Systems Society"
+    }
+]

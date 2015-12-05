@@ -1,0 +1,29 @@
+[
+    {
+        "content": "oct 19, 2012 - xuefeng zhou, yisheng guan, li jiang, haifei zhu, chuanwu cai, wenqiang wu and ... c1 corresponding author. e-mail: ysguan@scut.edu.cn.", 
+        "email_addr_list": [
+            "ysguan@scut.edu.cn"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S0263574712...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Stability of biped robotic walking with frictional constraints"
+    }, 
+    {
+        "content": "college station, tx 77843-3112, email: lihan@cs.tamu.edu ... li han, yisheng guan, zexiang li, shi qi, and jeffrey c. trinkle, dextrous manipulation with...", 
+        "email_addr_list": [
+            "lihan@cs.tamu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~lihan/Research/cv.html", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Li Han - Curriculum Vitae - School of Computer Science"
+    }, 
+    {
+        "content": "apr 2, 2012 - yisheng guana, hong zhangb, xianmin zhangc  zhangjie guand ... guangdong 510640, p. r. china;, email: ysguan@scut.edu.cn; b school...", 
+        "email_addr_list": [
+            "ysguan@scut.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Workspace Generation for Multifingered Manipulation ..."
+    }
+]

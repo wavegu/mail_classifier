@@ -1,0 +1,21 @@
+[
+    {
+        "content": "marcia c. linn, james d. slotta, hiroki terashima, elisa stone,  jacquie madhok ... email: hirochan@berkeley.edu, emstone@berkeley.edu,.", 
+        "email_addr_list": [
+            "hirochan@berkeley.edu", 
+            "emstone@berkeley.edu"
+        ], 
+        "cite_url": "https://www.ied.edu.hk/.../foreword.pd...", 
+        "cite_name": "Hong Kong Institute of Education", 
+        "title": "[PDF]foreword.pdf (1870kB)"
+    }, 
+    {
+        "content": "marcia c. linn ... e-mail: mclinn@socrates.berkeley.edu ... this paper was partially prepared while linn was a fellow at the center for advanced study in the.", 
+        "email_addr_list": [
+            "mclinn@socrates.berkeley.edu"
+        ], 
+        "cite_url": "https://serc.carleton.edu/files/research_on_learning/Linn.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]THE LEARNING SCIENCES AND GEOSCIENCE Marcia C ..."
+    }
+]

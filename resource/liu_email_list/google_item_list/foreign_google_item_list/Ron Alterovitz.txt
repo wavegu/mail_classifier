@@ -1,0 +1,30 @@
+[
+    {
+        "content": "jan 28, 2015 - e-mail: ron@cs.unc.edu http://www.cs.unc.edu/~ron. education. university of california, berkeley. ph.d., industrial engineering and operations...", 
+        "email_addr_list": [
+            "ron@cs.unc.edu"
+        ], 
+        "cite_url": "https://www.cs.unc.edu/~ron/...", 
+        "cite_name": "University of North Carolina at Chapel Hill", 
+        "title": "[PDF]Ron Alterovitzs Curriculum Vitae - University of North ..."
+    }, 
+    {
+        "content": "ron alterovitz in the computational robotics group at the university of north carolina at chapel hill. email: sachinpatil [at] gmail.com. curriculum vitae (feb...", 
+        "email_addr_list": [
+            "sachinpatil@gmail.com"
+        ], 
+        "cite_url": "rll.berkeley.edu/~sachin/", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Sachin Patil - University of California, Berkeley"
+    }, 
+    {
+        "content": "ron alterovitz phone (919) 962-1768 e-mail: ron@cs.unc.edu ... computer science university of north carolina at chapel hill. ron@cs.unc.edu 4 department of...", 
+        "email_addr_list": [
+            "ron@cs.unc.edu", 
+            "ron@cs.unc.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-ron-cs-unc-edu-3745468.htm", 
+        "cite_name": "", 
+        "title": "ron@cs.unc.edu - The Email Archive"
+    }
+]

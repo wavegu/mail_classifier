@@ -1,0 +1,58 @@
+[
+    {
+        "content": "general information. gender: female; age: 26; nationality: chinese. email: cloudlychen@gmail.com  homepage: www.cloudlychen.net; linkedin profile:...", 
+        "email_addr_list": [
+            "cloudlychen@gmail.com"
+        ], 
+        "cite_url": "www.cloudlychen.net/cv.html", 
+        "cite_name": "", 
+        "title": "Liyun Chens CV - Liyun Chens Website"
+    }, 
+    {
+        "content": "liyun.chen@ebay.com / www.cloudlychen.net. current. position. marketing analyst, ebay. jun, 2012 -. • analyze c2c transction behaviors at individual...", 
+        "email_addr_list": [
+            "liyun.chen@ebay.com"
+        ], 
+        "cite_url": "www.cloudlychen.net/pdfs/CV_Liyun_Chen.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Liyun Chen"
+    }, 
+    {
+        "content": "liyun chen liyun.chen@ebay.com / www.cloudlychen.net. research. interests .... mail: 4f west, 618 yanan east road. shanghai, 200001, china.", 
+        "email_addr_list": [
+            "liyun.chen@ebay.com"
+        ], 
+        "cite_url": "www.cloudlychen.net/pdfs/CV_Liyun_Chen_EN.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]PDF Version (Last Updated: Nov, 2013) - Liyun Chens ..."
+    }, 
+    {
+        "content": "name, position, e-mail ... liu cheng kun, head of department of accounting and finance, gcshi@must.edu.mo ... sun li yun*, professor, lysun@must.edu.mo.", 
+        "email_addr_list": [
+            "gcshi@must.edu.mo", 
+            "lysun@must.edu.mo"
+        ], 
+        "cite_url": "www.must.edu.mo/en/.../st...", 
+        "cite_name": "Macau University of Science and Technology", 
+        "title": "Faculty  Staff"
+    }, 
+    {
+        "content": "oct 31, 2015 - 47818666@qq.com is owned by chen li yun. find domain names registred with 47818666@qq.com. try our reverse whois search tool to find...", 
+        "email_addr_list": [
+            "47818666@qq.com", 
+            "47818666@qq.com"
+        ], 
+        "cite_url": "domainbigdata.com/email/47818666@qq.com", 
+        "cite_name": "", 
+        "title": "47818666@qq.com : Chen Li Yun, China"
+    }, 
+    {
+        "content": "sep 28, 2009 - li yun, liu zongtian, cheng wei, qiang wu, wei liu. extracting ... li yun , liu zong-tian, chen ling , xu xiao-hua, cheng wei. horizontal union ... e-mail: fao@yzu.edu.cn tel: +86-514-87971870 fax: +86-514-87352262...", 
+        "email_addr_list": [
+            "fao@yzu.edu.cn"
+        ], 
+        "cite_url": "english.yzu.edu.cn/.../art_14090...", 
+        "cite_name": "Yangzhou University", 
+        "title": "Prof. LI Yun, Ph.D. - Yangzhou University"
+    }
+]

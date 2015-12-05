@@ -1,0 +1,38 @@
+[
+    {
+        "content": "cecilia laschi. settore scientifico disciplinare: ing-ind/34 - bioingegneria industriale. istituto di afferenza: istituto di biorobotica. email: cecilia.laschi@sssup.it.", 
+        "email_addr_list": [
+            "cecilia.laschi@sssup.it"
+        ], 
+        "cite_url": "www.sssup.it/cecilia.laschi", 
+        "cite_name": "Sant'Anna School of Advanced Studies", 
+        "title": "Cecilia LASCHI - Scuola Superiore SantAnna -"
+    }, 
+    {
+        "content": "e-mail cecilia.laschi@sssup.it. web www.sssup.it. academic positions. currently associate professor of biorobotics (italian academic sector of biomedical...", 
+        "email_addr_list": [
+            "cecilia.laschi@sssup.it"
+        ], 
+        "cite_url": "phdindustrialengineering.uniroma2.it/?p=297", 
+        "cite_name": "", 
+        "title": "Cecilia Laschi: Curriculum Vitae ed attività di ricerca ..."
+    }, 
+    {
+        "content": "scuola superiore santanna - sssa. piazza martiri della libertà, 33 – pisa (italy). tel: +39-050883486 fax: +39-050883497. email: cecilia.laschi@sssup.it.", 
+        "email_addr_list": [
+            "cecilia.laschi@sssup.it"
+        ], 
+        "cite_url": "www.octopus-project.eu/files/Brochure_OCTOPUS_IIA4.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]brochure 2 - OCTOPUS Integrating Project"
+    }, 
+    {
+        "content": "contact. co-chairs: fumiya lida. fumiya iida eth zürich, zürich, switzerland e-mail: iidaf@ethz.ch. cecilia laschi scuola superiore santanna, pisa, italy e-mail:...", 
+        "email_addr_list": [
+            "iidaf@ethz.ch"
+        ], 
+        "cite_url": "www.ieee-ras.org/about-ras/society-resource-center/ras.../soft-robotics", 
+        "cite_name": "", 
+        "title": "RAS Resources - IEEE Robotics and Automation Society"
+    }
+]

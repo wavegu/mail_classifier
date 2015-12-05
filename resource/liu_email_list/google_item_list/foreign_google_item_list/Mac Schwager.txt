@@ -1,0 +1,20 @@
+[
+    {
+        "content": "mac schwager, ph.d. mac schwager-p adjunct research professor. ph.d., massachusetts institute of technology. email: schwager@bu.edu website:...", 
+        "email_addr_list": [
+            "schwager@bu.edu"
+        ], 
+        "cite_url": "www.bu.edu/me/people/...and.../mac-schwager-ph-d/", 
+        "cite_name": "Boston University", 
+        "title": "Mac Schwager, Ph.D. - Boston University"
+    }, 
+    {
+        "content": "mac schwager. assistant professor, aeronautics and astronautics. view stanford profile. contact. phone: (650) 497-3563. email: schwager@stanford.edu...", 
+        "email_addr_list": [
+            "schwager@stanford.edu"
+        ], 
+        "cite_url": "aa.stanford.edu/people/mac-schwager", 
+        "cite_name": "", 
+        "title": "Mac Schwager | Aeronautics  Astronautics"
+    }
+]

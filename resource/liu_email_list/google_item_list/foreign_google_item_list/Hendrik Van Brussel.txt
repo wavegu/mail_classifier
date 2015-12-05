@@ -1,0 +1,29 @@
+[
+    {
+        "content": "e-mail : hendrik.vanbrussel@mech.kuleuven.ac.be. short curriculum. prof. hendrik van brussel (°1944), is full professor in mechatronics and automation at the...", 
+        "email_addr_list": [
+            "hendrik.vanbrussel@mech.kuleuven.ac.be"
+        ], 
+        "cite_url": "people.mech.kuleuven.be/~hvbrusse/", 
+        "cite_name": "", 
+        "title": "Prof. Dr. ir. Hendrik Van Brussel - KU Leuven"
+    }, 
+    {
+        "content": "jan 10, 2010 - email: tanghsiaowei@gmail.com tel: +32 485377102. hertogstraat 141/503 3001 ... hendrik van brussel in engineering and prof. philippe...", 
+        "email_addr_list": [
+            "tanghsiaowei@gmail.com"
+        ], 
+        "cite_url": "allaboutroboticsurgery.com/images/CURRICULUM_VITAE.pdf", 
+        "cite_name": "", 
+        "title": "CURRICULUM VITAE - All About Robotic Surgery"
+    }, 
+    {
+        "content": "oct 25, 2012 - 3.30pm lecture by prof hendrik van brussel 4.30pm ... prof van brussel is a fellow of sme and ieee. ... email : chanskf@scei.a-star.edu.sg.", 
+        "email_addr_list": [
+            "chanskf@scei.a-star.edu.sg"
+        ], 
+        "cite_url": "www.a-star.edu.sg/.../Invit...", 
+        "cite_name": "Agency for Science, Technology and Research", 
+        "title": "Invited Research Lecture : Towards Intelligent Mfg : A ..."
+    }
+]

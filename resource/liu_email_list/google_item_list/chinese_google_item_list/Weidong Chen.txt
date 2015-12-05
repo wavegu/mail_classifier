@@ -1,0 +1,56 @@
+[
+    {
+        "content": "weidong chen. professor ... chen.jpg. weidong chen. lpca – ea 4493 cnrs université du littoral côte dopale mrei 2 ... e-mail : chen@univ-littoral.fr...", 
+        "email_addr_list": [
+            "chen@univ-littoral.fr"
+        ], 
+        "cite_url": "lpca.univ-littoral.fr/?page_id=580", 
+        "cite_name": "University of the Littoral Opal Coast", 
+        "title": "Weidong CHEN - Laboratoire de Physico-Chimie de l ..."
+    }, 
+    {
+        "content": "email : chen@univ-littoral.fr. web : http://mreid.univ-littoral.fr/labo/lpca/chen.htm. research interests : applied spectroscopy, laser spectroscopic instruments,...", 
+        "email_addr_list": [
+            "chen@univ-littoral.fr"
+        ], 
+        "cite_url": "lpca.univ-littoral.fr/.../weidong_chen...", 
+        "cite_name": "University of the Littoral Opal Coast", 
+        "title": "[PDF]Weidong Chen - Laboratoire de Physico-Chimie de l ..."
+    }, 
+    {
+        "content": "weidong chen | | weidong.chen@ars.usda.gov | research plant pathologist. ... ars on twitter email lists ars podcasts ars rss feeds bookmark this page...", 
+        "email_addr_list": [
+            "weidong.chen@ars.usda.gov"
+        ], 
+        "cite_url": "www.ars.usda.gov/pandp/.../people.htm?...", 
+        "cite_name": "Agricultural Research Service", 
+        "title": "ARS : Weidong Chen"
+    }, 
+    {
+        "content": "dr. weidong chens research focuses on diseases of grain legumes (peas, chickpeas and lentils). ... collaborating with plant geneticists, dr. weidong chen is also involved in development of molecular markers ..... e-mail: w-chen@wsu.edu...", 
+        "email_addr_list": [
+            "w-chen@wsu.edu"
+        ], 
+        "cite_url": "plantpath.wsu.edu/people/faculty/wchen/", 
+        "cite_name": "", 
+        "title": "Weidong Chen - Department of Plant Pathology | College of ..."
+    }, 
+    {
+        "content": "name：chen weidong; title：professor; office：seiee-2-415; office phone：34204302; email：wdchen@sjtu.edu.cn; website：robotics.sjtu.edu.cn...", 
+        "email_addr_list": [
+            "wdchen@sjtu.edu.cn"
+        ], 
+        "cite_url": "english.seiee.sjtu.edu.cn/.../708_584.htm", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "Chen Weidong - 上海交通大学-电子信息与电气工程学院 ..."
+    }, 
+    {
+        "content": "view weidong chens professional profile on linkedin. ... my email address is utwchen@yahoo.com, i am in china now, if the employee sponsor the work visa,...", 
+        "email_addr_list": [
+            "utwchen@yahoo.com"
+        ], 
+        "cite_url": "https://www.linkedin.com/pub/weidong-chen/3/960/241", 
+        "cite_name": "", 
+        "title": "Weidong Chen | LinkedIn"
+    }
+]

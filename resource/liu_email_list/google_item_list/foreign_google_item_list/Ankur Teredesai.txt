@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: ankurt at uw dot edu ... ankur m. teredesai is a professor of computer science  systems at the institute of ... apart from his academic appointments at rit and the university of washington tacoma, teredesai has significant industry...", 
+        "email_addr_list": [
+            "ankurt@uw.edu"
+        ], 
+        "cite_url": "faculty.washington.edu/ankurt/", 
+        "cite_name": "University of Washington", 
+        "title": "Ankur M. Teredesai - University of Washington"
+    }, 
+    {
+        "content": "ankur teredesai, ph.d. email. ankurt@uw.edu. personal website. http://faculty.washington.edu/ankurt/. professor. phone. 253-692-4806. office. cherry parkes...", 
+        "email_addr_list": [
+            "ankurt@uw.edu"
+        ], 
+        "cite_url": "directory.tacoma.uw.edu/employee/ankurt", 
+        "cite_name": "", 
+        "title": "Teredesai, Ankur - UW Tacoma :: Directory - University of ..."
+    }, 
+    {
+        "content": "ankur teredesai. associate professor of ... verified email at uw.edu - homepage  scholar ... p victor, c cornelis, m de cock, am teredesai. ieee intelligent...", 
+        "email_addr_list": [
+            "email@uw.edu"
+        ], 
+        "cite_url": "scholar.google.dk/citations?user=ITaGEQsAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Ankur Teredesai - Google Scholar Citations"
+    }, 
+    {
+        "content": "ankur teredesai. university of washington ... verified email at uw.edu - homepage  scholar ... p victor, c cornelis, m de cock, am teredesai. ieee intelligent...", 
+        "email_addr_list": [
+            "email@uw.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=SWpgY0wAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ankur Teredesai - Google Scholar Citations"
+    }
+]

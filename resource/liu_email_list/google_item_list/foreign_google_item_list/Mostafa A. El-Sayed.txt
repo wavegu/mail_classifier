@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email. melsayed@gatech.edu. lab. laser dynamics laboratory. 404-894-0292 ... dr. mostafa el-sayed, a native-born egyptian, received his b.sc. at ain shams...", 
+        "email_addr_list": [
+            "melsayed@gatech.edu"
+        ], 
+        "cite_url": "www.chemistry.ucla.edu/.../el-saye...", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "El-Sayed, Mostafa A. | UCLA Chemistry and Biochemistry"
+    }, 
+    {
+        "content": "degrees: b.sc., m.sc. (military technical college), ph.d. (mcgill university), p.eng. (peo); phone: 613-520-2600 x 4138; email: mostafa.elsayed@carleton.ca...", 
+        "email_addr_list": [
+            "mostafa.elsayed@carleton.ca"
+        ], 
+        "cite_url": "https://carleton.ca/mae/people/mostafa-el-sayed/", 
+        "cite_name": "Carleton University", 
+        "title": "Mostafa El Sayed - Mechanical and Aerospace Engineering"
+    }, 
+    {
+        "content": "e-mail: mostafa.el-sayed@chemistry.gatech.edu. m. samy el-shall professor of chemistry and chemical engineering virginia commonwealth university", 
+        "email_addr_list": [
+            "mostafa.el-sayed@chemistry.gatech.edu"
+        ], 
+        "cite_url": "www.us-egyptasi.com/index.php?p=1_11_US-Invited-Speakers", 
+        "cite_name": "", 
+        "title": "US Invited Speakers » US-Egypt ASI -"
+    }, 
+    {
+        "content": "mostafa el-sayed is the julius brown chair and regents professor and director ... el-sayed is an elected member of the us national academy of sciences (1980), ... +2 02 385 40 398; fax: +2 02 385 17 181; email : info@zewailcity.edu.eg.", 
+        "email_addr_list": [
+            "info@zewailcity.edu.eg"
+        ], 
+        "cite_url": "https://www.zewailcity.edu.eg/main/content.php?...mostafa_a_el-sayed", 
+        "cite_name": "", 
+        "title": "Mostafa A. El-Sayed"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "content": "wei guo. professor of biology. 304e carolyn lynch laboratories. guowei@sas.upenn.edu ... wu, b., guo, w. the exocyst at a glance. j. cell science (2015)...", 
+        "email_addr_list": [
+            "guowei@sas.upenn.edu"
+        ], 
+        "cite_url": "https://www.bio.upenn.edu/people/wei-guo", 
+        "cite_name": "University of Pennsylvania", 
+        "title": "Wei Guo | Department of Biology"
+    }, 
+    {
+        "content": "tsinghua university school of medicines guo, wei. ... garcia c, theodoro mf, varella-garcia m, and wu h. suppression of leukemia development caused by pten loss. ... email: weiguo at mail.tsinghua.edu.cn; phone: +86-10-62782975.", 
+        "email_addr_list": [
+            "weiguo@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.med.tsinghua.edu.cn/index.php/en/.../guo-wei", 
+        "cite_name": "Tsinghua University", 
+        "title": "Tsinghua University School of Medicines Guo, Wei"
+    }, 
+    {
+        "content": "1210 w. dayton st. madison, wi, 53706; email: wentaowu@cs.wisc.edu ... jidong chen, wentao wu, hang guo and wei wang. in proceedings of the 12th siam...", 
+        "email_addr_list": [
+            "wentaowu@cs.wisc.edu"
+        ], 
+        "cite_url": "pages.cs.wisc.edu/~wentaowu/", 
+        "cite_name": "University of Wisconsin‑Madison", 
+        "title": "Wentao Wus Homepage - University of Wisconsin–Madison"
+    }, 
+    {
+        "content": "ms. zhen wei ... email: y.guo@imperial.ac.uk ... yike guo is a professor of computing science in the department of computing at .... chao wu, and yike guo.", 
+        "email_addr_list": [
+            "y.guo@imperial.ac.uk"
+        ], 
+        "cite_url": "dsg.doc.ic.ac.uk/people/yike-guo/", 
+        "cite_name": "", 
+        "title": "Prof. Yike Guo - Discovery Sciences - Imperial College ..."
+    }, 
+    {
+        "content": "qiuwei wu. associate ... fax, +45 45 88 61 11. e-mail, qw@elektro.dtu.dk .... zhao, haoran ; wu, qiuwei ; guo, qinglai ; sun, hongbin ; xue, yusheng in journal:...", 
+        "email_addr_list": [
+            "qw@elektro.dtu.dk"
+        ], 
+        "cite_url": "www.dtu.dk/english/Service/.../Person?i...", 
+        "cite_name": "Technical University of Denmark", 
+        "title": "Qiuwei Wu - DTU"
+    }, 
+    {
+        "content": "email: sibcb@sibs.ac.cn ... email: glxu@@sibcb.ac.cn ... tian-peng gu, fan guo, hui yang, hai-ping wu, gui-fang xu, wei liu, zhi-guo xie, linyu shi, xinyi...", 
+        "email_addr_list": [
+            "sibcb@sibs.ac.cn"
+        ], 
+        "cite_url": "www.sibcb.ac.cn/ePI.asp?id=8.", 
+        "cite_name": "", 
+        "title": "Guo-Liang Xu - Institute of Biochemistry and Cell Biology ..."
+    }, 
+    {
+        "content": "wei bai. contact information. email: wbaiab@cse.ust.hk. room 3661 (lift 31/32), ... chen, haitao wu, wei bai, chang lan, hao wang, hongze zhao and chuanxiong guo. ... wei bai, kai chen, haitao wu, wuwei lan and yangming zhao.", 
+        "email_addr_list": [
+            "wbaiab@cse.ust.hk"
+        ], 
+        "cite_url": "sing.cse.ust.hk/~wei/resume.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Wei BAI – - SING - Hong Kong University of Science and ..."
+    }
+]

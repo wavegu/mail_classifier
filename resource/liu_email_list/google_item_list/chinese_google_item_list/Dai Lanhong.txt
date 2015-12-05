@@ -1,0 +1,38 @@
+[
+    {
+        "content": "lan hong. ai. hom pa e. homepage. of. prof. lan-hongdai. h m p ge. p o . l n. ong. r f ... lan-hong dai (戴兰宏). stake key ... email: lhdai@lnm.imech.ac.cn...", 
+        "email_addr_list": [
+            "lhdai@lnm.imech.ac.cn"
+        ], 
+        "cite_url": "expert.imech.ac.cn/dailanhong/", 
+        "cite_name": "", 
+        "title": "戴兰宏个人主页 - 中国科学院力学研究所"
+    }, 
+    {
+        "content": "chin lan hong professor in hepatobiliary and pancreatic surgery mbbs(hk), ms ... email: chungmlo@hku.hk  潘潔平在《仁心 ... dr. wing-chiu dai associate...", 
+        "email_addr_list": [
+            "chungmlo@hku.hk"
+        ], 
+        "cite_url": "www.surgery.hku.hk/hbp.php", 
+        "cite_name": "", 
+        "title": "Hepatobiliary  Pancreatic Surgery and Liver - HKU Surgery"
+    }, 
+    {
+        "content": "chen yan1, jiang minqiang1,2, dai lanhong1,2*. 1. state key laboratory of ... corresponding authors: dai lanhong e-mail: lhdai@lnm.imech.ac.cn...", 
+        "email_addr_list": [
+            "lhdai@lnm.imech.ac.cn"
+        ], 
+        "cite_url": "phys.scichina.com:8083/sciGe/EN/abstract/abstract503979.shtml", 
+        "cite_name": "", 
+        "title": "How does the initial free volume distribution affect shear ..."
+    }, 
+    {
+        "content": "telephone: 2358 7203 email: rickylee@ust.hk. homepage: ... showing 241 - 260 of 299 (0 seconds). export 0 items: ( export all ) to: email csv ... dai, lanhong", 
+        "email_addr_list": [
+            "rickylee@ust.hk"
+        ], 
+        "cite_url": "repository.ust.hk/.../le...", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "Lee, Ricky S W - HKUST Scholarly Publications"
+    }
+]

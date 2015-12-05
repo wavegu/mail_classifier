@@ -1,0 +1,65 @@
+[
+    {
+        "content": "dr. ying hu. postdoc. room: 3/17 iqoqi phone: +43 512 507 4751. email: ying.hu[at]uibk.ac.at. more information. publications [opens_in_new_window]", 
+        "email_addr_list": [
+            "ying.hu@uibk.ac.at"
+        ], 
+        "cite_url": "www.uibk.ac.at/th-physik/people/.../1024828.xm...", 
+        "cite_name": "University of Innsbruck", 
+        "title": "Dr. Ying Hu - Theoretical Physics - University of Innsbruck"
+    }, 
+    {
+        "content": "junior scientist. institut für quantenoptik und quanteninformation technikerstr. 21a 6020 innsbruck phone: +43 512 507 4784 email: ying.hu@uibk.ac.at...", 
+        "email_addr_list": [
+            "ying.hu@uibk.ac.at"
+        ], 
+        "cite_url": "https://iqoqi.at/.../...", 
+        "cite_name": "Institute for Quantum Optics and Quantum Information", 
+        "title": "Dr. Ying Hu - Institut für Quantenoptik und Quanteninformation"
+    }, 
+    {
+        "content": "aug 5, 2013 - dr ying hu has worked in the area of colon cancer prevention last 15 years. her research is ..... email: ying.hu@flinders.edu.au. location...", 
+        "email_addr_list": [
+            "ying.hu@flinders.edu.au"
+        ], 
+        "cite_url": "www.flinders.edu.au/people/ying.hu", 
+        "cite_name": "Flinders University", 
+        "title": "Ying Hu - Flinders University"
+    }, 
+    {
+        "content": "computer programmer/analyst 2 applications and technology solutions (ats), uits phone: 860-486-5089 email: ying.3.hu@uconn.edu ...", 
+        "email_addr_list": [
+            "ying.3.hu@uconn.edu"
+        ], 
+        "cite_url": "ats.uconn.edu/people/ying-h/", 
+        "cite_name": "", 
+        "title": "Ying Hu | Applications and Technology Solutions"
+    }, 
+    {
+        "content": "... 02 23 23 67 90. e-mail: ying.hu@univ-rennes1.fr ... y. hu and s. tang, multi-dimensional bsde with oblique reflection and optimal switching. probab. theory...", 
+        "email_addr_list": [
+            "ying.hu@univ-rennes1.fr"
+        ], 
+        "cite_url": "https://perso.univ-rennes1.fr/ying.hu/", 
+        "cite_name": "University of Rennes 1", 
+        "title": "Ying Hu - Université de Rennes 1"
+    }, 
+    {
+        "content": "... science and engineering. telephone: (86)-10-6279 4005. e-mail: hyhu@tsinghua.edu.cn ... hong-ying hu, et al., exercise for principle of environmental engineering, higher ... qianyuan wu, hong-ying hu, xin zhao and yingxue sun.", 
+        "email_addr_list": [
+            "hyhu@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201102151530166699871...", 
+        "cite_name": "Tsinghua University", 
+        "title": "环境学院 - School of Environment,Tsinghua University"
+    }, 
+    {
+        "content": "... research  international links  legal resources  official documents  alumni  development  ying hus picture. email. yh297@cam.ac.uk. clare hall...", 
+        "email_addr_list": [
+            "yh297@cam.ac.uk"
+        ], 
+        "cite_url": "www.law.cam.ac.uk/people/ying-hu/3508", 
+        "cite_name": "University of Cambridge", 
+        "title": "Ying Hu | Faculty of Law"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "content": "dr. c.i.m. nevejan (caroline). email: c.i.m.nevejan@tudelft.nl ... dr. m. warnier (martijn). email: m.e.warnier@tudelft.nl ... dr. s.g. lukosch (stephan). email:...", 
+        "email_addr_list": [
+            "c.i.m.nevejan@tudelft.nl", 
+            "m.e.warnier@tudelft.nl"
+        ], 
+        "cite_url": "www.participatorysystems.nl/associate-professors/", 
+        "cite_name": "", 
+        "title": "Associate professors | Participatory Systems"
+    }
+]

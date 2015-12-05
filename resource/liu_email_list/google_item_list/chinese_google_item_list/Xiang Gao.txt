@@ -1,0 +1,38 @@
+[
+    {
+        "content": "gao xiang ph.d. xiang received his college education in department of biology at nanjing university ... fax: +86-25-58641500 email: gaoxiang@nicemice.cn.", 
+        "email_addr_list": [
+            "gaoxiang@nicemice.cn"
+        ], 
+        "cite_url": "www.en.nicemice.cn/pilist.asp?sortid=20", 
+        "cite_name": "", 
+        "title": "Xiang Gao - Model Animal Research Centerbr/ of Nanjing ..."
+    }, 
+    {
+        "content": "department of medical cell biology, research group leif jansson. email: gao.xiang@mcb.uu.se; visiting address: uppsala biomedicinska centrum, bmc", 
+        "email_addr_list": [
+            "gao.xiang@mcb.uu.se"
+        ], 
+        "cite_url": "katalog.uu.se/empinfo/?...1id...", 
+        "cite_name": "Uppsala University", 
+        "title": "Xiang Gao - Uppsala University, Sweden"
+    }, 
+    {
+        "content": "xiang gao. research fellow. email: sam.gao@monash.edu; office: room 204, desk 20, building 82, clayton campus. updating your mds details...", 
+        "email_addr_list": [
+            "sam.gao@monash.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Monash University", 
+        "title": "Profile: Xiang Gao - Faculty of Engineering, Monash University"
+    }, 
+    {
+        "content": "... university of california, berkeley email: petergao@berkeley.edu ... yunpeng james liu, peter xiang gao, bernard, wong, s. keshav proceedings of the acm...", 
+        "email_addr_list": [
+            "petergao@berkeley.edu"
+        ], 
+        "cite_url": "petergao.net/", 
+        "cite_name": "", 
+        "title": "Peter Xiang Gao"
+    }
+]

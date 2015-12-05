@@ -1,0 +1,38 @@
+[
+    {
+        "content": "ali s. hadi. distinguished ... e-mail:ahadi@aucegypt.edu web:www.aucegypt.edu/faculty/hadi. mail: auc, p. o. box 74, new cairo 11835, egypt. stephen h.", 
+        "email_addr_list": [
+            "ahadi@aucegypt.edu"
+        ], 
+        "cite_url": "www1.aucegypt.edu/.../hadi/.../Hadi_CV_E...", 
+        "cite_name": "American University in Cairo", 
+        "title": "[PDF]Ali S. Hadi Distinguished University Professor and Chair ..."
+    }, 
+    {
+        "content": "ali s. hadi. distinguished ... e-mail:ahadi@aucegypt.eduwww.aucegypt.edu/faculty/hadi. mail: auc, p. o. box 74, new cairo 11835, egypt. stephen h. weiss...", 
+        "email_addr_list": [
+            "ahadi@aucegypt.eduwww.aucegypt.edu"
+        ], 
+        "cite_url": "www1.aucegypt.edu/.../hadi/.../Hadi_CV_E...", 
+        "cite_name": "American University in Cairo", 
+        "title": "[PDF]English - The American University in Cairo"
+    }, 
+    {
+        "content": "forest hills new york, ny 11374, usa. telecoms. phone (main): +1-718-997 7556; fax (main): +1-718-997 0711; email (main): shadiali@ecdcdd.aol.com.", 
+        "email_addr_list": [
+            "shadiali@ecdcdd.aol.com"
+        ], 
+        "cite_url": "aiic.net/directories/interpreters/4794/lang/1", 
+        "cite_name": "", 
+        "title": "Ali SHADI - Professional Conference Interpreter, Active AIIC ..."
+    }, 
+    {
+        "content": "ali hadi. ali. hadi. professor emeritus, ilr school. industrial and labor relations. contact info. 607-255-4497. ash4@cornell.edu  cornell.edu profile...", 
+        "email_addr_list": [
+            "ash4@cornell.edu"
+        ], 
+        "cite_url": "stat.cornell.edu/people/emeritus-faculty/ali-hadi", 
+        "cite_name": "Cornell University", 
+        "title": "Ali Hadi | Cornell University Department of Statistical Science"
+    }
+]

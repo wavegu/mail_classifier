@@ -1,0 +1,11 @@
+[
+    {
+        "content": "tel.: +81-3-5841-7416. fax: +81-3-3818-0835. email: inaba [at] jsk.t.u-tokyo.ac.jp. masayuki inaba is a professor in the information science and technology,...", 
+        "email_addr_list": [
+            "inaba@jsk.t.u-tokyo.ac.jp"
+        ], 
+        "cite_url": "www.jsps-club.de/fileadmin/aktivitaeten/2009_Abstr_Inaba.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]The Nature of the Household and Outdoor Robot Assistants ..."
+    }
+]

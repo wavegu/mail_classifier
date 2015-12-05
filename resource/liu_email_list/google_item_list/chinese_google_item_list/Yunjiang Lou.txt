@@ -1,0 +1,59 @@
+[
+    {
+        "content": "lou yunjiang. 中文. address: d409, hitsgs campus, shenzhen university town, xili, shenzhen, china （518055）. email: louyj@hitsz.edu.cn. phone:.", 
+        "email_addr_list": [
+            "louyj@hitsz.edu.cn"
+        ], 
+        "cite_url": "www.hitsz.edu.cn/body/shizi/detailen.php?strID=326", 
+        "cite_name": "", 
+        "title": "LOU Yunjiang"
+    }, 
+    {
+        "content": "yunjiang lou. associate editor (until 30 september 2017). yunjiang lou. harbin institute of technology .... yusun@mail.usf.edu. primary areas: grasping...", 
+        "email_addr_list": [
+            "yusun@mail.usf.edu"
+        ], 
+        "cite_url": "www.ieee-ras.org/publications/t-ro/editorial-board", 
+        "cite_name": "", 
+        "title": "Editorial Board - IEEE Robotics and Automation Society"
+    }, 
+    {
+        "content": "telephone: 2358 7051 email: eezxli@ust.hk. scopus: 7409078731 ... author(s): liao, bin ; lou, yunjiang ; li, zexiang  view this authors profile. source:...", 
+        "email_addr_list": [
+            "eezxli@ust.hk"
+        ], 
+        "cite_url": "repository.ust.hk/.../li-...", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "Li, Zexiang - HKUST Scholarly Publications"
+    }, 
+    {
+        "content": "for cardiac surgery application. yu yang, haoyao chen, yunjiang lou ... email: hychen5@hitsz.edu.cn. wei lin. dept. of electrical ... email: linwei@case.edu.", 
+        "email_addr_list": [
+            "hychen5@hitsz.edu.cn", 
+            "linwei@case.edu"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0709...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Remote master-slave control of a 6D manipulator for cardiac ..."
+    }, 
+    {
+        "content": "hao meng, yunjiang lou and jiaying chen. shenzhen key ... shenzhen, china. email: hit.meng.h@gmail.com, hit.lou.yj@gmail.com, hit.chen.jy@gmail.com.", 
+        "email_addr_list": [
+            "hit.meng.h@gmail.com", 
+            "hit.lou.yj@gmail.com", 
+            "hit.chen.jy@gmail.com"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "High Speed Contouring Control of Biaxial Systems based ..."
+    }, 
+    {
+        "content": "yunjiang lou, student member, ieee, guanfeng liu, and zexiang li, member, ieee ... clear water bay, kowloon, hong kong, china (email: louyj@ust.hk).", 
+        "email_addr_list": [
+            "louyj@ust.hk"
+        ], 
+        "cite_url": "ai.stanford.edu/~liugf/Random-design.pdf", 
+        "cite_name": "Stanford AI Lab", 
+        "title": "[PDF]Randomized Optimal Design of Parallel Manipulators"
+    }
+]

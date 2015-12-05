@@ -1,0 +1,30 @@
+[
+    {
+        "content": "sep 14, 2015 - the coordinator of proj-h-402 is mauro birattari mbiro@ulb.ac.be. ... the subject of the email should be proj-h-402: new project.", 
+        "email_addr_list": [
+            "mbiro@ulb.ac.be"
+        ], 
+        "cite_url": "iridia.ulb.ac.be/.../PROJ-H-402_-_Computin...", 
+        "cite_name": "Université libre de Bruxelles", 
+        "title": "PROJ-H-402 - Computing Project: Rules - IridiaWiki"
+    }, 
+    {
+        "content": "jun 23, 2015 - marco dorigo1 , mauro birattari1 , simon garnier2 , heiko ... email: marco@montes-de-oca.com ... email: christine.solnon@insa-lyon.fr.", 
+        "email_addr_list": [
+            "marco@montes-de-oca.com", 
+            "christine.solnon@insa-lyon.fr"
+        ], 
+        "cite_url": "link.springer.com/article/.../fulltext.html", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "ANTS 2014 special issue: Editorial - Springer"
+    }, 
+    {
+        "content": "package race february 20 2015 version 0.1.59 date 2012-04-05 title racing methods for the selection of the best author mauro birattari mbiro@ulb.ac.be...", 
+        "email_addr_list": [
+            "mbiro@ulb.ac.be"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-mbiro-ulb-ac-be-19581028.htm", 
+        "cite_name": "", 
+        "title": "mbiro@ulb.ac.be - The Email Archive"
+    }
+]

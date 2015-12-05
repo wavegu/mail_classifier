@@ -1,0 +1,39 @@
+[
+    {
+        "content": "kazuhiko ishihara professor: biomaterials: field of study: biomaterials and biointerfaces. [mail] ishihara@mpc.t.u-tokyo.ac.jp; [url] http://www.mpc.", 
+        "email_addr_list": [
+            "ishihara@mpc.t.u-tokyo.ac.jp"
+        ], 
+        "cite_url": "www.bioeng.t.u-tokyo.ac.jp/en/.../14_ishihara.html", 
+        "cite_name": "University of Tokyo", 
+        "title": "Kazuhiko ISHIHARA Professor - Faculty | Department of ..."
+    }, 
+    {
+        "content": "+81-3-5841-7124. fax, +81-3-5841-8647. ishihara[at]mpc.t.u-tokyo.ac.jp. * in your correspondence, please replace [at] with @ in the above email address.", 
+        "email_addr_list": [
+            "ishihara@mpc.t.u-tokyo.ac.jp"
+        ], 
+        "cite_url": "www.material.t.u-tokyo.ac.jp/.../kazuhiko_ishihara_...", 
+        "cite_name": "University of Tokyo", 
+        "title": "Kazuhiko Ishihara Professor"
+    }, 
+    {
+        "content": "and center for nanobio integration,. the university of tokyo. crest-japan science and technology agency. e-mail: ishihara@mpc.t.u-tokyo.ac.jp url:...", 
+        "email_addr_list": [
+            "ishihara@mpc.t.u-tokyo.ac.jp"
+        ], 
+        "cite_url": "www.surfaces.org/associations/7765/files/KazuhikoIshiara.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Kazuhiko ISHIHARA - Surfaces in Biomaterials Foundation"
+    }, 
+    {
+        "content": "e-mail: g-ameer@northwestern.edu. kristi anseth e-mail: ... e-mail: julia.babensee@bme.gatech.edu. stephen f. badylak e-mail: ... kazuhiko ishihara e-mail:...", 
+        "email_addr_list": [
+            "g-ameer@northwestern.edu", 
+            "julia.babensee@bme.gatech.edu"
+        ], 
+        "cite_url": "https://onlinelibrary.wiley.com/.../EditorialBoard.html", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Journal of Biomedical Materials Research Part A - Editorial ..."
+    }
+]

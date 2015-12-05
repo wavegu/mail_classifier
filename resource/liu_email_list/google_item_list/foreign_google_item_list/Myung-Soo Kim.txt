@@ -1,0 +1,11 @@
+[
+    {
+        "content": "oct 9, 2015 - email address: myung-soo.jo@mcgill.ca. alternate email address: ... jo, myung-soo and chang soo kim (2013), “can experiences with a...", 
+        "email_addr_list": [
+            "myung-soo.jo@mcgill.ca"
+        ], 
+        "cite_url": "www.mcgill.ca/desautels/myung-soo-jo", 
+        "cite_name": "McGill University", 
+        "title": "Myung-Soo Jo | Desautels Faculty of Management - McGill ..."
+    }
+]

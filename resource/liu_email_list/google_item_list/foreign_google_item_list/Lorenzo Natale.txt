@@ -1,0 +1,11 @@
+[
+    {
+        "content": "may 19, 2015 - contact: lorenzo natale (email: name.surname@iit.it). theme #5. real-time software architectures for humanoid robots. description: in the past...", 
+        "email_addr_list": [
+            "name.surname@iit.it"
+        ], 
+        "cite_url": "https://www.linkedin.com/pulse/phd-positions-iit-lorenzo-natale", 
+        "cite_name": "LinkedIn", 
+        "title": "PhD positions at the IIT | Lorenzo Natale | LinkedIn"
+    }
+]

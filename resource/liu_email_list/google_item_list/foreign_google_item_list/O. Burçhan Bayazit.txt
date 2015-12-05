@@ -1,0 +1,21 @@
+[
+    {
+        "content": "o. burçhan bayazıt,1 jyh-ming lien,2 and nancy m. amato2. 1 washington university, st. louis, mo 63130, usa, bayazit@wustl.edu. 2 texas am university,...", 
+        "email_addr_list": [
+            "bayazit@wustl.edu"
+        ], 
+        "cite_url": "https://parasol.tamu.edu/.../download.php?file_id...", 
+        "cite_name": "Texas AM University", 
+        "title": "[PDF]Swarming Behavior Using Probabilistic Roadmap Techniques"
+    }, 
+    {
+        "content": "e-mail: erol@ceng.metu.edu.tr. william m. ... e-mail: wspears@cs.uwyo.edu .... sisted of: tucker balch, o. burçhan bayazıt, gerardo beni, marco dorigo, paolo.", 
+        "email_addr_list": [
+            "erol@ceng.metu.edu.tr", 
+            "wspears@cs.uwyo.edu"
+        ], 
+        "cite_url": "link.springer.com/.../bfm%3A978-3-540-...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Download PDF (135KB) - Springer"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "email: cecilia.laschi@sssup.it ..... john cabibihan; cecilia laschi; paolo dario; hideaki takanobu; m matsumoto; hiroyasu miwa; kazuko itoh; atsuo takanishi.", 
+        "email_addr_list": [
+            "cecilia.laschi@sssup.it"
+        ], 
+        "cite_url": "www.sssup.it/cecilia.laschi", 
+        "cite_name": "Sant'Anna School of Advanced Studies", 
+        "title": "Cecilia LASCHI - Scuola Superiore SantAnna -"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "content": "welcome to shuxiang guos home page ... shuxiang guo (郭 書 祥). from 20 may, 2000, you are the no. ... japan, 1995. e-mail : guo@eng.kagawa-u.ac.jp...", 
+        "email_addr_list": [
+            "guo@eng.kagawa-u.ac.jp"
+        ], 
+        "cite_url": "www.eng.kagawa-u.ac.jp/~guo/engindex.html", 
+        "cite_name": "", 
+        "title": "GUO Shu Xiang Home Page"
+    }, 
+    {
+        "content": "jul 23, 2012 - email: linxichuan@gmail.com ... [1] xichuan lin, shuxiang guo, chunfeng yue, juan du, 3d modeling of a vectored water-jet-based...", 
+        "email_addr_list": [
+            "linxichuan@gmail.com"
+        ], 
+        "cite_url": "uestcrobot.net/~xclin/", 
+        "cite_name": "", 
+        "title": "Xichuan Lin, Ph.D."
+    }, 
+    {
+        "content": "email: songzhibin@tju.edu.cn. office ... zhibin song, shuxiang guo and yili fu, development of upper extremity motor function rehabilitation and assessment...", 
+        "email_addr_list": [
+            "songzhibin@tju.edu.cn"
+        ], 
+        "cite_url": "motionstructures.tju.edu.cn/people/songzhibin.html", 
+        "cite_name": "", 
+        "title": "Professor Song Zhibin - English - 天津大学"
+    }, 
+    {
+        "content": "email: xiao@eng.kagawa-u.ac.jp. shuxiang guo. intelligent mech. systems eng. depart. kagawa university. 2217-20, hayashi-cho,. takamatsu, 761-0396...", 
+        "email_addr_list": [
+            "xiao@eng.kagawa-u.ac.jp"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Development of a kind of robotic catheter manipulation system"
+    }, 
+    {
+        "content": "email: s13d642@stmail.eng.kagawa-u.ac.jp. *corresponding author. shuxiang guo. department of intelligent mechanical systems engineering,. kagawa...", 
+        "email_addr_list": [
+            "s13d642@stmail.eng.kagawa-u.ac.jp"
+        ], 
+        "cite_url": "www.guolab.org/Papers/2015/IJMALI.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Preliminary concept of a novel spherical underwater robot ..."
+    }
+]

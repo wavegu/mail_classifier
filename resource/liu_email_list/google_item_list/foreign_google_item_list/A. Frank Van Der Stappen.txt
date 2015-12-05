@@ -1,0 +1,20 @@
+[
+    {
+        "content": "po box 80089 3508 tb utrecht the netherlands. email: a.f.vanderstappen@uu.nl office: buys ballot building 4.22, princetonplein 5. phone: +31 30 2535093", 
+        "email_addr_list": [
+            "a.f.vanderstappen@uu.nl"
+        ], 
+        "cite_url": "www.staff.science.uu.nl/~stapp101/", 
+        "cite_name": "Utrecht University", 
+        "title": "A. Frank van der Stappen"
+    }, 
+    {
+        "content": "a.f. van der stappen. first name, : frank. mail, : a.f.vanderstappen@uu.nl. office, : bbl-422. telephone, : +31 (30) 253 5093. faxnumber, : +31 (30) 253 2804.", 
+        "email_addr_list": [
+            "a.f.vanderstappen@uu.nl"
+        ], 
+        "cite_url": "www.cs.uu.nl/staff/frankst.html", 
+        "cite_name": "Utrecht University", 
+        "title": "dr. ir. A.F. van der Stappen"
+    }
+]

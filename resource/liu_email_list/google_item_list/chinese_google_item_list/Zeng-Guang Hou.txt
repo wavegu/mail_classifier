@@ -1,0 +1,48 @@
+[
+    {
+        "content": "jul 16, 2009 - beijing 100190. china. phone: +86 (10) 6256 5502 (office) fax: +86 (10) 6256 5502. email: hou at compsys.ia.ac.cn zengguang.hou at ia.ac.", 
+        "email_addr_list": [
+            "hou@compsys.ia.ac.cn", 
+            "zengguang.hou@ia.ac"
+        ], 
+        "cite_url": "compsys.ia.ac.cn/~hou/", 
+        "cite_name": "", 
+        "title": "Welcome to Dr. Zeng-Guang Hous Homepage"
+    }, 
+    {
+        "content": "fax: +86 (10) 6256 5502 email: zengguang.hou@ia.ac.cn www: compsys.ia.ac.cn/~hou/ welcome to the cis e-letter! - to submit your contributions, please visit...", 
+        "email_addr_list": [
+            "zengguang.hou@ia.ac.cn"
+        ], 
+        "cite_url": "www.ele.uri.edu/ieeecis/Archieve_result.php?id=162", 
+        "cite_name": "", 
+        "title": "IEEE CIS Eletter - Electrical, Computer  Biomedical ..."
+    }, 
+    {
+        "content": "manager: zeng-guang hou institute of automation the chinese academy of sciences beijing 100190, china email: zengguang.hou@ia.ac.cn. tel: +86 (10)...", 
+        "email_addr_list": [
+            "zengguang.hou@ia.ac.cn"
+        ], 
+        "cite_url": "www.ele.uri.edu/ieeecis/", 
+        "cite_name": "", 
+        "title": "IEEE CIS Eletter"
+    }, 
+    {
+        "content": "jan 15, 2014 - supervisors name, major, homepage, email. dai ruwei ... huiguang.he@ia.ac.cn. hou zengguang, control theory and control engineering...", 
+        "email_addr_list": [
+            "huiguang.he@ia.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Supervisor List----Institute Of Automation Chinese Academy ..."
+    }, 
+    {
+        "content": "madan m. gupta1 , noriyasu homma , and zeng-guang hou3. 2 .... dr. zeng-guang hou received the b.e. and m.e. ... email: zengguang.hou@mail.ia.ac.cn.", 
+        "email_addr_list": [
+            "zengguang.hou@mail.ia.ac.cn"
+        ], 
+        "cite_url": "www.ieee.ca/.../workshop...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "[PDF]Details - IEEE Canada"
+    }
+]

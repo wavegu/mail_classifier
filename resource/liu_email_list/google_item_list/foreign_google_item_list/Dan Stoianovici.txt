@@ -1,0 +1,30 @@
+[
+    {
+        "content": "johns hopkins medicine - dan stoianovici, ph. d. new treatments, detection, staging , research and clinical trials for urologic cancers and ... email: dss@jhu.edu", 
+        "email_addr_list": [
+            "dss@jhu.edu"
+        ], 
+        "cite_url": "urology.jhu.edu/danstoianovici/", 
+        "cite_name": "Johns Hopkins University", 
+        "title": "Dan Stoianovici, Ph. D."
+    }, 
+    {
+        "content": "email, dss@jhu.edu. institution, the johns hopkins university. division, school of medicine. department, som uro urology research. title, professor.", 
+        "email_addr_list": [
+            "dss@jhu.edu"
+        ], 
+        "cite_url": "https://my.johnshopkins.edu/people/dstoian1", 
+        "cite_name": "", 
+        "title": "DAN STOIANOVICI PH.D. - Johns Hopkins Institutions ..."
+    }, 
+    {
+        "content": "email: mkashki@smu.edu. khalid alluhydan ph.d student ... graduated in may 2015. email: aalshorman@smu.edu ... dan stoianovici professor, john hopkins...", 
+        "email_addr_list": [
+            "mkashki@smu.edu", 
+            "aalshorman@smu.edu"
+        ], 
+        "cite_url": "lyle.smu.edu/me/syslab/people.html", 
+        "cite_name": "", 
+        "title": "Systems Laboratory - Bobby B. Lyle School of Engineering ..."
+    }
+]

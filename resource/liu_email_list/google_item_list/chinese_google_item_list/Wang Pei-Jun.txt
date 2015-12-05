@@ -1,0 +1,47 @@
+[
+    {
+        "content": "... fax: (765)494-0548; email: lipeijun@math.purdue.edu; mailing address: ... and signal analysis, pis: peijun li, yang wang (michigan state university), and...", 
+        "email_addr_list": [
+            "lipeijun@math.purdue.edu"
+        ], 
+        "cite_url": "https://www.math.purdue.edu/~lipeijun/", 
+        "cite_name": "Purdue University", 
+        "title": "Peijun Lis Homepage - Purdue University"
+    }, 
+    {
+        "content": "wang peijun. edu：d.d.c.; email：wangpeijun@grandall.com.cn; address：shenzhen; tel：+86 755 8351 5666; fax：+86 755 8351 5333. practice areas.", 
+        "email_addr_list": [
+            "wangpeijun@grandall.com.cn"
+        ], 
+        "cite_url": "www.grandall.com.cn/enzyry/hhr/140327170633.htm", 
+        "cite_name": "", 
+        "title": "WANG Peijun - Grandall law firm"
+    }, 
+    {
+        "content": "smaller text; print. dr. peijun guo b.sc., m.a.sc. (swjtu), ph.d. (calgary), p.eng. office jhe 227. extension 27903. email address guop@mcmaster.ca", 
+        "email_addr_list": [
+            "guop@mcmaster.ca"
+        ], 
+        "cite_url": "www.eng.mcmaster.ca/civil/.../guop.ht...", 
+        "cite_name": "McMaster Faculty of Engineering", 
+        "title": "Peijun Guo - Faculty of Engineering - McMaster University"
+    }, 
+    {
+        "content": "peijun zhang associate ... tel:(412)624-7262 email:jin7@pitt.edu. gongpu zhao ... 2011-2012. research technician. ke wang 2011-2012. postdoctoral fellow.", 
+        "email_addr_list": [
+            "jin7@pitt.edu"
+        ], 
+        "cite_url": "www.structbio.pitt.edu/webusers/.../members.htm...", 
+        "cite_name": "University of Pittsburgh", 
+        "title": "Zhang Lab"
+    }, 
+    {
+        "content": "peijun wang - yanshan university. follow peijun ... int j cardiovasc imaging 2015 jun 31;31(5):1075-7. epub 2015 mar ... email: tongjipjwang@vip.sina.com.", 
+        "email_addr_list": [
+            "tongjipjwang@vip.sina.com"
+        ], 
+        "cite_url": "www.pubfacts.com/author/Peijun+Wang", 
+        "cite_name": "", 
+        "title": "Publications Authored by Peijun Wang - PubFacts"
+    }
+]

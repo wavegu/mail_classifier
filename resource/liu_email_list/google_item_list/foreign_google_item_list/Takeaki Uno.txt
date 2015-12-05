@@ -1,0 +1,40 @@
+[
+    {
+        "content": "takeaki uno. national institute of ... verified email at nii.jp. scholar. get my own ... t ibaraki, s imahori, m kubo, t masuda, t uno, m yagiura. transportation...", 
+        "email_addr_list": [
+            "email@nii.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=U5pQiuoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Takeaki Uno - Google Scholar Citations"
+    }, 
+    {
+        "content": "... algorithm for enumerating frequent closed item sets takeaki uno1 tatsuya ... tokyo 101-8430 japan e-mail: uno@nii.jp department of informatics kyushu...", 
+        "email_addr_list": [
+            "uno@nii.jp"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-uno-nii-jp-7899452.htm", 
+        "cite_name": "", 
+        "title": "uno@nii.jp - The Email Archive"
+    }, 
+    {
+        "content": "email: matuyama@is.titech.ac.jp. abstract: b-359.txt. document: b-359. ps.gz .... author: takeaki uno email: uno@is.titech.ac.jp. abstract: b-329.txt. document:...", 
+        "email_addr_list": [
+            "matuyama@is.titech.ac.jp", 
+            "uno@is.titech.ac.jp"
+        ], 
+        "cite_url": "www.is.titech.ac.jp/~natsuko/B/", 
+        "cite_name": "Tokyo Institute of Technology", 
+        "title": "Technical Reports (Series B)"
+    }, 
+    {
+        "content": "verified email at unimelb.edu.au. @unimelb.edu.au. cited by ... verified email at pku.edu.cn. @pku.edu.cn. cited by 9681 ... takeaki uno. national institute of...", 
+        "email_addr_list": [
+            "email@unimelb.edu.au", 
+            "email@pku.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com.ua/citations?view_op=search...hl=en...", 
+        "cite_name": "Google", 
+        "title": "Google Scholar Citations"
+    }
+]

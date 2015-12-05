@@ -1,0 +1,20 @@
+[
+    {
+        "content": "professor lin xiaokang. january 10,2011. contact information. tel 0086 (0)755 26036228. email linxk@sz.tsinghua.edu.cn. research fields.", 
+        "email_addr_list": [
+            "linxk@sz.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201101101043502103028...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Professor LIN Xiaokang"
+    }, 
+    {
+        "content": "email: xjyuan@inc.cuhk.edu.hk ... chongbin xu, xiaojun yuan, li ping, and xiaokang lin, “power allocation for linearly precoded ofdm systems with imperfect...", 
+        "email_addr_list": [
+            "xjyuan@inc.cuhk.edu.hk"
+        ], 
+        "cite_url": "personal.ie.cuhk.edu.hk/~xjyuan/", 
+        "cite_name": "", 
+        "title": "Xiaojun Yuan"
+    }
+]

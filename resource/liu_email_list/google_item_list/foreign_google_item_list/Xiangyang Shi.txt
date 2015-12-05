@@ -1,0 +1,20 @@
+[
+    {
+        "content": "xiangyang shi, ph.d. ... e-mail: xyshius@yahoo.com. dr. xiangyang shi worked at the michigan institute for nanotechnology in medicine and biological...", 
+        "email_addr_list": [
+            "xyshius@yahoo.com"
+        ], 
+        "cite_url": "www.nano.med.umich.edu/.../Xian...", 
+        "cite_name": "University of Michigan Health System", 
+        "title": "M-NIMBS Members"
+    }, 
+    {
+        "content": "dr. xiangyang shi; donghua university; welcome to xiangyangshi.polymer.cn; visits： ... tel:021-67792656; fax:021-67792306-804; email:xshi@dhu.edu.cn...", 
+        "email_addr_list": [
+            "xshi@dhu.edu.cn"
+        ], 
+        "cite_url": "www.polymer.cn/ss/xiangyangshi/en/profile.html", 
+        "cite_name": "", 
+        "title": "Xiangyang Shi profile - 中国聚合物网"
+    }
+]

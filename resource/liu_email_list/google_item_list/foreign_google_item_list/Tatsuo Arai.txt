@@ -1,0 +1,21 @@
+[
+    {
+        "content": "dr. tatsuo arai, dr. yoshinobu nishimura, dr. atsuya momotake ... of department of chemistry） e-mail: professor tatsuo arai (arai@chem.tsukuba.ac.jp)", 
+        "email_addr_list": [
+            "arai@chem.tsukuba.ac.jp"
+        ], 
+        "cite_url": "www.chem.tsukuba.ac.jp/arai/index_E.html", 
+        "cite_name": "University of Tsukuba", 
+        "title": "Tatsuo Arai"
+    }, 
+    {
+        "content": "mci czech republic. sylvie.neves@mci-group.com. tatsuo arai. managing director. mci japan. tatsuo.arai@mci-group.com. tuhi deb. hr manager. mci india.", 
+        "email_addr_list": [
+            "sylvie.neves@mci-group.com", 
+            "tatsuo.arai@mci-group.com"
+        ], 
+        "cite_url": "mci-group.com/en/careers/hr_contact", 
+        "cite_name": "MCI", 
+        "title": "HR Contacts | Careers | MCI"
+    }
+]

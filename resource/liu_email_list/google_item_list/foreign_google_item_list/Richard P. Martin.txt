@@ -1,0 +1,20 @@
+[
+    {
+        "content": "reverend richard p. martin teaches greek and roman literature at stanford ... phone: (650) 723-0479. email: rpmartin@stanford.edu. office: building 110...", 
+        "email_addr_list": [
+            "rpmartin@stanford.edu"
+        ], 
+        "cite_url": "https://classics.stanford.edu/people/richard-p-martin", 
+        "cite_name": "", 
+        "title": "Richard P. Martin - Stanford University - Classics Department"
+    }, 
+    {
+        "content": "richard p. martin department of computer science rutgers university 110 frelinghuysen road piscataway, nj 08854-8019. rmartin@cs.rutgers.edu", 
+        "email_addr_list": [
+            "rmartin@cs.rutgers.edu"
+        ], 
+        "cite_url": "https://www.cs.rutgers.edu/~rmartin/", 
+        "cite_name": "Rutgers University", 
+        "title": "Richard P. Martin - Computer Science at Rutgers"
+    }
+]

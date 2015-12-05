@@ -1,0 +1,39 @@
+[
+    {
+        "content": "guangming xie ... e-mail: xiegming@pku.edu.cn ... sun yg, wang l, xie gm, average consensus in networks of dynamic agents with switching topologies and...", 
+        "email_addr_list": [
+            "xiegming@pku.edu.cn"
+        ], 
+        "cite_url": "web5.pku.edu.cn/engineering/Faculty/.../2171.htm", 
+        "cite_name": "Peking University", 
+        "title": "Guangming Xie"
+    }, 
+    {
+        "content": "... tel: (86)10-62754083; fax: (86) 10-62754388; email: xiegming@pku.edu.cn ... xie guangming, yu yiyang, generation and control analysis of a...", 
+        "email_addr_list": [
+            "xiegming@pku.edu.cn"
+        ], 
+        "cite_url": "en.coe.pku.edu.cn/Faculty-A-Z/114.htm", 
+        "cite_name": "Peking University", 
+        "title": "Guangming Xie | College of Engineering - Peking University"
+    }, 
+    {
+        "content": "guangming xie electrical engineering. office location university of california, riverside riverside, ca 92521. e-mail: gxie@engr.ucr.edu...", 
+        "email_addr_list": [
+            "gxie@engr.ucr.edu"
+        ], 
+        "cite_url": "www.ece.ucr.edu/people/researchers/", 
+        "cite_name": "", 
+        "title": "Department of Electrical and Computer Engineering ..."
+    }, 
+    {
+        "content": "email: shihong@bipt.edu.cn. guangming xie. college of engineering. peking university. beijing 100871, china. email: xiegming@pku.edu.cn. dongmei xie.", 
+        "email_addr_list": [
+            "shihong@bipt.edu.cn", 
+            "xiegming@pku.edu.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0723...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Complex collective dynamics of anisotropic swarms"
+    }
+]

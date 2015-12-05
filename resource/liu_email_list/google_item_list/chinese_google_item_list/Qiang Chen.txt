@@ -1,0 +1,65 @@
+[
+    {
+        "content": "email: chengq@maths.ox.ac.uk ... gui-qiang g. chens main research areas lie in nonlinear partial differential equations (pdes), nonlinear analysis, and their...", 
+        "email_addr_list": [
+            "chengq@maths.ox.ac.uk"
+        ], 
+        "cite_url": "people.maths.ox.ac.uk/chengq/", 
+        "cite_name": "University of Oxford", 
+        "title": "Gui-Qiang Chen - People - University of Oxford"
+    }, 
+    {
+        "content": "qiang.chen.4@asu.edu. assoc professor biodesign cidv faculty mail code: 5401 ... dr. chens research focuses on two areas of basic plant biology: gene...", 
+        "email_addr_list": [
+            "qiang.chen.4@asu.edu"
+        ], 
+        "cite_url": "https://webapp4.asu.edu/directory/person/902095", 
+        "cite_name": "Arizona State University", 
+        "title": "ASU Directory Profile: Qiang Chen - Arizona State University"
+    }, 
+    {
+        "content": "office address 424, school of economics 111 wuchuan rd contact information: telephone: +86-21-65902407. email: chen.qiang@mail.shufe.edu.cn...", 
+        "email_addr_list": [
+            "chen.qiang@mail.shufe.edu.cn"
+        ], 
+        "cite_url": "se.shufe.edu.cn/.../faz_15...", 
+        "cite_name": "Shanghai University of Finance and Economics", 
+        "title": "Qiang CHEN"
+    }, 
+    {
+        "content": "george guo-qiang chen, phd, professor ... meng dc, wang ying, shen rui, chen jc, wu q and chen gq. ... e-mail: chengq@mail.tsinghua.edu.cn...", 
+        "email_addr_list": [
+            "chengq@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "life.tsinghua.edu.cn/english/faculty/faculty/701.html", 
+        "cite_name": "Tsinghua University", 
+        "title": "Guoqiang Chen - school of Life Sclences,Tsinghua University"
+    }, 
+    {
+        "content": "qiang chen: current contact information and listing of economic research of this author ... email: qiang2chen2@126.com ... shengmin sun  qiang chen, 2014.", 
+        "email_addr_list": [
+            "qiang2chen2@126.com"
+        ], 
+        "cite_url": "https://ideas.repec.org/f/pch913.html", 
+        "cite_name": "", 
+        "title": "Qiang Chen at IDEAS"
+    }, 
+    {
+        "content": "phone: 022-23506173. e-mail: qiangchen@nankai.edu.cn. website ... qiang chen, jun han, haibin shi, baoyan wu, xinhua xu, tetsuo osa. use of chitosan for...", 
+        "email_addr_list": [
+            "qiangchen@nankai.edu.cn"
+        ], 
+        "cite_url": "sky.nankai.edu.cn/english/teacher.asp?id=38", 
+        "cite_name": "", 
+        "title": "Qiang Chen - Faculty of the College of Life Sciences ..."
+    }, 
+    {
+        "content": "gui-qiang chen professor of mathematics department of mathematics ... email: gqchen@math.northwestern.edu. phone: 847-491-5553. fax: 847-491-8906", 
+        "email_addr_list": [
+            "gqchen@math.northwestern.edu"
+        ], 
+        "cite_url": "www.math.northwestern.edu/~gqchen/", 
+        "cite_name": "Northwestern University", 
+        "title": "Gui-Qiang Chens Home Page - Mathematics Department"
+    }
+]

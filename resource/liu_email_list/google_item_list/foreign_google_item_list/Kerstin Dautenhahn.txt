@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: ivica.mitrovic@umas.hr. kerstin dautenhahn is professor of artificial intelligence in the department of computer science at university of hertfordshire in...", 
+        "email_addr_list": [
+            "ivica.mitrovic@umas.hr"
+        ], 
+        "cite_url": "jasss.soc.surrey.ac.uk/...", 
+        "cite_name": "Journal of Artificial Societies and Social Simulation", 
+        "title": "Ivica Mitrovic and Kerstin Dautenhahn"
+    }, 
+    {
+        "content": "email: b.edmonds@mmu.ac.uk web: http://www.cpm.mmu.ac.uk/~bruce. dr. kerstin dautenhahn is principal lecturer (research) in the department of computer...", 
+        "email_addr_list": [
+            "b.edmonds@mmu.ac.uk"
+        ], 
+        "cite_url": "jasss.soc.surrey.ac.uk/...", 
+        "cite_name": "Journal of Artificial Societies and Social Simulation", 
+        "title": "Bruce Edmonds and Kerstin Dautenhahn"
+    }, 
+    {
+        "content": "dr. kerstin dautenhahn is principal lecturer (research) in the department of computer science at university of ... email: k.dautenhahn@herts.ac.uk", 
+        "email_addr_list": [
+            "k.dautenhahn@herts.ac.uk"
+        ], 
+        "cite_url": "jasss.soc.surrey.ac.uk/...", 
+        "cite_name": "Journal of Artificial Societies and Social Simulation", 
+        "title": "Kerstin Dautenhahn and Steven J. Coles"
+    }, 
+    {
+        "content": "sep 4, 2014 - dautenhahn, kerstin k.dautenhahn at herts.ac.uk ... herts.ac.uk), and interested candidates are invited to contact her email in the first instance.", 
+        "email_addr_list": [
+            "k.dautenhahn@herts.ac.uk"
+        ], 
+        "cite_url": "www-clmc.usc.edu/pipermail/.../00849...", 
+        "cite_name": "University of Southern California", 
+        "title": "[jobs] PhD studentships in Human-Robot Interaction"
+    }
+]

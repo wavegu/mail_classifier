@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email, liyong.tong@sydney.edu.au .... in pedro camanho and liyong tong (eds.), composite joints and connections: principles, modelling and testing, (pp.", 
+        "email_addr_list": [
+            "liyong.tong@sydney.edu.au"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Sydney", 
+        "title": "Professor Liyong Tong - The University of Sydney"
+    }, 
+    {
+        "content": "nov 11, 2013 - new unido director-general li yong on mission to korea ... mr. li yong, the new director-general of the united nations industrial development organization (unido) elected in last july, ... email itpo.seoul@unido.org.", 
+        "email_addr_list": [
+            "itpo.seoul@unido.org"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "New UNIDO Director-General Li Yong on mission to Korea ..."
+    }, 
+    {
+        "content": "yong obtained her phd in accounting from warwick business school at university of warwick, and msc in banking and finance ... email: yong.li@kcl.ac.uk", 
+        "email_addr_list": [
+            "yong.li@kcl.ac.uk"
+        ], 
+        "cite_url": "www.kcl.ac.uk/sspp/departments/.../liy.aspx", 
+        "cite_name": "King's College London", 
+        "title": "Kings College London - Dr Yong Li"
+    }, 
+    {
+        "content": "li yong faculty:lecturer,accreditation team member department of statistics and finance university of science and technology ... email: yonglee@ustc.edu.cn...", 
+        "email_addr_list": [
+            "yonglee@ustc.edu.cn"
+        ], 
+        "cite_url": "bs.ustc.edu.cn/.../profile-...", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "LI Yong | Faculty  Staff | The School of Management"
+    }
+]

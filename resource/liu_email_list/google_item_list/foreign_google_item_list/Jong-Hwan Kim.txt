@@ -1,0 +1,48 @@
+[
+    {
+        "content": "email: johkim@rit.kaist.ac.kr. short biography. jong-hwan kim joined the department of electrical engineering and computer science, kaist, korea in...", 
+        "email_addr_list": [
+            "johkim@rit.kaist.ac.kr"
+        ], 
+        "cite_url": "rit.kaist.ac.kr/home/jhkim/Biography_en", 
+        "cite_name": "", 
+        "title": "Professor Jong-Hwan Kim - Robot Intelligence Technology ..."
+    }, 
+    {
+        "content": "jong-hwan kim received his b.s., m.s. and ph.d. degrees in electronics engineering from seoul national ... email: jhkim@ee.kaist.ac.kr, http://rit.kaist.ac.kr", 
+        "email_addr_list": [
+            "jhkim@ee.kaist.ac.kr"
+        ], 
+        "cite_url": "seat.massey.ac.nz/conferences/icara2011/keynote.asp", 
+        "cite_name": "", 
+        "title": "Keynote Speakers - Engineering and Advanced Technology"
+    }, 
+    {
+        "content": "jonghwan kim assistant professor in molecular cell and developmental biology email: jonghwankim@mail.utexas.edu  website main office: nms 4.314", 
+        "email_addr_list": [
+            "jonghwankim@mail.utexas.edu"
+        ], 
+        "cite_url": "https://www.biosci.utexas.edu/.../details.asp...", 
+        "cite_name": "University of Texas at Austin", 
+        "title": "Jonghwan Kim - Directory Listing - School of Biological ..."
+    }, 
+    {
+        "content": "jong-hwan lee, ph.d ... junghoe kim, m.s.. ph.d candidate ... email: jhlee.jonghwanlee at gmail.com; jonghwan_lee at korea.ac.kr, phone: 82-2-3290-5922.", 
+        "email_addr_list": [
+            "jhlee.jonghwanlee@gmail.com", 
+            "jonghwan_lee@korea.ac.kr"
+        ], 
+        "cite_url": "https://sites.google.com/site/bsplku/member", 
+        "cite_name": "", 
+        "title": "Members - Brain Signal Processing Laboratory - Google Sites"
+    }, 
+    {
+        "content": "lead surveyor-gas ship: jong-gull byun. email: jong-gull.byun@lr. ... senior surveyor: dong-sun kim. email ... jong-hwan lee. email: jong-hwan.lee@lr.org...", 
+        "email_addr_list": [
+            "jong-hwan.lee@lr.org"
+        ], 
+        "cite_url": "https://www.cdlive.lr.org/lroffices/lroffice.asp?office=96", 
+        "cite_name": "Lloyd's Register", 
+        "title": "Ulsan - LR Group Office Directory - Lloyds Register"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "content": "jul 30, 2013 - email: ldri@otenet.gr | leonidasdr@gmail.com .... [c19] leonidas dritsas and anthony tzes, “robust stability analysis of networked systems...", 
+        "email_addr_list": [
+            "ldri@otenet.gr", 
+            "leonidasdr@gmail.com"
+        ], 
+        "cite_url": "www.controlsystemslab.gr/main/members/dritsas/", 
+        "cite_name": "", 
+        "title": "Leonidas Dritsas | Control Systems Lab"
+    }
+]

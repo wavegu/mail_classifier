@@ -1,0 +1,29 @@
+[
+    {
+        "content": "nobuhiko hata ph.d. associate professor of radiology, harvard medical ... e-mail: hata at bwh.harvard.edu. directions. retrieved from /pages/people/noby.", 
+        "email_addr_list": [
+            "hata@bwh.harvard.edu"
+        ], 
+        "cite_url": "https://www.spl.harvard.edu/pages/People/noby", 
+        "cite_name": "", 
+        "title": "Nobuhiko Hata - Surgical Planning Laboratory"
+    }, 
+    {
+        "content": "department of radiology 75 francis street boston, ma 02115. research location: ambulatory services building research email: hata@bwh.harvard.edu...", 
+        "email_addr_list": [
+            "hata@bwh.harvard.edu"
+        ], 
+        "cite_url": "researchfaculty.brighamandwomens.org/BRIProfile.aspx?id=131", 
+        "cite_name": "", 
+        "title": "Nobuhiko Hata, PhD - Department of Radiology"
+    }, 
+    {
+        "content": "feb 23, 2012 - presented by dr. nobuhiko hata, a prominent japanese researcher at ... rsvp: email to mariko yanagita (jresearchers@cgjbos.org) with your...", 
+        "email_addr_list": [
+            "jresearchers@cgjbos.org"
+        ], 
+        "cite_url": "https://www.cimit.org/images/events/2012-hata-seminar-invitation.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]The Consulate-General of Japan in Boston The ... - CIMIT"
+    }
+]

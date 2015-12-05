@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email: bmb10@columbia.edu ... brendan burns has spent over 20 years at leading information technology, graphic arts, financial institutions including...", 
+        "email_addr_list": [
+            "bmb10@columbia.edu"
+        ], 
+        "cite_url": "www8.gsb.columbia.edu/cbs-directory/.../bmb...", 
+        "cite_name": "Columbia Business School", 
+        "title": "Brendan Burns | Columbia Business School Directory"
+    }, 
+    {
+        "content": "telephone: (+612) 9385 3659. fax: (+612) 9385 1483. email: brendan.burns@unsw.edu.au. dr brendan burns is the babs honours coordinator for 2014...", 
+        "email_addr_list": [
+            "brendan.burns@unsw.edu.au"
+        ], 
+        "cite_url": "https://www.babs.unsw.edu.au/.../dr-bren...", 
+        "cite_name": "University of New South Wales", 
+        "title": "Dr Brendan Burns | babs"
+    }, 
+    {
+        "content": "oct 31, 2014 - ... the better) in your town email: michael@perfectstrangerscomedy.com. follow brendon burns on twitter: www.twitter.com/brendonburns...", 
+        "email_addr_list": [
+            "michael@perfectstrangerscomedy.com"
+        ], 
+        "cite_url": "www.huffingtonpost.co.uk/brendon-burns/brendon-burns-standup-come...", 
+        "cite_name": "", 
+        "title": "Outside the Box | Brendon Burns - Huffington Post UK"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "... (0731) 8882-2829 e-mail: yangc@hnu.cn. li caiting, college of environmental science  engineering, air pollution control engineering; resource recovery...", 
+        "email_addr_list": [
+            "yangc@hnu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Hunan University", 
+        "title": "Environmental Science and Engineering-HNU"
+    }, 
+    {
+        "content": "caiting li( ), qun li, pei lu, huafei cui, guangming zeng. key laboratory of ... corresponding authors: li caiting,email:ctli@hnu.cn. issue date: 01 april 2012...", 
+        "email_addr_list": [
+            "ctli@hnu.cn"
+        ], 
+        "cite_url": "journal.hep.com.cn/fese/EN/10.1007/s11783-010-0295-x", 
+        "cite_name": "", 
+        "title": "Characterization and performance of V 2 O 5 /CeO 2 for NH 3"
+    }, 
+    {
+        "content": "email: zengzheng@asu.edu ... zheng zeng, pei lu*, lei mai, zhi li, jing guo, caiting li. ... zheng zeng, pei lu*, caiting li, guangming zeng, xiao jiang.", 
+        "email_addr_list": [
+            "zengzheng@asu.edu"
+        ], 
+        "cite_url": "www.public.asu.edu/.../CV_Zheng%20Zeng.pdf", 
+        "cite_name": "Arizona State University", 
+        "title": "[PDF]Goal:To pursue a Ph.D.degress in the environmental ..."
+    }, 
+    {
+        "content": "fax: 86-10-62773461. e-mail: xtingli@tsinghua.edu.cn ... xianting li, xiaoliang shao, xiaojun ma, yuanhui zhang, and hao cai. a numerical method to...", 
+        "email_addr_list": [
+            "xtingli@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.arch.tsinghua.edu.cn/chs/data/.../lixianting.htm", 
+        "cite_name": "Tsinghua University", 
+        "title": "LI Xianting - arch"
+    }
+]

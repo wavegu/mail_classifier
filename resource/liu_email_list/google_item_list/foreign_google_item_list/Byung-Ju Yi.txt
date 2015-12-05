@@ -1,0 +1,31 @@
+[
+    {
+        "content": "email : hwyang@hanyang.ac.kr. homepage: http://aicon.hanyang.ac.kr ..... professor byung-ju yi received his b.a. (1942) from hanyang university, his m.s....", 
+        "email_addr_list": [
+            "hwyang@hanyang.ac.kr"
+        ], 
+        "cite_url": "www.hanyang.ac.kr/code_html/.../index.html", 
+        "cite_name": "Hanyang University", 
+        "title": "한양대학교(Hanyang University)"
+    }, 
+    {
+        "content": "nov 4, 2014 - ... korea university, korea. byung-ju yi, department of electronic systems engineering, hanyang university, korea. email: bj@hanyang.ac.kr...", 
+        "email_addr_list": [
+            "bj@hanyang.ac.kr"
+        ], 
+        "cite_url": "pic.sagepub.com/content/.../0954406214557847.abstract?...", 
+        "cite_name": "Sage Publications", 
+        "title": "Kinematic modelling and configuration estimation for elastic ..."
+    }, 
+    {
+        "content": "email: shlee@incorl.hanyang.ac.kr. sanghoon lee and byung ju yi. school of e.e.c.s.. email: ihsuh@hanyang.ac.kr. email: mjkim@incorl.hanyang.ac.kr.", 
+        "email_addr_list": [
+            "shlee@incorl.hanyang.ac.kr", 
+            "ihsuh@hanyang.ac.kr", 
+            "mjkim@incorl.hanyang.ac.kr"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0130...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "A novel dynamic priority-based action-selection-mechanism ..."
+    }
+]

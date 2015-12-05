@@ -1,0 +1,40 @@
+[
+    {
+        "content": "t. fraichard ( ). inria, cnrs-lig and grenoble university, grenoble, france e-mail: thierry.fraichard@inria.fr. h. salhi. blida university, blida, algeria e-mail:...", 
+        "email_addr_list": [
+            "thierry.fraichard@inria.fr"
+        ], 
+        "cite_url": "thierry.fraichard.free.fr/publications/journals/12-auro-bouraine-etal.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Provably safe navigation for mobile robots with limited field ..."
+    }, 
+    {
+        "content": "safe motion planning in dynamic environments st´ ephane petti inria rocquencourt  ecole des mines de paris email: stephane.petti@inria.fr thierry fraichard...", 
+        "email_addr_list": [
+            "stephane.petti@inria.fr"
+        ], 
+        "cite_url": "www.academia.edu/.../Safe_motion_planning_in_dynamic...", 
+        "cite_name": "Academia.edu", 
+        "title": "Safe motion planning in dynamic environments | Thierry ..."
+    }, 
+    {
+        "content": "e-mail: thierry.fraichard@inria.fr. e-mail: michel.parent@inria.fr. *corresponding author. abstract: this paper addresses the problem of autonomous navigation...", 
+        "email_addr_list": [
+            "thierry.fraichard@inria.fr", 
+            "michel.parent@inria.fr"
+        ], 
+        "cite_url": "www.inderscienceonline.com/doi/pdf/10.1504/IJVAS.2008.016486", 
+        "cite_name": "", 
+        "title": "PDF (693 KB)"
+    }, 
+    {
+        "content": "oct 24, 2007 - email: stephane.petti@inria.fr. thierry fraichard. inria rhône-alpes  gravir lab., grenoble. email: thierry.fraichard@inria.fr. abstract— this...", 
+        "email_addr_list": [
+            "stephane.petti@inria.fr", 
+            "thierry.fraichard@inria.fr"
+        ], 
+        "cite_url": "https://hal.inria.fr/...", 
+        "cite_name": "French Institute for Research in Computer Science an...", 
+        "title": "[PDF]Safe Motion Planning in Dynamic Environments - HAL-Inria"
+    }
+]

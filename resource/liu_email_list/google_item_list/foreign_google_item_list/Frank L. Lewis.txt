@@ -1,0 +1,29 @@
+[
+    {
+        "content": "e-mail: lewis@uta.edu. phone: 817-272-5972. syllabus: syllabus. frank l. lewis received the bs in electrical engineering  physics from rice university in...", 
+        "email_addr_list": [
+            "lewis@uta.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Texas at Arlington", 
+        "title": "Dr. Frank L. Lewis - Members - Academy of Distinguished ..."
+    }, 
+    {
+        "content": "mar 28, 2013 - frank l.lewis is the moncrief-odonnell professor at uta research institute at the university of texas at arlington. ... e-mail : lewis@uta.edu", 
+        "email_addr_list": [
+            "lewis@uta.edu"
+        ], 
+        "cite_url": "accu.cqu.edu.cn/web/gprofs/817.jhtml", 
+        "cite_name": "", 
+        "title": "Prof. Frank L. Lewis - AUTOMATION | CQU"
+    }, 
+    {
+        "content": "advisor: dan o. popa, frank l. lewis ... 2013-2014 donald l. and rhonda struminger faculty fellow in mechanical ..... email: grizzle [at] eecs.umich.edu.", 
+        "email_addr_list": [
+            "grizzle@eecs.umich.edu"
+        ], 
+        "cite_url": "www.cmu.edu/me/.../koushil_sreenath_cv.pd...", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "[PDF]Koushil Sreenath –"
+    }
+]

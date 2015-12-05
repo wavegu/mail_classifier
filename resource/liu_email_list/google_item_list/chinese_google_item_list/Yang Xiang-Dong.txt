@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email address: xdongw@sdu.edu.cn .... ning yang, xiangdong wang, jing jiang and stuart j. frank role of the growth hormone (gh) receptor transmembrane...", 
+        "email_addr_list": [
+            "xdongw@sdu.edu.cn"
+        ], 
+        "cite_url": "www.medcell.sdu.edu.cn/content.php?id=61", 
+        "cite_name": "", 
+        "title": "Xiangdong Wang - 山东大学医学院细胞生物学系"
+    }, 
+    {
+        "content": "oct 9, 2010 - 南京210008. fax. 0086-25-57714759. email. xdyang@niglas.ac.cn ... dr.xiangdong yang, male, born in december 1964,is the professor and...", 
+        "email_addr_list": [
+            "xdyang@niglas.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Xiangdong Yang"
+    }, 
+    {
+        "content": "xiangdong william yang, ph.d. william yang. email. xwyang@mednet.ucla.edu. phone. fax number: 310-825-6426lab number: 310-267-2831office phone...", 
+        "email_addr_list": [
+            "xwyang@mednet.ucla.edu"
+        ], 
+        "cite_url": "www.semel.ucla.edu/.../xiangdong-...", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "Xiangdong William Yang, Ph.D. | Semel Institute"
+    }
+]

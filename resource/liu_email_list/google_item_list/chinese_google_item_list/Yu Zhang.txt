@@ -1,0 +1,74 @@
+[
+    {
+        "content": "yu zhang. public services librarian. library services. phone: 646.997.3345; email: yuzhang@nyu.edu; office: lc321. profile...", 
+        "email_addr_list": [
+            "yuzhang@nyu.edu"
+        ], 
+        "cite_url": "engineering.nyu.edu/people/yu-zhang", 
+        "cite_name": "New York University", 
+        "title": "Yu Zhang | NYU Tandon School of Engineering"
+    }, 
+    {
+        "content": "alumni ph.d.s. info. you are here: home → people → graduate students → yu zhang. photo of. yu zhang. phd-or. hanes b04. yuzhang@email.unc.edu...", 
+        "email_addr_list": [
+            "yuzhang@email.unc.edu"
+        ], 
+        "cite_url": "stat-or.unc.edu/.../yu-zhang", 
+        "cite_name": "University of North Carolina at Chapel Hill", 
+        "title": "Yu Zhang — Department of Statistics And Operations ..."
+    }, 
+    {
+        "content": "yu zhang is a senior lecturer at the university of lincoln. ... email: yzhang@lincoln.ac.uk; telephone: 01522 83 7938; post. university of lincoln brayford pool", 
+        "email_addr_list": [
+            "yzhang@lincoln.ac.uk"
+        ], 
+        "cite_url": "staff.lincoln.ac.uk/yzhang", 
+        "cite_name": "University of Lincoln", 
+        "title": "Yu Zhang · University of Lincoln Staff Directory"
+    }, 
+    {
+        "content": "yu zhang, phd ... email: yuzhang@usf.edu ... congratulate makarand gawade (as the second author with dr. yu zhang) for receiving the best paper award for...", 
+        "email_addr_list": [
+            "yuzhang@usf.edu"
+        ], 
+        "cite_url": "cee.eng.usf.edu/faculty/YuZhang/", 
+        "cite_name": "", 
+        "title": "Dr. Yu Zhang"
+    }, 
+    {
+        "content": "yu zhang. main content. associate professor. 514b wartik university park, pa 16802. email: yuzhang@stat.psu.edu. phone: (814) 867-0780...", 
+        "email_addr_list": [
+            "yuzhang@stat.psu.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Pennsylvania State University", 
+        "title": "Yu Zhang - Penn State Department of Statistics"
+    }, 
+    {
+        "content": "yu zhang. title: assistant professor of strategy; office phone: 949.824.0324; 949.824.8469; office location: sb 319; email: yu.zhang@uci.edu.", 
+        "email_addr_list": [
+            "yu.zhang@uci.edu"
+        ], 
+        "cite_url": "merage.uci.edu/.../FacultyProfiles.aspx?...", 
+        "cite_name": "Paul Merage School of Business", 
+        "title": "Yu Zhang - The Paul Merage School of Business"
+    }, 
+    {
+        "content": "email: yuzhang at ustc dot edu dot cn. phone: 86-551-63603804; fax: 86-551-63607043. welcome to join our lab of system software and software security...", 
+        "email_addr_list": [
+            "yuzhang@ustc.edu.cn"
+        ], 
+        "cite_url": "staff.ustc.edu.cn/~yuzhang/", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "Yu Zhangs Home Page"
+    }, 
+    {
+        "content": "jun 1, 2015 - yu zhang. summary; research. phd student. room: heinz wolff 001. email: yu.zhang@brunel.ac.uk. tel: +44 (0)1895 267415...", 
+        "email_addr_list": [
+            "yu.zhang@brunel.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Brunel University London", 
+        "title": "Yu Zhang | Brunel University London"
+    }
+]

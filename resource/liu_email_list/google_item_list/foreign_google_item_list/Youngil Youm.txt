@@ -1,0 +1,39 @@
+[
+    {
+        "content": "school of mechanical and advanced materials engineering tel : +82-52-217-2319. fax : +82-52-217-2309 e-mail : youmyi@unist.ac.kr...", 
+        "email_addr_list": [
+            "youmyi@unist.ac.kr"
+        ], 
+        "cite_url": "home.unist.ac.kr/.../y...", 
+        "cite_name": "Ulsan National Institute of Science and Technology", 
+        "title": "Young Il Youm - unist"
+    }, 
+    {
+        "content": "youngil youm. wankyun chung. dept. mech, postech ... email: youm@postech.ac.kr. email: wkchung@pstech.ac.kr. absmcf-we define that the end effector is...", 
+        "email_addr_list": [
+            "youm@postech.ac.kr", 
+            "wkchung@pstech.ac.kr"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../01...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "The Development of POSTECH HAND 5 - IEEE Xplore"
+    }, 
+    {
+        "content": "email: kmlynch@northwestern.edu. youngil youm. department of mechanical engineering. pohang university of science and technology. pohang, korea.", 
+        "email_addr_list": [
+            "kmlynch@northwestern.edu"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../04...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Locomotion via Impact Switching between Decoupling ..."
+    }, 
+    {
+        "content": "youngil youm  youngil youm. remove suggestion. wankyun chung .... email: wkchung@postech.ac.kr. abstract—we define that the end effector is the device...", 
+        "email_addr_list": [
+            "wkchung@postech.ac.kr"
+        ], 
+        "cite_url": "www.researchgate.net/.../4077238_The_development_of_Post...", 
+        "cite_name": "ResearchGate", 
+        "title": "The development of Postech Hand 5 - ResearchGate"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "j. h. yakey is with the department of computer science iowa state university ames ia 50011 usa (e-mail: yakeyj@cs.iastate.edu) . s. m. lavalle is with the...", 
+        "email_addr_list": [
+            "yakeyj@cs.iastate.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-lavalle-cs-uiu-19085037.htm", 
+        "cite_name": "", 
+        "title": "lavalle@cs.uiu - The Email Archive"
+    }, 
+    {
+        "content": "erickson yaonan huang steven m. lavalle department of computer ... e-mail: jyu18@uiuc.edu 1 2 l. h. erickson j. yu y. huang and s. m. lavalle r1 r2 r3 r1 r2...", 
+        "email_addr_list": [
+            "jyu18@uiuc.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-jyu18-uiuc-edu-19078204.htm", 
+        "cite_name": "", 
+        "title": "jyu18@uiuc.edu - The Email Archive"
+    }, 
+    {
+        "content": "verified email at rice.edu. scholar. get my own profile. google scholar ... sm lavalle, jh yakey, le kavraki. robotics and automation, 1999. proceedings.", 
+        "email_addr_list": [
+            "email@rice.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Q6pxNZYAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Lydia E. Kavraki - Google Scholar Citations"
+    }
+]

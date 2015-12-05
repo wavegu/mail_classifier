@@ -1,0 +1,31 @@
+[
+    {
+        "content": "email: crw2jz@virginia.edu ... m.s. university of texas at el paso. email: njcastro@gwmail.gwu.edu .... email: xiuqifang@gwmail.gwu.edu. co-advised with prof.", 
+        "email_addr_list": [
+            "crw2jz@virginia.edu", 
+            "njcastro@gwmail.gwu.edu", 
+            "xiuqifang@gwmail.gwu.edu"
+        ], 
+        "cite_url": "home.gwu.edu/~lgzhang/.../Page441.htm", 
+        "cite_name": "George Washington University", 
+        "title": "Home - gwu.edu - The George Washington University"
+    }, 
+    {
+        "content": "interests, teaching, e-mail telephone personal ... e-mail: chengyang@bnu.edu.cn. telephone: 86 10 ... fang xiuqi, ph.d. professor. fu suhua, ph.d. professor...", 
+        "email_addr_list": [
+            "chengyang@bnu.edu.cn"
+        ], 
+        "cite_url": "geo.english.bnu.edu.cn/facultyresearch/facultymembers/.../index.htm", 
+        "cite_name": "", 
+        "title": "Teachers Team - School of Geography in Beijing Normal ..."
+    }, 
+    {
+        "content": "oct 6, 2014 - ... academy of sciences, china. xiuqi fang, school of geography, beijing normal university, beijing 100875, china. email: xfang@bnu.edu.cn...", 
+        "email_addr_list": [
+            "xfang@bnu.edu.cn"
+        ], 
+        "cite_url": "hol.sagepub.com/content/early/2014/.../0959683614551224", 
+        "cite_name": "The Holocene", 
+        "title": "Climate change and fiscal balance in China over the past ..."
+    }
+]

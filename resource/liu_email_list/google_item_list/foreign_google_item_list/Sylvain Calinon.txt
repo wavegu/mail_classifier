@@ -1,0 +1,11 @@
+[
+    {
+        "content": "apr 19, 2012 - antonio pistillo. tohid alizadeh leonel rozo. petar kormushev. davide de. tommaso. contact email: sylvain.calinon@iit.it...", 
+        "email_addr_list": [
+            "sylvain.calinon@iit.it"
+        ], 
+        "cite_url": "https://www.lccc.lth.se/media/LCCC2012/SymposiumApril/.../sylvain.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Sylvain Calinon - LCCC - Lund Center for Control of ..."
+    }
+]

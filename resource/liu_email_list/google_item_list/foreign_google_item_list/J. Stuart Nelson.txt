@@ -1,0 +1,20 @@
+[
+    {
+        "content": "j. stuart nelson ... email: jsnelson@uci.edu. research abstract. dr. nelson has a very active research program that includes studies at both the basic science...", 
+        "email_addr_list": [
+            "jsnelson@uci.edu"
+        ], 
+        "cite_url": "www.bli.uci.edu/.../profile.php?id=jsnelso...", 
+        "cite_name": "University of California, Irvine", 
+        "title": "Dr. J Stuart Nelson - Beckman Laser Institute - Faculty Profile"
+    }, 
+    {
+        "content": "jul 13, 2009 - email: jsnelson@uci.edu ... picture of john stuart nelson ... abstract, j. stuart nelson, m.d., ph.d. is professor of surgery, dermatology and...", 
+        "email_addr_list": [
+            "jsnelson@uci.edu"
+        ], 
+        "cite_url": "www.faculty.uci.edu/profile.cfm?faculty...", 
+        "cite_name": "University of California, Irvine", 
+        "title": "John Stuart Nelson - UC Irvine - Faculty Profile System"
+    }
+]

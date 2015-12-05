@@ -1,0 +1,11 @@
+[
+    {
+        "content": "gates building, room 140. 353 serra mall. stanford, ca 94305. phone +1 650 723-3432. fax +1 650 725-1449. email shoham@stanford.edu.", 
+        "email_addr_list": [
+            "shoham@stanford.edu"
+        ], 
+        "cite_url": "robotics.stanford.edu/users/shoham/", 
+        "cite_name": "", 
+        "title": "Yoav Shoham - Stanford University"
+    }
+]

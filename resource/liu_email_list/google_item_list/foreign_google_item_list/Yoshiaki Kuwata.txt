@@ -1,0 +1,21 @@
+[
+    {
+        "content": "e-mail: ono@jpl.nasa.gov. marco pavone. stanford university, department of aeronautics and astronautics. e-mail: pavone@stanford.edu. yoshiaki kuwata.", 
+        "email_addr_list": [
+            "ono@jpl.nasa.gov", 
+            "pavone@stanford.edu"
+        ], 
+        "cite_url": "web.stanford.edu/.../Ono.Pavone.ea.AURO14.pdf", 
+        "cite_name": "Stanford University", 
+        "title": "[PDF]Chance-Constrained Dynamic Programming with ..."
+    }, 
+    {
+        "content": "email: yoshiaki.kuwata@jpl.nasa.gov. abstract—the roughness based navigation function (rbnf) is a numerical map that estimates the mobility measure...", 
+        "email_addr_list": [
+            "yoshiaki.kuwata@jpl.nasa.gov"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0651...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "An Approximate of the Cost-To-Go Map on Rough Terrains"
+    }
+]

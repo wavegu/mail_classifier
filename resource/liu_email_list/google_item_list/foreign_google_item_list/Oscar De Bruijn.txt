@@ -1,0 +1,29 @@
+[
+    {
+        "content": "contact details. dr oscar de bruijn. role: lecturer socio-cognitive systems. email: o.de-bruijn@manchester.ac.uk. location: manchester business school east-...", 
+        "email_addr_list": [
+            "o.de-bruijn@manchester.ac.uk"
+        ], 
+        "cite_url": "www.manchester.ac.uk/research/o.de-bruijn/", 
+        "cite_name": "University of Manchester", 
+        "title": "Dr Oscar De bruijn research profile - personal details | The ..."
+    }, 
+    {
+        "content": "alistair sutcliffe1; oscar de bruijn1; sarah thew2; iain buchan2; paul jarvis2; john mcnaught3; rob procter4. 1manchester ... email: ags@manchester.ac.uk...", 
+        "email_addr_list": [
+            "ags@manchester.ac.uk"
+        ], 
+        "cite_url": "ivi.sagepub.com/content/13/1/3.short", 
+        "cite_name": "Sage Publications", 
+        "title": "Developing visualization-based decision support tools for ..."
+    }, 
+    {
+        "content": "... management for business (itmb) dr oscar de bruijn programme director for bsc ... mbs east) email: undergraduate@mbs.ac.ukundergraduate@mbs.ac.uk...", 
+        "email_addr_list": [
+            "undergraduate@mbs.ac.ukundergraduate"
+        ], 
+        "cite_url": "slideplayer.com/slide/8419069/", 
+        "cite_name": "", 
+        "title": "Presentation BSc Information Technology Management for ..."
+    }
+]

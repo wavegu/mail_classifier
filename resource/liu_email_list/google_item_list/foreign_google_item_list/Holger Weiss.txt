@@ -1,0 +1,20 @@
+[
+    {
+        "content": "feb 12, 2015 - holger g. weiss: personal radio by aupeo! ... projekt zukunft spoke with managing director holger g. weiss ... e-mail: press@aupeo.com", 
+        "email_addr_list": [
+            "press@aupeo.com"
+        ], 
+        "cite_url": "www.berlin.de/.../holger-g-weiss-personal-radio-by-aupeo-1/", 
+        "cite_name": "Berlin", 
+        "title": "Holger G. Weiss: Personal Radio by AUPEO! | Projekt ..."
+    }, 
+    {
+        "content": "startup grind berlin hosts holger weiss (aupeo!) startup grind berlin ... visit: startupgrind-berlin.de. email: florian@startupgrind.com | twitter: @floriankrumb...", 
+        "email_addr_list": [
+            "florian@startupgrind.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Eventbrite", 
+        "title": "Startup Grind Berlin Hosts Holger Weiss (AUPEO!) - Eventbrite"
+    }
+]

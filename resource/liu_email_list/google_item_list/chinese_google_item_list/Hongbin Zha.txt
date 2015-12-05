@@ -1,0 +1,38 @@
+[
+    {
+        "content": "dr hongbin zha. department of ... e-mail: zha@cis.pku.edu.cn. hongbin zha is a professor of machine intelligence at peking university. he received the b.e....", 
+        "email_addr_list": [
+            "zha@cis.pku.edu.cn"
+        ], 
+        "cite_url": "www.cis.pku.edu.cn/vision/VisualRobot/.../zha/", 
+        "cite_name": "", 
+        "title": "Hongbin Zha"
+    }, 
+    {
+        "content": "dec 25, 2003 - e-mail: zha@cis.pku.edu.cn. center for information science school of electronics engineering and computer science peking university...", 
+        "email_addr_list": [
+            "zha@cis.pku.edu.cn"
+        ], 
+        "cite_url": "www.cis.pku.edu.cn/.../zha%20hongbin/zha%20hong...", 
+        "cite_name": "", 
+        "title": "查红彬/ Hongbin Zha - 北京大学智能科学系"
+    }, 
+    {
+        "content": "patient surveys for dr. hongbin d. zha, md, los angeles, ca, hematopathology. ... please enter a valid email address, e.g. name@email.com*. we will be...", 
+        "email_addr_list": [
+            "name@email.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Patient Surveys for Dr. Hongbin D. Zha, MD ... - HealthGrades"
+    }, 
+    {
+        "content": "xianghua ying, xiang mei, sen yang, ganwen wang, jiangpeng rong, hongbin zha peking university, beijing 100871, p.r. china email: xhying@cis.pku.edu.", 
+        "email_addr_list": [
+            "xhying@cis.pku.edu"
+        ], 
+        "cite_url": "swardtoolbox.github.io/", 
+        "cite_name": "", 
+        "title": "SWARD (Super-Wide-Angle-lens Radial Distortion ..."
+    }
+]

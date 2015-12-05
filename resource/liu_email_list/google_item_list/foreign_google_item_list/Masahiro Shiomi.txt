@@ -1,0 +1,29 @@
+[
+    {
+        "content": "create alert. cancel. masahiro shiomi (塩見昌裕). atr ... verified email at atr.jp - homepage  scholar ... t kanda, m shiomi, z miyashita, h ishiguro, n hagita.", 
+        "email_addr_list": [
+            "email@atr.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=6a8bsRQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Masahiro Shiomi (塩見昌裕) - Google Scholar Citations"
+    }, 
+    {
+        "content": "masahiro shiomi, group leader of agent interaction design lab., atr-irc. english | japanese  biography ... fax +81 774 95 1408. e-mail m-shiomi at atr.jp...", 
+        "email_addr_list": [
+            "m-shiomi@atr.jp"
+        ], 
+        "cite_url": "masahiroshiomi.jp/", 
+        "cite_name": "", 
+        "title": "Masahiro Shiomi"
+    }, 
+    {
+        "content": "may 20, 2015 - masahiro shiomi ,. * e-mail: m-shiomi@atr.jp. affiliation: intelligent robotics and communication laboratories, atr, kyoto, japan. ⨯.", 
+        "email_addr_list": [
+            "m-shiomi@atr.jp"
+        ], 
+        "cite_url": "journals.plos.org/plosone/article?id=10.1371/journal.pone.0128031", 
+        "cite_name": "", 
+        "title": "PLOS ONE: Effectiveness of Social Behaviors for ..."
+    }
+]

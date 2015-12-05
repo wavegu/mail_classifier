@@ -1,0 +1,47 @@
+[
+    {
+        "content": "wang yaonan, college of electrical and information engineering, control science and ... electrical engineering, tel: 0731-88822224 e-mail: yaonan@hnu.cn...", 
+        "email_addr_list": [
+            "yaonan@hnu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Hunan University", 
+        "title": "Control Science And Engineering-HNU - Hunan University"
+    }, 
+    {
+        "content": "yaonan wang. faculty of electrical and information engineering, hunan university, changsha, 410082, china. yaonan@mail.hunu.edu.cn. prof. dr.-ing. habil.", 
+        "email_addr_list": [
+            "yaonan@mail.hunu.edu.cn"
+        ], 
+        "cite_url": "https://www.rt.mw.tum.de/.../FB_2000_L...", 
+        "cite_name": "Technische Universität München", 
+        "title": "[PDF]Yaonan@mail.hunu.edu.cn"
+    }, 
+    {
+        "content": "contact information email: dongqing.li@uwaterloo.ca phone: 519-888-4567 x38682 ... yao-nan wang, yuejun kang, dongyan xu, louise barnett, spyros a.", 
+        "email_addr_list": [
+            "dongqing.li@uwaterloo.ca"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Waterloo", 
+        "title": "Dongqing Li | Mechanical and Mechatronics Engineering"
+    }, 
+    {
+        "content": "oct 7, 2013 - yaonan wang and wenming cao. a1 college of electrical and ... e-mail: caowenming8@gmail.com. how to cite this article; link to this...", 
+        "email_addr_list": [
+            "caowenming8@gmail.com"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S02635747...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Robotica - A global path planning method for mobile robot ..."
+    }, 
+    {
+        "content": "yaonan wang the college of electrical and information engineering. hunan university, china. email: yaonan@hnu.edu.cn. yimin yang the college of electrical.", 
+        "email_addr_list": [
+            "yaonan@hnu.edu.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Efficiency-Optimization Control of Extended Range Electric ..."
+    }
+]

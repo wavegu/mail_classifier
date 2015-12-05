@@ -1,0 +1,30 @@
+[
+    {
+        "content": "ainslie, k.m.; tao, s.l.; popat, k.c.; desai t.a. in vitro immunogenicity of silicon based micro- and nano-structured surfaces. ... email: tejal.desai@ucsf.edu.", 
+        "email_addr_list": [
+            "tejal.desai@ucsf.edu"
+        ], 
+        "cite_url": "keck.ucsf.edu/physio/.../desait.ht...", 
+        "cite_name": "University of California, San Francisco", 
+        "title": "UCSF - Department of Physiology - People - Core Faculty ..."
+    }, 
+    {
+        "content": "carnegie mellon university: e-mail: army-office@langmuir.acs.org ... tejal a. desai ... georgia institute of technology: e-mail: sholl-office@langmuir.acs.org.", 
+        "email_addr_list": [
+            "army-office@langmuir.acs.org", 
+            "sholl-office@langmuir.acs.org"
+        ], 
+        "cite_url": "pubs.acs.org/page/langd5/editors.html", 
+        "cite_name": "American Chemical Society", 
+        "title": "Editors (ACS Publications)"
+    }, 
+    {
+        "content": "icon-email tdesai@llflegal.com. tejal s. desai joined latimer levay fyock llc in august 2010. tejal has experience in civil and commercial litigation matters.", 
+        "email_addr_list": [
+            "tdesai@llflegal.com"
+        ], 
+        "cite_url": "llflegal.com/attorneys/tejal-s-desai/", 
+        "cite_name": "", 
+        "title": "Tejal S. Desai | Latimer LeVay Fyock, LLC"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "burgard@informatik.uni-freiburg.de. phone: +49 761 ... skype: wolfram.burgard ... if you should be interested, please send your application via email. contact...", 
+        "email_addr_list": [
+            "burgard@informatik.uni-freiburg.de"
+        ], 
+        "cite_url": "www2.informatik.uni-freiburg.de/...", 
+        "cite_name": "Albert Ludwigs University of Freiburg", 
+        "title": "Prof. Dr. Wolfram Burgard - Autonomous Intelligent Systems"
+    }, 
+    {
+        "content": "dr. wolfram burgard +49 (761) 203-8026 +49 (761) 203-8007 burgard@informatik.uni-freiburg.de http://www.informatik.uni-freiburg.de/index.en.html 3...", 
+        "email_addr_list": [
+            "burgard@informatik.uni-freiburg.de"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-burgard-informatik-uni-275802...", 
+        "cite_name": "", 
+        "title": "burgard@informatik.uni - The Email Archive"
+    }, 
+    {
+        "content": "mar 15, 2001 - wolfram burgard university of freiburg department of computer science freiburg 79085 germany email: burgard@informatik.uni-freiburg.de.", 
+        "email_addr_list": [
+            "burgard@informatik.uni-freiburg.de"
+        ], 
+        "cite_url": "www.museumsandtheweb.com/mw2001/bios/au_145012140.html", 
+        "cite_name": "", 
+        "title": "Wolfram Burgard - Museums and the Web"
+    }
+]

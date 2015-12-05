@@ -1,0 +1,75 @@
+[
+    {
+        "content": "qinghua shi. department of: ... email: shq@sjtu.edu.cn. biography. research. teaching. prof. shi qinghua (1964- ), male, doctor of management. born in...", 
+        "email_addr_list": [
+            "shq@sjtu.edu.cn"
+        ], 
+        "cite_url": "www.acem.sjtu.edu.cn/en/.../shiqinghua.ht...", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "Qinghua SHI - Faculty - Antai College of Economics ..."
+    }, 
+    {
+        "content": "jul 27, 2011 - shi qinghua ... email: qshi@ustc.edu.cn ... shi qinghua, professor and ph.d. supervisor, is selected into chinese academy of sciences (cas)...", 
+        "email_addr_list": [
+            "qshi@ustc.edu.cn"
+        ], 
+        "cite_url": "en.biox.ustc.edu.cn/.../t2...", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "SHI Qinghua - University of Science and Technology of China"
+    }, 
+    {
+        "content": "e-mail: qshi@ustc.edu.cn. homepage: http://mcg.ustc.edu.cn. personal profile. shi qinghua, professor, is a scholar of the hundred talents program of chinese...", 
+        "email_addr_list": [
+            "qshi@ustc.edu.cn"
+        ], 
+        "cite_url": "mcg.ustc.edu.cn/english.php", 
+        "cite_name": "", 
+        "title": "中国科学技术大学分子细胞遗传学实验室"
+    }, 
+    {
+        "content": "dec 16, 2014 - tang shi qing (phd student) email: a0038797@nus.edu.sg. teng yanbo (phd student) ... lyu qinghua (phd student) email: a0129473@u.nus.", 
+        "email_addr_list": [
+            "a0038797@nus.edu.sg", 
+            "a0129473@u.nus"
+        ], 
+        "cite_url": "www.pharmacy.nus.edu.sg/.../rshgroup....", 
+        "cite_name": "National University of Singapore", 
+        "title": "Research Staff - NUS - National University of Singapore ..."
+    }, 
+    {
+        "content": "email: walkercheng@163.com. office phone: 021-65982272. education ... jin yanhong,fan maoyong,cheng mingwang,shi qinghua. the economic gains of.", 
+        "email_addr_list": [
+            "walkercheng@163.com"
+        ], 
+        "cite_url": "sem.tongji.edu.cn/semen_data/attachments/month.../201541135139.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Detailed CV"
+    }, 
+    {
+        "content": "email: walkercheng@163.com. office phone: +86-21-65982272 ... jin yanhong,fan maoyong,cheng mingwang,shi qinghua. the economic gains of cadre...", 
+        "email_addr_list": [
+            "walkercheng@163.com"
+        ], 
+        "cite_url": "sem.tongji.edu.cn/semen/?p=12022", 
+        "cite_name": "", 
+        "title": "CHENG Mingwang - Tongji SEM"
+    }, 
+    {
+        "content": "email, tanyuan@21e.cc, is associated with 100+ domains. address, tai zhou shi ... registrant organization: tai zhou shi qing hua ming sen. registrant street: tai...", 
+        "email_addr_list": [
+            "tanyuan@21e.cc"
+        ], 
+        "cite_url": "domainbigdata.com/jsqhms.com", 
+        "cite_name": "", 
+        "title": "Jsqhms.com - WHOIS  Domain Info - DomainBigData"
+    }, 
+    {
+        "content": "92, nankai district, tianjin, p. r. china; email: huqinghua@tju.edu.cn ... qinghua hu, received his b. s., m. s. and ph.d. degrees from harbin institute of technology, harbin, china in 1999, 2002 and ... [8]an s,shi h,hu qh,li xq,dang jw.", 
+        "email_addr_list": [
+            "huqinghua@tju.edu.cn"
+        ], 
+        "cite_url": "cs.tju.edu.cn/faculty/huqinghua/", 
+        "cite_name": "", 
+        "title": "Qinghua Hu"
+    }
+]

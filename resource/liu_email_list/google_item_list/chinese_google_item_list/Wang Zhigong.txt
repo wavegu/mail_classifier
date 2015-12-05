@@ -1,0 +1,56 @@
+[
+    {
+        "content": "... (82)3017; fax: +44(0)1227 762811; email: f.z.wang@kent.ac.uk; room s115a ... professor frank zhigang wang, fbcs, smieee, phd, msc, bsc. prof.", 
+        "email_addr_list": [
+            "f.z.wang@kent.ac.uk"
+        ], 
+        "cite_url": "www.cs.kent.ac.uk/people/staff/fzw/", 
+        "cite_name": "University of Kent", 
+        "title": "Frank Wang - School of Computing - University of Kent"
+    }, 
+    {
+        "content": "david zhigang wang. associate professor, ph.d. columbia ... lu wang. b.s. ocean university of china. detail. ... email: chenhuiyu1990@163.com. detail.", 
+        "email_addr_list": [
+            "chenhuiyu1990@163.com"
+        ], 
+        "cite_url": "wang.scbb.pkusz.edu.cn/People/Index.aspx", 
+        "cite_name": "", 
+        "title": "Wang Laboratory  People"
+    }, 
+    {
+        "content": "instructor, zhigang wang. term, may-august. email address, zhigang.wang@carleton.ca. office location, la a530b. office hours, by appointment...", 
+        "email_addr_list": [
+            "zhigang.wang@carleton.ca"
+        ], 
+        "cite_url": "https://carleton.ca/.../psyc-3000-design-and-analysis-i...", 
+        "cite_name": "Carleton University", 
+        "title": "PSYC 3000: Design  Analysis in Psychological Research ..."
+    }, 
+    {
+        "content": "design and analysis in psychological research. instructor: zhigang wang. email: zwang4@connect.carleton.ca. office: a537 loeb. phone: n/a. office hours:.", 
+        "email_addr_list": [
+            "zwang4@connect.carleton.ca"
+        ], 
+        "cite_url": "carleton.ca/psychology/wp-content/.../3000-B_S.pdf", 
+        "cite_name": "Carleton University", 
+        "title": "[PDF]3000 B Design and Analysis in Psychological Research ..."
+    }, 
+    {
+        "content": "email: zgshuai@tsinghua.edu.cn ... zhigang shuai, linjun wang, chenchen song, “theory of charge transport in carbon electronic materials”, springer, 2012,...", 
+        "email_addr_list": [
+            "zgshuai@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201104042313070105498...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Shuai, Zhigang"
+    }, 
+    {
+        "content": "zhigang tao. professor. office: kk 1232. tel: 3917-8223. email: ztao@hku.hk ... zhigang tao is professor of economics and strategy in the faculty of business .... (with chong-en bai, david d. li, and yijiang wang), journal of comparative...", 
+        "email_addr_list": [
+            "ztao@hku.hk"
+        ], 
+        "cite_url": "www.sef.hku.hk/people/faculty/z.tao.html", 
+        "cite_name": "University of Hong Kong", 
+        "title": "Professor Tao Zhigang - School of Economics and Finance ..."
+    }
+]

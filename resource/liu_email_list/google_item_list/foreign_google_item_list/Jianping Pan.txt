@@ -1,0 +1,29 @@
+[
+    {
+        "content": "welcome to j pans home page. jianping pan, phd, smieee, smacm ... if your email a@b.c was sent from domain x.y.z, it may have been eaten by spam filters...", 
+        "email_addr_list": [
+            "a@b.c"
+        ], 
+        "cite_url": "web.uvic.ca/~pan/", 
+        "cite_name": "University of Victoria", 
+        "title": "Jianping Pan"
+    }, 
+    {
+        "content": "jianping pan, phd, smieee, smacm ... tel: 250-472-5796 (no voice mail please) ... and non-confidential) email: pan@uvic.ca web: web.uvic.ca/~pan...", 
+        "email_addr_list": [
+            "pan@uvic.ca"
+        ], 
+        "cite_url": "webhome.cs.uvic.ca/~pan/contact/", 
+        "cite_name": "", 
+        "title": "J Pans Contact Info - Department of Computer Science"
+    }, 
+    {
+        "content": "80 records - welcome to j pan`s home page - university of victoria - bing. if your email a@b.c was sent from domain x.y.z, it may have been eaten by spam filters...", 
+        "email_addr_list": [
+            "a@b.c"
+        ], 
+        "cite_url": "www.ppldata.com/jianping/pan", 
+        "cite_name": "", 
+        "title": "Jianping Pan - (80 records found) - Address, Email, Social ..."
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "content": "kyo-chul kang님의 사진입니다. prof. kyo-chul kang: e-mail : kck@postech.ac.kr: position : honorary professor: tel. : laboratory : software engineering lab...", 
+        "email_addr_list": [
+            "kck@postech.ac.kr"
+        ], 
+        "cite_url": "phome.postech.ac.kr/user/indexSub.action?...", 
+        "cite_name": "", 
+        "title": "faculty - IT Convergence Engineering"
+    }, 
+    {
+        "content": "e-mail: hyesun.lee[at]etri.re.kr. profile at ... hyesun lee, kyo c. kang, jin-seok yang, and jai-jeong pyun. ... capilla, rafael; bosch, jan; kang, kyo-chul (eds.).", 
+        "email_addr_list": [
+            "hyesun.lee@etri.re.kr"
+        ], 
+        "cite_url": "https://sites.google.com/site/hyesunlee2009/", 
+        "cite_name": "", 
+        "title": "Hyesun Lee - Google Sites"
+    }, 
+    {
+        "content": "email: x.liu@napier.ac.uk; 2) prof. hongji yang, school of computing, de montfort university, uk. email: hyang@dmu.ac.uk . 3) prof. kyo chul kang, head of...", 
+        "email_addr_list": [
+            "x.liu@napier.ac.uk", 
+            "hyang@dmu.ac.uk"
+        ], 
+        "cite_url": "www.emu.edu.tr/aelci/compsac/.../quors.d...", 
+        "cite_name": "Eastern Mediterranean University", 
+        "title": "[DOC]CALL FOR PAPERS"
+    }, 
+    {
+        "content": "oct 1, 2011 - joonmyung.kang@gmail.com. homepage: ... joon-myung kang, sin-seok seo, and james won-ki hong. personalized ..... kyo-chul kang.", 
+        "email_addr_list": [
+            "joonmyung.kang@gmail.com"
+        ], 
+        "cite_url": "individual.utoronto.ca/.../CV_JMKang_20111001....", 
+        "cite_name": "University of Toronto", 
+        "title": "[PDF]Curriculum Vitae - University of Toronto"
+    }
+]

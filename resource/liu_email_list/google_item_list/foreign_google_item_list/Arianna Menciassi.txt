@@ -1,0 +1,29 @@
+[
+    {
+        "content": "affiliation. scuola superiore santanna (sssa). – the biorobotics institute. email a.menciassi@sssup.it. arianna menciassi is professor of biomedical robotics...", 
+        "email_addr_list": [
+            "a.menciassi@sssup.it"
+        ], 
+        "cite_url": "www.mms2015.org/CV/Arianna_Menciassi.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Arianna Menciassi is Professor of Biomedical Robotics at ..."
+    }, 
+    {
+        "content": "afferenza : istituto di biorobotica; e-mail: arianna.menciassi@sssup.it; tel: 050 ... iacovacci, veronica ricotti, leonardo menciassi, arianna dario, paolo", 
+        "email_addr_list": [
+            "arianna.menciassi@sssup.it"
+        ], 
+        "cite_url": "www.santannapisa.it/it/personale/arianna-menciassi", 
+        "cite_name": "", 
+        "title": "Arianna Menciassi | SSSUP"
+    }, 
+    {
+        "content": "see information and reports about arianna@sssup1.sssup.it (arianna menciassis e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "arianna@sssup1.sssup.it"
+        ], 
+        "cite_url": "spam-report.email/arianna/sssup1.sssup.it", 
+        "cite_name": "", 
+        "title": "arianna@sssup1.sssup.it (Arianna Menciassis e-mail ..."
+    }
+]

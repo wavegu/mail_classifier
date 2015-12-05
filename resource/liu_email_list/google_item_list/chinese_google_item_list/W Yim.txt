@@ -1,0 +1,29 @@
+[
+    {
+        "content": "you are here. unlv home » directories » woosoon yim, ph.d. back ... code: 4027. phone: 702-895-0956. fax: 702-895-3936. email: woosoon.yim@unlv.edu...", 
+        "email_addr_list": [
+            "woosoon.yim@unlv.edu"
+        ], 
+        "cite_url": "https://www.unlv.edu/.../woosoon-yim", 
+        "cite_name": "University of Nevada, Las Vegas", 
+        "title": "Woosoon Yim, Ph.D. | People | University of Nevada, Las ..."
+    }, 
+    {
+        "content": "yoori.yim@gmail.com - business email address ... dr. yoori w. yim, md located in avenel, nj ensures that the patients requirements are met and always take...", 
+        "email_addr_list": [
+            "yoori.yim@gmail.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Dr. Yoori W. Yim, MD Avenel New Jersey - WherezIt.com"
+    }, 
+    {
+        "content": "email:melihay at uw dot edu ... wen-wai yim - phd student, biomedical and health informatics; prescott klassen ... w. yim, x. engle, h.l. evans, m. yetisgen.", 
+        "email_addr_list": [
+            "melihay@uw.edu"
+        ], 
+        "cite_url": "https://faculty.washington.edu/melihay/", 
+        "cite_name": "University of Washington", 
+        "title": "Meliha Yetisgens Home Page - University of Washington"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "david ferguson. title: director of undergraduate leadership development office location: campus center e-mail: ferg@andrews.edu. phone: (269) 471-6681...", 
+        "email_addr_list": [
+            "ferg@andrews.edu"
+        ], 
+        "cite_url": "https://www.andrews.edu/sed/.../david_ferguson.html", 
+        "cite_name": "Andrews University", 
+        "title": "David Ferguson :: Andrews University"
+    }
+]

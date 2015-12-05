@@ -1,0 +1,11 @@
+[
+    {
+        "content": "email: andreas.nuernberger@ovgu.de. mail: prof. dr. andreas nürnberger fakultät für informatik otto-von-guericke-universität magdeburg universitätsplatz 2", 
+        "email_addr_list": [
+            "andreas.nuernberger@ovgu.de"
+        ], 
+        "cite_url": "wwwiti.cs.uni-magdeburg.de/...", 
+        "cite_name": "Otto‑von‑Guericke University Magdeburg", 
+        "title": "Andreas Nürnberger - ITI - Otto-von-Guericke-Universität ..."
+    }
+]

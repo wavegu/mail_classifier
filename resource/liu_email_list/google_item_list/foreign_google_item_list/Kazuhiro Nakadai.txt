@@ -1,0 +1,20 @@
+[
+    {
+        "content": "kazuhiro nakadai. honda research institute ... verified email at jp.honda-ri.com - homepage  scholar ... k nakadai, k hidai, h mizoguchi, hg okuno, h kitano.", 
+        "email_addr_list": [
+            "email@jp.honda-ri.com"
+        ], 
+        "cite_url": "https://scholar.google.de/citations?user=SBBBYM8AAAAJhl...", 
+        "cite_name": "Google", 
+        "title": "Kazuhiro Nakadai - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: kuniaki.noda [at] akane.waseda.jp. my profile ... kuniaki noda, yuki yamaguchi, kazuhiro nakadai, hiroshi g. okuno, and tetsuya ogata. applied...", 
+        "email_addr_list": [
+            "kuniaki.noda@akane.waseda.jp"
+        ], 
+        "cite_url": "ogata-lab.jp/member/kuniaki-noda.html", 
+        "cite_name": "", 
+        "title": "Kuniaki Noda - Laboratory for Intelligent Dynamics and ..."
+    }
+]

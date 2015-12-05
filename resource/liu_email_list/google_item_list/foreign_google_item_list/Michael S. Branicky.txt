@@ -1,0 +1,29 @@
+[
+    {
+        "content": "sep 6, 2013 - my name is michael branicky, michael branicky and i was selected to be the ... on the back page of this issue or send us an email (to jhummels@ku.edu). ... michael s. branicky dean of engineering michael s. branicky...", 
+        "email_addr_list": [
+            "jhummels@ku.edu"
+        ], 
+        "cite_url": "issuu.com/ku_engineering/docs/kansas_engineer_summer_2013/3", 
+        "cite_name": "", 
+        "title": "Kansas Engineer Summer 2013 by KU School of Engineering"
+    }, 
+    {
+        "content": "michael s. branicky, steven m. lavalle, kari olson, libo yang ... e-mail: lavalle@cs.uiuc.edu, phone: +1-217-265-6313. k. olson is with proctor and gamble,...", 
+        "email_addr_list": [
+            "lavalle@cs.uiuc.edu"
+        ], 
+        "cite_url": "msl.cs.uiuc.edu/~lavalle/papers/BraLavOlsYan02.ps.gz", 
+        "cite_name": "Steven M. LaValle", 
+        "title": "[PS]1 Deterministic vs. Probabilistic Roadmaps Michael S ..."
+    }, 
+    {
+        "content": "verified email at ku.edu - homepage  scholar. get my own profile ... w zhang, ms branicky, sm phillips ... r decarlo, ms branicky, s pettersson, b lennartson.", 
+        "email_addr_list": [
+            "email@ku.edu"
+        ], 
+        "cite_url": "scholar.google.fr/citations?user=jkwHy3AAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Michael Branicky - Google Scholar Citations"
+    }
+]

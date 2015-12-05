@@ -1,0 +1,29 @@
+[
+    {
+        "content": "barry smyths picture. director. view expert profile. insight affiliation: national university of ireland, dublin (ucd). email: barry.smyth@insight-centre.org.", 
+        "email_addr_list": [
+            "barry.smyth@insight-centre.org"
+        ], 
+        "cite_url": "https://www.insight-centre.org/users/barry-smyth", 
+        "cite_name": "", 
+        "title": "Prof. Barry Smyth | The Insight Centre for Data Analytics"
+    }, 
+    {
+        "content": "barry smyth. digital professor of computer science. school of ... belfield dublin 4. tel: +353 1 7162473. email: barry.smyth@ucd.ie. full profile...", 
+        "email_addr_list": [
+            "barry.smyth@ucd.ie"
+        ], 
+        "cite_url": "https://www.cs.ucd.ie/AcademicProfile/BarrySmyth/", 
+        "cite_name": "", 
+        "title": "Barry Smyth - UCD School of Computer Science"
+    }, 
+    {
+        "content": "create alert. cancel. barry smyth ... verified email at ucd.ie - homepage  scholar ... r lopez de mantaras, d mcsherry, d bridge, d leake, b smyth, s craw, .", 
+        "email_addr_list": [
+            "email@ucd.ie"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=0XvFVusAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Barry Smyth - Google Scholar Citations"
+    }
+]

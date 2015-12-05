@@ -1,0 +1,39 @@
+[
+    {
+        "content": "dr. ir. bram vanderborght ... email: bram.vanderborght@vub.ac.be. skype: my status. prof. dr. ir. bram vanderborght was born in belgium in 1980. i received the...", 
+        "email_addr_list": [
+            "bram.vanderborght@vub.ac.be"
+        ], 
+        "cite_url": "mech.vub.ac.be/bram.htm", 
+        "cite_name": "Vrije Universiteit Brussel", 
+        "title": "Prof. Dr. ir. Bram Vanderborght"
+    }, 
+    {
+        "content": "bram vanderborght werd in 1980 in wilrijk geboren en bracht zijn schoolgaande jeugd door in de jan frans ... email: bram.vanderborght@vub.ac.be", 
+        "email_addr_list": [
+            "bram.vanderborght@vub.ac.be"
+        ], 
+        "cite_url": "https://bramvanderborght.wordpress.com/about/", 
+        "cite_name": "", 
+        "title": "Over mij | Bram Vanderborght"
+    }, 
+    {
+        "content": "bram vanderborght is professor robotics at the vrije universiteit brussel. for his scientific work, ... by @bramvdborght. email:bram.vanderborght@vub.ac.be...", 
+        "email_addr_list": [
+            "bram.vanderborght@vub.ac.be"
+        ], 
+        "cite_url": "https://bramvanderborght.wordpress.com/", 
+        "cite_name": "", 
+        "title": "Bram Vanderborght | Met technologische innovatie Europa ..."
+    }, 
+    {
+        "content": "the project is directed by prof dr ir bram vanderborght. .... bram vanderborght bram.vanderborght@vub.ac.be ... raluca anton antonadinaraluca@gmail.com.", 
+        "email_addr_list": [
+            "bram.vanderborght@vub.ac.be", 
+            "antonadinaraluca@gmail.com"
+        ], 
+        "cite_url": "www.robotherapy.ro/", 
+        "cite_name": "", 
+        "title": "Exploring Robot Assisted Therapy for children with autism"
+    }
+]

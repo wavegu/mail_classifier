@@ -1,0 +1,30 @@
+[
+    {
+        "content": "sunghyun choi, ph.d., professor, ieee fellow ... email: schoi@snu.ac.kr ... sunghyun choi is a professor at the department of electrical and computer...", 
+        "email_addr_list": [
+            "schoi@snu.ac.kr"
+        ], 
+        "cite_url": "www.mwnl.snu.ac.kr/~schoi/", 
+        "cite_name": "", 
+        "title": "Sunghyun Choi - MWNL"
+    }, 
+    {
+        "content": "verified email at ieee.org. @ieee.org. cited by 33488 ... sunghyun choi. seoul national university. verified email at snu.ac.kr. @snu.ac.kr. cited by 10454.", 
+        "email_addr_list": [
+            "email@ieee.org", 
+            "email@snu.ac.kr"
+        ], 
+        "cite_url": "scholar.google.gr/citations?view_op=search_authorshl...", 
+        "cite_name": "Google", 
+        "title": "Google Scholar Citations"
+    }, 
+    {
+        "content": "see information and reports about sunghyun.choi@philips.com (sunghyun chois e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "sunghyun.choi@philips.com"
+        ], 
+        "cite_url": "spam-report.email/sunghyun.choi/philips.com", 
+        "cite_name": "", 
+        "title": "sunghyun.choi@philips.com - Spam-Report.Email"
+    }
+]

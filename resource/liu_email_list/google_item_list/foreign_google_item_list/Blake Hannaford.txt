@@ -1,0 +1,20 @@
+[
+    {
+        "content": "e-mail: blake@u.washington.edu ... blake hannaford received the b.s. degree in engineering and applied science from yale university in 1977, and the m.s....", 
+        "email_addr_list": [
+            "blake@u.washington.edu"
+        ], 
+        "cite_url": "www.ee.washington.edu/faculty/hannaford/", 
+        "cite_name": "University of Washington", 
+        "title": "Blake Hannaford - UWEE Faculty - Electrical Engineering"
+    }, 
+    {
+        "content": "blake hannaford received the b.s. degree in engineering and applied science ... telephone: (206) 543-4218 • fax (206) 616-3346 • email: dxarts@uw.edu.", 
+        "email_addr_list": [
+            "dxarts@uw.edu"
+        ], 
+        "cite_url": "https://dxarts.washington.edu/.../blake-hannafo...", 
+        "cite_name": "University of Washington", 
+        "title": "Blake Hannaford | DXARTS | University of Washington"
+    }
+]

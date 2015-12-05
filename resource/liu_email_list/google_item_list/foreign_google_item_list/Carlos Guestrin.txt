@@ -1,0 +1,11 @@
+[
+    {
+        "content": "carlos guestrin is the ceo of graphlab, and the amazon professor of ... for exhibition and sponsorship opportunities, email stratahadoop@oreilly.com...", 
+        "email_addr_list": [
+            "stratahadoop@oreilly.com"
+        ], 
+        "cite_url": "conferences.oreilly.com/strata/big-data-conference-uk-2015/.../157232", 
+        "cite_name": "", 
+        "title": "Carlos Guestrin - Conferences - OReilly Media"
+    }
+]

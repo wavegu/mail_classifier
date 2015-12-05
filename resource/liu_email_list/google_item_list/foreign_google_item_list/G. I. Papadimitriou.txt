@@ -1,0 +1,11 @@
+[
+    {
+        "content": "email, tlagkas@city.academic.gr ... t. d. lagkas, g. i. papadimitriou, p. nicopolitidis, and a. s. pomportsis, “a novel method of serving multimedia and...", 
+        "email_addr_list": [
+            "tlagkas@city.academic.gr"
+        ], 
+        "cite_url": "citycollege.sheffield.eu/frontend/members_profile.php?m=68", 
+        "cite_name": "", 
+        "title": "Dr Thomas Lagkas - City College"
+    }
+]

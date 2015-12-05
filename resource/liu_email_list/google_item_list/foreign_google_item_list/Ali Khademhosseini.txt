@@ -1,0 +1,30 @@
+[
+    {
+        "content": "professors. ali khademhosseini. ali khademhosseini is a professor at harvard medical school (hms) and a faculty at the .... email: alik@rics.bwh.harvard.edu", 
+        "email_addr_list": [
+            "alik@rics.bwh.harvard.edu"
+        ], 
+        "cite_url": "www.tissueeng.net/lab/people.php?cat=1", 
+        "cite_name": "", 
+        "title": "Ali Khademhosseini - Khademhosseini Lab - People"
+    }, 
+    {
+        "content": "ali khademhosseini is an associate professor at harvard-mit division of health sciences and ... e-mail address: akhademhosseini@rics.bwh.harvard.edu...", 
+        "email_addr_list": [
+            "akhademhosseini@rics.bwh.harvard.edu"
+        ], 
+        "cite_url": "www.cardiacconference.org/sample-page/ali-khademhosseini/", 
+        "cite_name": "", 
+        "title": "Ali Khademhosseini | Cardiac Growth  Regeneration"
+    }, 
+    {
+        "content": "email : eccchan@ntu.edu.sg. view more ... email : yuejun.kang@ntu.edu.sg ... view more : academic profile, ​ali khademhosseini, visiting professor email...", 
+        "email_addr_list": [
+            "eccchan@ntu.edu.sg", 
+            "yuejun.kang@ntu.edu.sg"
+        ], 
+        "cite_url": "www.scbe.ntu.edu.sg/.../BIE-Faculty.a...", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "BIE Faculty Staff - SCBE - Nanyang Technological University"
+    }
+]

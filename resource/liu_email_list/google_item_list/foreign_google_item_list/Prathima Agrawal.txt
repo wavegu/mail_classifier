@@ -1,0 +1,20 @@
+[
+    {
+        "content": "prathima agrawal. electrical and computer ... dr. prathima agrawal department of electrical and computer ... fax: (334) 844-1809. email: agrawpr@auburn.edu...", 
+        "email_addr_list": [
+            "agrawpr@auburn.edu"
+        ], 
+        "cite_url": "www.eng.auburn.edu/~pagrawal/", 
+        "cite_name": "Auburn University", 
+        "title": "Prathima Agrawal"
+    }, 
+    {
+        "content": "view prathima agrawals business profile as samuel ginn distinguished ... dr. prathima agrawal, auburn university email: pagrawal@eng.auburn.edu.", 
+        "email_addr_list": [
+            "pagrawal@eng.auburn.edu"
+        ], 
+        "cite_url": "www.zoominfo.com/p/Prathima-Agrawal/25700460", 
+        "cite_name": "", 
+        "title": "Prathima Agrawal | Auburn University | ZoomInfo.com"
+    }
+]

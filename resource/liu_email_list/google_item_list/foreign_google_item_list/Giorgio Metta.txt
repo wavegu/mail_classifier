@@ -1,0 +1,11 @@
+[
+    {
+        "content": "first name(s): giorgio. last name(s): metta. email: giorgio.metta@iit.it. institute: italian institute of technology in genoa. publications of giorgio metta. 2012...", 
+        "email_addr_list": [
+            "giorgio.metta@iit.it"
+        ], 
+        "cite_url": "publications.idiap.ch/index.php/authors/.../999", 
+        "cite_name": "Idiap Research Institute", 
+        "title": "Giorgio Metta - Idiap Publications"
+    }
+]

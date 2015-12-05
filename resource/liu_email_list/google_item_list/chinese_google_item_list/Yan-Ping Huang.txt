@@ -1,0 +1,47 @@
+[
+    {
+        "content": "dr. yan ping huang. email: yanping.huang@polyu.edu.hk. phd., the hong kong polytechnic university, 2007-2013; m.phil, the hong kong polytechnic...", 
+        "email_addr_list": [
+            "yanping.huang@polyu.edu.hk"
+        ], 
+        "cite_url": "https://www.polyu.edu.hk/.../dr-yan-p...", 
+        "cite_name": "Hong Kong Polytechnic University", 
+        "title": "Dr. Yan Ping HUANG - PolyU"
+    }, 
+    {
+        "content": "yanping huang. visiting research student, cmos centre for management and organisation studies. email. yanping.huang@uts.edu.au  edit your profile.", 
+        "email_addr_list": [
+            "yanping.huang@uts.edu.au"
+        ], 
+        "cite_url": "www.uts.edu.au/staff/yanping.huang", 
+        "cite_name": "University of Technology Sydney", 
+        "title": "Yanping Huang | University of Technology Sydney"
+    }, 
+    {
+        "content": "members - yanping huang ... phd (chinese academy of sciences). telephone: n/a. fax: n/a. email: huangyp@ihep.ac.cn. room: n/a. research interest:.", 
+        "email_addr_list": [
+            "huangyp@ihep.ac.cn"
+        ], 
+        "cite_url": "hep.wits.ac.za/members/yanping-huang.php", 
+        "cite_name": "", 
+        "title": "Yanping Huang"
+    }, 
+    {
+        "content": "email: yi.yanping@mail.shufe.edu.cn ... approach for quantile garch model, with xingdong feng and zhuo huang, economics letters, 124 (2014) 378–381.", 
+        "email_addr_list": [
+            "yi.yanping@mail.shufe.edu.cn"
+        ], 
+        "cite_url": "se.shufe.edu.cn/.../ttf1_1...", 
+        "cite_name": "Shanghai University of Finance and Economics", 
+        "title": "Yanping YI"
+    }, 
+    {
+        "content": "ms sophia huang email : huang_huimei_sophia@moe.edu.sg ... ms lim yan ping.jpg. ms lim yan ping. (lower secondary) class 3a2 form teacher email:", 
+        "email_addr_list": [
+            "huang_huimei_sophia@moe.edu.sg"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Science - Juying Secondary School"
+    }
+]

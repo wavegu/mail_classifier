@@ -1,0 +1,29 @@
+[
+    {
+        "content": "aug 18, 2015 - email : abderrahmane.kheddar@lirmm.fr. web site : status : permanent. abderrahmane kheddar received the bscs degree from the institut...", 
+        "email_addr_list": [
+            "abderrahmane.kheddar@lirmm.fr"
+        ], 
+        "cite_url": "www.lirmm.fr/lirmm_eng/users/utilisateurs.../abderrahmane-kheddar", 
+        "cite_name": "", 
+        "title": "Abderrahmane Kheddar / IDH / Equipes / Utilisateurs ..."
+    }, 
+    {
+        "content": "abderrahmane kheddar. editor (until 31 may 2018). abderrahmane kheddar. cnrs-aist joint robotics ..... yusun@mail.usf.edu. primary areas: grasping...", 
+        "email_addr_list": [
+            "yusun@mail.usf.edu"
+        ], 
+        "cite_url": "www.ieee-ras.org/publications/t-ro/editorial-board", 
+        "cite_name": "", 
+        "title": "Editorial Board - IEEE Robotics and Automation Society"
+    }, 
+    {
+        "content": "ropomatics humanoids and intelligence systems lab adenauerring 2 76131 karlsruhe germany lengagne@kit.edu 3 abderrahmane kheddar is with...", 
+        "email_addr_list": [
+            "lengagne@kit.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-kheddar-ieee-org-14128943.htm", 
+        "cite_name": "", 
+        "title": "kheddar@ieee.org - The Email Archive"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "associate professor, komatani kazunori (ph.d.) ... nagoya 464-8603, japan; e-mail: komatani at nuee.nagoya-u.ac.jp; tel/fax: (please ask the number by...", 
+        "email_addr_list": [
+            "komatani@nuee.nagoya-u.ac.jp"
+        ], 
+        "cite_url": "sslab.nuee.nagoya-u.ac.jp/~komatani/index-e.html", 
+        "cite_name": "", 
+        "title": "Komatani Kazunoris Page"
+    }, 
+    {
+        "content": "professor, kazunori komatani (ph.d.) ... address: mihogaoka 8-1, ibaraki, osaka 567-0047, japan; e-mail: komatani at sanken.osaka-u.ac.jp; tel/fax:...", 
+        "email_addr_list": [
+            "komatani@sanken.osaka-u.ac.jp"
+        ], 
+        "cite_url": "www.ei.sanken.osaka-u.ac.jp/~komatani/index-e.html", 
+        "cite_name": "", 
+        "title": "Prof. Kazunori Komatani - Osaka University"
+    }, 
+    {
+        "content": "apr 27, 2006 - fax: +81-75-753-5977. email: komatani@i.kyoto-u.ac.jp. url: http://winnie.kuis.kyoto-u.ac.jp/~komatani/. office: engineering bld. #10, room #...", 
+        "email_addr_list": [
+            "komatani@i.kyoto-u.ac.jp"
+        ], 
+        "cite_url": "winnie.kuis.kyoto-u.ac.jp/members/komatani/souran-e.html", 
+        "cite_name": "", 
+        "title": "Kazunori KOMATANI"
+    }
+]

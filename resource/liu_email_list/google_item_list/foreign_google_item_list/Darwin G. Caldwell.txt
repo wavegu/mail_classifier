@@ -1,0 +1,30 @@
+[
+    {
+        "content": "darwin g. caldwell (steering board). director - department of ... mail: darwin.caldwell at iit.it. web: http://www.iit.it/en/advanced-robotics/. phone: +39 010...", 
+        "email_addr_list": [
+            "darwin.caldwell@iit.it"
+        ], 
+        "cite_url": "www.stiff-flop.eu/partners/foundation-of-cardaic-surgery-dvelopment-3", 
+        "cite_name": "", 
+        "title": "STIFF-FLOP - Italian Institute of Technology"
+    }, 
+    {
+        "content": "darwin caldwell received his b.sc and ph.d in robotics from the university of hull ... email. d.g.caldwell@salford.ac.uk darwin.caldwell@iit.it. web home page.", 
+        "email_addr_list": [
+            "d.g.caldwell@salford.ac.uk", 
+            "darwin.caldwell@iit.it"
+        ], 
+        "cite_url": "www.cogric.reading.ac.uk/biographies/Caldwell%20Darwin.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Caldwell, Prof Darwin G - COGRIC"
+    }, 
+    {
+        "content": "sep 1, 2015 - email: jinoh.lee@iit.it · cellphone: +39.339.3438046 · skype: jinoh lee ... by prof. darwin g. caldwell and dr. nikos g. tsagarakis. postdoctoral...", 
+        "email_addr_list": [
+            "jinoh.lee@iit.it"
+        ], 
+        "cite_url": "https://www.iit.it/en/advr-people.raw?controller=profiletask...", 
+        "cite_name": "", 
+        "title": "[PDF]Summary Position Education Research Interests - Istituto ..."
+    }
+]

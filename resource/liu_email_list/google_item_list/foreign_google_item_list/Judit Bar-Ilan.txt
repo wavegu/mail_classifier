@@ -1,0 +1,30 @@
+[
+    {
+        "content": "972-35318351. fax: 972-37384027. email: judit.bar-ilan@biu.ac.il. office: 502/4, room 7 .... research team: s.s. lazinger, b.c. peritz and j. bar-ilan.", 
+        "email_addr_list": [
+            "judit.bar-ilan@biu.ac.il"
+        ], 
+        "cite_url": "is.biu.ac.il/en/judit/", 
+        "cite_name": "Bar‑Ilan University", 
+        "title": "Bar-Ilan Judit | Department of Information Science | Bar-Ilan ..."
+    }, 
+    {
+        "content": "jul 4, 2013 - email: frigyesijudit@gmail.com. website: http://music.biu.ac.il/frigyesi. cv ... bar ilan university, department of music, ramat gan 52900 israel.", 
+        "email_addr_list": [
+            "frigyesijudit@gmail.com"
+        ], 
+        "cite_url": "music.biu.ac.il/en/frigyesi", 
+        "cite_name": "", 
+        "title": "Frigyesi Judit | Department of Music | Bar-Ilan University"
+    }, 
+    {
+        "content": "verified email at indiana.edu. @indiana.edu. cited by ... judit bar-ilan. professor of information science, bar-ilan university, israel. verified email at biu.ac.il.", 
+        "email_addr_list": [
+            "email@indiana.edu", 
+            "email@biu.ac.il"
+        ], 
+        "cite_url": "scholar.google.com/citations?view_op=search...", 
+        "cite_name": "Google Scholar", 
+        "title": "Google Scholar Citations"
+    }
+]

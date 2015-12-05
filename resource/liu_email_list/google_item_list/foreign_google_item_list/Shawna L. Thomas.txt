@@ -1,0 +1,20 @@
+[
+    {
+        "content": "department of computer science and engineering, email: sthomas@cs.tamu.edu ..... reachable volume rrt, troy mcmahon, shawna l. thomas, nancy m.", 
+        "email_addr_list": [
+            "sthomas@cs.tamu.edu"
+        ], 
+        "cite_url": "https://parasol.tamu.edu/~sthomas/", 
+        "cite_name": "Texas AM University", 
+        "title": "Home Page for Shawna Thomas | Parasol Laboratory"
+    }, 
+    {
+        "content": "email: sthomas@cse.tamu.edu .... troy mcmahon, shawna thomas, and nancy m. amato, in proc. of the ieee ... jory denny, evan greco, shawna l. thomas,.", 
+        "email_addr_list": [
+            "sthomas@cse.tamu.edu"
+        ], 
+        "cite_url": "https://parasol.tamu.edu/~sthomas/.../resume.ps", 
+        "cite_name": "Texas AM University", 
+        "title": "[PS]Shawna L. Thomas - Texas AM University"
+    }
+]

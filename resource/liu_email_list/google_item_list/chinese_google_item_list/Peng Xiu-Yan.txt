@@ -1,0 +1,48 @@
+[
+    {
+        "content": "peng xiuyan. system engineering institute. e-mail:pxygll@163.com. research fields: stochastic estimation and control, ship movement prediction and control,...", 
+        "email_addr_list": [
+            "pxygll@163.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Harbin Engineering University", 
+        "title": "College of Automation - Harbin Engineering University"
+    }, 
+    {
+        "content": "e-mail: dongls@ciac.jl.cn ... email: pengyangdeng@ciac.jl.cn ... special interaction between poly(propylene carbonate) and corn starch,shuwen peng,xiuyan...", 
+        "email_addr_list": [
+            "dongls@ciac.jl.cn", 
+            "pengyangdeng@ciac.jl.cn"
+        ], 
+        "cite_url": "ps-lab.ciac.jl.cn/ry/donglishong.htm", 
+        "cite_name": "", 
+        "title": "导师简介"
+    }, 
+    {
+        "content": "apr 30, 2015 - yi niu, xiuyan peng, mingyou zhang. abstract: we study the cauchy ... email: niuyipde@163.com. xiuyan peng college of automation", 
+        "email_addr_list": [
+            "niuyipde@163.com"
+        ], 
+        "cite_url": "ejde.math.txstate.edu/Volumes/2015/.../abstr.html", 
+        "cite_name": "Texas State University", 
+        "title": "Vol. 2015 - Electronic Journal of Differential Equations"
+    }, 
+    {
+        "content": "ding ding, peng huang, yingqiu pan, shuqing chen. ... han-jing wang, suo-li han, jie chen, min han, hai-yan wang, peng zhang, xiu-min li, jin-cheng dong, guo-lan xing, ... tel  fax : (86-571)88208444 email: pharma@zju.edu.cn", 
+        "email_addr_list": [
+            "pharma@zju.edu.cn"
+        ], 
+        "cite_url": "www.cps.zju.edu.cn/index.php?c=indexa=jzyg_detailid=2...", 
+        "cite_name": "", 
+        "title": "Shuqing Chen"
+    }, 
+    {
+        "content": "email: pllcomeon_2003@163.com ... ming ma, changkun li, lingling peng, fang xie, xiu zhang and jianbo wang tetrahedron ... lingling peng, xiu zhang, jie ma, zhenzhen zhong, zhe zhang, sufang cheng, yan zhang and jianbo wang", 
+        "email_addr_list": [
+            "pllcomeon_2003@163.com"
+        ], 
+        "cite_url": "www.chem.pku.edu.cn/.../Peng%20Lingling.htm", 
+        "cite_name": "Peking University", 
+        "title": "Lingling Peng"
+    }
+]

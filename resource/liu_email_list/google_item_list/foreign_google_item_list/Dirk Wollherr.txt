@@ -1,0 +1,20 @@
+[
+    {
+        "content": "email: dw@tum.de. short biography. dirk wollherr is currently senior researcher and lecturer (since july 2005) and privatdozent (since 2013) at the institute of...", 
+        "email_addr_list": [
+            "dw@tum.de"
+        ], 
+        "cite_url": "https://www.lsr.ei.tum.de/.../dirk-wollherr...", 
+        "cite_name": "Technische Universität München", 
+        "title": "Prof. Dr.-Ing. habil. Dirk Wollherr - Lehrstuhl für Steuerungs ..."
+    }, 
+    {
+        "content": "dirk wollherr. institute of automatic control ... email: dw@tum.de tel.: +49-89-289-23401. born july ... [2] j. mareczek, d. wollherr, and m. buss und g. schmidt.", 
+        "email_addr_list": [
+            "dw@tum.de"
+        ], 
+        "cite_url": "www.jsps-bonn.de/images/stories/Wollherr.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Dirk Wollherr - JSPS Bonn Office"
+    }
+]

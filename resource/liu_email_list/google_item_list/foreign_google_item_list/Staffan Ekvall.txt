@@ -1,0 +1,38 @@
+[
+    {
+        "content": "e-mail: patric@kth.se. url: http://www.cas.kth.se/~patric ... (staffan ekvall, danica kragic and patric jensfelt) robotica, 2007; situated dialogue and spatial...", 
+        "email_addr_list": [
+            "patric@kth.se"
+        ], 
+        "cite_url": "www.csc.kth.se/~patric/", 
+        "cite_name": "Royal Institute of Technology", 
+        "title": "Homepage of Patric Jensfelt - KTH"
+    }, 
+    {
+        "content": "staffan ekvall and danica kragic. computational vision and active. perception laboratory. kth, stockholm, sweden. email: ekvall, danik@nada.kth.se.", 
+        "email_addr_list": [
+            "danik@nada.kth.se"
+        ], 
+        "cite_url": "h2t-projects.webarchiv.kit.edu/asfour/Workshop.../Kragic.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Experience based Learning and Control of Robotic Grasping"
+    }, 
+    {
+        "content": "oct 22, 2014 - e-mail address. head of unit - maritime policy in ... staffan.ekwall@ec.europa.eu. policy officer - maritime safety (d.2.) (dg move). 0032 229-...", 
+        "email_addr_list": [
+            "staffan.ekwall@ec.europa.eu"
+        ], 
+        "cite_url": "https://webgate.ec.europa.eu/.../List%20of%20Participants_1.pdf", 
+        "cite_name": "Europa", 
+        "title": "[PDF]List of Participants.pdf - Europa"
+    }, 
+    {
+        "content": "mar 23, 2007 - staffan ekvalla1, danica kragica1 and patric jensfelta1. a1 computational vision and ... c1 *corresponding author. e-mail: danik@nada.kth.se.", 
+        "email_addr_list": [
+            "danik@nada.kth.se"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S02635747...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Object detection and mapping for service robot tasks"
+    }
+]

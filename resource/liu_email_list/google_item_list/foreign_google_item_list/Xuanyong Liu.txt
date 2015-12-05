@@ -1,0 +1,39 @@
+[
+    {
+        "content": "xuanyong liu, weichang xue, chuanxian ding. shanghai institute of ceramics, chinese ... a email: xbzheng@sh163.net. keywords: plasma spray, wollastonite,...", 
+        "email_addr_list": [
+            "xbzheng@sh163.net"
+        ], 
+        "cite_url": "www.scientific.net/MSF.475-479.2371.pdf", 
+        "cite_name": "", 
+        "title": "Full Text Pdf - Scientific.net"
+    }, 
+    {
+        "content": "oct 2, 2012 - ... sunjy.suda@hotmail.com (1); ying xu (2); shi qian (2); bing wang (1); fei liu (1); xuanyong liu  xyliu@mail.sic.ac.cn (2). author affiliations.", 
+        "email_addr_list": [
+            "sunjy.suda@hotmail.com", 
+            "xyliu@mail.sic.ac.cn"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2Fs137...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Biological Behavior of Osteoblast-like Cells on Titania and ..."
+    }, 
+    {
+        "content": "phone : (852) 2819 9593; email : wwlu@hku.hk ... rwy poon, joan p.y. ho, camille m.y. luk, xuanyong liu, jcy chung, paul k. chu, kwk. yeung, w.w. lu...", 
+        "email_addr_list": [
+            "wwlu@hku.hk"
+        ], 
+        "cite_url": "engg.hku.hk/MedE/people-wjlu.html", 
+        "cite_name": "University of Hong Kong", 
+        "title": "William WJ Lu - Faculty of Engineering - The University of ..."
+    }, 
+    {
+        "content": "xuanyong liu. professor of shanghai institute of ceramics, chinese academy of sciences. verified email at mail.sic.ac.cn. @mail.sic.ac.cn. cited by 6312.", 
+        "email_addr_list": [
+            "email@mail.sic.ac.cn"
+        ], 
+        "cite_url": "scholar.google.hu/citations?view_op=search_authors...", 
+        "cite_name": "Google", 
+        "title": "Google Scholar Citations"
+    }
+]

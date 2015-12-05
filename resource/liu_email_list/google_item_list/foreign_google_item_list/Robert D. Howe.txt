@@ -1,0 +1,20 @@
+[
+    {
+        "content": "profile. robert d. howe is abbott and james lawrence professor of engineering at the harvard john a. paulson school of ... email: howe@seas.harvard.edu.", 
+        "email_addr_list": [
+            "howe@seas.harvard.edu"
+        ], 
+        "cite_url": "https://www.seas.h...", 
+        "cite_name": "Harvard John A. Paulson School of Engineering and...", 
+        "title": "Robert D. Howe | Harvard John A. Paulson School of ..."
+    }, 
+    {
+        "content": "robert d. howe 396 rossmore boulevard burlington, ontario l7n 1s1. tel: (905) 634-4016. fax: (905) 634-3951. email: cyberrdh@hotmail.com...", 
+        "email_addr_list": [
+            "cyberrdh@hotmail.com"
+        ], 
+        "cite_url": "www.arbdates.com/view.php?a=210", 
+        "cite_name": "Arbdates", 
+        "title": "Ontario Arbitrator Availability : Robert D. Howe - Arbdates"
+    }
+]

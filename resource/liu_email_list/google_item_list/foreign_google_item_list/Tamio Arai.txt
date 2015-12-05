@@ -1,0 +1,11 @@
+[
+    {
+        "content": "tamio arai, enrico pagello, lynne e. parker. abstract— as ... of information engineering at the university of padua, padova, italy (email: epv@dei.unipd.it).", 
+        "email_addr_list": [
+            "epv@dei.unipd.it"
+        ], 
+        "cite_url": "personal.stevens.edu/.../TRA02_editorial....", 
+        "cite_name": "Stevens Institute of Technology", 
+        "title": "[PDF]Advances in Multi-Robot Systems - personal.stevens.edu"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "email: janderson2@worldbank.org ... james h. anderson  roger r. betancourt, 1999. ... james h. anderson  georges korsun  peter murrell, 1998. which...", 
+        "email_addr_list": [
+            "janderson2@worldbank.org"
+        ], 
+        "cite_url": "https://ideas.repec.org/f/pan361.html", 
+        "cite_name": "", 
+        "title": "James Horton Anderson at IDEAS"
+    }
+]

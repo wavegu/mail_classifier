@@ -1,0 +1,29 @@
+[
+    {
+        "content": "feb 23, 2009 - xueshan gaoa1, dianguo xua2, yan wanga2, huanhuan pana2 and weimin shena2. a1 intelligent ... e-mail: xueshan.gao@bit.edu.cn.", 
+        "email_addr_list": [
+            "xueshan.gao@bit.edu.cn"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S0263574709...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Multifunctional robot to maintain boiler water-cooling tubes"
+    }, 
+    {
+        "content": "apr 2, 2012 - xueshan gaoa, kejie lib  junyao gaoc ... beijing 100081, p. r. china;, email: xueshan.gao@bit.edu.cn; b intelligent robotics institute,...", 
+        "email_addr_list": [
+            "xueshan.gao@bit.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "A Mobile Robot Platform with Double Angle-Changeable ..."
+    }, 
+    {
+        "content": "wenpeng gao (china) xueshan gao (china) zhen gao (china) dongbing gu (united kindom) jason gu (canada) yisheng .... e-mail. wcica2014@gmail.com...", 
+        "email_addr_list": [
+            "wcica2014@gmail.com"
+        ], 
+        "cite_url": "2014.wcica.info/m/pcmember.shtml", 
+        "cite_name": "", 
+        "title": "Program Committee Members - WCICA 2014, Shenyang ..."
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "content": "jian cao. associate professor. phone: (847) 467-1032. fax: (847) 491-3915. e-mail: jcao@northwestern.edu. web page:.", 
+        "email_addr_list": [
+            "jcao@northwestern.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Jian Cao - Theoretical and Applied Mechanics"
+    }, 
+    {
+        "content": "share; tweet; email; print. jian cao, phd. associate research scientist in ... jian cao, phd. office203.785.6496; fax203.785.2443; emailjian.cao@yale.edu...", 
+        "email_addr_list": [
+            "emailjian.cao@yale.edu"
+        ], 
+        "cite_url": "https://medicine.yale.edu/lab/.../jian_cao.profile", 
+        "cite_name": "Yale School of Medicine", 
+        "title": "Jian Cao, PhD - Yale School of Medicine - Yale University"
+    }, 
+    {
+        "content": "office: pq803a, mong man wai building phone/fax: (852) 27667275 / 27740842. email: csjcao@comp.polyu.edu.hk http://www.comp.polyu.edu.hk/~csjcao.", 
+        "email_addr_list": [
+            "csjcao@comp.polyu.edu.hk"
+        ], 
+        "cite_url": "www.comp.polyu.edu.hk/~csjcao", 
+        "cite_name": "Hong Kong Polytechnic University", 
+        "title": "Jiannong Cao at Hong Kong PolyU"
+    }, 
+    {
+        "content": "sep 21, 2012 - jian cao, m.d. associate professor of research medicine () email: jian.cao@sunysb.edu tel: 631-632-1815 (office) 631-632-1816 (lab)", 
+        "email_addr_list": [
+            "jian.cao@sunysb.edu"
+        ], 
+        "cite_url": "www.stonybrookmedicalcenter.org/cancer_prevention/Jian%20Cao", 
+        "cite_name": "", 
+        "title": "Jian Cao | Stony Brook University Medical Center"
+    }, 
+    {
+        "content": "jian cao, m.d.. professor of medicine leader, cancer metastasis and therapeutics program, sbu cancer center email: jian.cao@stonybrookmedicine.edu", 
+        "email_addr_list": [
+            "jian.cao@stonybrookmedicine.edu"
+        ], 
+        "cite_url": "medicine.stonybrookmedicine.edu/.../ca...", 
+        "cite_name": "Stony Brook University Hospital", 
+        "title": "Jian Cao, Professor of Medicine and Pathology | Stony ..."
+    }, 
+    {
+        "content": "jian cao, m.d.. assistant professor of medicine e-mail: jian.cao@stonybrook.edu phone: 631-632-1816. additional information about jian cao...", 
+        "email_addr_list": [
+            "jian.cao@stonybrook.edu"
+        ], 
+        "cite_url": "medicine.stonybrookmedicine.edu/.../ca...", 
+        "cite_name": "Stony Brook University Hospital", 
+        "title": "Cao Lab Members | Stony Brook University School of ..."
+    }, 
+    {
+        "content": "email：caojian@mail.xjtu.edu.cn. mainly in charge of: taxation law, accounting, taxation law research and taxation planning, taxation system of china,...", 
+        "email_addr_list": [
+            "caojian@mail.xjtu.edu.cn"
+        ], 
+        "cite_url": "som.xjtu.edu.cn/english/contents/.../24850.html", 
+        "cite_name": "Xi'an Jiaotong University", 
+        "title": "Cao Jianan, Associate Professor - Xian Jiaotong University"
+    }, 
+    {
+        "content": "office telephone: +86-21-3420-4426. office address: seiee-3-413. email: cao-jian@cs.sjtu.edu.cn. lab: service computing and cloud computing laboratory.", 
+        "email_addr_list": [
+            "cao-jian@cs.sjtu.edu.cn"
+        ], 
+        "cite_url": "www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?...", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "People - Welcome :: SJTU Computer Science  Engineering"
+    }
+]

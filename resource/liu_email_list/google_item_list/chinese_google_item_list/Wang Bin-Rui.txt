@@ -1,0 +1,48 @@
+[
+    {
+        "content": "jul 13, 2012 - e-mail: bhu@ustc.edu.cn ... 3), bing hu, xiangrui li, yifeng zhou, tiande shou (2000) effects of bicuculline on direction ... qiuju yuan, wai man wong, li wang, huanxing su, tak-ho chu, jiasong guo, wenming zhang,...", 
+        "email_addr_list": [
+            "bhu@ustc.edu.cn"
+        ], 
+        "cite_url": "en.hfnl.ustc.edu.cn/.../t20...", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "HU Bing--Hefei National Laboratory for Physical Sciences at ..."
+    }, 
+    {
+        "content": "mar 5, 2012 - bin zhou. image of bin zhou. email zhoubin19821214@163.com ... lu, changwei; he, jiang; zhou, bin; vogt, rolf david; guan, rui; wang,...", 
+        "email_addr_list": [
+            "zhoubin19821214@163.com"
+        ], 
+        "cite_url": "www.mn.uio.no/kjemi/english/people/aca/binzh/", 
+        "cite_name": "University of Oslo", 
+        "title": "Bin Zhou - Department of Chemistry"
+    }, 
+    {
+        "content": "aug 31, 2015 - email address : .... manager, wong teck seng, 63961826, wong_teck_seng@lta.gov.sg ... transport planner, tan hao rui, 62954065, tan_hao_rui@lta.gov. ... higher planning officer, muhd ridzmann bin abdollrasid...", 
+        "email_addr_list": [
+            "wong_teck_seng@lta.gov.sg", 
+            "tan_hao_rui@lta.gov"
+        ], 
+        "cite_url": "app.sgdi.gov.sg/listing_expand....", 
+        "cite_name": "List of Singapore Government Ministries", 
+        "title": "Gov.sg - Singapore Government Directory"
+    }, 
+    {
+        "content": "jun 29, 2009 - shiqi xie, kai wang, wenjing yu, wei lu, ke xu, jianwei wang, bin ye, ... fei wang, qing li, qing-xi dong,rui-fu yang, jia-rui wu, bing sun. ... tel:86-21-54920000 fax:86-21-54920078 e-mail: webmaster@sibs.ac.cn", 
+        "email_addr_list": [
+            "webmaster@sibs.ac.cn"
+        ], 
+        "cite_url": "sourcedb.cas.cn/sourcedb_sibs_cas/yw/rck/.../t20090629_1856135.html", 
+        "cite_name": "", 
+        "title": "Sun Bing----SHANGHAI INSTITUTES FOR BIOLOGICAL ..."
+    }, 
+    {
+        "content": "email: sibcb@sibs.ac.cn ... fuming li, xiangkun han, fei li, rui wang, hui wang, yijun gao, xujun wang, zhaoyuan fang, wenjing zhang, shun yao, xinyuan tong, yuetong .... haisen li, rui yue, bin wei, ge gao, jiulin du, gang pei.", 
+        "email_addr_list": [
+            "sibcb@sibs.ac.cn"
+        ], 
+        "cite_url": "www.sibcb.ac.cn/ep2-3.asp", 
+        "cite_name": "", 
+        "title": "Representative Publications - Institute of Biochemistry and ..."
+    }
+]

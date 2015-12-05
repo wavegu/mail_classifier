@@ -1,0 +1,47 @@
+[
+    {
+        "content": "jul 12, 2011 - full name. hennink ... professor wim hennink obtained his ph.d. degree in 1985 at the twente university of ... e-mail. w.e.hennink@uu.nl...", 
+        "email_addr_list": [
+            "w.e.hennink@uu.nl"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Utrecht University", 
+        "title": "Faculty - Hennink"
+    }, 
+    {
+        "content": "wim hennink. professor, department of ... verified email at uu.nl. scholar. get my own ... m amidi, e mastrobattista, w jiskoot, we hennink. advanced drug...", 
+        "email_addr_list": [
+            "email@uu.nl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=SRhkfscAAAAJ...en", 
+        "cite_name": "Google Scholar", 
+        "title": "Wim Hennink - Google Scholar Citations"
+    }, 
+    {
+        "content": "w.e. hennink, aims at providing new strategies to solve delivery problems ... w.e. (wim) hennink. tel: +31-(0)30-2536964. e-mail: w.e.hennink@uu.nl...", 
+        "email_addr_list": [
+            "w.e.hennink@uu.nl"
+        ], 
+        "cite_url": "www.kncv.nl/.../advanced-d...", 
+        "cite_name": "KNCV: Royal Netherlands Chemical Society", 
+        "title": "Advanced Drug Delivery and Drug Targeting ... - KNCV"
+    }, 
+    {
+        "content": "dec 31, 2014 - mazda rad-malekshahi, matthias flement, wim e hennink, and enrico mastrobattista ..... enrico mastrobattista, email: ln.uu@atsittabortsam.e...", 
+        "email_addr_list": [
+            "ln.uu@atsittabortsam.e"
+        ], 
+        "cite_url": "www.ncbi.nlm.nih.gov/...", 
+        "cite_name": "National Center for Biotechnology Information", 
+        "title": "Optimization of the recombinant production and purification ..."
+    }, 
+    {
+        "content": "curriculum vitae. professor dr.wim e. hennink, the natherlands university: university of utrecht email: w.e.hennink@pharm.uu.nl. specialist: pharmaceutics.", 
+        "email_addr_list": [
+            "w.e.hennink@pharm.uu.nl"
+        ], 
+        "cite_url": "rgj.trf.or.th/dbsearch/popup.asp?idcollab=3500", 
+        "cite_name": "", 
+        "title": "TEST"
+    }
+]

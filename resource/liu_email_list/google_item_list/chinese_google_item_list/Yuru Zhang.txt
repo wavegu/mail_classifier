@@ -1,0 +1,22 @@
+[
+    {
+        "content": "e-mail: annemie.bogaerts@uantwerpen.be. prof dr erik c. neyts ... +32 (0)3 265 2388 e-mail: erik.neyts@uantwerpen.be ... e-mail: yuru.zhang@uantwerpen.be...", 
+        "email_addr_list": [
+            "annemie.bogaerts@uantwerpen.be", 
+            "erik.neyts@uantwerpen.be", 
+            "yuru.zhang@uantwerpen.be"
+        ], 
+        "cite_url": "https://www.uantwerpen.be/en/rg/plasmant/organisation/members/", 
+        "cite_name": "", 
+        "title": "Members - PLASMANT - University of Antwerp"
+    }, 
+    {
+        "content": "view yuru (ruby) zhangs professional profile on linkedin. linkedin is the worlds ... opportunities. please reach out via e-mail at yu_ru_zhang@hotmail.com.", 
+        "email_addr_list": [
+            "yu_ru_zhang@hotmail.com"
+        ], 
+        "cite_url": "https://www.linkedin.com/in/yuruzhang", 
+        "cite_name": "", 
+        "title": "Yuru (Ruby) Zhang | LinkedIn"
+    }
+]

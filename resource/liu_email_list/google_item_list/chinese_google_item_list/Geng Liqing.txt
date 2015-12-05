@@ -1,0 +1,38 @@
+[
+    {
+        "content": "yiliu@tsinghua.edu.cn  li, qing. professor. 1999, ph.d., nanjing university of aeronautics  astronautics. research interests: enterprise modeling, flight control.", 
+        "email_addr_list": [
+            "yiliu@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/publish/auen/1351/", 
+        "cite_name": "Tsinghua University", 
+        "title": "Lu, Geng"
+    }, 
+    {
+        "content": "liqin zhu, phd, st. jude faculty, department of developmental ... email: referralinfo@stjude.org .... geng c, pellegrino a, bowman j, zhu l, pak wl. complete...", 
+        "email_addr_list": [
+            "referralinfo@stjude.org"
+        ], 
+        "cite_url": "https://www.stjude.org/.../liqin-zhu....", 
+        "cite_name": "St. Jude Children's Research Hospital", 
+        "title": "Liqin Zhu, PhD - St. Jude Childrens Research Hospital"
+    }, 
+    {
+        "content": "liu y(1), li q, li jj, geng b. author information: (1)department ... corresponding author: li qing, email: 13702162003@163.com. objective: to evaluate the...", 
+        "email_addr_list": [
+            "13702162003@163.com"
+        ], 
+        "cite_url": "www.ncbi.nlm.nih.gov/.../2...", 
+        "cite_name": "National Center for Biotechnology Information", 
+        "title": "[The clinical value of atrial natriuretic peptide in early ..."
+    }, 
+    {
+        "content": "corresponding authors: luo ai-qin email: bitluo@bit.edu.cn. cite this article: geng li-na; kang ning; ning zhou-yun; wu li-qing; li yan; sun li-quan;...", 
+        "email_addr_list": [
+            "bitluo@bit.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "KANG Ning; NING Zhou-Yun; WU Li-Qing; LI Yan"
+    }
+]

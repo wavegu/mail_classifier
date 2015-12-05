@@ -1,0 +1,11 @@
+[
+    {
+        "content": "rajkumar buyya school of computer science and software engineering monash technology melbourne, australia email: rajkumar@ieee.org url:...", 
+        "email_addr_list": [
+            "rajkumar@ieee.org"
+        ], 
+        "cite_url": "www.powershow.com/.../Rajkumar_Buyya_powerpoint_ppt_presentatio...", 
+        "cite_name": "", 
+        "title": "PPT – Rajkumar Buyya PowerPoint presentation | free to ..."
+    }
+]

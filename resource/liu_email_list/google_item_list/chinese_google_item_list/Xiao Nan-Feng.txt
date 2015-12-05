@@ -1,0 +1,38 @@
+[
+    {
+        "content": "dr. xiaonan lu. i am from ... m.s, food science, university of british columbia, 2015 (supervisor: dr. xiaonan lu). email: ... email: shaolong.feng@gmail.com.", 
+        "email_addr_list": [
+            "shaolong.feng@gmail.com"
+        ], 
+        "cite_url": "foodsafetyengineering.landfood.ubc.ca/pe...", 
+        "cite_name": "University of British Columbia", 
+        "title": "People | Lu Food Safety Engineering Laboratory at UBC"
+    }, 
+    {
+        "content": "email:political_uk@mfa.gov.cn. policy analysis section. director: ms. yang hua, counsellor. deputy director: mr. xiao nan, counsellor. deputy director: ms. li...", 
+        "email_addr_list": [
+            "political_uk@mfa.gov.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Offices - Chinese Embassy"
+    }, 
+    {
+        "content": "name, chenjing li, is associated with 22 domains. organization, he nan feng lian qi che xiao shou you xian gong si. email, 410655845@qq.com. address...", 
+        "email_addr_list": [
+            "410655845@qq.com"
+        ], 
+        "cite_url": "domainbigdata.com/zzflqc.com", 
+        "cite_name": "", 
+        "title": "Zzflqc.com - WHOIS  Domain Info - DomainBigData"
+    }, 
+    {
+        "content": "apr 8, 2013 - functional comparison of the reverse mode of na+/ca2+ ... yan long, wei-ping wang, hui yuan, shi-ping ma, nan feng, ling wang and xiao-liang wang ... correspondence: xiao-liang wang, e-mail wangxl@imm.ac.cn.", 
+        "email_addr_list": [
+            "wangxl@imm.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Nature", 
+        "title": "Acta Pharmacologica Sinica - Abstract of article: Functional ..."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "content": "fu-suo zhang. name: fu-suo ... e-mail:zhangfs@cau.edu.cn or fszhang@mx.cei.gov.cn ... fan xiaolin, zhang yiping, juang tzochuan and zhang fusuo, 1997.", 
+        "email_addr_list": [
+            "zhangfs@cau.edu.cn", 
+            "fszhang@mx.cei.gov.cn"
+        ], 
+        "cite_url": "www2003.cau.edu.cn/lpn/Zhangfs.htm", 
+        "cite_name": "China Agricultural University", 
+        "title": "Prof. Fusuo Zhang"
+    }, 
+    {
+        "content": "professor fu-suo zhang received his ph.d. in plant nutrition from hohenheim university (germany). ... enquiries: (08) 6488 4717 email: ioa@uwa.edu.au.", 
+        "email_addr_list": [
+            "ioa@uwa.edu.au"
+        ], 
+        "cite_url": "uwa.edu.au/__data/.../Fusuo-Zhang.pdf", 
+        "cite_name": "University of Western Australia", 
+        "title": "[PDF]Fusuo Zhang.indd"
+    }, 
+    {
+        "content": "feb 20, 2015 - ... shaofeng jia,; fusuo zhang,; xuejun liu,; zhaozhong feng and; zhibin zhang ... ↵*corresponding author: e-mail: yllu@rcees.ac.cn (y.l.);...", 
+        "email_addr_list": [
+            "yllu@rcees.ac.cn"
+        ], 
+        "cite_url": "advances.sciencemag.org/content/1/1/e1400039", 
+        "cite_name": "", 
+        "title": "Addressing Chinas grand challenge of achieving food ..."
+    }
+]

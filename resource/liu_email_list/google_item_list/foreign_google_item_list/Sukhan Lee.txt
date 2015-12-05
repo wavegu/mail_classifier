@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email address: lsh@ece.skku.ac.kr .... mahmoud khodjet-kesba, khalil el khamlichi drissi, sukhan lee, kamal kerroum, claire faure and christophe pasquier", 
+        "email_addr_list": [
+            "lsh@ece.skku.ac.kr"
+        ], 
+        "cite_url": "isrc.skku.ac.kr/people/people_detail.php?idx=82", 
+        "cite_name": "", 
+        "title": "Sukhan Lee - The Intelligent Systems Research Institute"
+    }, 
+    {
+        "content": "liz sukhan lee, email: liz.l.lee@aexp.com. phone: 212-640-1767. website: www.americanexpress.com. city: san francsico, state: ca. country: united states.", 
+        "email_addr_list": [
+            "liz.l.lee@aexp.com"
+        ], 
+        "cite_url": "www.asta.org/.../agntdetail.cfm?...Liz...", 
+        "cite_name": "American Society of Travel Agents", 
+        "title": "Liz Sukhan Lee | ASTA Member | ASTA.org"
+    }, 
+    {
+        "content": "e-mail: kimeunyo@usc.edu. 3737 wattway, phe 226 ... sukhan lee, hadi moradi, daesik jang, hanyoung jang, eunyoung kim, phouc le minh, jeonghyun.", 
+        "email_addr_list": [
+            "kimeunyo@usc.edu"
+        ], 
+        "cite_url": "iris.usc.edu/people/.../EY_CV.pdf", 
+        "cite_name": "University of Southern California", 
+        "title": "[PDF]Curriculum Vitae: Lars Strand - Institute for Robotics and ..."
+    }, 
+    {
+        "content": "liz sukhan lee, email: liz.l.lee@aexp.com. phone: 212-640-1767. website: www.americanexpress.com. city: san francsico, state: ca. country: united states.", 
+        "email_addr_list": [
+            "liz.l.lee@aexp.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Liz Sukhan Lee | ASTA Member | Travelsense"
+    }
+]

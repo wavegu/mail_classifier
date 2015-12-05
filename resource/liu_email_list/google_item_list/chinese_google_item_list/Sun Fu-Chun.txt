@@ -1,0 +1,21 @@
+[
+    {
+        "content": "fuchun sun; professor; department of computer science and technology; joined department: 1998; email:fcsun@tsinghua.edu.cn...", 
+        "email_addr_list": [
+            "fcsun@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201012241930394403698...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Fuchun SUN"
+    }, 
+    {
+        "content": "sun fuchun ... mr. fuchun sun received the ph.d. degree in computer applying from ... email:fcsun@mail.tsinghua.edu.cn , sfc@s1000e.cs.tsinghua.edu.cn.", 
+        "email_addr_list": [
+            "fcsun@mail.tsinghua.edu.cn", 
+            "sfc@s1000e.cs.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.csai.tsinghua.edu.cn/researchers/en_researchers.../sunfuchun.shtm", 
+        "cite_name": "", 
+        "title": "Sun Fuchun"
+    }
+]

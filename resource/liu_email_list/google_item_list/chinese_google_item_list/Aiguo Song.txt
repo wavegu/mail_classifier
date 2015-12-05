@@ -1,0 +1,47 @@
+[
+    {
+        "content": "aiguo song is on cap network. cap network is a ... print profile  email profile. profile tabs menu. bio ... academic aiguo@stanford.edu  maps  contacts...", 
+        "email_addr_list": [
+            "aiguo@stanford.edu"
+        ], 
+        "cite_url": "https://med.stanford.edu/.../aiguo...", 
+        "cite_name": "Stanford University School of Medicine", 
+        "title": "Aiguo Song | Stanford Medicine Profiles"
+    }, 
+    {
+        "content": "search by name, email, work phone, or sunetid. search in stanford view. show more options. find last names that ... aiguo song. email: aiguo@stanford.edu...", 
+        "email_addr_list": [
+            "aiguo@stanford.edu"
+        ], 
+        "cite_url": "https://stanfordwho.stanford.edu/.../detailAction.do?key...", 
+        "cite_name": "", 
+        "title": "Aiguo Song - Public Listing from Stanford People Search"
+    }, 
+    {
+        "content": "dec 3, 2013 - aiguo song school of instrument science and engineering southeast university sipailou 2#, nanjing, 210096, ... e-mail: a.g.song@seu.edu.cn.", 
+        "email_addr_list": [
+            "a.g.song@seu.edu.cn"
+        ], 
+        "cite_url": "ins.seu.edu.cn/yqkx_en/14/5a/c7819a70746/page.htm", 
+        "cite_name": "", 
+        "title": "Song Aiguo"
+    }, 
+    {
+        "content": "... poland street: sikorskiego 37 city: 70-313 szczecin country: poland email: makiewicz@zut.edu.pl 1. junqing ma, aiguo song: fast estimation of strains for.", 
+        "email_addr_list": [
+            "makiewicz@zut.edu.pl"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=9812875735", 
+        "cite_name": "", 
+        "title": "First European Biomedical Engineering Conference for Young ..."
+    }, 
+    {
+        "content": "aug 8, 2012 - email: zxr365@126.com. publications: 1. xiaorui zhang, wei ... bangkok, thailand, 1038-1042. 3. xiaorui zhang, aiguo song, wei sun, jia liu.", 
+        "email_addr_list": [
+            "zxr365@126.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Xiaorui Zhang - Nanjing University of Information Science ..."
+    }
+]

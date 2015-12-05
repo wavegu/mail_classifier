@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email: scaz@cs.yale.edu. degrees: ph.d., massachusetts institute of technology; m.eng., massachusetts institute of technology; b.s., massachusetts institute of...", 
+        "email_addr_list": [
+            "scaz@cs.yale.edu"
+        ], 
+        "cite_url": "seas.yale.edu/.../brian-sca...", 
+        "cite_name": "Yale School of Engineering  Applied Science", 
+        "title": "Brian Scassellati - Yale School of Engineering  Applied ..."
+    }, 
+    {
+        "content": "... a sixth year phd candidate in computer science working with brian scassellati in the social robotics lab at yale university. ... email: henny [at] cs.yale.edu.", 
+        "email_addr_list": [
+            "henny@cs.yale.edu"
+        ], 
+        "cite_url": "www.hennyadmoni.com/", 
+        "cite_name": "", 
+        "title": "Henny Admoni"
+    }, 
+    {
+        "content": "curriculum vitae brian m. scassellati associate professor department of ... fax: (203) 432-0593 email: scaz@cs.yale.edu url: http://www.cs.yale.edu/scaz...", 
+        "email_addr_list": [
+            "scaz@cs.yale.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-scaz-cs-yal-14236211.htm", 
+        "cite_name": "", 
+        "title": "scaz@cs.yal - The Email Archive"
+    }
+]

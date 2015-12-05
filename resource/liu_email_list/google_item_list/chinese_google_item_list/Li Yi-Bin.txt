@@ -1,0 +1,38 @@
+[
+    {
+        "content": "find out more about the li laboratory members at cedars-sinai in los angeles and their ... yibin xie. graduate student email: yibin.xie@cshs.org. learn more.", 
+        "email_addr_list": [
+            "yibin.xie@cshs.org"
+        ], 
+        "cite_url": "www.cedars-sinai.edu/.../Li.../Lab-Members...", 
+        "cite_name": "Cedars‑Sinai Medical Center", 
+        "title": "Zhaoyang Fan, PhD - Lab Members"
+    }, 
+    {
+        "content": "yibin wang, ph.d. ... e-mail: yibinwang@mednet.ucla.edu ... pu liao, m.d: medicine practice, toronto, canada; manxiang li, m.d., ph.d. chief, pulmonary...", 
+        "email_addr_list": [
+            "yibinwang@mednet.ucla.edu"
+        ], 
+        "cite_url": "www.anes.ucla.edu/~yibinwang/team.html", 
+        "cite_name": "", 
+        "title": "Yibin Wang Laboratory| Homepage - UCLA.edu"
+    }, 
+    {
+        "content": "email : yibin.li2006@gmail.com ○ 13 years telecomict industry experience in equipment+service vendor companies(ericsson + huawei) ○ excellent...", 
+        "email_addr_list": [
+            "yibin.li2006@gmail.com"
+        ], 
+        "cite_url": "https://sg.linkedin.com/in/steven-li-yibin-2523326", 
+        "cite_name": "", 
+        "title": "Steven Li Yibin | LinkedIn"
+    }, 
+    {
+        "content": "li yibin assistant professor position: director of emba center department: department of economics and finance email: yibin_li@126.com office phone:...", 
+        "email_addr_list": [
+            "yibin_li@126.com"
+        ], 
+        "cite_url": "sem.tongji.edu.cn/semen/?p=12256", 
+        "cite_name": "", 
+        "title": "LI Yibin - Tongji SEM"
+    }
+]

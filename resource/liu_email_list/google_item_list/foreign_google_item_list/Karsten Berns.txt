@@ -1,0 +1,48 @@
+[
+    {
+        "content": "karsten berns. center for commercial vehicle ... header:prof. dr. rer. nat. karsten berns ... fax: +49 631 / 205-2640. e-mail: berns[at]informatik.uni-kl.de. logo...", 
+        "email_addr_list": [
+            "berns@informatik.uni-kl.de"
+        ], 
+        "cite_url": "www.uni-kl.d...", 
+        "cite_name": "Kaiserslautern University of Technology", 
+        "title": "Prof. Dr. rer. nat. Karsten Berns - Universität Kaiserslautern"
+    }, 
+    {
+        "content": "fachbereich informatik  ag robotersysteme. gebäude 48, raum 360. tel: +49 631 / 205-2613. fax: +49 631 / 205-2640. e-mail: berns[at]informatik.uni-kl.de.", 
+        "email_addr_list": [
+            "berns@informatik.uni-kl.de"
+        ], 
+        "cite_url": "www.uni-kl.d...", 
+        "cite_name": "Kaiserslautern University of Technology", 
+        "title": "Prof. Dr. rer. nat. Karsten Berns - Universität Kaiserslautern"
+    }, 
+    {
+        "content": "mail: berns@informatik.uni-kl.de. vita. prof. dr. karsten berns hat informatik mit schwerpunkt auf künstlicher intelligenz an der universität kaiserslautern...", 
+        "email_addr_list": [
+            "berns@informatik.uni-kl.de"
+        ], 
+        "cite_url": "https://agrosy.informatik.uni-kl.de/lehrstuhl/ag-leiter/lehrstuhl.../berns/", 
+        "cite_name": "", 
+        "title": "Prof. Dr. Karsten Berns - Arbeitsgruppe Robotersysteme an ..."
+    }, 
+    {
+        "content": "karsten berns, keywords: robotik, robotics, roboter, robot, informatik, computer science, studium, vorlesung, ... email: broschart@informatik.uni-kl.de...", 
+        "email_addr_list": [
+            "broschart@informatik.uni-kl.de"
+        ], 
+        "cite_url": "agrosy.cs.uni-kl.de/en/", 
+        "cite_name": "", 
+        "title": "Robotics Research Lab - Universität Kaiserslautern"
+    }, 
+    {
+        "content": "prof. dr. karsten berns. telefon: 0631 205-2613. raum: 48-360. mail: berns@informatik.uni-kl.de ... raum: 48-xxx. mail: puttkam@informatik.uni-kl.de...", 
+        "email_addr_list": [
+            "berns@informatik.uni-kl.de", 
+            "puttkam@informatik.uni-kl.de"
+        ], 
+        "cite_url": "https://agrosy.informatik.uni-kl.de/lehrstuhl/ag-leiter/", 
+        "cite_name": "", 
+        "title": "Lehrstuhl Leiter - Robotics Research Laboratory"
+    }
+]

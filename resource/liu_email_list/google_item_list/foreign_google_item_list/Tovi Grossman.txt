@@ -1,0 +1,11 @@
+[
+    {
+        "content": "oct 27, 2014 - email: tovi.grossman@autodesk.com. web: www.tovigrossman.com. citizenship: canada. research interests. my research lies in the...", 
+        "email_addr_list": [
+            "tovi.grossman@autodesk.com"
+        ], 
+        "cite_url": "www.dgp.toronto.edu/~tovi/tovigrossman/cv_grossman.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Tovi Grossman - Dynamic Graphics Project - University of ..."
+    }
+]

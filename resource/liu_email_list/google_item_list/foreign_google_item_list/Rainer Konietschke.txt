@@ -1,0 +1,31 @@
+[
+    {
+        "content": "rainer konietschke. email: rainer.konietschke@dlr.de  edit | attach | refresh | diffs | more | revision r1.2 - 29 sep 2013 - 16:26 - rainerkonietschke.", 
+        "email_addr_list": [
+            "rainer.konietschke@dlr.de"
+        ], 
+        "cite_url": "campar.in.tum.de/.../R...", 
+        "cite_name": "Technische Universität München", 
+        "title": "Rainer Konietschke - Chair for Computer Aided Medical ..."
+    }, 
+    {
+        "content": "may 9, 2011 - email: jian.dai@kcl.ac.uk. dr. n kos g ts   r k  ... engineering. email: shuxinw@tju.edu.cn ..... germany. email: rainer.konietschke@dlr.de.", 
+        "email_addr_list": [
+            "jian.dai@kcl.ac.uk", 
+            "shuxinw@tju.edu.cn", 
+            "rainer.konietschke@dlr.de"
+        ], 
+        "cite_url": "https://www.kcl.ac.uk/.../ICRA2011Workshopon...", 
+        "cite_name": "King's College London", 
+        "title": "[PDF]Mechanisms for Surgical Robotics - Kings College London"
+    }, 
+    {
+        "content": "german aerospace center (dlr). d-82234 weßling, germany. email: rainer.konietschke@dlr.de. silvia frumento. university of genova, pmarlab, dimec.", 
+        "email_addr_list": [
+            "rainer.konietschke@dlr.de"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0405...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Kinematic Design Optimization of an Actuated Carrier for the ..."
+    }
+]

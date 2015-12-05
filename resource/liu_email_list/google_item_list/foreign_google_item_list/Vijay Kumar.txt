@@ -1,0 +1,47 @@
+[
+    {
+        "content": "email is the best way to contact me. if you cannot find me or need help with making appointments, please contact karen brann at brannk@seas.upenn.edu.", 
+        "email_addr_list": [
+            "brannk@seas.upenn.edu"
+        ], 
+        "cite_url": "www.kumarrobotics.org/contact/", 
+        "cite_name": "", 
+        "title": "Contact : Vijay Kumar Lab"
+    }, 
+    {
+        "content": "you are here: home / our people / professor vijay kumar. about us. find an academic  academic staff ... fax, 02 98915385. email, vijay.kumar@sydney.edu.au...", 
+        "email_addr_list": [
+            "vijay.kumar@sydney.edu.au"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Sydney", 
+        "title": "Professor Vijay Kumar - The University of Sydney"
+    }, 
+    {
+        "content": "c. vijay kumar. professor. research group website». email. challa.kumar@uconn.edu. phone. (860) 486-3213. fax. (860) 486-2981. mail. university of...", 
+        "email_addr_list": [
+            "challa.kumar@uconn.edu"
+        ], 
+        "cite_url": "chemistry.uconn.edu/people/faculty/kumar.html", 
+        "cite_name": "University of Connecticut", 
+        "title": "C. Vijaya Kumar - Department of Chemistry › University of ..."
+    }, 
+    {
+        "content": "1. assoc. prof. dr. vijay kumar. email: vijay@ums.edu.my. tel: +6088-320000 ext. 5685. fax: +6088-320993. expertise: molecular genetics. researcherid:...", 
+        "email_addr_list": [
+            "vijay@ums.edu.my"
+        ], 
+        "cite_url": "https://www.ums.edu.my/ipb/DrVijay_CV.pdf", 
+        "cite_name": "Universiti Malaysia Sabah", 
+        "title": "[PDF]Assoc. Prof. Dr. Vijay Kumar Email: vijay@ums.edu.my Tel ..."
+    }, 
+    {
+        "content": "e-mail, drvijay.kumar@wsu.edu. postal mail, vijay kumar school of mechanical and materials engineering washington state university po box 642920", 
+        "email_addr_list": [
+            "drvijay.kumar@wsu.edu"
+        ], 
+        "cite_url": "www.mme.wsu.edu/.../faculty.html?kumar", 
+        "cite_name": "Washington State University", 
+        "title": "Vijay Kumar - Staff Scientist"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "dr. abdallah shami. associate chair, graduate. teb 337 519-661-2111 (81259) ashami@eng.uwo.ca. dr. james lacefield. associate chair, undergraduate.", 
+        "email_addr_list": [
+            "ashami@eng.uwo.ca"
+        ], 
+        "cite_url": "www.eng.uwo.ca/.../admin_staff.html", 
+        "cite_name": "University of Western Ontario", 
+        "title": "Administrative Staff - Western Engineering"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "benjamin liang, d.c. | cedars-sinai medical towers ... _mg_1009 dr. ben is a native angeleno, born and raised in los angeles. ... email: ben@drliangdc.com.", 
+        "email_addr_list": [
+            "ben@drliangdc.com"
+        ], 
+        "cite_url": "drliangdc.com/", 
+        "cite_name": "", 
+        "title": "Benjamin Liang, D.C. | Cedars-Sinai Medical Towers | Align ..."
+    }, 
+    {
+        "content": "8631 w. 3rd street, suite 304-e los angeles, ca 90048 310.853.0143 (o) | 360.230.5546 (f) email: ben@drliangdc.com. hours of operation monday-friday", 
+        "email_addr_list": [
+            "ben@drliangdc.com"
+        ], 
+        "cite_url": "drliangdc.com/?page_id=63", 
+        "cite_name": "", 
+        "title": "Contact | Benjamin Liang, D.C. | Cedars-Sinai Medical Towers"
+    }
+]

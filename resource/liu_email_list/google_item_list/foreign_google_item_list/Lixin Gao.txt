@@ -1,0 +1,20 @@
+[
+    {
+        "content": "lixin gao. professor office: 211b knowles engineering building phone: (413) 545-4548. email: lgao at ecs dot umass dot edu. snail mail: dept. of electrical...", 
+        "email_addr_list": [
+            "lgao@ecs.umass.edu"
+        ], 
+        "cite_url": "www-unix.ecs.umass.edu/~lgao/", 
+        "cite_name": "", 
+        "title": "Lixin Gaos Home Page - College of Engineering"
+    }, 
+    {
+        "content": "lixin gao. professor. 211b knowles engineering bldg university of massachusetts 151 holdsworth way amherst ma 01003-9284. lgao@ecs.umass.edu.", 
+        "email_addr_list": [
+            "lgao@ecs.umass.edu"
+        ], 
+        "cite_url": "https://ece.umass.edu/faculty/gao", 
+        "cite_name": "University of Massachusetts Amherst", 
+        "title": "Lixin Gao | Electrical and Computer Engineering | UMass ..."
+    }
+]

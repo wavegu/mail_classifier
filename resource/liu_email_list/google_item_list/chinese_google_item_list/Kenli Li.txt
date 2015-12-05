@@ -1,0 +1,47 @@
+[
+    {
+        "content": "home page of keqin li. ... email: lik@newpaltz.edu ..... zhuo tang, lingang jiang, ling qi, kenli li, and keqin li, time-space scheduling in the mapreduce...", 
+        "email_addr_list": [
+            "lik@newpaltz.edu"
+        ], 
+        "cite_url": "www.cs.newpaltz.edu/~lik/", 
+        "cite_name": "", 
+        "title": "Keqin Li - Computer Science - SUNY New Paltz"
+    }, 
+    {
+        "content": "may 12, 2014 - ... in changsha, china. kenli li, college of information science and engineering, hunan university, changsha, china. email: lkl@hnu.edu.cn...", 
+        "email_addr_list": [
+            "lkl@hnu.edu.cn"
+        ], 
+        "cite_url": "hpc.sagepub.com/content/28/2/183.abstract", 
+        "cite_name": "Sage Publications", 
+        "title": "Optimization of quasi-diagonal matrix–vector multiplication ..."
+    }, 
+    {
+        "content": "(email: zhouxu2006@126.com). kenli li  yantao zhou  keqin li. doi bookmark: http://doi.ieeecomputersociety.org/10.1109/tkde.2015.2475764. abstract.", 
+        "email_addr_list": [
+            "zhouxu2006@126.com"
+        ], 
+        "cite_url": "www.computer.org/csdl/trans/.../07236917-abs.htm...", 
+        "cite_name": "IEEE Computer Society", 
+        "title": "Adaptive Processing for Distributed Skyline Queries over ..."
+    }, 
+    {
+        "content": "kenli li, zhimin zhang, yuming xu. college of information science and engineering. hunan university. changsha, hunan, china. email: lkl510@263.net.", 
+        "email_addr_list": [
+            "lkl510@263.net"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0628...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Chemical Reaction Optimization for Heterogeneous ..."
+    }, 
+    {
+        "content": "kenli li. zheng xiao. yan wang. jiayi du. hunan university. college of information science and engineering. changsha, china. e-mail: lkl510@263.net.", 
+        "email_addr_list": [
+            "lkl510@263.net"
+        ], 
+        "cite_url": "link.springer.com/.../bfm%3A978-3-642-...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Download PDF (214KB) - Springer"
+    }
+]

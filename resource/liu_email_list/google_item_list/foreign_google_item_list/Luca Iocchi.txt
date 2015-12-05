@@ -1,0 +1,20 @@
+[
+    {
+        "content": "for any further information students can send an email to prof. luca iocchi at iocchi@dis.uniroma1.itthis e-mail address is being protected from spam bots, you...", 
+        "email_addr_list": [
+            "iocchi@dis.uniroma1.itthis"
+        ], 
+        "cite_url": "www.dis.uniroma1.it/~corsoai1/index.php?...", 
+        "cite_name": "Sapienza University of Rome", 
+        "title": "Corso di Intelligenza Artificiale 1 - Home - Sapienza"
+    }, 
+    {
+        "content": "by luca iocchi and riccardo rasconi. ... cognitive science and technology national research council of italy email: name.surname@istc.cnr.it luca iocchi,...", 
+        "email_addr_list": [
+            "name.surname@istc.cnr.it"
+        ], 
+        "cite_url": "www.academia.edu/.../Lucia_a_Cognitive_Robot_in_an_I...", 
+        "cite_name": "Academia.edu", 
+        "title": "Lucia: a Cognitive Robot in an Intelligent Environment ..."
+    }
+]

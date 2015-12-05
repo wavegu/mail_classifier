@@ -1,0 +1,20 @@
+[
+    {
+        "content": "andreas and his group work on a synergistic combination of methodologies of two areas that offer ideal ... andreas holzinger is head of the research unit hci-kdd, institute for medical informatics, medical ... e-mail: a.holzinger@hci-kdd.org.", 
+        "email_addr_list": [
+            "a.holzinger@hci-kdd.org"
+        ], 
+        "cite_url": "www.aholzinger.at/", 
+        "cite_name": "", 
+        "title": "Andreas Holzinger"
+    }, 
+    {
+        "content": "fdir. di andreas holzinger leiter der forstdirektion telefon: 03613 / 2403 0. mobil: 0664 / 5364135. fax: 03613 / 2403 8. email: holzinger@landesforste.at.", 
+        "email_addr_list": [
+            "holzinger@landesforste.at"
+        ], 
+        "cite_url": "www.landesforste.at/index.php?id=60", 
+        "cite_name": "", 
+        "title": "Steiermärkische Landesforste: Verwaltung"
+    }
+]

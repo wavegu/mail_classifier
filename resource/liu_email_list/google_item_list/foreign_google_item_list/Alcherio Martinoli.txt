@@ -1,0 +1,21 @@
+[
+    {
+        "content": "... galk sarit@cs.biu.ac.il alcherio martinoli swiss federal institute of technology lausanne alcherio.martinoli@epfl.ch abstract reckoning which is not addressed...", 
+        "email_addr_list": [
+            "sarit@cs.biu.ac.il", 
+            "alcherio.martinoli@epfl.ch"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-martinoli-epfl-ch-11756076.htm", 
+        "cite_name": "", 
+        "title": "martinoli@epfl.ch - The Email Archive"
+    }, 
+    {
+        "content": "alcherio martinoli. position: professor. email: alcherio.martinoli@epfl.ch ... evans, michael minnig, alexander bahr, gaurav s. sukhatme and alcherio martinoli.", 
+        "email_addr_list": [
+            "alcherio.martinoli@epfl.ch"
+        ], 
+        "cite_url": "robotics.usc.edu/publications/author/432/", 
+        "cite_name": "", 
+        "title": "Alcherio Martinoli - USC Robotics Research Lab"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "content": "miss wang shuxin susan. personal information. miss wang shuxin susan. email : susan@cuhk.edu.hk. copyright © 2015. all rights reserved. the chinese...", 
+        "email_addr_list": [
+            "susan@cuhk.edu.hk"
+        ], 
+        "cite_url": "www.pae.cuhk.edu.hk/.../miss-wa...", 
+        "cite_name": "The Chinese University of Hong Kong", 
+        "title": "Miss Wang Shuxin Susan - Department of Paediatrics - The ..."
+    }, 
+    {
+        "content": "wang shuxin. position : professor: phone : +86(0)22 87402173: fax : +86(0)22 87402173: email : shuxinw@tju.edu.cn: address : 天津大学机械工程学院,...", 
+        "email_addr_list": [
+            "shuxinw@tju.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Wang Shuxin - Faculty - Faculty"
+    }, 
+    {
+        "content": "shuxin wang. contact ... email: shuxinw@tju.edu.cn ... publications: s. wang, l. yue, q. li, j. ding, conceptual design and dimensional synthesis of mi-.", 
+        "email_addr_list": [
+            "shuxinw@tju.edu.cn"
+        ], 
+        "cite_url": "https://www.kcl.ac.uk/nms/depts/.../SWang.pdf", 
+        "cite_name": "King's College London", 
+        "title": "[PDF]Design of Mechanical Structures for a Minimally Invasive ..."
+    }, 
+    {
+        "content": "shuxin li, md, phd ... email: shuxin.li@temple.edu ... xing b, li h, wang h, mukhopadhyay d, fisher d, gilpin cj, li s, rhoa-inhibiting nsaids promote axonal...", 
+        "email_addr_list": [
+            "shuxin.li@temple.edu"
+        ], 
+        "cite_url": "www.temple.edu/medicine/faculty/l/lis.asp?pms...", 
+        "cite_name": "Temple University", 
+        "title": "Shuxin Li - Temple University"
+    }, 
+    {
+        "content": "shuxin yu 余舒欣. email: syu88@gatech.edu ... danni sun, zhencheng wang and shuxin yu stanford university undergraduate research journal. vol 13.", 
+        "email_addr_list": [
+            "syu88@gatech.edu"
+        ], 
+        "cite_url": "web.engr.illinois.edu/.../shux...", 
+        "cite_name": "University of Illinois at Urbana–Champaign", 
+        "title": "Shuxin Yu"
+    }
+]

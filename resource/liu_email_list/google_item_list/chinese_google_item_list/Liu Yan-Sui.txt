@@ -1,0 +1,29 @@
+[
+    {
+        "content": "jun 26, 2009 - liu yansui, yang ren, long hualou*, gao jay, wang jieyong. implications of land-use ... li yurui, liu yansui, long hualou, cui weiguo. community-based rural .... email: longhl@igsnrr.ac.cn. updated on may 28, 2014...", 
+        "email_addr_list": [
+            "longhl@igsnrr.ac.cn"
+        ], 
+        "cite_url": "sourcedb.cas.cn/sourcedb_igsnrr_cas/yw/.../t20090626_1842350.html", 
+        "cite_name": "", 
+        "title": "LONG Hualou"
+    }, 
+    {
+        "content": "jun 26, 2009 - yansui liu, born in 1965 in suide county, shaanxi province, is professor and ... yansui liu is a geographer and his major areas of research are land use, land .... district, beijing, 100101, china email: weboffice@igsnrr.ac.cn.", 
+        "email_addr_list": [
+            "weboffice@igsnrr.ac.cn"
+        ], 
+        "cite_url": "sourcedb.cas.cn/sourcedb_igsnrr_cas/yw/.../t20090626_1842341.html", 
+        "cite_name": "", 
+        "title": "Liu Yansui"
+    }, 
+    {
+        "content": "article by liu yansui  article by xu keshuai ... chen yangfen1,2, liu yansui1,2, xu keshuai1,2. 1. institute of ... 作者简介: 作者email: liuys@igsnrr.ac.cn...", 
+        "email_addr_list": [
+            "liuys@igsnrr.ac.cn"
+        ], 
+        "cite_url": "egeoscien.iga.ac.cn/CN/abstract/abstract8486.shtml", 
+        "cite_name": "", 
+        "title": "Characteristics and Mechanism of Agricultural ..."
+    }
+]

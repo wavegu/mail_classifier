@@ -1,0 +1,48 @@
+[
+    {
+        "content": "myra b. cohen. susan j. rosowski ... office: 364 avery hall phone: 402-472-2305. fax: 402-472-7767. e-mail: myra [at] cse.unl.edu. ase 2015 in lincoln, ne.", 
+        "email_addr_list": [
+            "myra@cse.unl.edu"
+        ], 
+        "cite_url": "cse.unl.edu/~myra/", 
+        "cite_name": "", 
+        "title": "Myra B. Cohen Home Page - Computer Science ..."
+    }, 
+    {
+        "content": "myra b. cohen. department of computer science. university of auckland. private bag 92019. auckland, new zealand. e-mail: myra@cs.auckland.ac.nz.", 
+        "email_addr_list": [
+            "myra@cs.auckland.ac.nz"
+        ], 
+        "cite_url": "https://www.cs.auckland.ac.nz/~myra/mbc_cv.pdf", 
+        "cite_name": "University of Auckland", 
+        "title": "[PDF]Myra B. Cohen - Department of Computer Science"
+    }, 
+    {
+        "content": "myra b. cohen. university of nebraska-lincoln myra@cse.unl.edu. afosr ... display. v. email. viewer. v. camera. v. video. camera. v. video. ringtones.", 
+        "email_addr_list": [
+            "myra@cse.unl.edu"
+        ], 
+        "cite_url": "https://community.apan.org/.../CohenAFOSR_2D00_Oct_2D00_2011fin...", 
+        "cite_name": "", 
+        "title": "[PDF]Myra B. Cohen - APAN Community"
+    }, 
+    {
+        "content": "feb 11, 2013 - myra b. cohen, university of nebraska-lincoln, usa, email: myra@cse.unl.edu. wolfgang grieskamp, microsoft research, redmond, usa,...", 
+        "email_addr_list": [
+            "myra@cse.unl.edu"
+        ], 
+        "cite_url": "cs.stanford.edu/people/saswat/research/ASTJSS.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]An Orchestrated Survey on Automated Software Test Case ..."
+    }, 
+    {
+        "content": "london, wc1e 6bt, uk. email: yue.jia@ucl.ac.uk. myra b. cohen. university of nebraska-lincoln. lincoln, ne 68588-0115, usa. email: myra@cse.unl.edu.", 
+        "email_addr_list": [
+            "yue.jia@ucl.ac.uk", 
+            "myra@cse.unl.edu"
+        ], 
+        "cite_url": "www0.cs.ucl.ac.uk/staff/J.../Jia_2015_ICSE.p...", 
+        "cite_name": "University College London", 
+        "title": "[PDF]Learning Combinatorial Interaction Test Generation ..."
+    }
+]

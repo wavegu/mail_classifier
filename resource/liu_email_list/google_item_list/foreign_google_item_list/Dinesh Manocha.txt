@@ -1,0 +1,30 @@
+[
+    {
+        "content": "jul 1, 2015 - email: hudm@cs.unc.eduu. web: huhttp://www.cs.unc.edu/~dmu. dinesh manocha is currently a distinguished professor of computer...", 
+        "email_addr_list": [
+            "hudm@cs.unc.eduu"
+        ], 
+        "cite_url": "www.cs.unc.edu/.../resume.pd...", 
+        "cite_name": "University of North Carolina at Chapel Hill", 
+        "title": "[PDF]Dinesh Manocha - University of North Carolina at Chapel Hill"
+    }, 
+    {
+        "content": "oct 7, 2015 - email: panjia1983 [at] gmail.com ... at the university of north carolina at chapel hill (unc) in 2013, where my advisor was dinesh manocha.", 
+        "email_addr_list": [
+            "panjia1983@gmail.com"
+        ], 
+        "cite_url": "rll.berkeley.edu/~jia/", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Jia Pan - University of California, Berkeley"
+    }, 
+    {
+        "content": "this is in email addresses: nagag@microsoft.com (naga k. govindaraju) dm@cs.unc.edu (dinesh manocha) . preprint submitted to elsevier http://gpgpu.org in...", 
+        "email_addr_list": [
+            "nagag@microsoft.com", 
+            "dm@cs.unc.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-dm-cs-unc-edu-3745914.htm", 
+        "cite_name": "", 
+        "title": "dm@cs.unc.edu - The Email Archive"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "wenhui li. appointment: principal investigator office: s15-02-08. phone: +65 6516 5673. fax: +65 6516 6897. email: wenhui.li@nus.edu.sg. group: wenhui li", 
+        "email_addr_list": [
+            "wenhui.li@nus.edu.sg"
+        ], 
+        "cite_url": "www.quantumlah.org/people/wenhui", 
+        "cite_name": "", 
+        "title": "Wenhui Li - Centre for Quantum Technologies"
+    }, 
+    {
+        "content": "wenhui li (principal investigator) email: wenhui.li@nus.edu.sg. office: s15-02-08. phone:+65 6516 5673. fax:+65 6516 6897...", 
+        "email_addr_list": [
+            "wenhui.li@nus.edu.sg"
+        ], 
+        "cite_url": "www.quantumlah.org/research/group/index.php?PI=6", 
+        "cite_name": "", 
+        "title": "Wenhui Li Group - Centre for Quantum Technologies"
+    }, 
+    {
+        "content": "jan 12, 2015 - email : phylwh@nus.edu.sg ... j. sebastian, ch. gross, ke li, h.c.j. gan, wenhui li, and k. dieckmann, ``two-stage magneto-optical trapping...", 
+        "email_addr_list": [
+            "phylwh@nus.edu.sg"
+        ], 
+        "cite_url": "www.physics.nus.edu.sg/staff/liwh.html", 
+        "cite_name": "National University of Singapore", 
+        "title": "LI Wenhui - Department of Physics - National University of ..."
+    }, 
+    {
+        "content": "wenhui wang, m.d.. professor of pharmacology. dr. wang email: wenhui_wang@nymc.edu. address: department of pharmacology basic sciences building", 
+        "email_addr_list": [
+            "wenhui_wang@nymc.edu"
+        ], 
+        "cite_url": "https://www.nymc.edu/.../Wenhui.../index.ht...", 
+        "cite_name": "New York Medical College", 
+        "title": "Wenhui Wang, M.D. - New York Medical College"
+    }
+]

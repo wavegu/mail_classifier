@@ -1,0 +1,11 @@
+[
+    {
+        "content": "may 23, 2014 - professors yingying chen (stevens) and marco gruteser (rutgers) ... yingying chen via email: yingying.chen@stevens.edu or phone:...", 
+        "email_addr_list": [
+            "yingying.chen@stevens.edu"
+        ], 
+        "cite_url": "www.stevens.edu/.../professors-yingying-...", 
+        "cite_name": "Stevens Institute of Technology", 
+        "title": "Professors Yingying Chen (Stevens) and Marco Gruteser ..."
+    }
+]

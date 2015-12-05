@@ -1,0 +1,29 @@
+[
+    {
+        "content": "see information and reports about _mladenov@hotmail.com (valeri mladenovs e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "_mladenov@hotmail.com"
+        ], 
+        "cite_url": "spam-report.email/_mladenov/hotmail.com", 
+        "cite_name": "", 
+        "title": "_mladenov@hotmail.com (Valeri Mladenovs e-mail) - Spam ..."
+    }, 
+    {
+        "content": "prof. valeri mladenov, technical university sofia, bulgaria url, email: valerim@tu-sofia.bg. associate editors: prof. bimal kumar bose (life fellow ieee), the...", 
+        "email_addr_list": [
+            "valerim@tu-sofia.bg"
+        ], 
+        "cite_url": "wseas.org/cms.action?id=2861", 
+        "cite_name": "", 
+        "title": "WSEAS Transactions on Circuits and Systems"
+    }, 
+    {
+        "content": "email: reljinb@etf.rs. honorary chair. prof. ... valeri mladenov, bulgaria ... the title and name(s), affiliation(s), and e-mail address(es) of the author(s) should.", 
+        "email_addr_list": [
+            "reljinb@etf.rs"
+        ], 
+        "cite_url": "neurel.etf.bg.ac.rs/NEUREL%202012/Public/NR12_call.pdf", 
+        "cite_name": "Great School", 
+        "title": "[PDF]Call for Papers - Neurel - University of Belgrade"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "content": "address. zhi-ming ma (family name: ma). academy of math and systems science ... tel:+86-10-82541745(o) fax:+86-10-62541689. e-mail:mazm@amt.ac.cn...", 
+        "email_addr_list": [
+            "mazm@amt.ac.cn"
+        ], 
+        "cite_url": "www.amt.ac.cn/member/mazhiming/eindex.html", 
+        "cite_name": "", 
+        "title": "Ma Zhimings Homepage"
+    }, 
+    {
+        "content": "ma, zhiming: tel：86-10-62753654: email：mazhiming@gsm.pku.edu.cn ... ma zhiming is now an assistant professor of accounting at guanghua school of...", 
+        "email_addr_list": [
+            "mazhiming@gsm.pku.edu.cn"
+        ], 
+        "cite_url": "www.gsm.pku.edu.cn/.../mazhiming.ht...", 
+        "cite_name": "Guanghua School of Management", 
+        "title": "Ma, Zhiming - Guanghua School of Management"
+    }, 
+    {
+        "content": "mar 14, 2014 - tel : +86-1062562362; e-mail : mazm@amt.ac.cn; present address : academy of math and systems science, institute of applied mathematics,...", 
+        "email_addr_list": [
+            "mazm@amt.ac.cn"
+        ], 
+        "cite_url": "en.sci.njtu.edu.cn/Faculty/Academician/11905.htm", 
+        "cite_name": "", 
+        "title": "Ma Zhiming - School of Science"
+    }, 
+    {
+        "content": "... distinguished chinese scholars public lecture by professor zhi-ming ma ... please feel free to contact ms. irene cheung by email at saas@hku.hk or by...", 
+        "email_addr_list": [
+            "saas@hku.hk"
+        ], 
+        "cite_url": "www.saasweb.hku.hk/cdcs_lecture/", 
+        "cite_name": "University of Hong Kong", 
+        "title": "HKUEMS :: Event Details"
+    }, 
+    {
+        "content": "web markov skeleton processes and applications. zhi-ming ma. 10 june, 2013, st.petersburg. email: mazm@amt.ac.cn.", 
+        "email_addr_list": [
+            "mazm@amt.ac.cn"
+        ], 
+        "cite_url": "www.pdmi.ras.ru/EIMI/.../zhi-ming_ma.pp...", 
+        "cite_name": "Russian Academy of Sciences", 
+        "title": "[PPT]Zhi-Ming Ma"
+    }
+]

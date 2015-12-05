@@ -1,0 +1,49 @@
+[
+    {
+        "content": "email: yliang06@syr.edu. short biography. dr. yingbin liang received the ph.d. degree in electrical engineering from the university of illinois at ... shaofeng zou, phd working on nonparametric detection, machine learning, information theory...", 
+        "email_addr_list": [
+            "yliang06@syr.edu"
+        ], 
+        "cite_url": "yliang06.mysite.syr.edu/", 
+        "cite_name": "", 
+        "title": "Yingbin Liangs Homepage"
+    }, 
+    {
+        "content": "email: jhuang@mail.hzau.edu.cn ... major advisor: yingbin zou (hnau), shaobing peng (irri) ..... zou yingbin, he fan, jianliang huang, and xiong yuanfu.", 
+        "email_addr_list": [
+            "jhuang@mail.hzau.edu.cn"
+        ], 
+        "cite_url": "ic.hzau.edu.cn/supervisor/201212/W020130103537792193698.doc", 
+        "cite_name": "", 
+        "title": "[DOC]Personal Information"
+    }, 
+    {
+        "content": "email: zengdi1001 at gmail.com. ying zhou b.s. materials science and engineering, tsinghua university, 2012. email: yzhou0 at mail.pse.umass.edu...", 
+        "email_addr_list": [
+            "zengdi1001@gmail.com", 
+            "yzhou0@mail.pse.umass.edu"
+        ], 
+        "cite_url": "https://www.pse.umass.edu/.../group", 
+        "cite_name": "University of Massachusetts Amherst", 
+        "title": "Hayward Research Group - Polymer Science and Engineering"
+    }, 
+    {
+        "content": "huang min, zou ying-bin, jiang peng, xia bing, md ibrahim , ao he-jun. 1. ... tel: +86-731-84618758, fax: +86-731-84673648, e-mail: ybzou123@126.com", 
+        "email_addr_list": [
+            "ybzou123@126.com"
+        ], 
+        "cite_url": "www.chinaagrisci.com/Jwk_zgnykxen/EN/abstract/abstract8456.shtml", 
+        "cite_name": "", 
+        "title": "Previous Articles"
+    }, 
+    {
+        "content": "mingzhong zoua, weiwei wena, jiaxin lia,b, yingbin lina, heng laia, zhigao ... heng lai, zhigao huang email: zghuang@fjnu.edu.cn;laiheng@fjnu.edu.cn...", 
+        "email_addr_list": [
+            "zghuang@fjnu.edu.cn", 
+            "laiheng@fjnu.edu.cn"
+        ], 
+        "cite_url": "www.jenergchem.org/EN/abstract/abstract9508.shtml", 
+        "cite_name": "", 
+        "title": "Mingzhong Zou, Weiwei Wen, Jiaxin Li, Yingbin Lin, Heng ..."
+    }
+]

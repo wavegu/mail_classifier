@@ -1,0 +1,56 @@
+[
+    {
+        "content": "e-mail:elezzy@nus.edu.sg. prof. steven zhiying zhou received his b.eng. and m.eng. degrees from southeast university, nanjing, china, in 1998 and 2001,...", 
+        "email_addr_list": [
+            "elezzy@nus.edu.sg"
+        ], 
+        "cite_url": "www.nusri.cn/wp-content/uploads/2013/.../Steven-Zhiying-Zhou-En.htm", 
+        "cite_name": "", 
+        "title": "ZHOU ZhiYing, Steven"
+    }, 
+    {
+        "content": "zzy. email, zhiying.zhou@nusri.cn ... jefry tedjokusumo, steven zhiying zhou, and stefan winkler, immersive multiplayer gammes with tangible and physical...", 
+        "email_addr_list": [
+            "zhiying.zhou@nusri.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Zhou Zhiying Investigator | National University of Singapore ..."
+    }, 
+    {
+        "content": "userid, : 4255. email, : elezzy@nus.edu.sg. organization, : national university of singapore. tel, : 65163754. fax, : 67773117. url, : www.mxrcorp.com.", 
+        "email_addr_list": [
+            "elezzy@nus.edu.sg"
+        ], 
+        "cite_url": "https://researchers.a-star.e...", 
+        "cite_name": "Agency for Science, Technology and Research", 
+        "title": "Assoc/Prof Zhou, ZhiYing, Steven - User Profile"
+    }, 
+    {
+        "content": "create alert. cancel. zhou zhiying, steven ... verified email at nus.edu.sg. scholar ... z pan, y li, m zhang, c sun, k guo, x tang, sz zhou. virtual reality...", 
+        "email_addr_list": [
+            "email@nus.edu.sg"
+        ], 
+        "cite_url": "scholar.google.com/citations?user...hl=enoe...", 
+        "cite_name": "Google Scholar", 
+        "title": "ZHOU ZhiYing, Steven - Google Scholar Citations"
+    }, 
+    {
+        "content": "apr 3, 2004 - email: elezzy@nus.edu.sg. summary .... zhiying zhou, adrian david cheok, “an interactive system and method”, filed for. us patent by the...", 
+        "email_addr_list": [
+            "elezzy@nus.edu.sg"
+        ], 
+        "cite_url": "www.mixedrealitylab.org/media/cv/Steven_Resume.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Dr. ZhiYing Zhou, Steven Summary Work Experience"
+    }, 
+    {
+        "content": "the list below contains all domains related to the email address zhiying.zhou@gmail.com. the listed domains are showing the mentioned email address in their...", 
+        "email_addr_list": [
+            "zhiying.zhou@gmail.com"
+        ], 
+        "cite_url": "website.informer.com/email/zhiying.zhou@gmail.com", 
+        "cite_name": "", 
+        "title": "Zhiying.zhou@gmail.com at Website Informer"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email = ki at cvl dot iis dot u-tokyo dot ac dot jp. education: april 1975 - march ... takashi tomomatsu, yutaka takase, and katsushi ikeuchi. 6th international...", 
+        "email_addr_list": [
+            "ki@cvl.iis.u-tokyo.ac.jp"
+        ], 
+        "cite_url": "https://static.aminer.org/.../task_oriented_generation_of_visual_sensing_s...", 
+        "cite_name": "", 
+        "title": "[PDF]CURRICULUM VITAE Name: Katsushi Ikeuchi Citizenship ..."
+    }, 
+    {
+        "content": "katsushi ikeuchi ... verified email at cvl.iis.u-tokyo.ac.jp - homepage ... k ikeuchi. pattern analysis and machine intelligence, ieee transactions on, 661-669,...", 
+        "email_addr_list": [
+            "email@cvl.iis.u-tokyo.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=YHxZLlwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Katsushi Ikeuchi - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: zheng at cvl.iis.u-tokyo.ac.jp. tel (office): ... katsushi ikeuchi, from department of information science and technology, the university of tokyo, 2008.", 
+        "email_addr_list": [
+            "zheng@cvl.iis.u-tokyo.ac.jp"
+        ], 
+        "cite_url": "www.bozheng-lab.com/", 
+        "cite_name": "", 
+        "title": "Welcome to Bo Zhengs homepage"
+    }
+]

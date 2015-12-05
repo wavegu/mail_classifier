@@ -1,0 +1,39 @@
+[
+    {
+        "content": "mitsuo niinomi. dear sir/madam ... mitsuo niinomi. imr events of the ... tel: 022-215-2019 fax: 022-215-2019 e-mail: msw2011@imr.tohoku.ac.jp. ◇list of...", 
+        "email_addr_list": [
+            "msw2011@imr.tohoku.ac.jp"
+        ], 
+        "cite_url": "www.imr.tohoku.ac.jp/en/about/msw2011_index.html", 
+        "cite_name": "Tohoku University", 
+        "title": "- IMR - TOHOKU UNIVERSITY | MSW2011"
+    }, 
+    {
+        "content": "view mitsuo niinomis business profile at international union of advanced ... mitsuo niinomi (tohoku university, japan; email: niinomi@imr.tohoku.ac.jp).", 
+        "email_addr_list": [
+            "niinomi@imr.tohoku.ac.jp"
+        ], 
+        "cite_url": "www.zoominfo.com/p/Mitsuo-Niinomi/-2110599641", 
+        "cite_name": "", 
+        "title": "Mitsuo Niinomi | International Union of Advanced Materials ..."
+    }, 
+    {
+        "content": "email:g-woloschak@northwestern.edu. research field : 1. studies of the ... email: hampp@staff.uni-marburg.de. research field: ... mitsuo niinomi professor", 
+        "email_addr_list": [
+            "g-woloschak@northwestern.edu", 
+            "hampp@staff.uni-marburg.de"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Senior Visiting Professors - Ningbo Institute of Materials ..."
+    }, 
+    {
+        "content": "e-mail alert. add your e-mail address to receive forthcoming issues of this journal: ... e-mail: healthcare@mdpi.com. tel. +41 61 .... dr. mitsuo niinomi institute for...", 
+        "email_addr_list": [
+            "healthcare@mdpi.com"
+        ], 
+        "cite_url": "www.mdpi.com/journal/healthcare/editors", 
+        "cite_name": "MDPI", 
+        "title": "Healthcare — Editors - MDPI.com"
+    }
+]

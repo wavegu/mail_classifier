@@ -1,0 +1,47 @@
+[
+    {
+        "content": "feb 18, 2013 - chuan heng foh received his m.sc. degree from monash university, australia in 1999 and ph.d. degree from the ... e-mail: c.foh@surrey.ac.uk", 
+        "email_addr_list": [
+            "c.foh@surrey.ac.uk"
+        ], 
+        "cite_url": "www.surrey.ac.uk/ics/people/chuan_heng_foh", 
+        "cite_name": "University of Surrey", 
+        "title": "Chuan Heng Foh - University of Surrey - Guildford"
+    }, 
+    {
+        "content": "chair: chuan heng foh, university of surrey, uk, email: c.foh@surrey.ac.uk ... http://www3.ntu.edu.sg/home/aschfoh/sig/sig-on-green-data-center-and-cloud-...", 
+        "email_addr_list": [
+            "c.foh@surrey.ac.uk"
+        ], 
+        "cite_url": "https://sites.google.com/.../sig-on-green-data-center-and-cloud-computin...", 
+        "cite_name": "", 
+        "title": "IEEE SIG on Green Data Center and Cloud Computing ..."
+    }, 
+    {
+        "content": "email: jw.tantra@ieee.org ; chuan heng foh ; tinnirello, i. ; bianchi, g. ... to analyze dcf under statistical traffic, foh and zukerman introduce a model that uses...", 
+        "email_addr_list": [
+            "jw.tantra@ieee.org"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../article...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "IEEE Xplore Abstract - Analysis of the IEEE 802.11e EDCA ..."
+    }, 
+    {
+        "content": "(email: weil0008@ntu.edu.sg) ... lei wei, chuan heng foh, bingsheng he, jianfei cai, towards efficient resource allocation for heterogeneous workloads in...", 
+        "email_addr_list": [
+            "weil0008@ntu.edu.sg"
+        ], 
+        "cite_url": "www.computer.org/csdl/trans/.../07277025-abs.htm...", 
+        "cite_name": "IEEE Computer Society", 
+        "title": "IaaS - IEEE Computer Society"
+    }, 
+    {
+        "content": "email, gaody@bjtu.edu.cn ... deyun gao, jianfei cai, chuan heng foh, chiew tong lau, king ngi ngan, improving wlan voip capacity through service...", 
+        "email_addr_list": [
+            "gaody@bjtu.edu.cn"
+        ], 
+        "cite_url": "eaie.bjtu.edu.cn/EnglishVersion/faculty/associate.../gaodeyun.html", 
+        "cite_name": "", 
+        "title": "Lecturer of SEIE"
+    }
+]

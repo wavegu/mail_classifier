@@ -1,0 +1,48 @@
+[
+    {
+        "content": "email: link@dlut.edu.cn. yingzhuang liu huazhong university of science and technology, china email: yzliu@mail.hust.edu.cn. technical program committee...", 
+        "email_addr_list": [
+            "link@dlut.edu.cn", 
+            "yzliu@mail.hust.edu.cn"
+        ], 
+        "cite_url": "mmlab.snu.ac.kr/~mchen/GCCN2010/page3/page3.html", 
+        "cite_name": "", 
+        "title": "GCCN 2010 Homepage - Committee"
+    }, 
+    {
+        "content": "email: xhge@mail.hust.edu.cn .... xiaohu ge, jianghua liu, yingzhuang liu, “hswa-tcp: a new traffic control algorithm for high-speed satellite...", 
+        "email_addr_list": [
+            "xhge@mail.hust.edu.cn"
+        ], 
+        "cite_url": "www.ukchinab4g.ac.uk/sites/default/.../090804_pm03_China_HUST.pdf", 
+        "cite_name": "", 
+        "title": "UK-China Science Bridges"
+    }, 
+    {
+        "content": "wei lu, desheng wang, member, ieee and yingzhuang liu, member, ieee. department of ... e-mail: lvweiwhut@yahoo.com.cn. abstract—by deriving the...", 
+        "email_addr_list": [
+            "lvweiwhut@yahoo.com.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Upper Capacity Bound and Power Allocation in Polarized ..."
+    }, 
+    {
+        "content": "log into your current student email to save any files you need before they get ... go to www.gmail.com to login using your id@students.liu.edu.lb and new...", 
+        "email_addr_list": [
+            "id@students.liu.edu.lb"
+        ], 
+        "cite_url": "www.liu.edu.lb/lb/.../Announcement.p...", 
+        "cite_name": "Lebanese International University", 
+        "title": "For Student - LIU"
+    }, 
+    {
+        "content": "jan 12, 2012 - (1); yingzhuang liu (1); desheng wang  dswang@mail.hust.edu.cn (1). author affiliations. 1. wuhan national laboratory for optoelectronics,...", 
+        "email_addr_list": [
+            "dswang@mail.hust.edu.cn"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2Fs11277-...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Capacity Performance of Polarized Distributed MIMO ..."
+    }
+]

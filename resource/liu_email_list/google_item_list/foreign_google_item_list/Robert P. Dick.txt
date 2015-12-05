@@ -1,0 +1,20 @@
+[
+    {
+        "content": "robert p. dicks homepage. ... robert dick biographical summary ... robert dick, ding ruobai. email: dickrp@umich.edu. phone: 734-763-3329. associate...", 
+        "email_addr_list": [
+            "dickrp@umich.edu"
+        ], 
+        "cite_url": "robertdick.org/", 
+        "cite_name": "", 
+        "title": "Robert Dick"
+    }, 
+    {
+        "content": "contact. phone : (506) 453-6685. fax : (506) 453-6689. email : robert.dick@gnb.ca. mailing address. hugh john flemming forestry centre p. o. box 6000", 
+        "email_addr_list": [
+            "robert.dick@gnb.ca"
+        ], 
+        "cite_url": "www2.gnb.ca/content/gnb/.../contacts_renderer.2988.ht...", 
+        "cite_name": "New Brunswick", 
+        "title": "DICK, ROBERT - Government of New Brunswick"
+    }
+]

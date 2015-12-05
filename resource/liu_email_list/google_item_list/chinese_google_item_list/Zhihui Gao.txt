@@ -1,0 +1,11 @@
+[
+    {
+        "content": "2009 lili jiang linfei li yande que gaoqiang wang rongting wu linhao yan kai yang yi zhang ... in 2006: xiao lin, li gao, haifeng ma, zhihui qin ... tel: 0086-10-62551106; fax: 0086-10-62556598; e-mail:ylwang@aphy.iphy.ac.cn.", 
+        "email_addr_list": [
+            "ylwang@aphy.iphy.ac.cn"
+        ], 
+        "cite_url": "nano.iphy.ac.cn/N04-en/member/memberindex-en.htm", 
+        "cite_name": "", 
+        "title": "Welcome to Prof. GAOs group"
+    }
+]

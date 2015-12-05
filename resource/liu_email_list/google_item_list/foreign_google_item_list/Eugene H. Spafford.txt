@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email. spaf@cerias.purdue.edu ... biography. eugene h. spafford is a professor of computer sciences at purdue university, a professor of philosophy (courtesy...", 
+        "email_addr_list": [
+            "spaf@cerias.purdue.edu"
+        ], 
+        "cite_url": "https://www.cerias.purdue.edu/site/people/faculty/.../1", 
+        "cite_name": "Purdue University", 
+        "title": "Gene Spafford - CERIAS - Purdue University"
+    }, 
+    {
+        "content": "abridged vita: eugene h. spafford purdue university cerias email: spaf@purdue.edu 656 oval drive url: http://spaf.cerias.purdue.edu/ west lafayette,...", 
+        "email_addr_list": [
+            "spaf@purdue.edu"
+        ], 
+        "cite_url": "docplayer.net/3058109-Abridged-vita-eugene-h-spafford.html", 
+        "cite_name": "", 
+        "title": "Abridged Vita: Eugene H. Spafford"
+    }, 
+    {
+        "content": "date: 12 oct 88 19:14:22 gmt from: spaf@purdue.edu (gene spafford) subject: ... a failure to learn from the past eugene h. spafford purdue university...", 
+        "email_addr_list": [
+            "spaf@purdue.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-spaf-purdue-edu-2226576.htm", 
+        "cite_name": "", 
+        "title": "spaf@purdue.edu - The Email Archive"
+    }
+]

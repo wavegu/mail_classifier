@@ -1,0 +1,47 @@
+[
+    {
+        "content": "mr lee djumas. postgraduate .... li@monash.edu; office: room 223 desk 16, building 82, clayton campus; supervisors: john forsythe ..... email: ruifeng.", 
+        "email_addr_list": [
+            "li@monash.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Monash University", 
+        "title": "Profiles, Monash University"
+    }, 
+    {
+        "content": "yu, ruifeng, associate professor. email address: yurf@tsinghua.edu.cn. office location: room ... kai way li , rui-feng yu  xiao l. han. physiological and...", 
+        "email_addr_list": [
+            "yurf@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201104061554456469654...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Department of Industrial Engineering"
+    }, 
+    {
+        "content": "information about e-mail ruifeng.li.9@facebook.com. find out the e-mail holder fast, easily and for free.", 
+        "email_addr_list": [
+            "ruifeng.li.9@facebook.com"
+        ], 
+        "cite_url": "afind.co.nz/phone-number-email/ruifeng-li-9-469356", 
+        "cite_name": "", 
+        "title": "ruifeng.li.9@facebook.com e-mail"
+    }, 
+    {
+        "content": "email: ruifeng@upenn.edu. publications. search pubmed for articles. links ... lin w., feng r., li h.: regularization methods for high-dimensional instrumental...", 
+        "email_addr_list": [
+            "ruifeng@upenn.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Perelman School of Medicine", 
+        "title": "Rui Feng, Ph.D. || Perelman School of Medicine at the ..."
+    }, 
+    {
+        "content": "name: dr lee tuo yeong. designation: senior consultant. email: ... designation: teacher. email: nhskcm@nus.edu.sg. name: mr tan rui feng. designation:", 
+        "email_addr_list": [
+            "nhskcm@nus.edu.sg"
+        ], 
+        "cite_url": "www.nushigh.edu.sg/.../math-stati...", 
+        "cite_name": "NUS High School of Math and Science", 
+        "title": "Math, Statistics  Computing"
+    }
+]

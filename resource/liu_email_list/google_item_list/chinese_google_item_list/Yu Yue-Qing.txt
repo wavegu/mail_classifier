@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email:louise.yu@menred.com. ms.julie chen add:wei 20rd,222,yueqing central industrial zone,325600,zhejiang province,p.r.china tel:(86)577 6266 5822", 
+        "email_addr_list": [
+            "louise.yu@menred.com"
+        ], 
+        "cite_url": "www.menred.de/english/contactus.php", 
+        "cite_name": "", 
+        "title": "menred control system - Menred GmbH"
+    }, 
+    {
+        "content": "english pedagogy by: yu yueqing email:18963539635@163.com.", 
+        "email_addr_list": [
+            "18963539635@163.com"
+        ], 
+        "cite_url": "slideplayer.com/slide/8251247/", 
+        "cite_name": "", 
+        "title": "Presentation English Pedagogy By: Yu Yueqing Email ..."
+    }, 
+    {
+        "content": "guan yu yueqing intelligent electric co., ltd. ... weng yang jiedao heyao gongyequ; tel：0577-62057808; fax：0577-62050123; email：179676580@qq.com...", 
+        "email_addr_list": [
+            "179676580@qq.com"
+        ], 
+        "cite_url": "cnguanyu.com/en/", 
+        "cite_name": "", 
+        "title": "Guan Yu Yueqing Intelligent Electric Co., Ltd."
+    }
+]

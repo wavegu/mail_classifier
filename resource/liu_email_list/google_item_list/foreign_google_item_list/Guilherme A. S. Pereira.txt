@@ -1,0 +1,29 @@
+[
+    {
+        "content": "guilherme a. s. pereira. professor of electrical ... verified email at ufmg.br - homepage  scholar ... lca pimenta, v kumar, rc mesquita, gas pereira. decision...", 
+        "email_addr_list": [
+            "email@ufmg.br"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=gd8q19oAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Guilherme A. S. Pereira - Google Scholar Citations"
+    }, 
+    {
+        "content": "guilherme azzi russo country of origin: brazil email: guilherme.russo@vanderbilt.edu. frederico batista pereira country of origin: brazil email:...", 
+        "email_addr_list": [
+            "guilherme.russo@vanderbilt.edu"
+        ], 
+        "cite_url": "www.vanderbilt.edu/lapop/gradstudents.php", 
+        "cite_name": "Vanderbilt University", 
+        "title": "Graduate Students | LAPOP | Vanderbilt University"
+    }, 
+    {
+        "content": "hi, i like design and cg. email: guilhermecpgp@gmail.com.", 
+        "email_addr_list": [
+            "guilhermecpgp@gmail.com"
+        ], 
+        "cite_url": "https://vimeo.com/user8967489", 
+        "cite_name": "", 
+        "title": "Guilherme Pereira on Vimeo"
+    }
+]

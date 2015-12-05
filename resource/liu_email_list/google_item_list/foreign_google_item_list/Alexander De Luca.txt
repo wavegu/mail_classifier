@@ -1,0 +1,11 @@
+[
+    {
+        "content": "mail, alexander.de.luca@ifi.lmu.de. telefon, 089/2180-4688. fax, 089/2180-4652. adresse, alexander de luca universität münchen, lfe medieninformatik", 
+        "email_addr_list": [
+            "alexander.de.luca@ifi.lmu.de"
+        ], 
+        "cite_url": "www.medien.ifi.lmu.de/team/alexander.de.luca/", 
+        "cite_name": "", 
+        "title": "Dr. Alexander De Luca - Medieninformatik"
+    }
+]

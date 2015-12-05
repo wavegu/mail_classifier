@@ -1,0 +1,48 @@
+[
+    {
+        "content": "vincent ws wong (黃煒燊). professor, department of medicine  therapeutics ... email: wongv@cuhk.edu.hk. we established the fatty liver research team 10...", 
+        "email_addr_list": [
+            "wongv@cuhk.edu.hk"
+        ], 
+        "cite_url": "www.mect.cuhk.edu.hk/people/vincentwong.html", 
+        "cite_name": "", 
+        "title": "Prof. Vincent WS Wong (黃煒燊) - Department of Medicine ..."
+    }, 
+    {
+        "content": "vincent wong received his b.sc. (with distinction) degree from the university of manitoba in 1994, m.a.sc. degree from the ... e-mail: vincentw at ece.ubc.ca.", 
+        "email_addr_list": [
+            "vincentw@ece.ubc.ca"
+        ], 
+        "cite_url": "https://www.ece.ubc.ca/~vincentw/", 
+        "cite_name": "University of British Columbia", 
+        "title": "Vincent Wong - UBC Electrical and Computer Engineering"
+    }, 
+    {
+        "content": "vincent w. s. chan ... vincent.chan@uhn.ca .... singh m, chin kj, chan vws, wong dt, prasad ga, yu e. use of sonography for airway assessment: an...", 
+        "email_addr_list": [
+            "vincent.chan@uhn.ca"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Toronto", 
+        "title": "Chan, Vincent W. S. - Faculty, Department of Anesthesia ..."
+    }, 
+    {
+        "content": "e-mail: hamed@ece.ucr.edu ... man hon cheung, hamed mohsenian-rad, vincent w.s. wong, and robert schober, “utility-optimal random access for...", 
+        "email_addr_list": [
+            "hamed@ece.ucr.edu"
+        ], 
+        "cite_url": "www.ee.ucr.edu/people/.../index.php?...", 
+        "cite_name": "University of California, Riverside", 
+        "title": "Faculty Profile: Hamed Mohsenian Rad"
+    }, 
+    {
+        "content": "... suyang duan⇤, ling-hua chang†, vincent w.s. wong⇤, and jwo-yuh wu† ... emails: ⇤1vahids, suyangd, vincentwl@ece.ubc.ca, †iamjaung@gmail.com,...", 
+        "email_addr_list": [
+            "vincentwl@ece.ubc.ca", 
+            "iamjaung@gmail.com"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0655...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Compressive Sensing based Asynchronous Random ..."
+    }
+]

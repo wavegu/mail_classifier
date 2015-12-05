@@ -1,0 +1,57 @@
+[
+    {
+        "content": "... biology; work telephone: 617.287.3537; work email: changmeng.cai@umb.edu ... cai c, he hh, gao s, chen s, yu z, gao y, chen s, chen mw, zhang j, ahmed ... cai c, wang h, he hh, chen s, he l, ma f, mucci l, wang q, fiore c,...", 
+        "email_addr_list": [
+            "changmeng.cai@umb.edu"
+        ], 
+        "cite_url": "https://www.umb.edu/.../changmeng_...", 
+        "cite_name": "University of Massachusetts Boston", 
+        "title": "Changmeng Cai - University of Massachusetts Boston"
+    }, 
+    {
+        "content": "jul 16, 2011 - email: zbchen@ustc.edu.cn ... 2), wei-bo gao, xing-can, yao, jian-ming cai, he lu, ping xu, tao yang, chao-yang lu, yu-ao chen,...", 
+        "email_addr_list": [
+            "zbchen@ustc.edu.cn"
+        ], 
+        "cite_url": "en.hfnl.ustc.edu.cn/.../t20...", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "CHEN Zengbing--Hefei National Laboratory for Physical ..."
+    }, 
+    {
+        "content": "e-mail: hjgao@aphy.iphy.ac.cn .... d.x. shi, w. ji, x. lin, x.b. he, j.c. lian, l. gao, j.m. cai, s.x. du, f. lin, c. seidel, l.f. chi, w.a. hofer, h. fuchs, and h. j....", 
+        "email_addr_list": [
+            "hjgao@aphy.iphy.ac.cn"
+        ], 
+        "cite_url": "nano.iphy.ac.cn/N04-en/member/profGao-en.htm", 
+        "cite_name": "", 
+        "title": "Welcome to Prof. Hongjun Gaos group"
+    }, 
+    {
+        "content": "email: gaogq@mail.sysu.edu.cn; phone: none. ... he got ph.d. degree of biochemistry in sun yat-sen university of medical sciences in 1997. ... genping wan, zhonghanyang，weibin cai，guoquan gao* (co-corresponding author), xia yang.", 
+        "email_addr_list": [
+            "gaogq@mail.sysu.edu.cn"
+        ], 
+        "cite_url": "zssom.sysu.edu.cn/eng/Item/291.aspx", 
+        "cite_name": "", 
+        "title": "Gao Guoquan - Zhongshan School of Medicine,Sun Yat-sen ..."
+    }, 
+    {
+        "content": "name：jian-qing gao; title：professor, dean of department of pharmacy,zhejiang ... email：gaojianqing1029@yahoo.com.cn,gaojianqing@zju.edu.cn; office： .... cai-xia he,zhong-gui he*, jian-qing gao*,microemulsions as drug delivery...", 
+        "email_addr_list": [
+            "gaojianqing1029@yahoo.com.cn", 
+            "gaojianqing@zju.edu.cn"
+        ], 
+        "cite_url": "www.cps.zju.edu.cn/index.php?c=indexa=jzyg_detailid...", 
+        "cite_name": "", 
+        "title": "Jian-Qing Gao"
+    }, 
+    {
+        "content": "bin gao md. , phd, chief laboratory of liver diseases national institute on alcohol abuse and ... (research fellow, email: yan.cai@nih.gov) ... yong he, ms.", 
+        "email_addr_list": [
+            "yan.cai@nih.gov"
+        ], 
+        "cite_url": "www.niaaa.nih.gov/...", 
+        "cite_name": "National Institute on Alcohol Abuse and Alcoholism", 
+        "title": "Laboratory of Liver Diseases | National Institute on Alcohol ..."
+    }
+]

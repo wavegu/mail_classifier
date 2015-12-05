@@ -1,0 +1,38 @@
+[
+    {
+        "content": "aug 5, 2011 - email: wangwei@ciis.org.cn. curriculum vitae. mr. wang wei has been associated with china institute of international studies (ciis)...", 
+        "email_addr_list": [
+            "wangwei@ciis.org.cn"
+        ], 
+        "cite_url": "www.ciis.org.cn/english/2011-08/05/content_4387250.htm", 
+        "cite_name": "", 
+        "title": "WANG Wei_China Institute of International Studies"
+    }, 
+    {
+        "content": "email, wei.wang@sydney.edu.au. map. view in larger map. biographical details. dr wei wangs primary research interests are in the areas of discourse studies...", 
+        "email_addr_list": [
+            "wei.wang@sydney.edu.au"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Sydney", 
+        "title": "Dr Wei Wang - The University of Sydney"
+    }, 
+    {
+        "content": "email: wei.wang@ecu.edu.au. campus: joondalup. room: jo21.534. wei is the professor of postgraduate medicine in the school of medical sciences.", 
+        "email_addr_list": [
+            "wei.wang@ecu.edu.au"
+        ], 
+        "cite_url": "https://www.ecu.edu.au/.../professor-wei-wang", 
+        "cite_name": "Edith Cowan University", 
+        "title": "ECU | Professor Wei Wang : Staff : Medical Sciences : Schools"
+    }, 
+    {
+        "content": "email: weiwang@cs.ucla.edu ... wei wang is a professor in the department of computer science at university of california, los angeles and the director of the...", 
+        "email_addr_list": [
+            "weiwang@cs.ucla.edu"
+        ], 
+        "cite_url": "www.cs.ucla.edu/~weiwang/", 
+        "cite_name": "", 
+        "title": "Wei Wangs Home Page - UCLA"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "email address: work juliewu@uga.edu ... ekkehart boehmer, kingsley fong and juan (julie) wu. ... mahdi nezafat, tao shen, qinghai wang and julie wu.", 
+        "email_addr_list": [
+            "juliewu@uga.edu"
+        ], 
+        "cite_url": "www.terry.uga.edu/directory/profile/juliewu/", 
+        "cite_name": "Terry College of Business", 
+        "title": "Julie Wu - Terry College of Business - University of Georgia"
+    }
+]

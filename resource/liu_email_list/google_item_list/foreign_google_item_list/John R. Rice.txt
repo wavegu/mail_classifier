@@ -1,0 +1,29 @@
+[
+    {
+        "content": "john r. rice, the w. brooks fortune distinguished professor emeritus of ... professor rice is known for his research on numerical methods and problem solving environments for scientific computing. ... email us at rcac-help@purdue.edu.", 
+        "email_addr_list": [
+            "rcac-help@purdue.edu"
+        ], 
+        "cite_url": "https://www.rcac.purdue.edu/compute/rice/bio/", 
+        "cite_name": "Purdue University", 
+        "title": "ITaP Research Computing - John R. Rice"
+    }, 
+    {
+        "content": "john r. rice (1895-1980), fundamentalist evangelist and publisher, was born to a poor baptist farming family near gainesville, texas. ... in 1934 rice began the sword of the lord, a weekly newspaper which from ... email: isae@wheaton.edu...", 
+        "email_addr_list": [
+            "isae@wheaton.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Wheaton College", 
+        "title": "John R. Rice | Wheaton"
+    }, 
+    {
+        "content": "jan 21, 2015 - quote by john r. rice. ... john r. rice was a great man of god, pastor, evangelist, author, song writer ... prayerin email: info@sosevents.org.", 
+        "email_addr_list": [
+            "info@sosevents.org"
+        ], 
+        "cite_url": "news.sosevents.org/2015/01/21/john-r-rice-quote/", 
+        "cite_name": "", 
+        "title": "John R. Rice Quote | Center for Evangelists"
+    }
+]

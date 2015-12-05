@@ -1,0 +1,20 @@
+[
+    {
+        "content": "email: gongping.liu@chbe.gatech.edu ... doi: 10.1021/sc400372d; gongping liu, wang wei, hao wu, xueliang dong, min jiang, wanqin jin, pervaporation...", 
+        "email_addr_list": [
+            "gongping.liu@chbe.gatech.edu"
+        ], 
+        "cite_url": "koros.chbe.gatech.edu/index.php?do=grpmbrmbr=gongping", 
+        "cite_name": "", 
+        "title": "Dr. Gongping Liu - Koros Research Group : Membrane ..."
+    }, 
+    {
+        "content": "nov 30, 2009 - e-mail: hzhang@ntu.edu.sg. website: ... hai li , jumiati wu , xiao huang , zongyou yin , juqing liu , and hua zhang. acs nano 2014 8 (7),...", 
+        "email_addr_list": [
+            "hzhang@ntu.edu.sg"
+        ], 
+        "cite_url": "pubs.acs.org/doi/abs/10.1021/la9039144", 
+        "cite_name": "American Chemical Society", 
+        "title": "Aminosilane Micropatterns on Hydroxyl-Terminated ..."
+    }
+]

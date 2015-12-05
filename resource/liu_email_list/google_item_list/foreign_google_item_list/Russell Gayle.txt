@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: ras-motion-chairs[at]mit.edu ... nicholas gans,department of electrical engineering, university of texas at dallas; russell gayle, sandia natl labs...", 
+        "email_addr_list": [
+            "ras-motion-chairs@mit.edu"
+        ], 
+        "cite_url": "www.robotmotion.org/members", 
+        "cite_name": "", 
+        "title": "Members | Algorithms for Planning and Control of Robot ..."
+    }, 
+    {
+        "content": "feb 6, 2012 - you are here: home / artists / gayle russell ... gayle was born with cereral palsy and has trouble using her hands. ... email: info@mfpa.co.nz...", 
+        "email_addr_list": [
+            "info@mfpa.co.nz"
+        ], 
+        "cite_url": "https://www.mfpa.co.nz/gayle-russell/", 
+        "cite_name": "", 
+        "title": "Gayle Russell - MFPA, New Zealand"
+    }, 
+    {
+        "content": "roy russell gayle is a u.s. company in clarcona, florida, belongs to jewelers industry. ... phone: 4078804904, (407)880-4904; email: jfycm@cfl.rr.com.", 
+        "email_addr_list": [
+            "jfycm@cfl.rr.com"
+        ], 
+        "cite_url": "www.moreopp.com/company-details-10/12150522.html", 
+        "cite_name": "", 
+        "title": "Roy Russell Gayle - jfycm@cfl.rr.com - 4078804904, (407 ..."
+    }, 
+    {
+        "content": "use of aromatherapy in geriatric  palliative care, 14, gayle russell “essential therapies”, tel #: 519-859-9124. email: essentialtherapies@rogers.com”.", 
+        "email_addr_list": [
+            "essentialtherapies@rogers.com"
+        ], 
+        "cite_url": "cfacanada.com/education/ceu/", 
+        "cite_name": "", 
+        "title": "CEU « Canadian Federation of Aromatherapists"
+    }
+]

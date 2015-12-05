@@ -1,0 +1,11 @@
+[
+    {
+        "content": "university of tsukuba. 1-1-1 ten-no-dai, tsukuba, japan. email: kawasima@cs.tsukuba.ac.jp. michita imai. information and computer science. keio university.", 
+        "email_addr_list": [
+            "kawasima@cs.tsukuba.ac.jp"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0429...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Brownie: Searching Concealed Real World Artifacts - IEEE ..."
+    }
+]

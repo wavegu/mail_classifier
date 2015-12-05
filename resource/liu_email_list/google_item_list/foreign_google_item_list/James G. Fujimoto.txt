@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: jgfuji@mit.edu. james g. fujimoto obtained his bachelors, masters, and doctorate from the massachusetts institute of technology in 1979, 1981, and...", 
+        "email_addr_list": [
+            "jgfuji@mit.edu"
+        ], 
+        "cite_url": "https://nei.nih.gov/anniversary/symposia/.../fujimot...", 
+        "cite_name": "National Eye Institute", 
+        "title": "The NEI 40th Anniversary Symposia Series | National Eye ..."
+    }, 
+    {
+        "content": "oahsen@gmail.com. 617.253.3908. 36-347. ganesh .... 617.452.5092. 26-225. matthew james byrd ..... james g. fujimoto177610. elihu thomson professor of...", 
+        "email_addr_list": [
+            "oahsen@gmail.com"
+        ], 
+        "cite_url": "www.rle.mit.edu/.../general-st...", 
+        "cite_name": "Research Laboratory of Electronics at MIT", 
+        "title": "General Staff Directory | RLE at MIT"
+    }, 
+    {
+        "content": "james g. fujimoto. email: jgfuji@mit.edu. website link: www.rle.mit.edu/rleonline/research/lasermedicineandmedicalimaginggroup.html. dr. fujimoto...", 
+        "email_addr_list": [
+            "jgfuji@mit.edu"
+        ], 
+        "cite_url": "www.aigstudy.net/index.php?id=32", 
+        "cite_name": "", 
+        "title": "AIG Study: MIT"
+    }, 
+    {
+        "content": "may 18, 2009 - biography: james g. fujimoto obtained his bachelors, masters and ... register your place at this lecture please email: e.powell@imperial.ac.uk...", 
+        "email_addr_list": [
+            "e.powell@imperial.ac.uk"
+        ], 
+        "cite_url": "www3.imperial.ac.uk/.../event_31-3-2009-13-2...", 
+        "cite_name": "Imperial College London", 
+        "title": "Biomedical Imaging and Optical Biopsy with Optical ..."
+    }
+]

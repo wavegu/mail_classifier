@@ -1,0 +1,40 @@
+[
+    {
+        "content": "it was further wade trappe winlab ece dept. rutgers university email: trappe@winlab.rutgers.edu shown 61 to be optimal no other watermarking scheme...", 
+        "email_addr_list": [
+            "trappe@winlab.rutgers.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-trappe-winlab-rut-11834171.htm", 
+        "cite_name": "", 
+        "title": "trappe@winlab.rut - The Email Archive"
+    }, 
+    {
+        "content": "... princeton university, (email: poor@princeton.edu) wade trappe, winlab, rutgers university, (email: trappe@winlab.rutgers.edu) aylin yener, pennsylvania...", 
+        "email_addr_list": [
+            "poor@princeton.edu", 
+            "trappe@winlab.rutgers.edu"
+        ], 
+        "cite_url": "www.ieee-security.org/Calendar/.../cfp-SI-IEEE-Forensics-Security.html", 
+        "cite_name": "", 
+        "title": "SI-IEEE-Forensics-Security"
+    }, 
+    {
+        "content": "oct 27, 2013 - st. petersburg state university, russia. email: garnaev@yahoo.com. wade trappe, chun-ta kung. winlab and the electrical and computer...", 
+        "email_addr_list": [
+            "garnaev@yahoo.com"
+        ], 
+        "cite_url": "arxiv.org/pdf/1310.7247", 
+        "cite_name": "arXiv", 
+        "title": "[PDF]Optimizing Scanning Strategies: Selecting Scanning ... - arXiv"
+    }, 
+    {
+        "content": "email: garnaev@yahoo.com. wade trappe. winlab, rutgers university. north brunswick, usa. e-mail: trappe@winlab.rutgers.edu. abstract—scanning large...", 
+        "email_addr_list": [
+            "garnaev@yahoo.com", 
+            "trappe@winlab.rutgers.edu"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0699...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Bandwidth Scanning involving a Bayesian Approach to ..."
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "content": "c), technical university of denmark, lyngby, denmark; email: minka. ... of denmark, bldg. 304, dk-2800 lyngby, denmark; email: jerzy.wasniewski@uni-c.dk", 
+        "email_addr_list": [
+            "jerzy.wasniewski@uni-c.dk"
+        ], 
+        "cite_url": "www.netlib.org/lapack95/lug95/footnode.html", 
+        "cite_name": "", 
+        "title": "Footnotes - Netlib"
+    }, 
+    {
+        "content": "from: jerzy wasniewski unijw@fysik.uni-c.dk subject: workshop on ... denmark attn: jerzy wasniewski email: workshop@uni-c.dk fax: (+45) 45 93 02 20...", 
+        "email_addr_list": [
+            "unijw@fysik.uni-c.dk", 
+            "workshop@uni-c.dk"
+        ], 
+        "cite_url": "www.desy.de/user/projects/conferences/psc.txt", 
+        "cite_name": "", 
+        "title": "Workshop on Parallel Scientific Computing"
+    }, 
+    {
+        "content": "search email number information data on the internet ... dk-2800 lyngby denmark e-mail: uniwow@uni-c.dk or e-mail: jerzy.wasniewski@uni-c.dk z center of...", 
+        "email_addr_list": [
+            "uniwow@uni-c.dk", 
+            "jerzy.wasniewski@uni-c.dk"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-wasniewski-uni-c-dk-17772409....", 
+        "cite_name": "", 
+        "title": "wasniewski@uni-c.dk - The Email Archive"
+    }, 
+    {
+        "content": "... alexander karaivanov2, minka marinova2, jerzy wa ́sniewski2, and plamen yalamov2 1 ibm ... of denmark, building 304, dk-2800 lyngby, denmark, emails: alexander.karaivanov@uni-c.dk, minka.marinova@uni-c.dk, jerzy.wasniewski...", 
+        "email_addr_list": [
+            "alexander.karaivanov@uni-c.dk", 
+            "minka.marinova@uni-c.dk"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=3540707344", 
+        "cite_name": "", 
+        "title": "Applied Parallel Computing. New Paradigms for HPC in ..."
+    }
+]

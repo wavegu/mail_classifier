@@ -1,0 +1,38 @@
+[
+    {
+        "content": "oct 8, 2013 - members. member_img satoshi kagami ... tel: 03-3599-8201(lab), 03-3599-8315(direct) fax: 03-5530-2066. e-mail: s.kagami@aist.go.jp...", 
+        "email_addr_list": [
+            "s.kagami@aist.go.jp"
+        ], 
+        "cite_url": "www.dh.aist.go.j...", 
+        "cite_name": "National Institute of Advanced Industrial Science and...", 
+        "title": "Members | Satoshi KAGAMI - Digital Human Research ..."
+    }, 
+    {
+        "content": "dr. satoshi kagami, senior research scientist, email: s.kagami@aist.go.jp. overview ... dr. kagami presented an overview of humanoid research.", 
+        "email_addr_list": [
+            "s.kagami@aist.go.jp"
+        ], 
+        "cite_url": "www.wtec.org/robotics/report/B-SiteReports-Asia.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]85 APPENDIX B. SITE REPORTS—ASIA Site: AIST - World ..."
+    }, 
+    {
+        "content": "satoshi kagami. digital human research center,. national institute of advanced industrial. science and technology, tokyo, japan. email: s.kagami@aist.go.jp.", 
+        "email_addr_list": [
+            "s.kagami@aist.go.jp"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0480...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Smooth Path Planning with Pedestrian Avoidance for ..."
+    }, 
+    {
+        "content": "satoshi kagami. digital human research center, aist. 2-41-6, aomi, koto-ku, tokyo,. 135-0064, japan. email: s.kagami@aist.go.jp. hiroshi mizoguchi.", 
+        "email_addr_list": [
+            "s.kagami@aist.go.jp"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0471...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "pedestrian detection using 3d optical flow sequence for a ..."
+    }
+]

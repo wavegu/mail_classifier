@@ -1,0 +1,40 @@
+[
+    {
+        "content": "cscc, department of biostatistics , 137 east franklin st., suite 400. campus box 8030. chapel hill, nc 27514-4145. usa t: 919-962-3259. gcui@email.unc.", 
+        "email_addr_list": [
+            "gcui@email.unc"
+        ], 
+        "cite_url": "sph.unc.edu/.../gang-cui/", 
+        "cite_name": "UNC Gillings School of Global Public Health", 
+        "title": "Gang Cui || UNC Gillings School of Global Public Health"
+    }, 
+    {
+        "content": "tel: (513) 556-3406. email: fengyang.ma@uc.edu. url: http://mafengyang.com/. education ... advisor: cui, gang. ma in linguistics and applied linguistics,...", 
+        "email_addr_list": [
+            "fengyang.ma@uc.edu"
+        ], 
+        "cite_url": "cech.uc.edu/.../...", 
+        "cite_name": "University of Cincinnati College of Education Criminal...", 
+        "title": "[PDF]View Curriculum Vitae (pdf) - College of Education, Criminal ..."
+    }, 
+    {
+        "content": "en-cui yang , ph.d. 2005, faculty, email: encui@eyou.com. li li , ph.d. 2004, .... gang huang , m.s., 2001, ph.d. email: huanggang@eyou.com. xiao-he bai...", 
+        "email_addr_list": [
+            "encui@eyou.com", 
+            "huanggang@eyou.com"
+        ], 
+        "cite_url": "supram.nankai.edu.cn/graduatedmembers.asp", 
+        "cite_name": "", 
+        "title": "supramolecular chemistry group"
+    }, 
+    {
+        "content": "alex cui. e-mail: alex.cui@bltcn.cn. tel: +86 24 25162788. fax: +86 24 25162844 ... bai gang. e-mail: blt.africa@bltcn.cn. tel: +86 24 25162875. fax: +86 24...", 
+        "email_addr_list": [
+            "alex.cui@bltcn.cn", 
+            "blt.africa@bltcn.cn"
+        ], 
+        "cite_url": "www.bltelevator.com/en/service/customer_services.shtml", 
+        "cite_name": "", 
+        "title": "Customer Services - ShenYang Brilliant Elevator"
+    }
+]

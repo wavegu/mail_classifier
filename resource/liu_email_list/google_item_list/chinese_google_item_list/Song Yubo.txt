@@ -1,0 +1,38 @@
+[
+    {
+        "content": "capwap working group song yubo internet draft li ying expires: may 2006 ... ap for 802.11 seamless handoff draft-song-80211-seamless-handoff-00.txt status .... jiangsu province, china email: songyubo@mail.edu.cn li ying southeast...", 
+        "email_addr_list": [
+            "songyubo@mail.edu.cn"
+        ], 
+        "cite_url": "https://www.ietf.org/.../draft-song-80211...", 
+        "cite_name": "Internet Engineering Task Force", 
+        "title": "txt"
+    }, 
+    {
+        "content": "zhu kelong, song yubo, chen fei. school of information science and engineering, southeast university, nanjing 210096, china. email: jsseuzkl@163.com,...", 
+        "email_addr_list": [
+            "jsseuzkl@163.com"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0699...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Implementation of automated testing system for android ..."
+    }, 
+    {
+        "content": "email: houyubo@pku.edu.cn. list of publications. ting wang,yubo hou（2015）：chinese redistribution effect: a research of social ... wang, qi; koh, jessie bee kim; song, qingfang; hou, yubo(2014)：knowledge of memory functions in...", 
+        "email_addr_list": [
+            "houyubo@pku.edu.cn"
+        ], 
+        "cite_url": "www.psy.pku.edu.cn/en/houyubo.html", 
+        "cite_name": "Peking University", 
+        "title": "Yubo Hou - Department of Psychology, PKU"
+    }, 
+    {
+        "content": "ta name, email, course, lab/room, instructor, date/time. huang,bosco, yubo@hawaii.edu, 110, -, -, students contact for appt. chang, corey, coreykc@hawaii.", 
+        "email_addr_list": [
+            "yubo@hawaii.edu"
+        ], 
+        "cite_url": "ee.hawaii.edu/student/index.php?stc=2stp=135", 
+        "cite_name": "University of Hawaii", 
+        "title": "TA Office Hours - Spring 2014 - University of Hawaii ..."
+    }
+]

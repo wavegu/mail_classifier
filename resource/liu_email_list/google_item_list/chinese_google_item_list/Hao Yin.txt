@@ -1,0 +1,56 @@
+[
+    {
+        "content": "telephone, e-mail and addresses. search for all employees at ... danish. search. you are here: » hao yin ... denmark. haoyin@chem.au.dk  department of...", 
+        "email_addr_list": [
+            "haoyin@chem.au.dk"
+        ], 
+        "cite_url": "au.dk/en/haoyin@chem", 
+        "cite_name": "Aarhus University", 
+        "title": "Hao Yin - Research - Aarhus University"
+    }, 
+    {
+        "content": "hao yin. professor. research institute of information technology, tsinghua. university, beijing, p.r.china. email h-yin@mail.tsinghua.edu.cn. phone +86-10-...", 
+        "email_addr_list": [
+            "h-yin@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "cdn.riit.tsinghua.edu.cn/YinHao_docs/YinHao_CV_2013.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]here - Yin Hao"
+    }, 
+    {
+        "content": "prof. yin hao,research institute of information technology, tsinghua university,beijing, p.r.china. ... e-mail: h-yin@mail.tsinghua.edu.cn. ph.d., e.e....", 
+        "email_addr_list": [
+            "h-yin@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "cdn.riit.tsinghua.edu.cn/", 
+        "cite_name": "", 
+        "title": "Prof. Yin Hao"
+    }, 
+    {
+        "content": "hao yin. 964 59th st #2. brooklyn, ny 11219 - view map nearest landmark: across the 105 ... email: haoyinprinting@gmail.com. web: www.haoyinprinting.com...", 
+        "email_addr_list": [
+            "haoyinprinting@gmail.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "hao yin printing inc. Brooklyn NY, 11219 – Manta.com"
+    }, 
+    {
+        "content": "email: akpatel@mit.edu. room : 76-687. website: .... hao yin. postdoc ph.d. toxicology, school of pharmacy, university of colorado anschutz medical campus", 
+        "email_addr_list": [
+            "akpatel@mit.edu"
+        ], 
+        "cite_url": "langer-lab.mit.edu/people/current", 
+        "cite_name": "", 
+        "title": "Current members | Langer Lab"
+    }, 
+    {
+        "content": "yin hao - yale school of engineering  applied science. ... email: yin.hao@yale.edu. school of engineering  applied science | yale universitydunham...", 
+        "email_addr_list": [
+            "yin.hao@yale.edu"
+        ], 
+        "cite_url": "seas.yale.edu/.../hao-yin", 
+        "cite_name": "Yale School of Engineering  Applied Science", 
+        "title": "Yin Hao - Yale School of Engineering  Applied Science ..."
+    }
+]

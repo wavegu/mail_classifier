@@ -1,0 +1,49 @@
+[
+    {
+        "content": "lifu hu project group. researchers a-z. epigenetic change ... li f, hu l, xu y, li z, yi s, gu z, et al. leukemia 2015 sep;(): integrin α9 ... e-mail: lifu.hu@ki.se...", 
+        "email_addr_list": [
+            "lifu.hu@ki.se"
+        ], 
+        "cite_url": "ki.se/en/mtc/lifu-hu-project-group", 
+        "cite_name": "Karolinska Institutet", 
+        "title": "LiFu Hu Project Group - Karolinska Institutet"
+    }, 
+    {
+        "content": "for sale 12 lifu close wonga 3 bedrooms 1, bathroom - great sized block within ... steve doble 0411 399 344 or email sdoble.portdouglas@ljh.com.au", 
+        "email_addr_list": [
+            "sdoble.portdouglas@ljh.com.au"
+        ], 
+        "cite_url": "portdouglas.ljhooker.com.au/ACPF4A/12-lifu-close-wonga", 
+        "cite_name": "LJ Hooker", 
+        "title": "Wonga 12 Lifu Close - LJ Hooker Port Douglas"
+    }, 
+    {
+        "content": "12 lifu close wonga beach qld 4873. listed by lj hooker ... contact steve doble 0411 399 344 or email sdoble.portdouglas@ljh.com.au. proudly...", 
+        "email_addr_list": [
+            "sdoble.portdouglas@ljh.com.au"
+        ], 
+        "cite_url": "www.realestate.com.au/property-house-qld-wonga+beach-107349724", 
+        "cite_name": "", 
+        "title": "12 Lifu Close Wonga Beach Qld 4873 - Realestate.com.au"
+    }, 
+    {
+        "content": "telephone +49 30 838 62545. email doreen.herrfurth@fu-berlin.de ... email fhenning@zedat.fu-berlin.de ... +49 30 838 72937. email chenyang.li@fu-berlin.de.", 
+        "email_addr_list": [
+            "doreen.herrfurth@fu-berlin.de", 
+            "fhenning@zedat.fu-berlin.de", 
+            "chenyang.li@fu-berlin.de"
+        ], 
+        "cite_url": "www.vetmed.fu-berlin.de/en/.../index.html", 
+        "cite_name": "Free University of Berlin", 
+        "title": "Staff - Freie Universität Berlin"
+    }, 
+    {
+        "content": "email: laura. ... you need javascript enabled to view it. fu li phd student phone:+49 (0) 231 133-2359 email: fu.li@mpi-dortmund.mpg.dethis email address is...", 
+        "email_addr_list": [
+            "fu.li@mpi-dortmund.mpg.dethis"
+        ], 
+        "cite_url": "www.cgc.mpg.de/index.php/...dr.../group-members", 
+        "cite_name": "Max Planck Society", 
+        "title": "Group Members - Chemical Genomics Centre"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "hitoshi iba machine inference section, electrotechnicaj laboratory (etl), 1-1-4 umezono, tsukuba science city, ibaraki, 305, japan., email, iba@etl.go.jp...", 
+        "email_addr_list": [
+            "iba@etl.go.jp"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=354061723X", 
+        "cite_name": "", 
+        "title": "Parallel Problem Solving from Nature - PPSN IV: ..."
+    }, 
+    {
+        "content": "hitoshi iba. homepage: http://www.iba.t.u-tokyo.ac.jp/~iba/. search externally: google scholar, ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_addr_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/hitoshi_iba/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Hitoshi Iba - University of Tokyo - VideoLectures.NET"
+    }
+]

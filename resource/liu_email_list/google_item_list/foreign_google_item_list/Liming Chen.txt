@@ -1,0 +1,65 @@
+[
+    {
+        "content": "team, feature extraction and identification. institution, École centrale de lyon. location, ecully (ecole centrale de lyon). e-mail, liming.chen at liris.cnrs.fr.", 
+        "email_addr_list": [
+            "liming.chen@liris.cnrs.fr"
+        ], 
+        "cite_url": "https://liris.cnrs.fr/membres?...", 
+        "cite_name": "Centre national de la recherche scientifique", 
+        "title": "Liming Chen - membres — LIRIS - CNRS"
+    }, 
+    {
+        "content": "this is liming chens homepage. ... email: liming.chen@dmu.ac.uk ... liming chen is professor of computer science and the head of the context, intelligence...", 
+        "email_addr_list": [
+            "liming.chen@dmu.ac.uk"
+        ], 
+        "cite_url": "www.tech.dmu.ac.uk/~limingchen/", 
+        "cite_name": "De Montfort University", 
+        "title": "Welcome to Liming CHENs Homepage"
+    }, 
+    {
+        "content": "email : liming.chen@ec-lyon.fr http://www.ec-lyon.fr/perso/liming_chen/. a2. professional status. • senior ieee member. • 1998–now : professor, department of...", 
+        "email_addr_list": [
+            "liming.chen@ec-lyon.fr"
+        ], 
+        "cite_url": "som.xjtu.edu.cn/upload/files/.../2612485402.pd...", 
+        "cite_name": "Xi'an Jiaotong University", 
+        "title": "[PDF]CV Liming Chen long eng v2"
+    }, 
+    {
+        "content": "de montfort university the gateway leicester le1 9bh united kingdom, u.k.. phone: (+44) 116 207 8490 (office). email: liming.chen@dmu.ac.uk...", 
+        "email_addr_list": [
+            "liming.chen@dmu.ac.uk"
+        ], 
+        "cite_url": "scm.ulster.ac.uk/~lchen/", 
+        "cite_name": "Ulster University", 
+        "title": "Liming CHENs - School of Computing and Mathematics"
+    }, 
+    {
+        "content": "if you are interested in them,i will do my best to arrange best factoty to develop new products. best regars, liming chen email address: clmfff@foxmail.com", 
+        "email_addr_list": [
+            "clmfff@foxmail.com"
+        ], 
+        "cite_url": "https://www.linkedin.com/in/limingchen", 
+        "cite_name": "", 
+        "title": "Liming Chen | LinkedIn"
+    }, 
+    {
+        "content": "ph.d. candidate supervisor: mostaghimi email: liming@mie.utoronto.ca. liming chen received his bachelor and master degrees from tsinghua university,...", 
+        "email_addr_list": [
+            "liming@mie.utoronto.ca"
+        ], 
+        "cite_url": "www.mie.utoronto.ca/labs/cact/people/liming.html", 
+        "cite_name": "University of Toronto", 
+        "title": "Liming Chen - University of Toronto"
+    }, 
+    {
+        "content": "invitation to lecture by chen liming, president of bp china. ... for further information of the lecture please get in touch by email: info@confuciusinstitute.ac.uk.", 
+        "email_addr_list": [
+            "info@confuciusinstitute.ac.uk"
+        ], 
+        "cite_url": "www.scen.info/news/2014/05/invitation-to-lecture-by-chen-liming/", 
+        "cite_name": "", 
+        "title": "Invitation to Lecture by Chen Liming, President of BP China ..."
+    }
+]

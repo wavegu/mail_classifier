@@ -1,0 +1,47 @@
+[
+    {
+        "content": "univ. prof. dr.-ing./univ. tokio martin buss. theresienstr. 90 80333 münchen. tel.: +49 89 289 28396. fax: +49 89 289 28340. email: lsr@ei.tum.de...", 
+        "email_addr_list": [
+            "lsr@ei.tum.de"
+        ], 
+        "cite_url": "https://www.lsr.ei.tum.de/", 
+        "cite_name": "Technische Universität München", 
+        "title": "Lehrstuhl für Steuerungs- und Regelungstechnik: Startseite"
+    }, 
+    {
+        "content": "email: mb@tum.de ... althoff, daniel and weber, bernhard and wollherr, dirk and buss, martin: closed-loop safety assessment of uncertain roadmaps.", 
+        "email_addr_list": [
+            "mb@tum.de"
+        ], 
+        "cite_url": "https://www.lsr.ei.tum.de/.../martin-buss/", 
+        "cite_name": "Technische Universität München", 
+        "title": "Lehrstuhl für Steuerungs- und Regelungstechnik: Martin Buss"
+    }, 
+    {
+        "content": "univ.-prof. dr.-ing./univ. martin buss ... email. mb[at]tum.de ... lead to action. j. leo van hemmen (tum), martin buss (tum), and gordon cheng (tum)...", 
+        "email_addr_list": [
+            "mb@tum.de"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Martin Buss, Univ.-Prof. Dr.-Ing./Univ. - BCCN Munich"
+    }, 
+    {
+        "content": "email: relmjb@emory.edu ... martin buss, professor emeritus. ... the impact of faith on relational thought by martin j. buss [printed in:consensus 31, no.", 
+        "email_addr_list": [
+            "relmjb@emory.edu"
+        ], 
+        "cite_url": "religion.emory.edu/home/people/.../buss-martin.html", 
+        "cite_name": "Emory University", 
+        "title": "Martin Buss - Emory University"
+    }, 
+    {
+        "content": "martin buss ... email: mb [at] tum.de tel. ... [2] m. buss, “hybrid control of mechatronic systems,” journal on systems, control and information; institute of...", 
+        "email_addr_list": [
+            "mb@tum.de"
+        ], 
+        "cite_url": "www.jsps-bonn.de/fileadmin/veranstaltungen/2006K_Abstr_Buss.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Abstract Buss"
+    }
+]

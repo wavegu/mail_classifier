@@ -1,0 +1,20 @@
+[
+    {
+        "content": "email: zhangxuebo@nankai.edu.cn. we are recruiting graduate or undergraduate students interested in mobile robotics, autonomous vehicles, machine vision,...", 
+        "email_addr_list": [
+            "zhangxuebo@nankai.edu.cn"
+        ], 
+        "cite_url": "xuebozhang.org/members.html", 
+        "cite_name": "", 
+        "title": "Members - Dr. Xuebo Zhang"
+    }, 
+    {
+        "content": "hailing zhang, zhaoxia pu, and xuebo zhang, 2013: examination of errors in near-surface ... hailing zhang and zhaoxia pu ... e-mail: zhaoxia.pu@utah.edu...", 
+        "email_addr_list": [
+            "zhaoxia.pu@utah.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "American Meteorological Society", 
+        "title": "Examination of Errors in Near-Surface Temperature and Wind"
+    }
+]

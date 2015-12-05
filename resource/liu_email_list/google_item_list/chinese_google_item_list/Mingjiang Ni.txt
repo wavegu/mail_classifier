@@ -1,0 +1,40 @@
+[
+    {
+        "content": "email: qhwang@zju.edu.cn. office: institute for thermal ... [10] wang qinhui luo zhongyang fang mengxiang ni mingjiang cen kefa. development of a new...", 
+        "email_addr_list": [
+            "qhwang@zju.edu.cn"
+        ], 
+        "cite_url": "www.fe.zju.edu.cn/english/redir.php?catalog_id=6583object_id...", 
+        "cite_name": "", 
+        "title": "Wang Qinhui - Faculty of Engineering Zhejiang University"
+    }, 
+    {
+        "content": "name:ni mingjiang(professor) ... e-mail address: mjn@zju.edu.cn. email: cmee_master@zju.edu.cn telephone number: 0571-87951466 address: 38 zheda...", 
+        "email_addr_list": [
+            "mjn@zju.edu.cn", 
+            "cmee_master@zju.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Ni Mingjiang - Energy Engineering of Zhejiang University"
+    }, 
+    {
+        "content": "e-mail: icope15@jsme.or.jp. regarding registration: c/o iss, inc. ... fax: +81-3-3453-1180. email: icope15-reg@issjp.com ... mingjiang ni zhejiang university.", 
+        "email_addr_list": [
+            "icope15@jsme.or.jp", 
+            "icope15-reg@issjp.com"
+        ], 
+        "cite_url": "www.jsme.or.jp/pes/ICOPE-15/committee.html", 
+        "cite_name": "", 
+        "title": "Organizer/Committee - International Conference on Power ..."
+    }, 
+    {
+        "content": "jan 6, 2014 - ... utilization, zhejiang university, hangzhou, china. email: chiyong@zju.edu.cn ... dong j,; ni m,; chi y,; et al . (2013) life cycle and economic...", 
+        "email_addr_list": [
+            "chiyong@zju.edu.cn"
+        ], 
+        "cite_url": "wmr.sagepub.com/content/32/1/13.refs", 
+        "cite_name": "Sage Publications", 
+        "title": "Comparison of municipal solid waste treatment technologies ..."
+    }
+]

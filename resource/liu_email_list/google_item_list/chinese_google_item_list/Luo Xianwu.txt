@@ -1,0 +1,38 @@
+[
+    {
+        "content": "name：luo xianwu. title：associate professor. telephone (office)：86-10-62789853. email：luoxw@tsinghua.edu.cn. education background. 2000-2004 phd.", 
+        "email_addr_list": [
+            "luoxw@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201012222049252628596...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Luo Xianwu"
+    }, 
+    {
+        "content": "email: juan@sjtu.edu.cn ... hong-juan ran, xian-wu luo, lei zhu, yao zhang, hongyuan xu. experimental study on the pressure fluctuation of a pump...", 
+        "email_addr_list": [
+            "juan@sjtu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "RAN Hongjuan - School of Mechanical Engineering ..."
+    }, 
+    {
+        "content": "xianwu luo  luoxw@mail.tsinghua.edu.cn (1); shuhong liu (1); yao zhang (1); hongyuan xu (1). author affiliations. 1. state key laboratory of hydroscience...", 
+        "email_addr_list": [
+            "luoxw@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2Fs117...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Cavitation in semi-open centrifugal impellers for a miniature ..."
+    }, 
+    {
+        "content": "luo xianwu, luoxw@mail.tsinghua.edu.cn nomenclature v total volume. aoa angle of attack. l, v subindex for liquid and vapor γ fraction of liquid volume.", 
+        "email_addr_list": [
+            "luoxw@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.academia.edu/.../NUMERICAL_SIMULATION_OF_...", 
+        "cite_name": "Academia.edu", 
+        "title": "paper - Academia.edu"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "content": "nov 11, 2014 - email:leizhang@ufl.edu. mailing address: 358 little hall department of mathematics university of florida p.o. box 118105. gainesville, fl...", 
+        "email_addr_list": [
+            "leizhang@ufl.edu"
+        ], 
+        "cite_url": "people.clas.ufl.e...", 
+        "cite_name": "University of Florida College of Liberal Arts and Scien...", 
+        "title": "Lei Zhang » University of Florida - People"
+    }, 
+    {
+        "content": "pic 890. phone: 852-27667355. email: cslzhang at comp.polyu dot edu.hk. there are so many unknowns in the universe and life. we are just trying to...", 
+        "email_addr_list": [
+            "cslzhang@comp.polyu.edu.hk"
+        ], 
+        "cite_url": "www4.comp.polyu.edu.hk/~cslzhang/", 
+        "cite_name": "Hong Kong Polytechnic University", 
+        "title": "Lei Zhangs Homepage (HK-PolyU)"
+    }, 
+    {
+        "content": "name: lei zhang; email address: lz6@soas.ac.uk ... teaching. lei zhang lectures on modern chinese law  institutions and tutors on chinese law.", 
+        "email_addr_list": [
+            "lz6@soas.ac.uk"
+        ], 
+        "cite_url": "https://www.soas.ac.uk/staff/staff80629.php", 
+        "cite_name": "SOAS, University of London", 
+        "title": "Lei Zhang | Staff | SOAS, University of London"
+    }, 
+    {
+        "content": "dec 9, 2014 - dr lei zhang. research fellow. email: lei.zhang@surrey.ac.uk  home  institute for communication systems; people...", 
+        "email_addr_list": [
+            "lei.zhang@surrey.ac.uk"
+        ], 
+        "cite_url": "www.surrey.ac.uk/ics/people/lei_zhang", 
+        "cite_name": "University of Surrey", 
+        "title": "Lei Zhang - University of Surrey - Guildford"
+    }, 
+    {
+        "content": "lei zhang, assistant professor of civil engineering at the clark school of engineering, university of ... email: lei@umd.edu. welcome. my name is lei zhang.", 
+        "email_addr_list": [
+            "lei@umd.edu"
+        ], 
+        "cite_url": "lei.umd.edu/", 
+        "cite_name": "", 
+        "title": "Lei Zhang, University of Maryland"
+    }, 
+    {
+        "content": "insight affiliation: national university of ireland, dublin (ucd). email: lei.zhang@insight-centre.org. this user is an insight alumni who has finished working in...", 
+        "email_addr_list": [
+            "lei.zhang@insight-centre.org"
+        ], 
+        "cite_url": "https://www.insight-centre.org/users/lei-zhang", 
+        "cite_name": "", 
+        "title": "Lei Zhang | The Insight Centre for Data Analytics"
+    }, 
+    {
+        "content": "dr lei zhang research fellow, institute of molecular  experimental medicine. ... email address: zhangl14@cf.ac.uk; location: rm 2lb6 260, 2nd floor,...", 
+        "email_addr_list": [
+            "zhangl14@cf.ac.uk"
+        ], 
+        "cite_url": "medicine.cf.ac.uk/person/dr-lei-zhang/", 
+        "cite_name": "School of Medicine", 
+        "title": "Dr Lei Zhang - School of Medicine - Cardiff University"
+    }
+]

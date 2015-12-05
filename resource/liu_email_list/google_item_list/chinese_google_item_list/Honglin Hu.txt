@@ -1,0 +1,20 @@
+[
+    {
+        "content": "jul 1, 2009 - honglin hu. title ... phone. 62511070. zip code. 200050. fax. 62524192. email. hlhu@ieee.org ... honglin hu was born in jan. 1975 at...", 
+        "email_addr_list": [
+            "hlhu@ieee.org"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Honglin Hu"
+    }, 
+    {
+        "content": "honglin hu received his ph.d. in communications and information systems in 2004 ... email: hlhu@ieee.org yan zhang received his ph.d. from the school of...", 
+        "email_addr_list": [
+            "hlhu@ieee.org"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=1420042890", 
+        "cite_name": "", 
+        "title": "Distributed Antenna Systems: Open Architecture for Future ..."
+    }
+]

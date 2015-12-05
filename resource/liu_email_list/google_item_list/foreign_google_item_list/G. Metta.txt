@@ -1,0 +1,11 @@
+[
+    {
+        "content": "verified email at liralab.it - homepage  scholar. get my own ... g metta, l natale, f nori, g sandini, d vernon, l fadiga, c von hofsten, ... neural networks 23...", 
+        "email_addr_list": [
+            "email@liralab.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=AqlbAj8AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Francesco Nori - Google Scholar Citations"
+    }
+]

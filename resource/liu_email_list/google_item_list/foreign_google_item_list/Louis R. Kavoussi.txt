@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email: kavoussi@nshs.edu. about the investigator. louis r. kavoussi, md, is chairman of urology for north shore-lij health system and waldbaum-gardner...", 
+        "email_addr_list": [
+            "kavoussi@nshs.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Louis R. Kavoussi, MD - The Feinstein Institute for Medical ..."
+    }, 
+    {
+        "content": "email: louis.kavoussi@nyumc.org. publications. perioperative outcomes of laparoscopic partial nephrectomy stratified by body mass index. george, arvin k...", 
+        "email_addr_list": [
+            "louis.kavoussi@nyumc.org"
+        ], 
+        "cite_url": "www.med.nyu.edu/biosketch/kavoul01", 
+        "cite_name": "NYU Langone Medical Center", 
+        "title": "Louis R. Kavoussi | NYU School of Medicine"
+    }, 
+    {
+        "content": "louis r. kavoussi, md. disclosures. company, role ... fax: 410.689.3800. follow us. office of education. phone: 410.689.3930 email: education@auanet.org...", 
+        "email_addr_list": [
+            "education@auanet.org"
+        ], 
+        "cite_url": "https://www.auanet.org/.../speaker_info....", 
+        "cite_name": "American Urological Association", 
+        "title": "AUA University - Louis R. Kavoussi, MD"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "aug 30, 2012 - jingtai liu says: october 12 ... thanks,. jingtai liu (email: jingtai_l@hotmail.com) ... gravatar. email (required) (address never made public).", 
+        "email_addr_list": [
+            "jingtai_l@hotmail.com"
+        ], 
+        "cite_url": "https://howardchoy.wordpress.com/2012/08/30/breaking-news/", 
+        "cite_name": "", 
+        "title": "Breaking News | The Feng Shui Architects Blog"
+    }, 
+    {
+        "content": "jul 13, 2009 - 100029. fax. 010-62010846. email. bingx@mail.iggcas.ac.cn ... bing xu, zhaoyan gu, jingtai han, zongxiu liu, yunpeng pei, yanwu lu,...", 
+        "email_addr_list": [
+            "bingx@mail.iggcas.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Xu Bing - Staff--INSTITUTE OF GEOLOGY AND ..."
+    }, 
+    {
+        "content": "jul 13, 2009 - zip code. 100029. fax. 010-62010846. email. jhan@mail.igcas.ac.cn ... wang d j, wang y c, han j t, duan m g, shan j z, liu t s, 2010.", 
+        "email_addr_list": [
+            "jhan@mail.igcas.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Han Jingtai - Staff--INSTITUTE OF GEOLOGY AND ..."
+    }
+]

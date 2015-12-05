@@ -1,0 +1,20 @@
+[
+    {
+        "content": "the value of visualization. jarke j. van wijk∗. dept. mathematics and computer ... ∗e-mail: vanwijk@win.tue.nl. in this paper i want to give a contribution to the...", 
+        "email_addr_list": [
+            "vanwijk@win.tue.nl"
+        ], 
+        "cite_url": "https://www.cs.ubc.ca/~tmm/.../vov.pdf", 
+        "cite_name": "University of British Columbia", 
+        "title": "[PDF]The Value of Visualization - UBC Department of Computer ..."
+    }, 
+    {
+        "content": "search email number information data on the internet ... mb eindhoven the netherlands d.h.r.holten@tue.nl abstract jarke j. van wijk eindhoven university...", 
+        "email_addr_list": [
+            "d.h.r.holten@tue.nl"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-vanwijk-win-tue-nl-13775026.htm", 
+        "cite_name": "", 
+        "title": "vanwijk@win.tue.nl - The Email Archive"
+    }
+]

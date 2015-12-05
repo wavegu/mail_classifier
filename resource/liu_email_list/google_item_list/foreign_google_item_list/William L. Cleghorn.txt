@@ -1,0 +1,21 @@
+[
+    {
+        "content": "email: baines@mie.utoronto.ca  william l. cleghorn, phd, p.eng. professor emeritus ... email: currie@mie.utoronto.ca; tel: (416) 946 0343; office: mc308...", 
+        "email_addr_list": [
+            "baines@mie.utoronto.ca", 
+            "currie@mie.utoronto.ca"
+        ], 
+        "cite_url": "https://www.mie.utoronto.ca/faculty/?pos=5", 
+        "cite_name": "University of Toronto", 
+        "title": "Professors Emeriti - University of Toronto"
+    }, 
+    {
+        "content": "oct 9, 2015 - office: chs 248. email: grapczyc@gvsu.edu ... susan cleghorn, ms, otrl ... jennifer friesema, otd, otr/l ... william sisco, ma, ms, otrl.", 
+        "email_addr_list": [
+            "grapczyc@gvsu.edu"
+        ], 
+        "cite_url": "https://www.gvsu.edu/.../full-time-faculty-3...", 
+        "cite_name": "Grand Valley State University", 
+        "title": "Full Time Faculty - Occupational Science  Therapy - Grand ..."
+    }
+]

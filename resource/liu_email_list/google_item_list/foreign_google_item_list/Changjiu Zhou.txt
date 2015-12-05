@@ -1,0 +1,20 @@
+[
+    {
+        "content": "e-mail: zhoucj@sp.edu.sg. url: http://aricc.sp.edu.sg. dr. zhou changjiu is currently centre director of advanced robotics and intelligent control centre...", 
+        "email_addr_list": [
+            "zhoucj@sp.edu.sg"
+        ], 
+        "cite_url": "www.robo-erectus.org/members/czhou/", 
+        "cite_name": "", 
+        "title": "Home Page of Dr Changjiu Zhou - Robo Erectus"
+    }, 
+    {
+        "content": "sep 30, 2015 - centre director, dr zhou changjiu, 68790684, zhoucj@sp.edu.sg ... emails from members of the public to public officers listed in this directory...", 
+        "email_addr_list": [
+            "zhoucj@sp.edu.sg"
+        ], 
+        "cite_url": "app.sgdi.gov.sg/listing_expand....", 
+        "cite_name": "List of Singapore Government Ministries", 
+        "title": "Gov.sg - Singapore Government Directory"
+    }
+]

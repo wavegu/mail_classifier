@@ -1,0 +1,20 @@
+[
+    {
+        "content": "shuuji kajita. †. ∗. department of computer science, kogakuin university, tokyo, japan 163–8677. email: asano@cc.kogakuin.ac.jp. †. national institute of...", 
+        "email_addr_list": [
+            "asano@cc.kogakuin.ac.jp"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../07...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Online detection of calibration errors in humanoid robots"
+    }, 
+    {
+        "content": "stabilization of biped locomotion (with dr. shuuji kajita). i was responsible for developing .... email: jwb@robotics.caltech.edu. 2. jerrold e. marsden. mail code...", 
+        "email_addr_list": [
+            "jwb@robotics.caltech.edu"
+        ], 
+        "cite_url": "robotics.caltech.edu/~murphey/murpheycv.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Todd D. Murphey - Robotics.caltech.edu - California Institute ..."
+    }
+]

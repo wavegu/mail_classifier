@@ -1,0 +1,20 @@
+[
+    {
+        "content": "phone: +82 2 880 7300 fax: +82 2 871 4912. email: gunhee at {snu.ac.kr or cs.cmu.edu}. administrative assistant: seo jung kim (sjkim at cse.snu.ac.kr).", 
+        "email_addr_list": [
+            "sjkim@cse.snu.ac.kr"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~gunhee/", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Gunhee Kim @ CSE SNU - School of Computer Science"
+    }, 
+    {
+        "content": "gunhee kim. assistant professor. vision and learning lab. contact info. office: 302 building, room 327. phone: (02) 880-7300. email: gunhee@snu.ac.kr.", 
+        "email_addr_list": [
+            "gunhee@snu.ac.kr"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Gunhee Kim | SNU Computer Science and Engineering"
+    }
+]

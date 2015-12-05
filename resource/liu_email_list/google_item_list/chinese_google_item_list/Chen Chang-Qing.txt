@@ -1,0 +1,56 @@
+[
+    {
+        "content": "chen chang-qing, professor. contact ... email address:chencq@tsinghua.edu.cn ... chens research interests include numerical modeling of the microstructure...", 
+        "email_addr_list": [
+            "chencq@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201101131417478649917...", 
+        "cite_name": "Tsinghua University", 
+        "title": "School of aerospace,Tsinghua University"
+    }, 
+    {
+        "content": "changqing chen. senior lecturer. simmons college of arts and sciences. email: changqing.chen@simmons.edu. phone: 617-521-2774. office: s425.", 
+        "email_addr_list": [
+            "changqing.chen@simmons.edu"
+        ], 
+        "cite_url": "www.simmons.edu/Faculty/Changqing-Chen", 
+        "cite_name": "Simmons College", 
+        "title": "Changqing Chen - Simmons College"
+    }, 
+    {
+        "content": "location; home; people; research fellows; chang, ching-cheng ... tel: (886)-2-2782-2791, email: emily@econ.sinica.edu.tw; professor, dept of agricultural...", 
+        "email_addr_list": [
+            "emily@econ.sinica.edu.tw"
+        ], 
+        "cite_url": "www.econ.sinica.edu.tw/english/content/.../2013093010101108435/?...", 
+        "cite_name": "", 
+        "title": "Chang, Ching-Cheng - Academia Sinica"
+    }, 
+    {
+        "content": "chang qing(associate professor); chen aixin(associate professor); chen wei(associate professor); chen xing(associate ... email:webmaster@ee.buaa.edu.cn.", 
+        "email_addr_list": [
+            "webmaster@ee.buaa.edu.cn"
+        ], 
+        "cite_url": "www.ee.buaa.edu.cn/oldeeweb/html/english/.../associate_pro.html", 
+        "cite_name": "", 
+        "title": "School of Electronic and Information Engineering"
+    }, 
+    {
+        "content": "affiliation: michigan state university, usa; email: chencha3@msu.edu ... changqing chen, sakti pramanik, qiang zhu, alok watve, and gang qian. prepared...", 
+        "email_addr_list": [
+            "chencha3@msu.edu"
+        ], 
+        "cite_url": "icdt.tu-dortmund.de/.../N10CDB.html", 
+        "cite_name": "Technical University of Dortmund", 
+        "title": "Changqing Chen - ICDT"
+    }, 
+    {
+        "content": "changqing wu ... neetoo,, lu, y., wu, c., chen, h. (2012) use of high hydrostatic pressure to inactivate e. coli o157:h7 and ... email: changwu@udel.edu.", 
+        "email_addr_list": [
+            "changwu@udel.edu"
+        ], 
+        "cite_url": "canr.udel.edu/faculty/changqing-wu/", 
+        "cite_name": "", 
+        "title": "Changqing Wu - College of Agriculture and Natural Resources"
+    }
+]

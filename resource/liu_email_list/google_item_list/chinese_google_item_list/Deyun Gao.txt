@@ -1,0 +1,21 @@
+[
+    {
+        "content": "gaodeyun, gao deyun. associate professor. address. school of electronic and information engineering, beijing jiaotong ... email, gaody@bjtu.edu.cn...", 
+        "email_addr_list": [
+            "gaody@bjtu.edu.cn"
+        ], 
+        "cite_url": "eaie.bjtu.edu.cn/EnglishVersion/faculty/associate.../gaodeyun.html", 
+        "cite_name": "", 
+        "title": "GAO Deyun"
+    }, 
+    {
+        "content": "nov 28, 2007 - references secured to subscribers. ping dong. email: 05111042@bjtu.edu.cn. hongke zhang. email: hkzhang@bjtu.edu.cn. deyun gao.", 
+        "email_addr_list": [
+            "05111042@bjtu.edu.cn", 
+            "hkzhang@bjtu.edu.cn"
+        ], 
+        "cite_url": "folk.uio.no/paalee/.../ref-xa-dong-springer-2007.pdf", 
+        "cite_name": "University of Oslo", 
+        "title": "ISMS-MANET: An Identifiers Separating and Mapping ..."
+    }
+]

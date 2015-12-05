@@ -1,0 +1,47 @@
+[
+    {
+        "content": "e-mail: christian.goerick[at]honda-ri.de. www: personal homepage ... dr. christian goerick studied electrical engineering at the ruhr-university bochum,...", 
+        "email_addr_list": [
+            "christian.goerick@honda-ri.de"
+        ], 
+        "cite_url": "https://www.cor-lab.de/users/cgoerick", 
+        "cite_name": "", 
+        "title": "Dr. Christian Goerick - | CoR-Lab // Research Institute for ..."
+    }, 
+    {
+        "content": "christian goerick. honda research institute europe, carl-legien-strasse 30, 63073 offenbach/main, germany, e- mail: christian.goerick@honda-ri.de. 1...", 
+        "email_addr_list": [
+            "christian.goerick@honda-ri.de"
+        ], 
+        "cite_url": "https://ipvs.informatik.uni-stuttgart.de/.../10-toussa...", 
+        "cite_name": "University of Stuttgart", 
+        "title": "[PDF]A Bayesian view on motor control and planning"
+    }, 
+    {
+        "content": "email: christian.goerick@honda-ri.de. abstract— environmental perception is an important element of advanced driver assistance systems. the perception...", 
+        "email_addr_list": [
+            "christian.goerick@honda-ri.de"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../04...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "About Robust Hypotheses Generation and Object Validation ..."
+    }, 
+    {
+        "content": "free christian email services at jesusanswers.com. by using your jesusanswers.com email account, you will take part in spreading the word of the lord.", 
+        "email_addr_list": [
+            "services@jesusanswers.com"
+        ], 
+        "cite_url": "mail.jesusanswers.com/", 
+        "cite_name": "", 
+        "title": "Free Christian Email service from JesusAnswers.com"
+    }, 
+    {
+        "content": "email: christian.goerick@honda-ri.de. abstract—the contribution of this paper is twofold. first, we present a new conceptual framework for modeling incre-.", 
+        "email_addr_list": [
+            "christian.goerick@honda-ri.de"
+        ], 
+        "cite_url": "www.techfak.uni-bielefeld.de/.../GoerickEtAl_Huma...", 
+        "cite_name": "Bielefeld University", 
+        "title": "[PDF]Towards Incremental Hierarchical Behavior Generation for ..."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "content": "hotlines email: suman[at]cs.wisc.edu. phone: +1 (608) 262 7387. fax: +1 (608) 262-9777. postal mail: 1210 west dayton st. department of computer sciences", 
+        "email_addr_list": [
+            "suman@cs.wisc.edu"
+        ], 
+        "cite_url": "pages.cs.wisc.edu/~suman/", 
+        "cite_name": "University of Wisconsin‑Madison", 
+        "title": "Suman Banerjee - Home Page - University of Wisconsin ..."
+    }, 
+    {
+        "content": "suman banerjee. department of ... email: suman@cs.wisc.edu. research interests ..... sudipta sengupta, shravan rayanchu, suman banerjee. acm/ieee...", 
+        "email_addr_list": [
+            "suman@cs.wisc.edu"
+        ], 
+        "cite_url": "pages.cs.wisc.edu/~suman/cv11-banerj...", 
+        "cite_name": "University of Wisconsin‑Madison", 
+        "title": "[PDF]Suman Banerjee - Home Page - University of Wisconsin ..."
+    }, 
+    {
+        "content": "suman banerjee ... hotlines email : suman[at]cs.wisc.edu suman[at]cs.umd.edu. office: +1 (608) fax: +1 (608) 262 9777...", 
+        "email_addr_list": [
+            "suman@cs.wisc.edu", 
+            "suman@cs.umd.edu"
+        ], 
+        "cite_url": "https://www.cs.umd.edu/~suman/", 
+        "cite_name": "University of Maryland, College Park", 
+        "title": "Suman Banerjee - University of Maryland at College Park ..."
+    }
+]

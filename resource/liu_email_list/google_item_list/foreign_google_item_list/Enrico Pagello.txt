@@ -1,0 +1,30 @@
+[
+    {
+        "content": "home page of enrico pagello. enrico pagello is currently a full professor of computer science, and a ..... e-mail epv@dei.unipd.it, enrico.pagello@unipd.it. and.", 
+        "email_addr_list": [
+            "epv@dei.unipd.it", 
+            "enrico.pagello@unipd.it"
+        ], 
+        "cite_url": "www.dei.unipd.it/~epv/", 
+        "cite_name": "University of Padua", 
+        "title": "Enrico Pagello - DEI"
+    }, 
+    {
+        "content": "enrico pagello. professore ... email: enrico.pagello@unipd.it ..... ias-lab members: enrico pagello (full professor), emanuele menegatti (associate professor),.", 
+        "email_addr_list": [
+            "enrico.pagello@unipd.it"
+        ], 
+        "cite_url": "persone.csia.unipd.it/.../95B21BE7BB66EA326D6F80BCC3467929.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Curriculum Vitae Enrico Pagello - Università degli Studi di ..."
+    }, 
+    {
+        "content": "by enrico pagello. ... the university of tennessee, knoxville, tennessee, usa (email: parker@cs.utk.edu). another on heterogeneous multi-robot systems [14].", 
+        "email_addr_list": [
+            "parker@cs.utk.edu"
+        ], 
+        "cite_url": "www.academia.edu/.../Editorial_Advances_in_Multi-Robo...", 
+        "cite_name": "Academia.edu", 
+        "title": "Editorial: Advances in Multi-Robot Systems | enrico pagello ..."
+    }
+]

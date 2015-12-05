@@ -1,0 +1,20 @@
+[
+    {
+        "content": "ryohei nakatsu, phd. professor, national university of singapore (emeritus) tel: e-mail: nakatsu.ryohei@gmail.com. homepage:...", 
+        "email_addr_list": [
+            "nakatsu.ryohei@gmail.com"
+        ], 
+        "cite_url": "www.org.id.tue.nl/.../ryohei-nakats...", 
+        "cite_name": "Eindhoven University of Technology", 
+        "title": "Ryohei Nakatsu"
+    }, 
+    {
+        "content": "ryohei nakatsu received the b.s., m.s. and ph.d. degrees in electronic .... send us an email at hello@interaction-design.org or through our online contact form.", 
+        "email_addr_list": [
+            "hello@interaction-design.org"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/ryohei-nakatsu", 
+        "cite_name": "", 
+        "title": "Ryohei Nakatsu - Interaction Design Foundation"
+    }
+]

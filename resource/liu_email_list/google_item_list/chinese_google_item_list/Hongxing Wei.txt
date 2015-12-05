@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: hxlihku@gmail.com. google scholar profile ... germany, may 10-11, 2012. hongxing li, chuan wu, zongpeng li, wei huang and francis c.m. lau.", 
+        "email_addr_list": [
+            "hxlihku@gmail.com"
+        ], 
+        "cite_url": "https://sites.google.com/site/hongxingli82/", 
+        "cite_name": "", 
+        "title": "Hongxing Li - Google Sites"
+    }, 
+    {
+        "content": "see information and reports about hxwei@gwu.edu (hongxing weis e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "hxwei@gwu.edu"
+        ], 
+        "cite_url": "spam-report.email/hxwei/gwu.edu", 
+        "cite_name": "", 
+        "title": "hxwei@gwu.edu (Hongxing Weis e-mail) - Spam-Report ..."
+    }, 
+    {
+        "content": "wei huang (m.phil, hku; b.s., nanjing u) ... email: wh.huang@mail.utoronto.ca ... hongxing li, chuan wu, zongpeng li, wei huang and francis c.m. lau.", 
+        "email_addr_list": [
+            "wh.huang@mail.utoronto.ca"
+        ], 
+        "cite_url": "weihuang.info/", 
+        "cite_name": "", 
+        "title": "Wei Huang: Homepage"
+    }, 
+    {
+        "content": "email: hxli@illinois.edu. office: room 439, coordinated ... hongxing li, chuan wu, zongpeng li, wei huang and francis c.m. lau. stochastic optimal multirate...", 
+        "email_addr_list": [
+            "hxli@illinois.edu"
+        ], 
+        "cite_url": "i.cs.hku.hk/~hxli/", 
+        "cite_name": "University of Hong Kong", 
+        "title": "Hongxing Li: Homepage - The University of Hong Kong"
+    }
+]

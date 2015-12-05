@@ -1,0 +1,49 @@
+[
+    {
+        "content": "see information and reports about yfang@clemson.edu (yongchun fangs e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "yfang@clemson.edu"
+        ], 
+        "cite_url": "spam-report.email/yfang/clemson.edu", 
+        "cite_name": "", 
+        "title": "yfang@clemson.edu (Yongchun Fangs e-mail) - Spam ..."
+    }, 
+    {
+        "content": "verified email at i3s.unice.fr. @i3s.unice.fr. cited by 4739 ... yongchun fang. nankai university. verified email at robot.nankai.edu.cn. @robot.nankai.edu.cn.", 
+        "email_addr_list": [
+            "email@i3s.unice.fr", 
+            "email@robot.nankai.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?view_op=search...", 
+        "cite_name": "Google Scholar", 
+        "title": "Visual Servoing - Google Scholar"
+    }, 
+    {
+        "content": "ipc chairs, er-wei bai ji-feng zhang. editor, yanlong zhao ... hai-tao fang, cn, yongchun fang, cn. hugues ... p. r. china email: secretariat@sysid2015.info.", 
+        "email_addr_list": [
+            "secretariat@sysid2015.info"
+        ], 
+        "cite_url": "sysid2015.info/committees.html", 
+        "cite_name": "", 
+        "title": "Committees - The 17th IFAC Symposium on System ..."
+    }, 
+    {
+        "content": "yongchun fang. nankai university. verified email at robot.nankai.edu.cn. @robot.nankai.edu.cn ... verified email at buaa.edu.cn. @buaa.edu.cn. cited by 256.", 
+        "email_addr_list": [
+            "email@robot.nankai.edu.cn", 
+            "email@buaa.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com.br/citations?view_op=search...hl...", 
+        "cite_name": "Google", 
+        "title": "Atomic Force Microscope"
+    }, 
+    {
+        "content": "yongchun fang, ph.d (2016) ... subscriptions: rates/orders - contact asme customer care at email: asmeonlinejournals@asme.org phone:...", 
+        "email_addr_list": [
+            "asmeonlinejournals@asme.org"
+        ], 
+        "cite_url": "https://journaltool.asme.org/content/Masthead4.cfm", 
+        "cite_name": "ASME", 
+        "title": "Journals Publications - American Society of Mechanical ..."
+    }
+]

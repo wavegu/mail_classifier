@@ -1,0 +1,56 @@
+[
+    {
+        "content": "email: tani@brain.riken.jp http://www.bdc.brain.riken.go.jp/~tani. education: 1995 doctor of engineering in electrical engineering, sophia university, japan.", 
+        "email_addr_list": [
+            "tani@brain.riken.jp"
+        ], 
+        "cite_url": "www.brain.riken.jp/asset/...tani/j_tani.pdf", 
+        "cite_name": "RIKEN Brain Science Institute", 
+        "title": "[PDF]Jun Tani, Ph.D. - RIKEN Brain Science Institute"
+    }, 
+    {
+        "content": "jul 6, 2015 - jun tani. * e-mail: tani1216jp@gmail.com. affiliation: department of electrical ... citation: jung m, hwang j, tani j (2015) self-organization of...", 
+        "email_addr_list": [
+            "tani1216jp@gmail.com"
+        ], 
+        "cite_url": "journals.plos.org/plosone/article?id=10.1371/journal.pone.0131214", 
+        "cite_name": "", 
+        "title": "PLOS ONE: Self-Organization of Spatio-Temporal Hierarchy ..."
+    }, 
+    {
+        "content": "nov 7, 2008 - e-mail: yamay@brain.riken.jp ... jun tani. affiliation: laboratory for behavior and dynamic cognition, riken ... yuichi yamashita,; jun tani.", 
+        "email_addr_list": [
+            "yamay@brain.riken.jp"
+        ], 
+        "cite_url": "journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi...", 
+        "cite_name": "", 
+        "title": "Emergence of Functional Hierarchy in a Multiple Timescale ..."
+    }, 
+    {
+        "content": "jun tani. sony computer science laboratory inc. takanawa muse building, 3-14-13 ... tel 3-5448-4380, fax 3-5448-4273, email tani@csl.sony.co.jp. abstract.", 
+        "email_addr_list": [
+            "tani@csl.sony.co.jp"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.54.4588rep...", 
+        "cite_name": "", 
+        "title": "Jun Tani Introduction - CiteSeer"
+    }, 
+    {
+        "content": "email: murata[at]sugano.mech.waseda.ac.jp. google scholar ... full text [pdf]; shingo murata, hiroaki arie, tetsuya ogata, shigeki sugano, and jun tani,.", 
+        "email_addr_list": [
+            "murata@sugano.mech.waseda.ac.jp"
+        ], 
+        "cite_url": "https://sites.google.com/site/shingomrt/", 
+        "cite_name": "", 
+        "title": "Shingo Murata - Google Sites"
+    }, 
+    {
+        "content": "dr. jun tani riken brain science institute, tokyo, japan. e-mail: tani@brain.riken.jp. description: it has been a challenge in neuroscience and computer...", 
+        "email_addr_list": [
+            "tani@brain.riken.jp"
+        ], 
+        "cite_url": "iconip2011.sjtu.edu.cn/S6.html", 
+        "cite_name": "", 
+        "title": "Brain-Realistic Models for Learning, Memory and Embodied ..."
+    }
+]

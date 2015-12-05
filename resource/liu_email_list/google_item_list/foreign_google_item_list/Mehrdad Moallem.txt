@@ -1,0 +1,39 @@
+[
+    {
+        "content": "mehrdad moallem. contact: tel: 778.782.8156. email: mmoallem@sfu.ca. fax: 778.782.7514. office: central city galleria 4 4392. personal webpage:...", 
+        "email_addr_list": [
+            "mmoallem@sfu.ca"
+        ], 
+        "cite_url": "https://www.sfu.ca/.../mehrdad_moallem.html", 
+        "cite_name": "Simon Fraser University", 
+        "title": "Mehrdad Moallem - Simon Fraser University"
+    }, 
+    {
+        "content": "moallem, mehrdad ... dr. moallems research interests and activities include real-time and embedded computer ... e-mail: mmoallem@engga.uwo.ca...", 
+        "email_addr_list": [
+            "mmoallem@engga.uwo.ca"
+        ], 
+        "cite_url": "www.eng.uwo.ca/research/.../mmoallem.ht...", 
+        "cite_name": "University of Western Ontario", 
+        "title": "MOALLEM, Mehrdad"
+    }, 
+    {
+        "content": "see information and reports about mehrdadm@aol.com (mehrdad moallems e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "mehrdadm@aol.com"
+        ], 
+        "cite_url": "spam-report.email/mehrdadm/aol.com", 
+        "cite_name": "", 
+        "title": "mehrdadm@aol.com (Mehrdad Moallems e-mail) - Spam ..."
+    }, 
+    {
+        "content": "email: s2he@ryerson.ca. krishna dev kumar, ph.d. department of aerospace engineering ryerson university email: kdkumar@ryerson.ca. mehrdad moallem...", 
+        "email_addr_list": [
+            "s2he@ryerson.ca", 
+            "kdkumar@ryerson.ca"
+        ], 
+        "cite_url": "www.ryerson.ca/sjarmm/editors.htm", 
+        "cite_name": "Ryerson University", 
+        "title": "SJARMM - Ryerson University"
+    }
+]

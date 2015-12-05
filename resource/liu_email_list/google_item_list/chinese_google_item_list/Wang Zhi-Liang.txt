@@ -1,0 +1,20 @@
+[
+    {
+        "content": "email: liangzhi@ustc.edu.cn. website: ... zhi liang is now an associate professor in life science at ustc. he received his bachelor ... lianyu wang, zhuo chen...", 
+        "email_addr_list": [
+            "liangzhi@ustc.edu.cn"
+        ], 
+        "cite_url": "staff.ustc.edu.cn/~liangzhi/", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "Homepage of Zhi Liang"
+    }, 
+    {
+        "content": "wang zhiliang, assistant professor tel: 86-10-64807255. tax: 86-10-64807099. email：zlwang@ioz.ac.cn. address: institute of zoology, chinese academy of...", 
+        "email_addr_list": [
+            "zlwang@ioz.ac.cn"
+        ], 
+        "cite_url": "english.anisys.ioz.cas.cn/groups/zhangrunzhi/team/wangzhiliang/", 
+        "cite_name": "", 
+        "title": "Wang Zhiliang - Key Laboratory of Zoological and ..."
+    }
+]

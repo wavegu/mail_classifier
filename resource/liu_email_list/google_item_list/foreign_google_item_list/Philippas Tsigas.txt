@@ -1,0 +1,11 @@
+[
+    {
+        "content": "jul 15, 2013 - philippas.tsigas@chalmers.se. +46 31 772 54 09. find me .... your email (optional, but necessary if you want a reply from us) your message.", 
+        "email_addr_list": [
+            "philippas.tsigas@chalmers.se"
+        ], 
+        "cite_url": "https://www.chalmers.se/.../philippas-...", 
+        "cite_name": "Chalmers University of Technology", 
+        "title": "Philippas Tsigas"
+    }
+]

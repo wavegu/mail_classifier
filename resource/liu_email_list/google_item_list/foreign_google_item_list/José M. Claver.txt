@@ -1,0 +1,30 @@
+[
+    {
+        "content": "dr. josé m. claver-iborra. associate professor (prof. titular universidad) ... e-mail: jose.claver@uv.es. telef.: (+34) 96 354 37 38. fax: (+34) 96 354 47 68...", 
+        "email_addr_list": [
+            "jose.claver@uv.es"
+        ], 
+        "cite_url": "www.uv.es/jclaver/", 
+        "cite_name": "University of Valencia", 
+        "title": "Personal Website of José M. Claver - Universitat de València"
+    }, 
+    {
+        "content": "jose m. claver. departament dinform`atica. universitat de val`encia. valencia, spain. email: jose.claver@uv.es. abstract—currently, network traffic monitoring...", 
+        "email_addr_list": [
+            "jose.claver@uv.es"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0731...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Towards a SDN-based Architecture for Analyzing Network ..."
+    }, 
+    {
+        "content": "verified email at sei.cmu.edu. @sei.cmu.edu. cited by ... verified email at ceid.upatras.gr. @ceid.upatras.gr. cited by ... jose m. claver. associate professor...", 
+        "email_addr_list": [
+            "email@sei.cmu.edu", 
+            "email@ceid.upatras.gr"
+        ], 
+        "cite_url": "scholar.google.com.hk/citations?view_op=search...hl...", 
+        "cite_name": "Google", 
+        "title": "Google Scholar Citations"
+    }
+]

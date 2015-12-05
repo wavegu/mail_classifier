@@ -1,0 +1,20 @@
+[
+    {
+        "content": "professor. email: aude.billard@epfl.ch. room: me a3 393. phones: office: +41-21-693-5464; home: +41-21-693-0939; fax: +41-21-693-7850...", 
+        "email_addr_list": [
+            "aude.billard@epfl.ch"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Aude Billard | LASA"
+    }, 
+    {
+        "content": "ch-1015 lausanne, switzerland email: aude.billard@epfl.ch. office hours: monday, 14:00 to 16:00, by appointment. (room me.a3.393) tel: +41 (21) 693.54.64", 
+        "email_addr_list": [
+            "aude.billard@epfl.ch"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Applied Machine Learning | LASA"
+    }
+]

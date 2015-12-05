@@ -1,0 +1,86 @@
+[
+    {
+        "content": "email: wfxu@hit.edu.cn. phone: +86-755-26033486 +86-755-26033774（fax） ... dr. xu, wenfu is currently a associate professor of harbin institute of...", 
+        "email_addr_list": [
+            "wfxu@hit.edu.cn"
+        ], 
+        "cite_url": "www.hitsz.edu.cn/body/shizi/detailen.php?strID=589", 
+        "cite_name": "", 
+        "title": "XU Wenfu"
+    }, 
+    {
+        "content": "e-mail: libing.sgs@hit.edu.cn. copyright (c) 2010 ... email: xpyang8@yahoo.com.cn ... wenfu xu. office: d-207. email: wfxu@hit.edu.cn. tel: 86-755-26033486.", 
+        "email_addr_list": [
+            "libing.sgs@hit.edu.cn", 
+            "xpyang8@yahoo.com.cn", 
+            "wfxu@hit.edu.cn"
+        ], 
+        "cite_url": "sys.hitsz.edu.cn/rc/ResCenter/jixie/zzxt/CAMDI/people.htm", 
+        "cite_name": "", 
+        "title": "CADMI"
+    }, 
+    {
+        "content": "aug 28, 2011 - wenfu xus homepage. ... email: wfxu@hit.edu.cn; wfxu@robotsat.com; tel: (+86)-755-26033486; correponding adress: d#207b, hit campus...", 
+        "email_addr_list": [
+            "wfxu@hit.edu.cn", 
+            "wfxu@robotsat.com"
+        ], 
+        "cite_url": "wenfuxu.weebly.com/", 
+        "cite_name": "", 
+        "title": "Wenfu Xus Home Page - Personal Information"
+    }, 
+    {
+        "content": "dr. wenfu yan ... email: yanw@jlu.edu.cn. my group: http://mezeopor.jlu.edu.cn .... yan, w. f., zhang, z. t., xu, j., mahurin, s. m.  dai, s. stud. surf. sci. catal.", 
+        "email_addr_list": [
+            "yanw@jlu.edu.cn"
+        ], 
+        "cite_url": "mezeopor.jlu.edu.cn/ywf/yanwf.jsp", 
+        "cite_name": "", 
+        "title": "Prof. Wenfu Yan"
+    }, 
+    {
+        "content": "aug 3, 2015 - xu, w. ; wenfu xu is with the the school of mechanical engineering and automation, ... (email: wfxu@hit.edu.cn) ; zhang, j. ; liang, b. ; li, b.", 
+        "email_addr_list": [
+            "wfxu@hit.edu.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../article...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "IEEE Xplore Abstract - Singularity Analysis and Avoidance ..."
+    }, 
+    {
+        "content": "zhonghua hu, da guan wenfu xu#, zhiying wang. huaiwu zou ... contact email: wfxu@hit.edu.cn ... the corresponding author is wenfu xu. abstract - since...", 
+        "email_addr_list": [
+            "wfxu@hit.edu.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0727...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Mechanical Design and Motion Analysis of a Small ..."
+    }, 
+    {
+        "content": "aug 27, 2009 - wenfu xua1a2, bin lianga1, cheng lia1 and yangsheng xua3. a1 the institute of ... e-mail: wfxu@robotsat.com. how to cite this article; link...", 
+        "email_addr_list": [
+            "wfxu@robotsat.com"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S0263574709...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Robotica - Autonomous rendezvous and robotic capturing of ..."
+    }, 
+    {
+        "content": "jul 17, 2008 - wenfu xua1, bin lianga1, cheng lia1, yu liua1 and yangsheng xua2. a1 the institute of ... e-mail: wfxu@robotsat.com. how to cite this...", 
+        "email_addr_list": [
+            "wfxu@robotsat.com"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S0263574708...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Robotica - Autonomous target capturing of free-floating ..."
+    }, 
+    {
+        "content": "xu wen fu li definition at chinese.yabla.com, a free online dictionary with english, mandarin chinese, pinyin, strokes. look it up now!", 
+        "email_addr_list": [
+            "definition@chinese.yabla.com"
+        ], 
+        "cite_url": "https://chinese.yabla.com/chinese-english-pinyin-dicti...", 
+        "cite_name": "", 
+        "title": "xu wen fu li - Yabla Chinese"
+    }
+]

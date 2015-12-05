@@ -1,0 +1,29 @@
+[
+    {
+        "content": "jul 15, 2014 - kin-lu wong received the b.s. degree in electrical engineering ... http://antenna.ee.nsysu.edu.tw, email: wongkl@mail.nsysu.edu.tw.", 
+        "email_addr_list": [
+            "wongkl@mail.nsysu.edu.tw"
+        ], 
+        "cite_url": "antenna.ee.nsysu.edu.tw/...KLWong/Kin-Lu%20Wong-Curriculum%20v...", 
+        "cite_name": "", 
+        "title": "[PDF]Kin-Lu Wong received the B.S. degree in electrical ..."
+    }, 
+    {
+        "content": "aug 1, 2015 - kin-lu wong received the b.s. degree in electrical engineering from ... http://antenna.ee.nsysu.edu.tw, email: wongkl@mail.nsysu.edu.tw.", 
+        "email_addr_list": [
+            "wongkl@mail.nsysu.edu.tw"
+        ], 
+        "cite_url": "antenna.ee.nsysu.edu.tw/...KLWong/2-Kin-Lu%20Wong-Curriculum%2...", 
+        "cite_name": "", 
+        "title": "[PDF]Kin-Lu Wong received the B.S. degree in electrical ..."
+    }, 
+    {
+        "content": "planar antennas for wireless communication - kin-lu-wong. hi a. i need the copy of the ... my email id is sanguine_sonali@yahoo.in. regards...", 
+        "email_addr_list": [
+            "sanguine_sonali@yahoo.in"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Planar Antennas for Wireless Communication - Kin-Lu-Wong ..."
+    }
+]

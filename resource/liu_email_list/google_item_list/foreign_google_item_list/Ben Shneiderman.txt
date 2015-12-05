@@ -1,0 +1,29 @@
+[
+    {
+        "content": "university of maryland selected ben shneiderman as a distinguished university professor in 2013. ... ben shneiderman (resume) is a distinguished university professor in the department of computer science, ... e-mail: ben [at] cs.umd.edu", 
+        "email_addr_list": [
+            "ben@cs.umd.edu"
+        ], 
+        "cite_url": "https://www.cs.umd.edu/users/ben/", 
+        "cite_name": "University of Maryland, College Park", 
+        "title": "Ben Shneiderman"
+    }, 
+    {
+        "content": "ben shneiderman is a distinguished university professor in the department of computer science, ... ben shneidermans biography appears in marquiss whos who in the world, whos who in america, and .... e-mail: ben [at] cs.umd.edu", 
+        "email_addr_list": [
+            "ben@cs.umd.edu"
+        ], 
+        "cite_url": "https://www.cs.umd.edu/.../ben/abo...", 
+        "cite_name": "University of Maryland, College Park", 
+        "title": "About Ben Shneiderman - University of Maryland at College ..."
+    }, 
+    {
+        "content": "3177 a.v. williams building. email: ben@cs.umd.edu. phone: 301.405.2680. fax: ... ben shneiderman is a professor in the department of computer science,...", 
+        "email_addr_list": [
+            "ben@cs.umd.edu"
+        ], 
+        "cite_url": "https://www.isr.umd.edu/faculty/shneiderman", 
+        "cite_name": "", 
+        "title": "Shneiderman, Ben | Institute for Systems Research"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "e-mail: rgreis@dep.uminho.pt ... for more details on dr. rui l. reis click here ... researcher id reis, rui l (a-8938-2008); scopus author id 7103370557;...", 
+        "email_addr_list": [
+            "rgreis@dep.uminho.pt"
+        ], 
+        "cite_url": "www.3bs.uminho.pt/users/rgreis", 
+        "cite_name": "University of Minho", 
+        "title": "Rui L. Reis | 3Bs Research Group in Biomaterials ..."
+    }, 
+    {
+        "content": "351-253 604498, e-mail: rgreis@dep.uminho.pt, www.3bs.uminho.pt. 2. ... rui l. reis é professor associado do dept. de engenharia de polímeros (dep) da...", 
+        "email_addr_list": [
+            "rgreis@dep.uminho.pt"
+        ], 
+        "cite_url": "farmacia.ugr.es/.../RUIREIS%20...", 
+        "cite_name": "University of Granada", 
+        "title": "[PDF]RUIREIS CV"
+    }
+]

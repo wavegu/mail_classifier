@@ -1,0 +1,11 @@
+[
+    {
+        "content": "alfred o. hero iii. homepage: http://web.eecs.umich.edu/~hero/. search externally: google ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_addr_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/alfred_o_hero_iii/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Alfred O. Hero III - VideoLectures.NET"
+    }
+]

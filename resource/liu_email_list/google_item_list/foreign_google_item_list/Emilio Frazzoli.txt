@@ -1,0 +1,39 @@
+[
+    {
+        "content": "emilio frazzoli is a professor of aeronautics and astronautics with the laboratory for information and decision systems, and the ... email:frazzoli@mit.edu.", 
+        "email_addr_list": [
+            "frazzoli@mit.edu"
+        ], 
+        "cite_url": "idss.mit.edu/staff/emilio-frazzoli/", 
+        "cite_name": "", 
+        "title": "Emilio Frazzoli | IDSS"
+    }, 
+    {
+        "content": "emilio frazzoli associate professor at the department of aeronautics and astronautics office: 33-332. phone number: (617) 253-0305. email: frazzoli@mit.edu", 
+        "email_addr_list": [
+            "frazzoli@mit.edu"
+        ], 
+        "cite_url": "optimization.mit.edu/researcher.php?id=Frazzoli", 
+        "cite_name": "", 
+        "title": "Emilio Frazzoli"
+    }, 
+    {
+        "content": "emilio frazzoli. headshot photo. first name: emilio. last name: frazzoli. contact information. email: frazzoli@mit.edu. telephone: 617 253 1991. affiliation:.", 
+        "email_addr_list": [
+            "frazzoli@mit.edu"
+        ], 
+        "cite_url": "ieeecss.org/contacts/emilio-frazzoli", 
+        "cite_name": "IEEE Control Systems Society", 
+        "title": "Emilio Frazzoli | IEEE Control Systems Society"
+    }, 
+    {
+        "content": "... cambridge univ. england e-mail fisher@csail.mit.edu symposium@stevensonflamm.com ... http://aeroastro.mit.edu/faculty-research/faculty-list/emilio-frazzoli", 
+        "email_addr_list": [
+            "fisher@csail.mit.edu", 
+            "symposium@stevensonflamm.com"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-frazzoli-mit-edu-1541905.htm", 
+        "cite_name": "", 
+        "title": "frazzoli@mit.edu - The Email Archive"
+    }
+]

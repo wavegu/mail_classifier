@@ -1,0 +1,20 @@
+[
+    {
+        "content": "photo of nayak. amiya nayak. professor ... office: site building, room 5001. email: anayak@site.uottawa.ca  contactez: lÉcole dingénierie et de technologie...", 
+        "email_addr_list": [
+            "anayak@site.uottawa.ca"
+        ], 
+        "cite_url": "https://www.site.uottawa.ca/~anayak/", 
+        "cite_name": "University of Ottawa", 
+        "title": "Dr. Amiya Nayak"
+    }, 
+    {
+        "content": "amiya nayak. e-card. amiya nayak professor ph.d p.eng. ste 5001. office: 613 562-5800 ext. 2165. work e-mail: anayak@eecs.uottawa.ca.", 
+        "email_addr_list": [
+            "anayak@eecs.uottawa.ca"
+        ], 
+        "cite_url": "engineering.uottawa.ca/eecs/people/nayak-amiya", 
+        "cite_name": "University of Ottawa", 
+        "title": "Nayak, Amiya - Faculty of Engineering"
+    }
+]

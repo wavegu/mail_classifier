@@ -1,0 +1,39 @@
+[
+    {
+        "content": "yonghong yi - research scientist - e-mail: yonghong.yi@ntsg.umt.edu  youngwook ... mingzhu he - phd graduate student - e-mail: mingzhu.he@ntsg.umt.edu.", 
+        "email_addr_list": [
+            "yonghong.yi@ntsg.umt.edu", 
+            "mingzhu.he@ntsg.umt.edu"
+        ], 
+        "cite_url": "www.ntsg.umt.edu/people", 
+        "cite_name": "University of Montana", 
+        "title": "NTSG People | Numerical Terradynamic Simulation Group"
+    }, 
+    {
+        "content": "yong-hong kuo (hong) 郭永鴻 ... email : yhkuo at cuhk.edu.hk ... posted jul 25, 2015, 2:43 am by yong-hong kuo; call for papers: the 20th international...", 
+        "email_addr_list": [
+            "yhkuo@cuhk.edu.hk"
+        ], 
+        "cite_url": "https://sites.google.com/site/yonghongkuo/home", 
+        "cite_name": "", 
+        "title": "Yong-Hong KUOs homepage - Google Sites"
+    }, 
+    {
+        "content": "sep 14, 2009 - e-mail: yonghong.yan@hccl.ioa.ac.cn ... he served as director of intel microprocessors laboratory division engineers and computer interface...", 
+        "email_addr_list": [
+            "yonghong.yan@hccl.ioa.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Prof. YAN Yonghong - Institute Of Acoustics Chinese ..."
+    }, 
+    {
+        "content": "电话：0755-26036361. email: he.honghui@sz.tsinghua.edu.cn ... yihong guo, celong liu, nan zeng, honghui he, e du, yonghong he, and hui ma. “study on...", 
+        "email_addr_list": [
+            "he.honghui@sz.tsinghua.edu.cn"
+        ], 
+        "cite_url": "lois.sz.tsinghua.edu.cn/.../faculty_hehonghui_paper.ht...", 
+        "cite_name": "", 
+        "title": "论文专利 - 光学检测与成像实验室 - 清华大学"
+    }
+]

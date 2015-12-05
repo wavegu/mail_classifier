@@ -1,0 +1,29 @@
+[
+    {
+        "content": "room 3-469a massachusetts institute of technology 77 massachusetts avenue cambridge ma 02139-4307 phone: 617.253.2144 email: dubowsky@mit.edu...", 
+        "email_addr_list": [
+            "dubowsky@mit.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "MECHE PEOPLE: Steven Dubowsky | MIT Department of ..."
+    }, 
+    {
+        "content": "references: dr. steven dubowsky professor of mechanical engineering mit dubowsky@mit.edu 617-253-2144 dr. john madden postdoctorate associate of the...", 
+        "email_addr_list": [
+            "dubowsky@mit.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-dubowsky-mit-edu-20222780.htm", 
+        "cite_name": "", 
+        "title": "dubowsky@mit.edu - The Email Archive"
+    }, 
+    {
+        "content": "email: bieyhy@nus.edu.sg. tel: + (65) ... matt spenko, haoyong yu, and steven dubowsky, a robotic personal aid for the mobility and health. monitoring of...", 
+        "email_addr_list": [
+            "bieyhy@nus.edu.sg"
+        ], 
+        "cite_url": "www.nus.edu.sg/.../YU_Haoyong.pdf", 
+        "cite_name": "National University of Singapore", 
+        "title": "[PDF]Yu Haoyong"
+    }
+]

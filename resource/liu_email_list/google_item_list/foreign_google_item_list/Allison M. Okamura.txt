@@ -1,0 +1,29 @@
+[
+    {
+        "content": "aug 22, 2011 - email: aokamura@stanford.edu  collaborative haptics and robotics in ... allison m. okamura, ph.d. (2 of 29). research interests. my research...", 
+        "email_addr_list": [
+            "aokamura@stanford.edu"
+        ], 
+        "cite_url": "web.stanford.edu/~allisono/files/okamura-cv.pdf", 
+        "cite_name": "Stanford University", 
+        "title": "[PDF]Curriculum Vitae of Allison M. Okamura - Stanford University"
+    }, 
+    {
+        "content": "aug 17, 2015 - e-mail: axm141231@utdallas.edu ... majewicz, a., j. siegel, a. stanley, and a. m. okamura. design ... majewicz, a. and allison m. okamura.", 
+        "email_addr_list": [
+            "axm141231@utdallas.edu"
+        ], 
+        "cite_url": "me.utdallas.edu/people/majewicz.html", 
+        "cite_name": "University of Texas at Dallas", 
+        "title": "Ann Majewicz - Department of Mechanical Engineering"
+    }, 
+    {
+        "content": "may 12, 2015 - phone: (215) 573-2786 email: kuchenbe@seas.upenn.edu .... gurari, allison m. okamura, and katherine j. kuchenbecker. manipulating force...", 
+        "email_addr_list": [
+            "kuchenbe@seas.upenn.edu"
+        ], 
+        "cite_url": "www.seas.upenn....", 
+        "cite_name": "University of Pennsylvania School of Engineering an...", 
+        "title": "[PDF]Curriculum Vitae - SEAS - University of Pennsylvania"
+    }
+]

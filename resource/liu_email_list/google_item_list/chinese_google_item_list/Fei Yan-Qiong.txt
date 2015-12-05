@@ -1,0 +1,59 @@
+[
+    {
+        "content": "email: fyq@sjtu.edu.cn ... book charpter：fei yanqiong, in “industrial robotics：programming, simulation ... fei yanqiong, xia zhenxin, wang yong, song libo.", 
+        "email_addr_list": [
+            "fyq@sjtu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "FEI Yanqiong - School of Mechanical Engineering Shanghai ..."
+    }, 
+    {
+        "content": "feb 20, 2013 - yanqiong fei  fyq@sjtu.edu.cn (1); xingyao shen (1). author affiliations. 1. research institute of robotics, shanghai jiaotong university,...", 
+        "email_addr_list": [
+            "fyq@sjtu.edu.cn"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2Fs110...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Nonlinear analysis on moving process of soft robots - Springer"
+    }, 
+    {
+        "content": "bai yan, associate professor, 86-10-51683743, ybai@bjtu.edu.cn .... cheng fei, lecturer, 86-10-51682052-106, fcheng@bjtu.edu.cn. chang gong, associate ... chen xi, associate professor, 86-10-51684867, xichen.geo@gmail.com. chen rui .... gou juanqiong, professor, 86-10-51688258, jqgou@bjtu.edu.cn.", 
+        "email_addr_list": [
+            "ybai@bjtu.edu.cn", 
+            "fcheng@bjtu.edu.cn", 
+            "xichen.geo@gmail.com", 
+            "jqgou@bjtu.edu.cn"
+        ], 
+        "cite_url": "en.bjtu.edu.cn/Faculty/list/list1/index.htm", 
+        "cite_name": "", 
+        "title": "Faculty List - Beijing Jiaotong University"
+    }, 
+    {
+        "content": "director: mr. zhang yangwu, minister counsellor. deputy director: mr. shao ... counsellor  consul general: mr. fei mingxing ... head of consular assistance: ms zhang qiong, third secretary. head of ... email:kjc@chinese-science.org.uk.", 
+        "email_addr_list": [
+            "kjc@chinese-science.org.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Offices - Chinese Embassy"
+    }, 
+    {
+        "content": "fei yanqiong song libo. research institute of robotics,. shanghai jiaotong ... email:fyq@sjtu.edu.cn. abstract: - in the paper, a modular climbing-wall...", 
+        "email_addr_list": [
+            "fyq@sjtu.edu.cn"
+        ], 
+        "cite_url": "www.wseas.us/e-library/transactions/mechanics/2008/32-238.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Design and Analysis of Modular Mobile Robot with ... - Wseas"
+    }, 
+    {
+        "content": "... research institute of fuelcell, shanghai jiaotong university, shanghai 200030, china; e-mail: wuqiuxuan@sjtu.edu.cn ; guang-yi cao ; yan-qiong fei.", 
+        "email_addr_list": [
+            "wuqiuxuan@sjtu.edu.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../abs...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Described Model of a Modular Self-Reconfigurable Robot"
+    }
+]

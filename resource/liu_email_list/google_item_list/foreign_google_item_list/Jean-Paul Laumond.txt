@@ -1,0 +1,20 @@
+[
+    {
+        "content": "email: jean-paul.laumond@laas.fr. address: laas-cnrs 7, avenue du colonel roche 31077 toulouse cedex 4. tel: 05.61.33.63.47. fax: 05.61.33.69.69", 
+        "email_addr_list": [
+            "jean-paul.laumond@laas.fr"
+        ], 
+        "cite_url": "projects.laas.fr/.../Je...", 
+        "cite_name": "Laboratory for Analysis and Architecture of Systems", 
+        "title": "Gepetto Team Members/Jean-Paul Laumond - LAAS"
+    }, 
+    {
+        "content": "email: jpl@laas.fr ... 1984 ph.d in robotics, university of paul sabatier at toulouse. ... g. walsh, d. tilbury, s.s. sastry, r. murray, j.p. laumond, stabilization of...", 
+        "email_addr_list": [
+            "jpl@laas.fr"
+        ], 
+        "cite_url": "https://parasol.tamu.edu/people/.../Laumond.html", 
+        "cite_name": "Texas AM University", 
+        "title": "Jean-Paul Laumond"
+    }
+]

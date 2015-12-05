@@ -1,0 +1,11 @@
+[
+    {
+        "content": "yue-jun zhang: current contact information and listing of economic research of this author provided by repec/ideas. ... email: zyjmis@126.com. homepage...", 
+        "email_addr_list": [
+            "zyjmis@126.com"
+        ], 
+        "cite_url": "https://ideas.repec.org/f/pzh370.html", 
+        "cite_name": "", 
+        "title": "Yue-Jun Zhang at IDEAS"
+    }
+]

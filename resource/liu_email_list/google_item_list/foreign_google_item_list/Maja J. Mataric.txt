@@ -1,0 +1,20 @@
+[
+    {
+        "content": "maja j. matarić. computer science. contact: office location. rth 407. office phone. tel. (213) 740-4520. email: mataric@usc.edu. website:.", 
+        "email_addr_list": [
+            "mataric@usc.edu"
+        ], 
+        "cite_url": "https://gapp.usc.edu/about/.../maja-mata...", 
+        "cite_name": "University of Southern California", 
+        "title": "Maja J. Matarić | USC Viterbi School of Engineering"
+    }, 
+    {
+        "content": "maja j mataric cv, october 2007. 1. curriculum vitae. maja j ... tel: (213) 740-4520 fax: (213) 821-5696 email: mataric@usc.edu http://robotics.usc.edu/∼maja.", 
+        "email_addr_list": [
+            "mataric@usc.edu"
+        ], 
+        "cite_url": "www.legolab.daimi.au.dk/DigitalControl.dir/.../cv.pdf", 
+        "cite_name": "Aarhus University", 
+        "title": "[PDF]Maja J Mataric"
+    }
+]

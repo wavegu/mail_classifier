@@ -1,0 +1,29 @@
+[
+    {
+        "content": "jul 22, 2015 - s. shankar sastry. photograph of professor s. shankar sastry. dean of the college of engineering. ... email: sastry@coe.berkeley.edu...", 
+        "email_addr_list": [
+            "sastry@coe.berkeley.edu"
+        ], 
+        "cite_url": "robotics.eecs.berkeley.edu/~sastry/", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Professor S. Shankar Sastry - University of California, Berkeley"
+    }, 
+    {
+        "content": "email: sastry@coe.berkeley.edu. biography and cv. s. shankar sastry is currently the dean of engineering at university of california, berkeley and the faculty...", 
+        "email_addr_list": [
+            "sastry@coe.berkeley.edu"
+        ], 
+        "cite_url": "www.me.berkeley.edu/.../s-shankar-sas...", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "S. Shankar Sastry | Mechanical Engineering"
+    }, 
+    {
+        "content": "... (510) 642-1857. fax: (510) 643-2356. email: sastry@eecs.berkeley.edu ... september 20-22, 2002. shankar sastry, jack stankovic, and janos sztipanovits", 
+        "email_addr_list": [
+            "sastry@eecs.berkeley.edu"
+        ], 
+        "cite_url": "robotics.eecs.berkeley.edu/~sastry/sastr...", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Shankar Sastrys Home Page"
+    }
+]

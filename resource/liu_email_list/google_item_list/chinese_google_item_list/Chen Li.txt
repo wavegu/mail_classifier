@@ -1,0 +1,47 @@
+[
+    {
+        "content": "cheng li william r. kenan professor of government, hamilton college. nonresident .... to contact professor li call 315-859-4257 or e-mail cli@hamilton.edu...", 
+        "email_addr_list": [
+            "cli@hamilton.edu"
+        ], 
+        "cite_url": "academics.hamilton.edu/government/cli/cl.html", 
+        "cite_name": "", 
+        "title": "Cheng Li - Hamilton College"
+    }, 
+    {
+        "content": "chen li, e-mail: li01@cec.sc.edu. phone: 803.777.7155. fax: 803.777.0106. office: 541 main street room 340. columbia, sc 29208. links: curriculum vitae", 
+        "email_addr_list": [
+            "li01@cec.sc.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Chen Li | Mechanical Engineering"
+    }, 
+    {
+        "content": "that is why chen li kindergarten has customized our classes to your childs needs ... tel: 6345 1802 fax: 6345 9884 contact form | email: grow@chenli.edu.sg", 
+        "email_addr_list": [
+            "grow@chenli.edu.sg"
+        ], 
+        "cite_url": "www.chenli.edu.sg/", 
+        "cite_name": "", 
+        "title": "Chen Li Kindergarten :: Kindergarten in Singapore"
+    }, 
+    {
+        "content": "... of texas at dallas. email: chenli at hlt dot utdallas dot edu ... [download dataset]; zhongyu wei, yang liu, chen li, wei gao. using tweets to help...", 
+        "email_addr_list": [
+            "chenli@hlt.utdallas.edu"
+        ], 
+        "cite_url": "www.hlt.utdallas.edu/~chenli/", 
+        "cite_name": "", 
+        "title": "Chen Li s Homepage at UTDallas"
+    }, 
+    {
+        "content": "ms chen li. chen. academic visitor from bamtri from august 2013 to march 2014 ... icl: tel: (+44) (0)2075 957060 email: li.chen@imperial.ac.uk. bamtri:...", 
+        "email_addr_list": [
+            "li.chen@imperial.ac.uk"
+        ], 
+        "cite_url": "www3.imperial.ac.uk/avicdesign/people/chen", 
+        "cite_name": "Imperial College London", 
+        "title": "Ms Chen Li"
+    }
+]

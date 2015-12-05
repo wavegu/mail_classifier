@@ -1,0 +1,20 @@
+[
+    {
+        "content": "e-mail: dani at kth.se, visiting address: ... danica kragic is a professor at the school of computer science and communication at the royal institute of...", 
+        "email_addr_list": [
+            "dani@kth.se"
+        ], 
+        "cite_url": "www.csc.kth.se/~danik/", 
+        "cite_name": "Royal Institute of Technology", 
+        "title": "Prof. Danica Kragic - KTH"
+    }, 
+    {
+        "content": "danica kragic. computational vision ... e-mail: dani@kth.se ..... robust visual servoing, danica kragic, henrik i christensen, international journal of. robotics...", 
+        "email_addr_list": [
+            "dani@kth.se"
+        ], 
+        "cite_url": "www.csc.kth.se/.../CV-DanicaKragic.pdf", 
+        "cite_name": "Royal Institute of Technology", 
+        "title": "[PDF]Danica Kragic - KTH"
+    }
+]

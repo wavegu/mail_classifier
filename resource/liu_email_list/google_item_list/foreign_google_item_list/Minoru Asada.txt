@@ -1,0 +1,29 @@
+[
+    {
+        "content": "asada, graduate school of engineering, osaka university. april 23, 2015. we are delighted to hold a seminar by dr. minoru asada, professor osaka university ... phone: +1-415-296-8561; fax: +1-415-296-8676; e-mail: info@osaka-u-sf.org...", 
+        "email_addr_list": [
+            "info@osaka-u-sf.org"
+        ], 
+        "cite_url": "osaka-u-sf.org/en/news/seminarbyprofasada/", 
+        "cite_name": "", 
+        "title": "Seminar by Prof. Asada, Graduate School of Engineering ..."
+    }, 
+    {
+        "content": "advisor: prof. minoru asada, thesis title: echo state network reservoir .... joschka boedecker, oliver obst, norbert michael mayer, and minoru asada. “initialization and .... e-mail: riedmiller@informatik.uni-freiburg.de. prof. dr. minoru asada.", 
+        "email_addr_list": [
+            "riedmiller@informatik.uni-freiburg.de"
+        ], 
+        "cite_url": "ml.informatik.uni-freiburg.de/_media/people/.../cv-boedecker.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Joschka Bödecker - Machine Learning - Universität Freiburg"
+    }, 
+    {
+        "content": "domain report for minoru asada, support.domain@kagoya.net, associated with 6 domains and 3 emails.", 
+        "email_addr_list": [
+            "support.domain@kagoya.net"
+        ], 
+        "cite_url": "www.domainiq.com/name?Minoru_Asada", 
+        "cite_name": "", 
+        "title": "Minoru Asada - domainIQ"
+    }
+]

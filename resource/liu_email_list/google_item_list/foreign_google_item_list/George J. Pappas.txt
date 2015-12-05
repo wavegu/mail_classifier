@@ -1,0 +1,20 @@
+[
+    {
+        "content": "george j. pappas. electrical and systems engineering dept. university of pennsylvania, philadelphia, pa 19104. email: pappasg@seas.upenn.edu.", 
+        "email_addr_list": [
+            "pappasg@seas.upenn.edu"
+        ], 
+        "cite_url": "www.georgejpappas.org/papers/DS-14-1055%20(13).pdf", 
+        "cite_name": "", 
+        "title": "[PDF]DS-14-1055 (13).pdf - George J. Pappas"
+    }, 
+    {
+        "content": "email: ssundara@uwaterloo.ca. m. pajic. r. mangharam and g. j. pappas are with the ... vertices vi0 vi1 ···vit such that (vij ,vij+1 ) ∈ e for 0 ≤ j ≤ t−1.", 
+        "email_addr_list": [
+            "ssundara@uwaterloo.ca"
+        ], 
+        "cite_url": "georgejpappas.org/papers/byz_det_netcon.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]The Wireless Control Network - George J. Pappas"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "hongguang li, jiyoung choi, takashi nakanishi, optoelectronic functional ... baogang wang, jingcheng hao, hongguang li*. ... e-mail:hgli@licp.cas.cn.", 
+        "email_addr_list": [
+            "hgli@licp.cas.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "LI Hongguang----Lanzhou Institute of Chemical Physics ..."
+    }, 
+    {
+        "content": "dr guang hong is associate professor in the mechanical  mechatronic ... fellow, society of automotive engineers australasia. email. guang.hong@uts.edu.au.", 
+        "email_addr_list": [
+            "guang.hong@uts.edu.au"
+        ], 
+        "cite_url": "www.uts.edu.au/staff/guang.hong", 
+        "cite_name": "University of Technology Sydney", 
+        "title": "Guang Hong | University of Technology Sydney"
+    }
+]

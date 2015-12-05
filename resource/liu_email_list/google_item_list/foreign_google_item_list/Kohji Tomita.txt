@@ -1,0 +1,21 @@
+[
+    {
+        "content": "kohji tomita. to japanese. tomita photo. smart mobility research group  intelligent systems research ... simulation  publications. e-mail: k.tomita@aist.go.jp.", 
+        "email_addr_list": [
+            "k.tomita@aist.go.jp"
+        ], 
+        "cite_url": "https://staff.aist.g...", 
+        "cite_name": "National Institute of Advanced Industrial Science and...", 
+        "title": "Kohji TOMITA"
+    }, 
+    {
+        "content": "affliation: tsukuba university email: shio@ailab.is.tsukuba.ac.jp,. name: kohji tomita affliation: mechanical engineering laboratory email: tomita@mel.go.jp.", 
+        "email_addr_list": [
+            "shio@ailab.is.tsukuba.ac.jp", 
+            "tomita@mel.go.jp"
+        ], 
+        "cite_url": "www.cs.ait.ac.th/conf97/mailinglist.html", 
+        "cite_name": "", 
+        "title": "ASIAN97"
+    }
+]

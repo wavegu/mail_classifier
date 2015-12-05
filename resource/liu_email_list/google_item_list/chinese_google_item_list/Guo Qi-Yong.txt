@@ -1,0 +1,11 @@
+[
+    {
+        "content": "guo qiyong - 17 november 2015 ... guo qiyong is invited as the speaker. ... email:jackwong@cuhk.edu.hk) or mr. thomas chan (tel: 3943-3740; email:...", 
+        "email_addr_list": [
+            "jackwong@cuhk.edu.hk"
+        ], 
+        "cite_url": "phil.arts.cuhk.edu.hk/.../eventDeta...", 
+        "cite_name": "The Chinese University of Hong Kong", 
+        "title": "17 November 2015 - Philosophy Department, CUHK - The ..."
+    }
+]

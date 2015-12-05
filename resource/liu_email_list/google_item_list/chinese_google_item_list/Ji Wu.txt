@@ -1,0 +1,38 @@
+[
+    {
+        "content": "ji wu profile page. ji wu. name: ji wu. title: professor. email: jiwu@sjtu.edu.cn ... after completing her graduate study, dr. wu joined the university of...", 
+        "email_addr_list": [
+            "jiwu@sjtu.edu.cn"
+        ], 
+        "cite_url": "life.sjtu.edu.cn/english/index.php/component/comprofiler/.../Ji%20Wu", 
+        "cite_name": "", 
+        "title": "Ji Wu"
+    }, 
+    {
+        "content": "category: professional services / translation address: av. roca y bologna 1045. urb. aurora, miraflores e-mail: xd-ji@terra.com.pe. phone: 446-2227, 9752-...", 
+        "email_addr_list": [
+            "xd-ji@terra.com.pe"
+        ], 
+        "cite_url": "www.peruthisweek.com/yellowpages-xiaodong-ji-wu-2286", 
+        "cite_name": "", 
+        "title": "Xiaodong Ji Wu - Yellow Pages - Peru this Week"
+    }, 
+    {
+        "content": "ji wu. ph. d., professor, principal investigator email: jiwu@sjtu.edu.cn ... dr. wu has conducted research on development of germ cells in university of utah,...", 
+        "email_addr_list": [
+            "jiwu@sjtu.edu.cn"
+        ], 
+        "cite_url": "www.bio-x.cn/en/DetailResearchInfo.php?v=2l=3pid...", 
+        "cite_name": "", 
+        "title": "Ji WU Reproductive Biology  Stem Cell - Bio-X"
+    }, 
+    {
+        "content": "zhuangzhi wu associate professor. telephoneno: 010-82339797. email: zzwu@buaa.edu.cn. homepage: no home. ji wu associate professor. telephoneno:...", 
+        "email_addr_list": [
+            "zzwu@buaa.edu.cn"
+        ], 
+        "cite_url": "scse.buaa.edu.cn/.../navigationTemplateListAction.act...", 
+        "cite_name": "Beihang University", 
+        "title": "Associate Professor"
+    }
+]

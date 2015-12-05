@@ -1,0 +1,21 @@
+[
+    {
+        "content": "25 118 00 praha 1 czechoslovakia e-mail: matousek@kam.mff.cuni.cz micha sharir school of mathematical sciences tel aviv university tel aviv 69978 israel...", 
+        "email_addr_list": [
+            "matousek@kam.mff.cuni.cz"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-sharir-math-tau-ac-2962332.htm", 
+        "cite_name": "", 
+        "title": "sharir@math.tau.ac - The Email Archive"
+    }, 
+    {
+        "content": "dierk johannes email: johannes at cs.uni-sb.de: nicola wolpert email: nicola at mpi-sb.mpg.de ... raimund seidel, micha sharir top-down analysis of path...", 
+        "email_addr_list": [
+            "johannes@cs.uni-sb.de", 
+            "nicola@mpi-sb.mpg.de"
+        ], 
+        "cite_url": "www-tcs.cs.uni-sb.de/", 
+        "cite_name": "", 
+        "title": "Chair of Prof. Seidel"
+    }
+]

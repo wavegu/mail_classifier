@@ -1,0 +1,32 @@
+[
+    {
+        "content": "... +33/61 33 64 55. email: jpl@laas.fr ... g. walsh, d. tilbury, s.s. sastry, r. murray, j.p. laumond, stabilization of ... p. sou`eres, j.y. fourquet, j.p. laumond,", 
+        "email_addr_list": [
+            "jpl@laas.fr"
+        ], 
+        "cite_url": "https://parasol.tamu.edu/people/.../Laumond.html", 
+        "cite_name": "Texas AM University", 
+        "title": "Jean-Paul Laumond"
+    }, 
+    {
+        "content": "j.-p. laumond is with the laboratoire danalyse et darchitectures des syst emes ... scientique toulouse university 31077 toulouse france (e-mail: jpl@laas.fr) .", 
+        "email_addr_list": [
+            "jpl@laas.fr"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-jpl-laas-fr-4779859.htm", 
+        "cite_name": "", 
+        "title": "jpl@laas.fr - The Email Archive"
+    }, 
+    {
+        "content": "email kamal@cs.sfu.ca ... christian laugier, laugier@imag.fr; laas-cnrs, toulouse. c: j.p. laumond, jpl@laas.fr ... t.u-tokyo.ac.jp; university of nagoya. c: toshio fukuda, ... jaume-i university, castellon. c: angel p. del pobil, pobil@inf.uji.es...", 
+        "email_addr_list": [
+            "kamal@cs.sfu.ca", 
+            "laugier@imag.fr", 
+            "jpl@laas.fr", 
+            "pobil@inf.uji.es"
+        ], 
+        "cite_url": "www.ensc.sfu.ca/~kamal/ieee-mot-plan/ieee-mot-plan.html", 
+        "cite_name": "", 
+        "title": "IEEE Robotics  Automation Society, Subcommittee on ..."
+    }
+]

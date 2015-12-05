@@ -1,0 +1,30 @@
+[
+    {
+        "content": "department, electrical  computer engineering. email, kash@ece.concordia.ca. telephone, 514-848-2424; ext. 3086. office, ev012.113. website...", 
+        "email_addr_list": [
+            "kash@ece.concordia.ca"
+        ], 
+        "cite_url": "aits.encs.concordia.ca/oldsite/...and.../details/?...Khorasani%2C%20K...", 
+        "cite_name": "", 
+        "title": "Khashayar Khorasani, Professor - Concordia University"
+    }, 
+    {
+        "content": "hooman khorasani, assistant clinical professor dermatology at ... email. hooman.khorasani@mountsinai.org ... khorasani h, zheng z, nguyen c, zara j, zhang x, wang j, ting k, soo c. a quantitative approach to scar analysis.", 
+        "email_addr_list": [
+            "hooman.khorasani@mountsinai.org"
+        ], 
+        "cite_url": "www.mountsinai.org/profiles/hooman-khorasani", 
+        "cite_name": "Mount Sinai Hospital", 
+        "title": "Hooman Khorasani - The Mount Sinai Hospital"
+    }, 
+    {
+        "content": "koorosh mohammad khorasani office tel: +39 064741144. office fax: +39 064741145. email: info@iranair.it  k.khorasani@iranair.com. tel:+39 064741141", 
+        "email_addr_list": [
+            "info@iranair.it", 
+            "k.khorasani@iranair.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Iran Air", 
+        "title": "Rome - IranAir Portal"
+    }
+]

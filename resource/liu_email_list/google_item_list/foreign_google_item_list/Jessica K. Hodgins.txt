@@ -1,0 +1,11 @@
+[
+    {
+        "content": "lab director jessica k. hodgins. disney-research-pittsburgh. 4720 forbes avenue lower level, suite 110. pittsburgh, pa 15213. drp-info@disneyresearch.com.", 
+        "email_addr_list": [
+            "drp-info@disneyresearch.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Disney Research", 
+        "title": "Disney Research » Disney Research, Pittsburgh"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "ik-kyung jang. email: jang.ik@mgh.harvard.edu. address: card div grb800: 55 fruit st: boston ma: 02114. phone: (617) 726-9226...", 
+        "email_addr_list": [
+            "jang.ik@mgh.harvard.edu"
+        ], 
+        "cite_url": "www.acc.org/membership/person?id=6c07c8b9-45f1-4f13-821b...", 
+        "cite_name": "", 
+        "title": "Ik-Kyung Jang, MD, PHD, F.A.C.C. - American College of ..."
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "sep 8, 2015 - yang you, chuan-lu yang, mei-shan wang, xiao-guang ma, and wen-wang liu. phys. rev. ... *corresponding author: scuycl@gmail.com.", 
+        "email_addr_list": [
+            "scuycl@gmail.com"
+        ], 
+        "cite_url": "link.aps.org/doi/10.../PhysRevA.92.032502", 
+        "cite_name": "American Physical Society", 
+        "title": "Theoretical investigation of the laser cooling of a LiBe ..."
+    }, 
+    {
+        "content": "dec 22, 2006 - jie hu, mei-shan wang, ke-li han, and guo-zhong he. phys. rev. a 74, 063417 ... †corresponding author. email address: klhan@dicp.ac.cn.", 
+        "email_addr_list": [
+            "klhan@dicp.ac.cn"
+        ], 
+        "cite_url": "link.aps.org/doi/10.../PhysRevA.74.063417", 
+        "cite_name": "American Physical Society", 
+        "title": "Attosecond resolution quantum dynamics between electrons ..."
+    }, 
+    {
+        "content": "jun 4, 2013 - electronic mail: bkchang@mail.njust.edu.cn. j. appl. ... the authors would like to thank meishan wang of school of information and electrical...", 
+        "email_addr_list": [
+            "bkchang@mail.njust.edu.cn"
+        ], 
+        "cite_url": "scitation.aip.org/content/aip/.../1.4808291", 
+        "cite_name": "American Institute of Physics", 
+        "title": "Photoemission characteristics of (Cs, O) activation ..."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "content": "professor. ph.d., university of pennsylvania director of the bu robotics lab. phone: (617) 353-9586 email: cbelta@bu.edu website:...", 
+        "email_addr_list": [
+            "cbelta@bu.edu"
+        ], 
+        "cite_url": "www.bu.edu/me/people/faculty/ae/belta/", 
+        "cite_name": "Boston University", 
+        "title": "Calin Belta, Ph.D. - Boston University"
+    }, 
+    {
+        "content": "calin belta. position: professor and director of the bu robotics lab, mechanical engineering, systems engineering, bioinformatics email: cbelta at bu dot edu", 
+        "email_addr_list": [
+            "cbelta@bu.edu"
+        ], 
+        "cite_url": "sites.bu.edu/robotics/people/", 
+        "cite_name": "Boston University", 
+        "title": "People » Robotics Lab | Boston University"
+    }, 
+    {
+        "content": "phone: (617) 353 9586. www: http://hyness.bu.edu/calin. email: cbelta@bu.edu. google scholar: http://scholar.google.com/citations?user=72ypqg4aaaajhl=...", 
+        "email_addr_list": [
+            "cbelta@bu.edu"
+        ], 
+        "cite_url": "sites.bu.edu/hyness/files/.../resume_complete_no_ref.p...", 
+        "cite_name": "Boston University", 
+        "title": "[PDF]Calin A. Belta - Site BU - Boston University"
+    }, 
+    {
+        "content": "calin_web. calin belta. position: professor, mechanical engineering, systems engineering, bioinformatics email: cbelta at bu dot edu. website:...", 
+        "email_addr_list": [
+            "cbelta@bu.edu"
+        ], 
+        "cite_url": "sites.bu.edu/hyness/people/", 
+        "cite_name": "Boston University", 
+        "title": "People » Hybrid  Networked Systems Lab | Boston University"
+    }, 
+    {
+        "content": "see information and reports about cbelta@ee.lsu.edu (calin beltas e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "cbelta@ee.lsu.edu"
+        ], 
+        "cite_url": "spam-report.email/cbelta/ee.lsu.edu", 
+        "cite_name": "", 
+        "title": "cbelta@ee.lsu.edu (Calin Beltas e-mail) - Spam-Report.Email"
+    }
+]

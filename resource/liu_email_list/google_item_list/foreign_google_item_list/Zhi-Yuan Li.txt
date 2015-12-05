@@ -1,0 +1,32 @@
+[
+    {
+        "content": "email: zhyli@mail.shufe.edu.cn; personal web page: click ... professor zhiyuan li received his ph.d. in 2010 from university of california, davis. he joined the...", 
+        "email_addr_list": [
+            "zhyli@mail.shufe.edu.cn"
+        ], 
+        "cite_url": "se.shufe.edu.cn/.../ttf1_1...", 
+        "cite_name": "Shanghai University of Finance and Economics", 
+        "title": "Zhiyuan LI"
+    }, 
+    {
+        "content": "professors, email. bang-gui liu  bgliu@iphy.ac.cn  baogen shen .... zxwang@iphy.ac.cn  zhi-yuan li  lizy@iphy.ac.cn  zhian ren  renzhian@iphy.ac.cn.", 
+        "email_addr_list": [
+            "bgliu@iphy.ac.cn", 
+            "zxwang@iphy.ac.cn", 
+            "lizy@iphy.ac.cn", 
+            "renzhian@iphy.ac.cn"
+        ], 
+        "cite_url": "www.iphy.ac.cn/English/pe/", 
+        "cite_name": "", 
+        "title": "People---Institute of Physics Chinese Academy of Sciences"
+    }, 
+    {
+        "content": "first name: zhiyuan. middle name: last name: li. suffix: repec short-id: pli677. email: zhyli97@gmail.com. homepage: postal address: phone:...", 
+        "email_addr_list": [
+            "zhyli97@gmail.com"
+        ], 
+        "cite_url": "https://ideas.repec.org/f/pli677.html", 
+        "cite_name": "", 
+        "title": "Zhiyuan Li at IDEAS"
+    }
+]

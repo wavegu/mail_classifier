@@ -1,0 +1,20 @@
+[
+    {
+        "content": "... p gardner. photo of jonathan gardner ... jonathan.p.gardner@nasa.gov. sorry, you ... nasa/gsfc; mail code: 665; greenbelt , md 20771. employer:...", 
+        "email_addr_list": [
+            "jonathan.p.gardner@nasa.gov"
+        ], 
+        "cite_url": "science.gsfc.nasa.gov/sed/bio/jonathan.p.gardner", 
+        "cite_name": "NASA", 
+        "title": "Bio - Dr. Jonathan P Gardner"
+    }, 
+    {
+        "content": "jonathan p. godbout, ph.d. ... tel: 614.293.3456. email: jonathan.godbout@osumc.edu  nlm pubmed publications list for dr. jonathan godbout (last 10 years)...", 
+        "email_addr_list": [
+            "jonathan.godbout@osumc.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Ohio State University College of Medicine", 
+        "title": "Jonathan P. Godbout, PhD"
+    }
+]

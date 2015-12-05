@@ -1,0 +1,84 @@
+[
+    {
+        "content": "e-mail: cheng-xiang.wang@hw.ac.uk .... dr xiang cheng, “mimo channel modelling and simulation for cellular and mobile-to-mobile communication systems”...", 
+        "email_addr_list": [
+            "cheng-xiang.wang@hw.ac.uk"
+        ], 
+        "cite_url": "home.eps.hw.ac.uk/~cw46/", 
+        "cite_name": "Heriot‑Watt University", 
+        "title": "Prof. Cheng-Xiang Wangs Homepage"
+    }, 
+    {
+        "content": "email: cheng-xiang.wang@hw.ac.uk. address: room 2.14. earl mountbatten building; school of engineering  physical sciences; sensors,signals  systems...", 
+        "email_addr_list": [
+            "cheng-xiang.wang@hw.ac.uk"
+        ], 
+        "cite_url": "www.hw.ac.uk/schools/.../staff.../cx_wang.htm", 
+        "cite_name": "Heriot‑Watt University", 
+        "title": "Prof. Cheng-Xiang Wang - Engineering  Physical Sciences ..."
+    }, 
+    {
+        "content": "email: cheng-xiang.wang@hw.ac.uk. abstract: the fifth-generation (5g) is coming. quo vadis 5g? what architectures, network topologies and technologies will...", 
+        "email_addr_list": [
+            "cheng-xiang.wang@hw.ac.uk"
+        ], 
+        "cite_url": "www.ieee-iccc.org/tutorials.html", 
+        "cite_name": "", 
+        "title": "Tutorials - IEEE/CIC ICCC - Shanghai, China"
+    }, 
+    {
+        "content": "fax: +44-131-4514155. email: cheng-xiang.wang@hw.ac.uk. url: http://www.ece.eps.hw.ac.uk/~cxwang/. dr xuemin hong (network manager of the project).", 
+        "email_addr_list": [
+            "cheng-xiang.wang@hw.ac.uk"
+        ], 
+        "cite_url": "www.ukchinab4g.ac.uk/...Exchange/.../SummaryReport_WP1_v02_091...", 
+        "cite_name": "", 
+        "title": "[PDF]Mission to China Summary Report - UK-China Science ..."
+    }, 
+    {
+        "content": "email: cheng-xiang.wang@hw.ac.uk. xuemin (sherman) shen. dept. of electrical and computer engineering. university of waterloo. waterloo, ontario, canada...", 
+        "email_addr_list": [
+            "cheng-xiang.wang@hw.ac.uk"
+        ], 
+        "cite_url": "https://www.car-2-car.org/fileadmin/user_upload/cfp.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]here. - Car 2 Car - Communication Consortium"
+    }, 
+    {
+        "content": "school of engineering and physical sciences. heriot-watt university, edinburgh, uk. email: cheng-xiang.wang@hw.ac.uk. abstract—spectrum sensing plays a...", 
+        "email_addr_list": [
+            "cheng-xiang.wang@hw.ac.uk"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0453...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "A Novel Centralized Network for Sensing Spectrum in ..."
+    }, 
+    {
+        "content": "dec 17, 2014 - (email: cheng-xiang.wang@hw.ac.uk). the authors would like to acknowledge the support from the national natural. science foundation of...", 
+        "email_addr_list": [
+            "cheng-xiang.wang@hw.ac.uk"
+        ], 
+        "cite_url": "arxiv.org/pdf/1412.6130", 
+        "cite_name": "arXiv", 
+        "title": "[PDF]Energy Efficiency Optimization for MIMO-OFDM ... - arXiv"
+    }, 
+    {
+        "content": "dec 4, 2011 - lin xiang, xiaohu ge, senior member, ieee, cheng-xiang wang, senior ... edinburgh, eh14 4as, uk. email: cheng-xiang.wang@hw.ac.uk.", 
+        "email_addr_list": [
+            "cheng-xiang.wang@hw.ac.uk"
+        ], 
+        "cite_url": "arxiv.org/pdf/1412.5356", 
+        "cite_name": "arXiv", 
+        "title": "[PDF]Energy Efficiency Evaluation of Cellular Networks ... - arXiv"
+    }, 
+    {
+        "content": "email: yanzhang@ieee.org  http://home.simula.no/~yanzhang/. dr. jianhua he. swansea university, uk. email: j.he@swansea.ac.uk ... dr. cheng-xiang wang.", 
+        "email_addr_list": [
+            "yanzhang@ieee.org", 
+            "j.he@swansea.ac.uk"
+        ], 
+        "cite_url": "folk.uio.no/yanzhang/cfp/IJAACS-CR-cfp.pdf", 
+        "cite_name": "University of Oslo", 
+        "title": "[PDF]Cognitive Radio Systems"
+    }
+]

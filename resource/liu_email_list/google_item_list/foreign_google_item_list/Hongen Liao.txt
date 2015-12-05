@@ -1,0 +1,29 @@
+[
+    {
+        "content": "hongen liao project associate professor: bioimaging: field of study: bio-medical imaging, ... [mail] liao@bmpe.t.u-tokyo.ac.jp; [url] http://www.bmpe.", 
+        "email_addr_list": [
+            "liao@bmpe.t.u-tokyo.ac.jp"
+        ], 
+        "cite_url": "www.bioeng.t.u-tokyo.ac.jp/en/faculty/29_liao.html", 
+        "cite_name": "University of Tokyo", 
+        "title": "Hongen LIAO - Faculty | Department of Bioengineering ..."
+    }, 
+    {
+        "content": "h. liao*, t. dohi, k. nomura: autostereoscopic 3d display with long visualization depth using ... hongen liao received his b.s. degree in mechanics and engineering sciences from peking university, beijing, ... email: liao@tsinghua.edu.cn.", 
+        "email_addr_list": [
+            "liao@tsinghua.edu.cn"
+        ], 
+        "cite_url": "bme.med.tsinghua.edu.cn/index.php?option...", 
+        "cite_name": "", 
+        "title": "廖洪恩 - 清华大学生物医学工程系"
+    }, 
+    {
+        "content": "dr. hongen liao received his b.s. degree in mechanics and engineering sciences ... phone：010-62795002 email：tsinghua.at3d@gmail.com address：medical...", 
+        "email_addr_list": [
+            "tsinghua.at3d@gmail.com"
+        ], 
+        "cite_url": "at3d.med.tsinghua.edu.cn/en/members/professor.html", 
+        "cite_name": "", 
+        "title": "Professor Hongen LIAO"
+    }
+]

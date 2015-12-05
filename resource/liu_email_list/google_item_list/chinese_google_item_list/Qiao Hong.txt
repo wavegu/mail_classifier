@@ -1,0 +1,47 @@
+[
+    {
+        "content": "qiao-hong chen, ph.d. assistant professor office location: science building room 346. office phone: 559.278.2394. e-mail: qchen@csufresno.edu. website:...", 
+        "email_addr_list": [
+            "qchen@csufresno.edu"
+        ], 
+        "cite_url": "www.fresnostate.edu/csm/.../chen.html", 
+        "cite_name": "California State University, Fresno", 
+        "title": "Qiao-Hong Chen, Ph.D. - California State University, Fresno"
+    }, 
+    {
+        "content": "10010 north torrey pines road. la jolla, ca, 92037. email: hqiao@salk.edu. work phone: (858) 4534100 ext 1533. cell phone: (858) 3332270. hong qiao...", 
+        "email_addr_list": [
+            "hqiao@salk.edu"
+        ], 
+        "cite_url": "www.ib.cas.cn/xueshu/Plant_Biology/.../P020130613577567762411.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Curriculum Vitae -Qiao#"
+    }, 
+    {
+        "content": "jul 7, 2014 - post, name, did, email. deputy manager, ms joyce qiao hong, 62996497, joyce_qiao@lta.gov.sg. senior engineer, ms jin jing, 62996208...", 
+        "email_addr_list": [
+            "joyce_qiao@lta.gov.sg"
+        ], 
+        "cite_url": "app.sgdi.gov.sg/listing_expand....", 
+        "cite_name": "List of Singapore Government Ministries", 
+        "title": "Gov.sg - Singapore Government Directory"
+    }, 
+    {
+        "content": "aug 7, 2014 - qiao-hong chen, phd. assistant professor of organic chemistry, california state university, fresno. email: qchen@csufresno.edu...", 
+        "email_addr_list": [
+            "qchen@csufresno.edu"
+        ], 
+        "cite_url": "chsu.org/cvs-speakers/", 
+        "cite_name": "", 
+        "title": "Central Valley Symposium - Speakers | CHSU"
+    }, 
+    {
+        "content": "faculty hong qiao assistant professor email: hqiao@austin.utexas.edu. main office: nms 5.114, hong qiao. bio sci students. college of natural sciences  ut...", 
+        "email_addr_list": [
+            "hqiao@austin.utexas.edu"
+        ], 
+        "cite_url": "https://www.biosci.utexas.edu/.../details.asp...", 
+        "cite_name": "University of Texas at Austin", 
+        "title": "Hong Qiao - Directory Listing - School of Biological Sciences"
+    }
+]

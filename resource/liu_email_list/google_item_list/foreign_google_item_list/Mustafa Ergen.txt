@@ -1,0 +1,38 @@
+[
+    {
+        "content": "mustafa ergen. adjunct associate professor. college of ... email: mergen@ku.edu.tr. web: www.mustafaergen.com. biography | publications | citations | patents...", 
+        "email_addr_list": [
+            "mergen@ku.edu.tr"
+        ], 
+        "cite_url": "home.ku.edu.tr/~mergen/", 
+        "cite_name": "Koç University", 
+        "title": "Mustafa Ergen Adjunct Associate Professor College of ..."
+    }, 
+    {
+        "content": "lecturer: mustafa ergen location: eng 120. hours: friday 3.30-6pm. email: mergen@ku.edu.tr. twitter: @mstfrgn. office hour: eng 129b friday 2.30pm", 
+        "email_addr_list": [
+            "mergen@ku.edu.tr"
+        ], 
+        "cite_url": "girisimcilik.mustafaergen.com/", 
+        "cite_name": "", 
+        "title": "Girişimcilik - Mustafa Ergen - Home"
+    }, 
+    {
+        "content": "mustafa ergen, phd. email: ergen@cal.berkeley.edu. fax: 1 (817) 549-8015. türkçe. academic. publications  cv  biography  courses  links.", 
+        "email_addr_list": [
+            "ergen@cal.berkeley.edu"
+        ], 
+        "cite_url": "ofdm.eecs.berkeley.edu/m/ergen/", 
+        "cite_name": "", 
+        "title": "Dr. Mustafa Ergen - Theory and Applications of OFDM"
+    }, 
+    {
+        "content": "... oda - kurşunî canli. gülben ergen - mustafa sandal -- Şıkır Şıkır (dj smoke re-mix) ... mustafa ergen: contact information: email : info@mustafaergen.com:...", 
+        "email_addr_list": [
+            "info@mustafaergen.com"
+        ], 
+        "cite_url": "de.famousio.com/www/Mustafa+Ergen", 
+        "cite_name": "", 
+        "title": "Mustafa Ergen - Famousio"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "jul 22, 2010 - e-mail: fangrx@im.ac.cn. add.: room 318 .... 6690-6699, 2007. [24] lili zhang, yantao jia, li wang and rongxiang fang*. ... [30] h.n.guo, x.y.chen, h.l.zhang, r.x.fang, z.q.yuan, z.s.zhang, y.c.tian*. characterization...", 
+        "email_addr_list": [
+            "fangrx@im.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "FANG Rongxiang (Professor) - Faculty and Staff ..."
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "content": "yuanchun shi; professor; department of computer science and technology; joined department: 1993; email:shiyc@tsinghua.edu.cn; url:http://media.cs.tsinghua.edu.cn/~pervasive ... [6] yue suo, jingyu li, yuanchun shi, peifeng xiang.", 
+        "email_addr_list": [
+            "shiyc@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.cs.tsinghua.edu.cn/.../2010122418041212056...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Yuanchun SHI - Department of Computer Science and ..."
+    }, 
+    {
+        "content": "oct 1, 2013 - post, name, did, email. director, oh cheow .... officer, ms chung li shu, 64650152, chung_li_su@nparks.gov.sg. officer, wong kam ... assistant director, lee yuan chun, 63146436, lee_yuan_chun@nparks.gov.sg.", 
+        "email_addr_list": [
+            "chung_li_su@nparks.gov.sg", 
+            "lee_yuan_chun@nparks.gov.sg"
+        ], 
+        "cite_url": "app.sgdi.gov.sg/listing_expand....", 
+        "cite_name": "List of Singapore Government Ministries", 
+        "title": "Gov.sg - Singapore Government Directory"
+    }, 
+    {
+        "content": "email address : ... manager, ng aik guan, 64651785, ng_aik_guan@nparks.gov.sg. senior manager, lee yuan chun ... officer, ms chung li shu, 64650152...", 
+        "email_addr_list": [
+            "ng_aik_guan@nparks.gov.sg"
+        ], 
+        "cite_url": "", 
+        "cite_name": "List of Singapore Government Ministries", 
+        "title": "streetscape east branch - Gov.sg - Singapore Government ..."
+    }, 
+    {
+        "content": "jun 17, 2015 - fax: 86-29-87091994. email:yuanchl69@nwsuaf.edu.cn ... yang li, yuan chunlong*, ma jing, yang, xiaoyan, zhang shijie. effects of milling...", 
+        "email_addr_list": [
+            "yuanchl69@nwsuaf.edu.cn"
+        ], 
+        "cite_url": "en.nwsuaf.edu.cn/faculties/co13/54864.htm", 
+        "cite_name": "Northwest AF University", 
+        "title": "Yuan Chunlong 西北农林大学英文网"
+    }, 
+    {
+        "content": "li, xiaoyuan (李曉原). professor ... telephone: 2358 7356 email: chxyli@ust.hk. scopus: ... author(s): li, wenming hkust affiliated (currently or previously)...", 
+        "email_addr_list": [
+            "chxyli@ust.hk"
+        ], 
+        "cite_url": "repository.ust.hk/.../li-...", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "Li, Xiaoyuan - HKUST Scholarly Publications"
+    }
+]

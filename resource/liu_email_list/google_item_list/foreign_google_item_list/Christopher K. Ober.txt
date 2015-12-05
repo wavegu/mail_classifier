@@ -1,0 +1,39 @@
+[
+    {
+        "content": "christopher k. ober ... email: cko3@cornell.edu. ober group. research in the ober group at cornell university focuses on creating new polymeric materials...", 
+        "email_addr_list": [
+            "cko3@cornell.edu"
+        ], 
+        "cite_url": "ober.mse.cornell.edu/", 
+        "cite_name": "", 
+        "title": "Ober Research Group | Home"
+    }, 
+    {
+        "content": "tel: (607) 255-8417. fax: (607) 255-2365. email: cko3@cornell.edu. people. prof. christopher k. ober ... office: 303 thurston hall email: pmo38@cornell.edu...", 
+        "email_addr_list": [
+            "cko3@cornell.edu", 
+            "pmo38@cornell.edu"
+        ], 
+        "cite_url": "ober.mse.cornell.edu/people.html", 
+        "cite_name": "", 
+        "title": "Ober Research Group | People"
+    }, 
+    {
+        "content": "ober research group website. ... people. prof. christopher k. ober ... dr. yeon sook chung. office: 258 duffield hall email: yc485@cornell.edu...", 
+        "email_addr_list": [
+            "yc485@cornell.edu"
+        ], 
+        "cite_url": "people.ccmr.cornell.edu/~cober/people.html", 
+        "cite_name": "", 
+        "title": "Ober Research Group | People - Cornell University"
+    }, 
+    {
+        "content": "email: cko3@cornell.edu .... christian ohm and christopher k. ober, “from surface coatings to polymer nanoparticles: lifting off polymer brushes”, rsc...", 
+        "email_addr_list": [
+            "cko3@cornell.edu"
+        ], 
+        "cite_url": "ober.mse.cornell.edu/publications_new.html", 
+        "cite_name": "", 
+        "title": "Ober Research Group | Publications"
+    }
+]

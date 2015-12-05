@@ -1,0 +1,38 @@
+[
+    {
+        "content": "gordana vunjak-novakovic ... email: gv2131@columbia.edu ... pnas 107(8):3299-304, 2009; freytes d, wan l and vunjak-novakovic g. geometry and force...", 
+        "email_addr_list": [
+            "gv2131@columbia.edu"
+        ], 
+        "cite_url": "bme.columbia.edu/gordana-vunjak-novakovic", 
+        "cite_name": "Columbia University", 
+        "title": "Gordana Vunjak-Novakovic | Biomedical Engineering"
+    }, 
+    {
+        "content": "1210 amsterdam avenue, mail code: 8904. new york, ny ... email: td2506@columbia.edu. research areas: .... gordana vunjak-novakovic. 622 west 168th...", 
+        "email_addr_list": [
+            "td2506@columbia.edu"
+        ], 
+        "cite_url": "bme.columbia.edu/people-by-type/faculty", 
+        "cite_name": "Columbia University", 
+        "title": "Faculty | Biomedical Engineering"
+    }, 
+    {
+        "content": "apr 10, 2014 - email: gv2131 at columbia.edu ... username: gvunjak-novakovic. homepage: http://bme.columbia.edu/gordana-vunjak-novakovic. present...", 
+        "email_addr_list": [
+            "gv2131@columbia.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Academy of Europe: Vunjak-Novakovic Gordana"
+    }, 
+    {
+        "content": "ime i prezime: gordana vunjak novaković mesto rođenja: beograd email: gv2131@columbia.edu. kontakt adresa: columbia university department of...", 
+        "email_addr_list": [
+            "gv2131@columbia.edu"
+        ], 
+        "cite_url": "www.zenskavlada.org.rs/show.do;jsessionid...?id...", 
+        "cite_name": "", 
+        "title": "Gordana Vunjak Novaković - Baza podataka 1500 stručnih ..."
+    }
+]

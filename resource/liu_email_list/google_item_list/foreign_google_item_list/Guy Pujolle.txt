@@ -1,0 +1,11 @@
+[
+    {
+        "content": "email: nathalie.charton@ms.alcatel.fr guy pujolle rp-lip6-upmc 8 rue du capitaine scott 75015 paris - france phone: +33 1 44 27 75 14 email: guy.", 
+        "email_addr_list": [
+            "nathalie.charton@ms.alcatel.fr"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-pujolle-lip6-fr-9808267.htm", 
+        "cite_name": "", 
+        "title": "pujolle@lip6.fr - The Email Archive"
+    }
+]

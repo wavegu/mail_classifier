@@ -1,0 +1,20 @@
+[
+    {
+        "content": "anind k. dey anind@cs.cmu.edu. associate professor. a picture of me. carnegie mellon university  hci institute nsh 3519 5000 forbes ave. pittsburgh, pa...", 
+        "email_addr_list": [
+            "anind@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~anind/", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Anind K. Dey"
+    }, 
+    {
+        "content": "email, anind@cs.cmu.edu. cell, +1 (412) 555 1234. office, +1 (412) 555 4321 ... anind k. dey. interests. feedback and control in ubiquitous computing,...", 
+        "email_addr_list": [
+            "anind@cs.cmu.edu"
+        ], 
+        "cite_url": "anind.cmubi.org/", 
+        "cite_name": "", 
+        "title": "Anind K. Dey  Main  Home Page"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "content": "... hoboken, nj 07030. email: clong at stevens dot edu ... chengjiang long, xiaoyu wang, gang hua, ming yang and yuanqing lin. in proc. ... jianhui zhao, chengjiang long, shuping xiong, cheng liu and zhiyong yuan. elektronika...", 
+        "email_addr_list": [
+            "clong@stevens.edu"
+        ], 
+        "cite_url": "personal.stevens.edu/~clong/", 
+        "cite_name": "Stevens Institute of Technology", 
+        "title": "Chengjiang Longs Personal Page - personal.stevens.edu"
+    }, 
+    {
+        "content": "jun 16, 2015 - vice-dean research / professor / theme leader for advanced engines and biofuels. room: hwll109. email: hua.zhao@brunel.ac.uk.", 
+        "email_addr_list": [
+            "hua.zhao@brunel.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Brunel University London", 
+        "title": "Hua Zhao | Brunel University London"
+    }, 
+    {
+        "content": "zhaohua ding, ph.d. ... email: zhaohua.ding@vanderbilt.edu mailing address: vanderbilt university institute of imaging science (vuiis) vanderbilt university...", 
+        "email_addr_list": [
+            "zhaohua.ding@vanderbilt.edu"
+        ], 
+        "cite_url": "www.vuiis.vanderbilt.edu/~dingzha/", 
+        "cite_name": "Vanderbilt University", 
+        "title": "Ding Zhaohuas Home Page"
+    }, 
+    {
+        "content": "correspondence email address. wsc@scu.edu. .... professors: gao chun hua; long wei; zhao shi ping; lin da quan; liu sheng qing; liu rong zhong; yang yi.", 
+        "email_addr_list": [
+            "wsc@scu.edu"
+        ], 
+        "cite_url": "rccse.whu.edu.cn/upload/newsimg/2005-7.../200571117124918520.doc", 
+        "cite_name": "", 
+        "title": "[DOC]Professors"
+    }, 
+    {
+        "content": "zhaohua peng. professor ... email: zp7@ra.msstate.edu. phone: (662) 325-2640 ... plant long ncrnas: a new frontier for gene regulatory. american journal of...", 
+        "email_addr_list": [
+            "zp7@ra.msstate.edu"
+        ], 
+        "cite_url": "www.biochemistry.msstate.edu/associate.asp?id=56", 
+        "cite_name": "", 
+        "title": "Zhaohua Peng - Biochemistry, Molecular Biology ..."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "content": "corresponding authors: chen ya-dong, you qi-dong email: ydchen@cpu.edu.cn; youqd@cpu.edu.cn. cite this article: zhang yuan, chen ya-dong, you...", 
+        "email_addr_list": [
+            "ydchen@cpu.edu.cn", 
+            "youqd@cpu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "ZHANG Yuan, CHEN Ya-Dong, YOU Qi-Dong, ZOU Li-Yun ..."
+    }, 
+    {
+        "content": "chen, qi. professor. department social science. office location kurz hall 230. email address qchen@maritime.edu. phone number (508) 830-5000 x2274.", 
+        "email_addr_list": [
+            "qchen@maritime.edu"
+        ], 
+        "cite_url": "www.maritime.edu/profile/chen-qi", 
+        "cite_name": "Massachusetts Maritime Academy", 
+        "title": "Chen, Qi | Massachusetts Maritime Academy"
+    }, 
+    {
+        "content": "cookies help us to give you the best experience on our website. you can change your ... search this section. image of qi chen ... email: law@nottingham.ac.uk...", 
+        "email_addr_list": [
+            "law@nottingham.ac.uk"
+        ], 
+        "cite_url": "https://www.nottingham.ac.uk/law/.../llxqc2", 
+        "cite_name": "University of Nottingham", 
+        "title": "Qi Chen - The University of Nottingham"
+    }
+]

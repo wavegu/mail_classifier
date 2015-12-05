@@ -1,0 +1,21 @@
+[
+    {
+        "content": "email: lindsay.kleeman@monash.edu; phone: +61 3 9905 3491; homepage: http://www.ecse.monash.edu.au/centres/irrc/lkpubs/index.html; office: room...", 
+        "email_addr_list": [
+            "lindsay.kleeman@monash.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Monash University", 
+        "title": "Lindsay Kleeman, Faculty of Engineering, Monash University"
+    }, 
+    {
+        "content": "email: jamie.evans@monash.edu ... email: yi.hong@monash.edu; phone: +61 3 9905 3824; homepage: ... associate professor lindsay kleeman. associate...", 
+        "email_addr_list": [
+            "jamie.evans@monash.edu", 
+            "yi.hong@monash.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Monash University", 
+        "title": "Profiles Monash University"
+    }
+]

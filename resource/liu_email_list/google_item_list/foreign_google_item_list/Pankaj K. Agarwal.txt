@@ -1,0 +1,38 @@
+[
+    {
+        "content": "pankaj k. agarwal, rjr nabisco professor of computer science, professor of mathematics,. home; research ... (919) 660-6519. email: pankaj at cs.duke.edu...", 
+        "email_addr_list": [
+            "pankaj@cs.duke.edu"
+        ], 
+        "cite_url": "https://users.cs.duke.edu/~pankaj/", 
+        "cite_name": "", 
+        "title": "Pankaj K. Agarwal - Duke University Department of ..."
+    }, 
+    {
+        "content": "pankaj k. agarwal. cs department ... email, pankaj at cs.duke.edu. office, d214a lsrc. phone, (919) 660-6540. web page, http://www.cs.duke.edu/~pankaj...", 
+        "email_addr_list": [
+            "pankaj@cs.duke.edu"
+        ], 
+        "cite_url": "www.cs.duke.edu/people/?csid=8", 
+        "cite_name": "Duke University", 
+        "title": "Pankaj K. Agarwal - Computer Science - Duke University"
+    }, 
+    {
+        "content": "create alert. cancel. pankaj k. agarwal ... verified email at cs.duke.edu. scholar ... j cohen, a varshney, d manocha, g turk, h weber, p agarwal, f brooks, .", 
+        "email_addr_list": [
+            "email@cs.duke.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=xe0eVksAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Pankaj K. Agarwal - Google Scholar Citations"
+    }, 
+    {
+        "content": "pankaj k. agarwal. duke university box 90328. durham ncusa 27708. email: pankaj@cs.duke.edu.", 
+        "email_addr_list": [
+            "pankaj@cs.duke.edu"
+        ], 
+        "cite_url": "esa.org/meetings.../Person25429.html", 
+        "cite_name": "Ecological Society of America", 
+        "title": "Pankaj K. Agarwal"
+    }
+]

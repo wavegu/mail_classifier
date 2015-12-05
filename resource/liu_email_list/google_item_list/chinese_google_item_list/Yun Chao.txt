@@ -1,0 +1,20 @@
+[
+    {
+        "content": "yunchao gai. research associate email: ygai@scripps.edu. yunchao gai received his ph.d. from the chinese academy of sciences (cas) in may 2009, under...", 
+        "email_addr_list": [
+            "ygai@scripps.edu"
+        ], 
+        "cite_url": "www.scripps.edu/davis/members.html", 
+        "cite_name": "Scripps Research Institute", 
+        "title": "Lab Members - The Scripps Research Institute"
+    }, 
+    {
+        "content": "yunchao tang (william) - bartlett ambassador for china. yunchao ... if you would like to contact yunchao, please email him on yunchao.tang.13@ucl.ac.uk.", 
+        "email_addr_list": [
+            "yunchao.tang.13@ucl.ac.uk"
+        ], 
+        "cite_url": "https://www.bartlett.ucl.ac.uk/people/students/.../yunchao-tan...", 
+        "cite_name": "The Bartlett", 
+        "title": "Yunchao Tang - The Bartlett"
+    }
+]

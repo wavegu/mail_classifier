@@ -1,0 +1,39 @@
+[
+    {
+        "content": "beosztás: professor emeritus. email cím: benyo@iit.bme.hu. telefonszám: 463-2699. szoba: ib 325. publikációk: bme publikációs adattár. kutatási csoport:.", 
+        "email_addr_list": [
+            "benyo@iit.bme.hu"
+        ], 
+        "cite_url": "htt...", 
+        "cite_name": "Budapest University of Technology and Economics", 
+        "title": "Benyó Zoltán, Dr. | Irányítástechnika és Informatika Tanszék"
+    }, 
+    {
+        "content": "dr.sc. dr.habil. benyÓ, zoltán. professor. tel: +36 1 4632580. fax: +36 1 4632204. room: r.216/6. e-mail: benyo@fsz.bme.hu...", 
+        "email_addr_list": [
+            "benyo@fsz.bme.hu"
+        ], 
+        "cite_url": "www.fsz.bme.hu/.../b...", 
+        "cite_name": "Budapest University of Technology and Economics", 
+        "title": "Zoltan Benyo"
+    }, 
+    {
+        "content": "nationality: hungarian. e-mail address: peti.dancs@gmail.com. education. 2009- ... zoltán benyó, md, phd, dsc; Éva ruisanchez md. scientific topic: role of...", 
+        "email_addr_list": [
+            "peti.dancs@gmail.com"
+        ], 
+        "cite_url": "www.kuffler.org/pics/Dancs%20Peter%20English%20CV.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Curriculum vitae - Stephen W. Kuffler Kutatási Alapítvány"
+    }, 
+    {
+        "content": "fax: +36 1 372 2940. email: bab@ludens.elte.hu ... dr. benyó zoltán. születési hely, idő: ... 042; mobil: +36 30 916 2518. email: csizmadia.bela@gek.szie.hu", 
+        "email_addr_list": [
+            "bab@ludens.elte.hu", 
+            "csizmadia.bela@gek.szie.hu"
+        ], 
+        "cite_url": "mpnsz.eu/?page_id=174", 
+        "cite_name": "", 
+        "title": "Alapítók | MPNSZ"
+    }
+]

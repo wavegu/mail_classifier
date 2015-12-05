@@ -1,0 +1,56 @@
+[
+    {
+        "content": "address: department of computer science ben-gurion university p.o. box 653. beer-sheva, 84105 israel brafman@cs.bgu.ac.il. office: bld 37, room 209", 
+        "email_addr_list": [
+            "brafman@cs.bgu.ac.il"
+        ], 
+        "cite_url": "www.cs.bgu.ac.il/~brafman/", 
+        "cite_name": "Ben‑Gurion University of the Negev", 
+        "title": "Ronen Brafman"
+    }, 
+    {
+        "content": "address at work: department of computer science. ben gurion university of the negev. beer-sheva, 84105. (08) 642-8041. email: brafman@cs.bgu.ac.il. web:.", 
+        "email_addr_list": [
+            "brafman@cs.bgu.ac.il"
+        ], 
+        "cite_url": "www.cs.bgu.ac.il/~brafman/MyCV....", 
+        "cite_name": "Ben‑Gurion University of the Negev", 
+        "title": "[PDF]Ronen I. Brafman September, 2015 Curriculum Vitae and ..."
+    }, 
+    {
+        "content": "ronen brafman. department of computer ... verified email at cs.bgu.ac.il. scholar ... c boutilier, ri brafman, c domshlak, hh hoos, d poole. j. artif. intell. res.", 
+        "email_addr_list": [
+            "email@cs.bgu.ac.il"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=FRxsXjcAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ronen Brafman - Google Scholar Citations"
+    }, 
+    {
+        "content": "efficient learning equilibrium *. ronen i. brafman. computer science department. ben-gurion university. beer-sheva, israel email: brafman@cs.bgu.ac.il.", 
+        "email_addr_list": [
+            "brafman@cs.bgu.ac.il"
+        ], 
+        "cite_url": "machinelearning.wustl.edu/.../CN12.p...", 
+        "cite_name": "Washington University in St. Louis", 
+        "title": "[PDF]Efficient Learning Equilibrium * Ronen I. Brafman Computer ..."
+    }, 
+    {
+        "content": "ronen i. brafman†. nasa ames research center‡ and. computer science dept. stanford university brafman@email.arc.nasa.gov. yuri chernyavsky.", 
+        "email_addr_list": [
+            "brafman@email.arc.nasa.gov"
+        ], 
+        "cite_url": "https://www.aa...", 
+        "cite_name": "Association for the Advancement of Artificial Intelligen...", 
+        "title": "[PDF]Planning with Goal Preferences and Constraints"
+    }, 
+    {
+        "content": "ronen i. brafman. abstract— deciding whether a propositional ... beer-sheva, israel (email :brafman@cs.bgu.ac.il) fraction of binary clauses. in this article we...", 
+        "email_addr_list": [
+            "brafman@cs.bgu.ac.il"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.12.7587...", 
+        "cite_name": "", 
+        "title": "[PDF]A Simplifier for Propositional Formulas with Many ... - CiteSeer"
+    }
+]

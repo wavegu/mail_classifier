@@ -1,0 +1,48 @@
+[
+    {
+        "content": "chung-yi li professor no. ... email: cyli99@mail.ncku.edu.tw. top. background： ... 2010 / 02－2010/07. fu-jen catholic university, college of medicine. dept. of...", 
+        "email_addr_list": [
+            "cyli99@mail.ncku.edu.tw"
+        ], 
+        "cite_url": "ph.med.ncku.edu.tw/english/?...4...", 
+        "cite_name": "National Cheng Kung University", 
+        "title": "Chung-Yi Li"
+    }, 
+    {
+        "content": "deputy director: ms. li yi, first secretary. tel: 020-72991911. fax:020-76362981. email:policy_uk@mfa.gov.cn. press and public affairs section. director: mr.", 
+        "email_addr_list": [
+            "policy_uk@mfa.gov.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Offices - Chinese Embassy"
+    }, 
+    {
+        "content": "may 7, 2015 - yu fu lai, tony head and professor email: ... associate professor email: ccpoon@hksyu.edu ... dr. li yi man, rita director, sustainable real...", 
+        "email_addr_list": [
+            "ccpoon@hksyu.edu"
+        ], 
+        "cite_url": "www.hksyu.edu/economics/staff.html", 
+        "cite_name": "Hong Kong Shue Yan University", 
+        "title": "Department of Economics and Finance, HKSYU | 香港樹仁 ..."
+    }, 
+    {
+        "content": "email: li@asia-europe.uni-heidelberg.de. about hsin-yi li. hsin-yi li earned her bachelor in german as foreign language and german literature from the fu jen catholic university, taipei (taiwan), and her m.a. in cultural anthropology...", 
+        "email_addr_list": [
+            "li@asia-europe.uni-heidelberg.de"
+        ], 
+        "cite_url": "www.asia-europe....", 
+        "cite_name": "Cluster of Excellence \"Asia and Europe in a Global C...", 
+        "title": "Hsin-Yi Li, MA - Cluster Asia and Europe"
+    }, 
+    {
+        "content": "email: lyuwen.fu@columbia.edu. advisor: ... yi li email: yl2600@columbia.edu. advisor: william bailey research interests: materials science and engineering...", 
+        "email_addr_list": [
+            "lyuwen.fu@columbia.edu", 
+            "yl2600@columbia.edu"
+        ], 
+        "cite_url": "apam.columbia.edu/materials-science-engineering-g...", 
+        "cite_name": "Columbia University", 
+        "title": "Materials Science  Engineering Graduate Students ..."
+    }
+]

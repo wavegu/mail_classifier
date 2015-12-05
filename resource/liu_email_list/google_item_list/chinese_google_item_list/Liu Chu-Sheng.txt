@@ -1,0 +1,65 @@
+[
+    {
+        "content": "may 10, 2015 - email: yechsh@whu.edu.cn ... Ÿ chusheng ye and hongxia wang, 2010, ”multidimentional poverty ... Ÿ chusheng ye and yafei liu, 2011.", 
+        "email_addr_list": [
+            "yechsh@whu.edu.cn"
+        ], 
+        "cite_url": "ems.whu.edu.cn/en/50/1/1/2015-05-13/10.html", 
+        "cite_name": "", 
+        "title": "Ye Chusheng"
+    }, 
+    {
+        "content": "jul 4, 2011 - chen chusheng（陈初升） ... hefei, anhui 230026, p. r. china tel: 86-551-63602940. e-mail: ccsm@ustc.edu.cn. personal homepage:...", 
+        "email_addr_list": [
+            "ccsm@ustc.edu.cn"
+        ], 
+        "cite_url": "en.scms.ustc.edu.cn/.../t2...", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "CHEN Chusheng（陈初升 - School of Chemistry and ..."
+    }, 
+    {
+        "content": "chusheng chen,能源材料化学协同创新中心,2011计划协同中心由厦大、复旦和中科大组成核心层，中国科学院大连 ... e-mail: ccsm@ustc.edu.cn ... j. j. liu, s. q. zhang, w. d. wang, j. f. gao, w. liu, c.s. chen*, “partial oxidation of methane in a...", 
+        "email_addr_list": [
+            "ccsm@ustc.edu.cn"
+        ], 
+        "cite_url": "www.2011-ichem.org/en/mem.asp?classid=73...", 
+        "cite_name": "", 
+        "title": "Chusheng Chen"
+    }, 
+    {
+        "content": "chusheng qi. assistant professor of wood ... verified email at bjfu.edu.cn. scholar. get my own profile ... c qi, k guo, y liu. journal of reinforced plastics and...", 
+        "email_addr_list": [
+            "email@bjfu.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=7jU7Z_gAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Chusheng Qi - Google Scholar Citations"
+    }, 
+    {
+        "content": "sep 8, 2015 - li-ping peng 彭利平 (1) (2); chu-sheng liu 刘初升  plpbeckham@163.com (2); bao-cheng song 宋宝成 (2); ji-da wu 武继达 (2); shuai wang...", 
+        "email_addr_list": [
+            "plpbeckham@163.com"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2Fs11771-...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Improvement for design of beam structures in large vibrating ..."
+    }, 
+    {
+        "content": "u-liang pharmaceuticals company director liu chiu-shen set out to raise nt 40 million dollars in ... as director, mr. liu guided the pitdc in raising the quality of its products in the domestic market, and in ... e-mail: emily5424@pitdc.org.tw...", 
+        "email_addr_list": [
+            "emily5424@pitdc.org.tw"
+        ], 
+        "cite_url": "www.pitdc.org.tw/en/contents/center.htm", 
+        "cite_name": "", 
+        "title": "Pharmaceutical Industry Technology and Development Center"
+    }, 
+    {
+        "content": "chu-sheng chen prof.,. e-mail address: ccsm@ustc.edu.cn ... crossref; 5 wei he, jian-jun liu, chu-sheng chen, meng ni, oxygen permeation modeling for...", 
+        "email_addr_list": [
+            "ccsm@ustc.edu.cn"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1002/anie.../abstract", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Conversion of Methane to Syngas by a Membrane‐Based ..."
+    }
+]

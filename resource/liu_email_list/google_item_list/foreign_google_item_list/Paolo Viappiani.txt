@@ -1,0 +1,48 @@
+[
+    {
+        "content": "paolo viappiani born on 23 october, 1976 in ... paolo.viappiani@gmail.com .... paolo viappiani, pearl pu, boi faltings: preference-based search with adaptive.", 
+        "email_addr_list": [
+            "paolo.viappiani@gmail.com"
+        ], 
+        "cite_url": "www.cs.toronto.edu/~paolo/documents/CV_paolo_viappiani.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Paolo Viappiani - Department of Computer Science"
+    }, 
+    {
+        "content": "mar 7, 2007 - mr. paolo viappiani asisstant-doctorant / phd student. paolo viappiani, office ... fax, (+41 21) 693-5225. email, paolo.viappiani@epfl.ch. url...", 
+        "email_addr_list": [
+            "paolo.viappiani@epfl.ch"
+        ], 
+        "cite_url": "liawww.epfl.ch/People/people.php?username=paolo", 
+        "cite_name": "", 
+        "title": "Mr. Paolo Viappiani - EPFL"
+    }, 
+    {
+        "content": "... (epfl) 1015 lausanne switzerland e-mail: paolo.viappiani@gmail.com boi.faltings@epfl.ch b human computer interaction group (hci) ecole polytechnique...", 
+        "email_addr_list": [
+            "paolo.viappiani@gmail.com", 
+            "boi.faltings@epfl.ch"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-viappiani-gmail-com-23688682....", 
+        "cite_name": "", 
+        "title": "viappiani@gmail.com - The Email Archive"
+    }, 
+    {
+        "content": "paolo viappiani. cnrs and lip6. upmc, france. march, 20, 2013. page 2. 2. me. □ paolo viappiani. □ cnrs researcher ... email: paolo.viappiani@lip6.fr...", 
+        "email_addr_list": [
+            "paolo.viappiani@lip6.fr"
+        ], 
+        "cite_url": "www.ig.fpms.ac.be/sites/.../Viappiani-Preference_Learning_Models.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Presentation - Computer Science and Management Group"
+    }, 
+    {
+        "content": "indirizzo: via dal verme, 8. cap/città: reggio emilia. telefono: 0522/511718. fax: 0522/1495724. email: paolo.viappiani@virgilio.it. partita iva:...", 
+        "email_addr_list": [
+            "paolo.viappiani@virgilio.it"
+        ], 
+        "cite_url": "www.juris.it/AvvocatiDettaglio.aspx?CustomerID...", 
+        "cite_name": "", 
+        "title": "Studio Legale Marconi  Viappiani - Juris Quick srl"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "content": "bin dong. email; dongbin@math.pku.edu.cn: phone; +(86 10) 62744091 ... 62744124: office; 78407: homepage; http://bicmr.pku.edu.cn/~b-fang: math fields.", 
+        "email_addr_list": [
+            "dongbin@math.pku.edu.cn"
+        ], 
+        "cite_url": "bicmr.pku.edu.cn/people/faculty/", 
+        "cite_name": "", 
+        "title": "Faculty - 北京国际数学研究中心"
+    }, 
+    {
+        "content": "email chen.fang@uky.edu. homeaddress 358 foreman avenue apartment 121 lexington ky 40508 us homephone 859 285-8583. fullname chen fang.", 
+        "email_addr_list": [
+            "chen.fang@uky.edu"
+        ], 
+        "cite_url": "mobile.usablenet.com/mt/ukcc...bin/phq?...Fang,+Fang", 
+        "cite_name": "Usablenet", 
+        "title": "Fang, Fang - University of Kentucky Campus People ..."
+    }, 
+    {
+        "content": "email. li@creol.ucf.edu (work) ... guifang li received his ph.d. degree from the university of wisconsin at ... guifang li google scholar citation ... cen xia, he wen, amado velázquez-benítez, naresh chand, jose enrique antonio-lopez, bin...", 
+        "email_addr_list": [
+            "li@creol.ucf.edu"
+        ], 
+        "cite_url": "www.creol.ucf.edu/People/Details.aspx?...", 
+        "cite_name": "University of Central Florida", 
+        "title": "Guifang Li - My Details | CREOL, The College of Optics ..."
+    }, 
+    {
+        "content": "sep 24, 2015 - lazar@mail.med.upenn.edu ... bin fang, ph.d. (post-doc) ... safabakhsh p, marinis jm, dispirito jr, emmett mj, briggs er, fang b, everett lj,...", 
+        "email_addr_list": [
+            "lazar@mail.med.upenn.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Perelman School of Medicine", 
+        "title": "Mitchell A. Lazar, MD, PhD || Perelman School of Medicine ..."
+    }, 
+    {
+        "content": "jianbin fang @ parallel and distributed systems. eemcs  the ... welcome to jianbin fangs home page @ tu delft. phd student at ... email: j.fang@tudelft.nl...", 
+        "email_addr_list": [
+            "j.fang@tudelft.nl"
+        ], 
+        "cite_url": "www.pds.ewi.tudelft.nl/fang/", 
+        "cite_name": "Delft University of Technology", 
+        "title": "Homepage Jianbin Fang - Parallel and Distributed Systems"
+    }, 
+    {
+        "content": "feb 13, 2015 - fang zhen, phone: 6316 8790. email: fangzheng@ntu.edu.sg. office: n1.2-b1-03 ... office: n1.3-b3-03, yang hongbin, phone: 6513 8025", 
+        "email_addr_list": [
+            "fangzheng@ntu.edu.sg"
+        ], 
+        "cite_url": "www.scbe.ntu.edu.sg/.../BIE-Research...", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "Research Staff - SCBE - Nanyang Technological University"
+    }
+]

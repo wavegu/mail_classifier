@@ -1,0 +1,11 @@
+[
+    {
+        "content": "mobile: +61-417704091. email: x.yu@rmit.edu.au. professor xinghuo yu (余星火) is the founding director of the platform technologies research institute of...", 
+        "email_addr_list": [
+            "x.yu@rmit.edu.au"
+        ], 
+        "cite_url": "https://sites.google.com/site/xinghuoyu/", 
+        "cite_name": "", 
+        "title": "Xinghuo Yu Homepage - Google Sites"
+    }
+]

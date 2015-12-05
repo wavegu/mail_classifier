@@ -1,0 +1,11 @@
+[
+    {
+        "content": "dr. xiaoguang “leo” liu received his b.s. degree from zhejiang university, china in ... research website; email: lxgliu at ucdavis.edu; phone: (530)-289-6367.", 
+        "email_addr_list": [
+            "lxgliu@ucdavis.edu"
+        ], 
+        "cite_url": "faculty.engineering.ucdavis.edu/liu/", 
+        "cite_name": "UC Davis College of Engineering", 
+        "title": "Home - Liu, Xiaoguang - University of California, Davis"
+    }
+]

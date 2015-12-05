@@ -1,0 +1,66 @@
+[
+    {
+        "content": "e-mail:zhangfs@cau.edu.cn or fszhang@mx.cei.gov.cn ... 3(3):230-335. 9. fan xiaolin, zhang yiping, juang tzochuan and zhang fusuo, 1997. thermo...", 
+        "email_addr_list": [
+            "zhangfs@cau.edu.cn", 
+            "fszhang@mx.cei.gov.cn"
+        ], 
+        "cite_url": "www2003.cau.edu.cn/lpn/Zhangfs.htm", 
+        "cite_name": "China Agricultural University", 
+        "title": "Prof. Fusuo Zhang"
+    }, 
+    {
+        "content": "fusuo zhang. professor of plant ... verified email at cau.edu.cn. scholar ... jh guo, xj liu, y zhang, jl shen, wx han, wf zhang, p christie, ... science 327...", 
+        "email_addr_list": [
+            "email@cau.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=yXHlvX0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "fusuo zhang - Google Scholar Citations"
+    }, 
+    {
+        "content": "professor fu-suo zhang received his ph.d. in plant nutrition from hohenheim university (germany). ... enquiries: (08) 6488 4717 email: ioa@uwa.edu.au.", 
+        "email_addr_list": [
+            "ioa@uwa.edu.au"
+        ], 
+        "cite_url": "uwa.edu.au/__data/.../Fusuo-Zhang.pdf", 
+        "cite_name": "University of Western Australia", 
+        "title": "[PDF]Fusuo Zhang.indd"
+    }, 
+    {
+        "content": "addthis. email, print, send to twitter, send to facebook, and more. fusuo zhang. china agricultural university. china. email: zhangfs@cau.edu.cn...", 
+        "email_addr_list": [
+            "zhangfs@cau.edu.cn"
+        ], 
+        "cite_url": "nutrientchallenge.org/profile/fusuo-zhang", 
+        "cite_name": "", 
+        "title": "Fusuo Zhang | GPNM – addressing the Nutrient Challenge ..."
+    }, 
+    {
+        "content": "feb 20, 2015 - ... shaofeng jia,; fusuo zhang,; xuejun liu,; zhaozhong feng and; zhibin zhang ... ↵*corresponding author: e-mail: yllu@rcees.ac.cn (y.l.);...", 
+        "email_addr_list": [
+            "yllu@rcees.ac.cn"
+        ], 
+        "cite_url": "advances.sciencemag.org/content/1/1/e1400039", 
+        "cite_name": "", 
+        "title": "Addressing Chinas grand challenge of achieving food ..."
+    }, 
+    {
+        "content": "dec 26, 2014 - haigang li ,. contributed equally to this work with: chunjie li, yan dong, haigang li, jianbo shen, fusuo zhang. * e-mail: haigangli@cau.edu.", 
+        "email_addr_list": [
+            "haigangli@cau.edu"
+        ], 
+        "cite_url": "journals.plos.org/plosone/article?id=10.1371/journal.pone.0115804", 
+        "cite_name": "", 
+        "title": "The Dynamic Process of Interspecific Interactions of ..."
+    }, 
+    {
+        "content": "fusuo zhang - china agricultural university. follow fusuo zhang. fusuo ...... china agricultural university, beijing, 100193, china, jueshi199777@gmail.com.", 
+        "email_addr_list": [
+            "jueshi199777@gmail.com"
+        ], 
+        "cite_url": "www.pubfacts.com/author/Fusuo+Zhang", 
+        "cite_name": "", 
+        "title": "Publications Authored by FuSuo Zhang - PubFacts"
+    }
+]

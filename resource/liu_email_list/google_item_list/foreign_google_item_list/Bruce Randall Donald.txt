@@ -1,0 +1,12 @@
+[
+    {
+        "content": "... pictures of people and robots. bruce randall donald brd@cs.stanford.edu ... email: brd@cs.stanford.edu. you are elle: ftp://flamingo.stanford.edu/pub/brd/brd.", 
+        "email_addr_list": [
+            "brd@cs.stanford.edu", 
+            "brd@cs.stanford.edu"
+        ], 
+        "cite_url": "ftp.cs.stanford.edu/cs/robotics/brd/", 
+        "cite_name": "", 
+        "title": "Bruce Randall Donald - Stanford University"
+    }
+]

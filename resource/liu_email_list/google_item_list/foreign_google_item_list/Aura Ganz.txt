@@ -1,0 +1,29 @@
+[
+    {
+        "content": "aura ganz. professor. 309f knowles engineering bldg university of massachusetts 151 holdsworth way amherst ma 01003-9284. ganz@ecs.umass.edu.", 
+        "email_addr_list": [
+            "ganz@ecs.umass.edu"
+        ], 
+        "cite_url": "https://ece.umass.edu/.../aura-ganz", 
+        "cite_name": "University of Massachusetts Amherst", 
+        "title": "Aura Ganz | Electrical and Computer Engineering | UMass ..."
+    }, 
+    {
+        "content": "e-mail: ganz@ecs.umass.edu. education: b.sc, m.sc, ph.d. technion, israel institute of technology. all my research and educational activities are described...", 
+        "email_addr_list": [
+            "ganz@ecs.umass.edu"
+        ], 
+        "cite_url": "https://sites.google.com/site/auraganz/", 
+        "cite_name": "", 
+        "title": "Aura Ganz - Google Sites"
+    }, 
+    {
+        "content": "apr 4, 2014 - dr aura ganz director  james schafer systems engineer ... leave us a voice mail at: 317-721-7124 or email tech@eastersealscrossroads.org.", 
+        "email_addr_list": [
+            "tech@eastersealscrossroads.org"
+        ], 
+        "cite_url": "www.eastersealstech.com/.../atu149-indoor-navigation-blind-dr-aura-gan...", 
+        "cite_name": "", 
+        "title": "ATU149 - Indoor Navigation for the Blind with Dr Aura Ganz ..."
+    }
+]

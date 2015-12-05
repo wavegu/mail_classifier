@@ -1,0 +1,29 @@
+[
+    {
+        "content": "do-hyung kim. biography  research  publications  related faculty ... 4321 hartwick buildng department of geographical sciences. email: rsgis@umd.edu.", 
+        "email_addr_list": [
+            "rsgis@umd.edu"
+        ], 
+        "cite_url": "geog.umd.edu/.../Kim/Do-Hyung", 
+        "cite_name": "University of Maryland, College Park", 
+        "title": "Do-Hyung Kim - | Geographical Sciences Website"
+    }, 
+    {
+        "content": "index of professional profiles: do-hyung kim. this is a sample of the 38 contacts that meet these criteria at zoominfo.com. get more. k  kilpatric, hilary - kim,...", 
+        "email_addr_list": [
+            "criteria@zoominfo.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Do-Hyung Kim - Find Email Address, Phone Number  More."
+    }, 
+    {
+        "content": "... 2012 s/s showbook  cy choi 2011 f/w image book  cy choi 2011 s/s image book. cv ex; cv ex ..................................... kim, do-hyung grayoval@gmail.com.", 
+        "email_addr_list": [
+            "grayoval@gmail.com"
+        ], 
+        "cite_url": "www.grayoval.com/", 
+        "cite_name": "", 
+        "title": "Kim Do-Hyung"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "e-mail: ebert@ee.tu-berlin.de adam wolisz obtained his degrees dipl.-ing. in control engineering, dr.-ing. and habilitation (both in computer engineering),...", 
+        "email_addr_list": [
+            "ebert@ee.tu-berlin.de"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Course Hero", 
+        "title": "E-mail: ebert@ee.tu-berlin.de Adam Wolisz obtained his ..."
+    }, 
+    {
+        "content": "verified email at ieee.org - homepage ... m kubisch, h karl, a wolisz, lc zhong, j rabaey ... rw brodersen, a wolisz, d cabric, sm mishra, d willkomm.", 
+        "email_addr_list": [
+            "email@ieee.org"
+        ], 
+        "cite_url": "https://scholar.google.de/citations?user...hl...", 
+        "cite_name": "Google", 
+        "title": "Adam Wolisz - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "content": "chunzhou has a masters degree in economics from jilin university (china) and is a ... bacmgmt, mas.econ, phd. philosophy. email. chunzhou.mu@uts.edu.au.", 
+        "email_addr_list": [
+            "chunzhou.mu@uts.edu.au"
+        ], 
+        "cite_url": "www.uts.edu.au/staff/chunzhou.mu", 
+        "cite_name": "University of Technology Sydney", 
+        "title": "Chunzhou Mu | University of Technology Sydney"
+    }, 
+    {
+        "content": "联系电话：010-62794195 fax: 010-62786911. email： muchd@tsinghua.edu.cn ... [9] di zhou, chundi mu, tielong shen. robust guidance law with l2 gain...", 
+        "email_addr_list": [
+            "muchd@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../2011041...", 
+        "cite_name": "Tsinghua University", 
+        "title": "慕春棣教授 - 清华大学"
+    }, 
+    {
+        "content": "(organisers: barbara hammer, email: bhammer@techfak.uni-bielefeld.de, alessio micheli, ... and frank-michael schleif, email: micheli@di.unipi.it). ... microsoft, china; alessandro sperduti, padova university, italy; mu-chun su, national...", 
+        "email_addr_list": [
+            "bhammer@techfak.uni-bielefeld.de", 
+            "micheli@di.unipi.it"
+        ], 
+        "cite_url": "ieee-ssci.org.za:8080/CIDM", 
+        "cite_name": "", 
+        "title": "CIDM - IEEE SSCI 2015"
+    }, 
+    {
+        "content": "tsinghua university, beijing, china. phone: +86,010,62794355. email: hujm@mail.tsinghua.edu.cn. chundi mu. department of automation. tsinghua university...", 
+        "email_addr_list": [
+            "hujm@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../05...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "A Method of Traffic Flow Measuring Based on Vehicle ..."
+    }
+]

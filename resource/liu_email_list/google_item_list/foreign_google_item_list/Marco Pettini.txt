@@ -1,0 +1,20 @@
+[
+    {
+        "content": "11 items - name, position, institution, email, website, office, phone number ... pettini, marco, pr1, aix-marseille université, marco.pettini@gmail.com, 528, +33...", 
+        "email_addr_list": [
+            "marco.pettini@gmail.com"
+        ], 
+        "cite_url": "https://sites.google.com/site/nldyncpt/members", 
+        "cite_name": "", 
+        "title": "Members - Nonlinear Dynamics - Google Sites"
+    }, 
+    {
+        "content": "by architetto marco pettini · updated about 8 months ago ... informazioni / consulenze / preventivi contattaci oppure scrivere email ad info@marcopettini.it.", 
+        "email_addr_list": [
+            "info@marcopettini.it"
+        ], 
+        "cite_url": "https://www.facebook.com/media/set/?set=a.1529018284040635...3", 
+        "cite_name": "", 
+        "title": "ARCHITETTO FIRENZE | Facebook"
+    }
+]

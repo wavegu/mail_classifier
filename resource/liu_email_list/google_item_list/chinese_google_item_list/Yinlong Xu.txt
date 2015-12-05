@@ -1,0 +1,39 @@
+[
+    {
+        "content": "jul 1, 2011 - email: ylxu@ustc.edu.cn. homepage: xu,yinlong(in chinese) ... yinlong xu received his b.s. in mathematics from peking university, and ms...", 
+        "email_addr_list": [
+            "ylxu@ustc.edu.cn"
+        ], 
+        "cite_url": "en.nhpcc.ustc.edu.cn/.../t...", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "Professor Yinlong Xu - National High Performance ..."
+    }, 
+    {
+        "content": "name: xu, yinlong. e-mail: xuyl@ami.ac.cn. nationality: chinese. present occupation: professor. affiliation: climate change lab. institute of environment and...", 
+        "email_addr_list": [
+            "xuyl@ami.ac.cn"
+        ], 
+        "cite_url": "www.unep.org/.../CV-Yinlong_...", 
+        "cite_name": "United Nations Environment Programme", 
+        "title": "[PDF]view CV"
+    }, 
+    {
+        "content": "dr xu yinlong, ami, c aas dr li yue, ami, c aas ... dr yinlong xu co-secretary-general dr yue li ... email: xiongw@ns.ami.ac.cn or yueli@ns.ami.ac.cn...", 
+        "email_addr_list": [
+            "xiongw@ns.ami.ac.cn", 
+            "yueli@ns.ami.ac.cn"
+        ], 
+        "cite_url": "en.ccchina.gov.cn/Detail.aspx?newsId=38644TId=101", 
+        "cite_name": "", 
+        "title": "－UK-China Workshop on the Impacts of Climate Change ..."
+    }, 
+    {
+        "content": "e－mail, wxiumin@hfut.edu.cn ... [j15] xiumin wang, chau yuen, tiffany jing li, wentu song, yinlong xu, “minimizing transmission cost for third-party...", 
+        "email_addr_list": [
+            "wxiumin@hfut.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "计算机与信息学院 - 合肥工业大学"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "content": "email: r.jayakumar@unesco.org / beijing.sc@unesco.org. mr. jayakumar holds masters degree in geology (1988), post graduate diploma in environmental...", 
+        "email_addr_list": [
+            "r.jayakumar@unesco.org", 
+            "beijing.sc@unesco.org"
+        ], 
+        "cite_url": "www.irtces.org/isi/expert-jaya.asp", 
+        "cite_name": "", 
+        "title": "Dr. R. Jayakumar - INTERNATIONAL SEDIMENT INITIATIVE"
+    }, 
+    {
+        "content": "e-mail: r.jayakumar@unesco.org. for more on unesco initiatives related to the ocean, please contact: wenxi zhu, head  programme specialist unesco/ioc...", 
+        "email_addr_list": [
+            "r.jayakumar@unesco.org"
+        ], 
+        "cite_url": "www.unescobkk.org/new/natural...us/.../contact-us/", 
+        "cite_name": "UNESCO Bangkok", 
+        "title": "UNESCO Office in Bangkok: Contact Us"
+    }
+]

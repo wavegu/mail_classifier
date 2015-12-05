@@ -1,0 +1,21 @@
+[
+    {
+        "content": "nov 16, 2014 - ... david proctor, djproctor@gmail.com, national science foundation, ... usa; colin c. venters, colin.venters@googlemail.com, university of...", 
+        "email_addr_list": [
+            "djproctor@gmail.com", 
+            "colin.venters@googlemail.com"
+        ], 
+        "cite_url": "wssspe.researchcomputing.org.uk/wssspe2/cfp/", 
+        "cite_name": "", 
+        "title": "2nd Workshop on Sustainable Software for Science ..."
+    }, 
+    {
+        "content": "title, forename, surname, number, school/service, department/section, e-mail ... library services, it purchasing (computing services), s.varty@hud.ac.uk.", 
+        "email_addr_list": [
+            "s.varty@hud.ac.uk"
+        ], 
+        "cite_url": "www.hud.ac.uk/cgi-bin/phonebook.pl?...V", 
+        "cite_name": "University of Huddersfield", 
+        "title": "Online contact directory - University of Huddersfield"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "... fax: 86-010-62650912; email: siyao.fu@ia.ac.cn ; yun-chu zhang ; long cheng ; zi-ze liang ... download citation  email; print; request permissions.", 
+        "email_addr_list": [
+            "siyao.fu@ia.ac.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../article...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "IEEE Xplore Abstract - Motion Based Image Deblur Using ..."
+    }, 
+    {
+        "content": "e4a 07-05 chewanfk@us.edu.sgthis email address is being protected from spambots. you need javascript enabled to view it. laboratory staff - yuan ze liang...", 
+        "email_addr_list": [
+            "chewanfk@us.edu.sgthis"
+        ], 
+        "cite_url": "www.chbe.nus.edu.sg/people/lab", 
+        "cite_name": "National University of Singapore", 
+        "title": "NUS ChBE - Laboratory Staff"
+    }, 
+    {
+        "content": "jan 15, 2014 - supervisors name, major, homepage, email. dai ruwei ... liang zize, control theory and control engineering ... zize.liang@ia.ac.cn.", 
+        "email_addr_list": [
+            "zize.liang@ia.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Supervisor List----Institute Of Automation Chinese Academy ..."
+    }, 
+    {
+        "content": "personal homepage: employer: (); email ... 1. zi-ze liang. 1 ... send us an email at hello@interaction-design.org or through our online contact form. or find us...", 
+        "email_addr_list": [
+            "hello@interaction-design.org"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/siyao-fu", 
+        "cite_name": "", 
+        "title": "Siyao Fu - Interaction Design Foundation"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "content": "simon x. yang. university of guelph, canada. email: syang@uoguelph.ca. qualifications. 1999 ph.d., university of alberta, canada. 1996 m. sc., university of...", 
+        "email_addr_list": [
+            "syang@uoguelph.ca"
+        ], 
+        "cite_url": "www.scirp.org/journal/DetailedInforOfEditorialBoard.aspx?personID...", 
+        "cite_name": "", 
+        "title": "Simon X. Yang - Journals, Conferences, Proceedings, Open ..."
+    }, 
+    {
+        "content": "may 21, 2013 - here is what you should do when you receive emails from china domain ... china domain name registration center (yg registry , ygregistry ... tel: +86.551.65184482 fax: +86.551.65128724 email: mxia@pircn.net, martin.x@pircn.net ..... e-fax: +86-21-51862875 email: simon.wu@asiandomaincentre.org", 
+        "email_addr_list": [
+            "mxia@pircn.net", 
+            "martin.x@pircn.net", 
+            "simon.wu@asiandomaincentre.org"
+        ], 
+        "cite_url": "www.europeandomaincentre.com/.../hey!-got-an-email-from-china-dom...", 
+        "cite_name": "", 
+        "title": "Hey! Got an Email from China Domain Name Registration ..."
+    }, 
+    {
+        "content": "mingze yang. ph.d. candidate. email: mingzey@sfu.ca; tel: 778-891-3161; office: tasc ii 7040. supervisor. karen kavanagh. research group. kavanagh lab.", 
+        "email_addr_list": [
+            "mingzey@sfu.ca"
+        ], 
+        "cite_url": "https://www.sfu.ca/physics/people/.../mingzey.ht...", 
+        "cite_name": "Simon Fraser University", 
+        "title": "Mingze Yang - Department of Physics - Simon Fraser ..."
+    }, 
+    {
+        "content": "verified email at mail.ntust.edu.tw. @mail.ntust.edu.tw. cited by ... verified email at canberra.edu.au. @canberra.edu.au ... simon x. yang. university of guelph.", 
+        "email_addr_list": [
+            "email@mail.ntust.edu.tw", 
+            "email@canberra.edu.au"
+        ], 
+        "cite_url": "scholar.google.hu/citations?view_op=search_authors...", 
+        "cite_name": "Google", 
+        "title": "Google Scholar Citations"
+    }
+]

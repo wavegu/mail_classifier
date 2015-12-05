@@ -1,0 +1,20 @@
+[
+    {
+        "content": "prof. josé santos-victor,. vice-president international affairs. instituto superior técnico,. lisbon, portugal. email: santos.victor@tecnico.ulisboa.pt. short cv.", 
+        "email_addr_list": [
+            "santos.victor@tecnico.ulisboa.pt"
+        ], 
+        "cite_url": "www.eppgroup.eu/.../CV_Santos-...", 
+        "cite_name": "EPP Group in the European Parliament", 
+        "title": "[PDF]CV José Santos Victor - EPP Group in the European ..."
+    }, 
+    {
+        "content": "fotografia da pessoa. categoria(s) *. professor catedrático. unidade de investigação *. instituto de sistemas e robótica. email. santos.victor@tecnico.ulisboa.pt.", 
+        "email_addr_list": [
+            "santos.victor@tecnico.ulisboa.pt"
+        ], 
+        "cite_url": "https://fenix.tecnico.ulisboa.pt/.../i...", 
+        "cite_name": "University of Lisbon", 
+        "title": "Apresentação · José Santos Victor - Técnico Lisboa"
+    }
+]

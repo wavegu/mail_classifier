@@ -1,0 +1,11 @@
+[
+    {
+        "content": "takeo kanade ... email, tk@cs.cmu.edu ... professor kanade is also engaged in research on the design and development of real-time robotics systems.", 
+        "email_addr_list": [
+            "tk@cs.cmu.edu"
+        ], 
+        "cite_url": "https://www.ece.cmu.edu/.../Takeo_Kanade_...", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Takeo Kanade - Electrical and Computer Engineering"
+    }
+]

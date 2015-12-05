@@ -1,0 +1,40 @@
+[
+    {
+        "content": "ass.prof. sha yongzhong, address: 222 tianshui nan lu, lanzhou, gansu. phone: +86-931-8914332. fax: +86-931-8910402. email: glxy@lzu.edu.cn.", 
+        "email_addr_list": [
+            "glxy@lzu.edu.cn"
+        ], 
+        "cite_url": "www.cisap.asia/schools/china.htm", 
+        "cite_name": "", 
+        "title": "China :: Library and Information Science Education in Asia"
+    }, 
+    {
+        "content": "jul 2, 2015 - email:13890796734@163.com. abstract ... sha. yongzhong argues the evolution of social risk into public crisis is a process of uncooperative.", 
+        "email_addr_list": [
+            "13890796734@163.com"
+        ], 
+        "cite_url": "www.iijsr.org/data/frontImages/gallery/Vol._2_No.../4._41-48.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]The Study of NIMBY into Public Crisis in China ---Based on ..."
+    }, 
+    {
+        "content": "yongzhong sha. lanzhou university, gansu, china. email: shayzh@lzu.edu.cn. jinsong yan. lanzhou university, gansu, china. email: yanjs11@lzu.edu.cn.", 
+        "email_addr_list": [
+            "shayzh@lzu.edu.cn", 
+            "yanjs11@lzu.edu.cn"
+        ], 
+        "cite_url": "www.iscramlive.org/ISCRAM2014/papers/p76.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Detecting Public Sentiment Over PM2.5 Pollution ... - ISCRAM"
+    }, 
+    {
+        "content": "university, usa. email: cai@ist.psu.edu phone: 814-865-4448 ... email: bmt139@psu.edu ... yongzhong sha – associate professor and associate dean of the.", 
+        "email_addr_list": [
+            "cai@ist.psu.edu", 
+            "bmt139@psu.edu"
+        ], 
+        "cite_url": "www.purdue.edu/.../Understanding%20Government%...", 
+        "cite_name": "Purdue University", 
+        "title": "[PDF]Understanding Government Contexts in GeoCollaborative ..."
+    }
+]

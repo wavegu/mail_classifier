@@ -1,0 +1,30 @@
+[
+    {
+        "content": "contacts (name, phone, email, skype..) giorgio cannata phone: +39 0102522223 email: giorgio.cannata@unige.it skype: giorgio.cannata.unige.", 
+        "email_addr_list": [
+            "giorgio.cannata@unige.it"
+        ], 
+        "cite_url": "www.robotics.ingegneria.unige.it/.../Robotics-Thesis-proposal-short-for...", 
+        "cite_name": "", 
+        "title": "[PDF]École Centrale de Nantes - Università Degli Studi Di Genova"
+    }, 
+    {
+        "content": "maclab – universita di genova. contacts (name, phone, email, skype..) giorgio cannata phone: +39 0102522223 email: giorgio.cannata@unige.it...", 
+        "email_addr_list": [
+            "giorgio.cannata@unige.it"
+        ], 
+        "cite_url": "www.robotics.ingegneria.unige.it/.../Robotics-Thesis-proposal-short-for...", 
+        "cite_name": "", 
+        "title": "[PDF]École Centrale de Nantes - Università Degli Studi Di Genova"
+    }, 
+    {
+        "content": "giorgio.cannata@unige.it). m. maggiali is with the italian institute of technology, 16163 genova,. italy (e-mail: marco.maggiali@iit.it). g. metta is with department...", 
+        "email_addr_list": [
+            "giorgio.cannata@unige.it", 
+            "marco.maggiali@iit.it"
+        ], 
+        "cite_url": "pasa.liralab.it/pasapdf/358_Cannata_etal2008.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]An Embedded Artificial Skin for Humanoid Robots - Giorgio ..."
+    }
+]

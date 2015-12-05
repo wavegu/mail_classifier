@@ -1,0 +1,47 @@
+[
+    {
+        "content": "professor chris clark. regius professor of history. st catharines college cambridge cb2 1rl. email: cmc11@cam.ac.uk. office phone: 01223 3 38351.", 
+        "email_addr_list": [
+            "cmc11@cam.ac.uk"
+        ], 
+        "cite_url": "www.hist.cam.ac.uk/directory/cmc11@cam.ac.uk", 
+        "cite_name": "University of Cambridge", 
+        "title": "Professor Chris Clark — Faculty of History"
+    }, 
+    {
+        "content": "feb 11, 2014 - e-mail: cmc11@cam.ac.uk. sidelights. christopher m. clark is a professor of modern european history at the university of cambridge.", 
+        "email_addr_list": [
+            "cmc11@cam.ac.uk"
+        ], 
+        "cite_url": "ic.galegroup.com/.../ReferenceDetailsWindow?...", 
+        "cite_name": "", 
+        "title": "Christopher M. Clark - Biography in Context"
+    }, 
+    {
+        "content": "email: c.clark@sheffield.ac.uk. chris clark obtained his bsc in physical geography from university of wales, aberystwyth in 1985. after this he worked as a...", 
+        "email_addr_list": [
+            "c.clark@sheffield.ac.uk"
+        ], 
+        "cite_url": "https://www.sheffield.ac.uk/geography/.../clark_c...", 
+        "cite_name": "University of Sheffield", 
+        "title": "Chris Clark - Staff - Geography - The University of Sheffield"
+    }, 
+    {
+        "content": "perelman school of medicine/ faculty search/ christopher m. clark ... office: 2158937562. email: clarkc@mail.med.upenn.edu. education: b.s.", 
+        "email_addr_list": [
+            "clarkc@mail.med.upenn.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Perelman School of Medicine", 
+        "title": "Christopher M. Clark, || Perelman School of Medicine at the ..."
+    }, 
+    {
+        "content": "print icon  email icon  latham  watkins ... partner; echris.clark@lw.com; t+1.212.906.1350; add to contacts. new york ... christopher clark, a former federal prosecutor, is a partner in the new york office of latham  watkins. he serves as...", 
+        "email_addr_list": [
+            "echris.clark@lw.com"
+        ], 
+        "cite_url": "https://www.lw.com/people/chris-clark", 
+        "cite_name": "Latham  Watkins", 
+        "title": "Latham  Watkins LLP - Global Directory - Christopher J. Clark"
+    }
+]

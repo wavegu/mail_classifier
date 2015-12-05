@@ -1,0 +1,30 @@
+[
+    {
+        "content": "hongjie dai research lab. ... hongjie dais research lab at stanford university. the research of our group ... fax 650 725 9793. email hdai1@stanford.edu...", 
+        "email_addr_list": [
+            "hdai1@stanford.edu"
+        ], 
+        "cite_url": "dailab.stanford.edu/", 
+        "cite_name": "", 
+        "title": "Hongjie Dai - Stanford University"
+    }, 
+    {
+        "content": "hongjie. dai. j.g.jackson-c.j. wood professor of chemistry (b. 1966). education: ... phone: 650-723-4518. email: hdai@stanford.edu. website: dai laboratory...", 
+        "email_addr_list": [
+            "hdai@stanford.edu"
+        ], 
+        "cite_url": "https://chemistry.stanford.edu/faculty/hongjie-dai", 
+        "cite_name": "", 
+        "title": "Hongjie Dai - Department of Chemistry - Stanford University"
+    }, 
+    {
+        "content": "editors-in-chief prof. hongjie dai e-mail: hdai1@stanford.edu. prof. yadong li e-mail: ydli@mail.tsinghua.edu.cn. chair of advisory board. prof. qikun xue", 
+        "email_addr_list": [
+            "hdai1@stanford.edu", 
+            "ydli@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.thenanoresearch.com/work_contactus.asp", 
+        "cite_name": "", 
+        "title": "Contact Us - Nano Research"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "content": "email this article (login required) ... dong-sheng huang1,2,*, hou-quan tao1,2,*, xu-jun he2, ming long3, sheng ... hai yan, email: hai.yan@dm.duke.edu.", 
+        "email_addr_list": [
+            "hai.yan@dm.duke.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Prevalence of deleterious ATM germline mutations in gastric ..."
+    }, 
+    {
+        "content": "haiyan hou: hyhou@ucalgary.ca ... please indicate how you would prefer to receive results: fax, email, mail; if you have not received the report, other reflex tests...", 
+        "email_addr_list": [
+            "hyhou@ucalgary.ca"
+        ], 
+        "cite_url": "mitogen.ca/send-your-samples/", 
+        "cite_name": "", 
+        "title": "Send your samples | Mitogen"
+    }, 
+    {
+        "content": "camperdown nsw 2050. email: chinaconsul_syd_au@mfa.gov.cn ... mrs haiyan zhao. ms lei jiang. consul ... mr zhihao hou. vice-consul. ms bi xia.", 
+        "email_addr_list": [
+            "chinaconsul_syd_au@mfa.gov.cn"
+        ], 
+        "cite_url": "protocol.dfat.gov.au/.../view.rai...", 
+        "cite_name": "Department of Foreign Affairs and Trade", 
+        "title": "China - Foreign embassies and consulates in Australia ..."
+    }, 
+    {
+        "content": "jul 16, 2011 - liu haiyan, professor, national outstanding youth, hundred talents program, bio-x interdisciplinary sciences ... e-mail: hyliu@ustc.edu.cn ... 3), r. ma, j. wang, z. hou* and h. liu*; small-number effects: a third stable...", 
+        "email_addr_list": [
+            "hyliu@ustc.edu.cn"
+        ], 
+        "cite_url": "en.hfnl.ustc.edu.cn/.../t20...", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "LIU Haiyan--Hefei National Laboratory for Physical ..."
+    }, 
+    {
+        "content": "verified email at tsinghua.edu.cn. scholar ... d zhang, y liu, x hou, c zhou, y luo, d ye, h ding ... d zhang, m hathi, zj yang, h ding, r koehler, n thakor.", 
+        "email_addr_list": [
+            "email@tsinghua.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=LCSVtqEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Haiyan Ding - Google Scholar Citations"
+    }, 
+    {
+        "content": "see information and reports about juliahou22@hotmail.com (haiyan hous e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "juliahou22@hotmail.com"
+        ], 
+        "cite_url": "spam-report.email/juliahou22/hotmail.com", 
+        "cite_name": "", 
+        "title": "juliahou22@hotmail.com (Haiyan Hous e-mail) - Spam ..."
+    }
+]

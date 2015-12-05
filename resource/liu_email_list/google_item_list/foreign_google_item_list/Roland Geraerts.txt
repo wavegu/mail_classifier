@@ -1,0 +1,29 @@
+[
+    {
+        "content": "full name, : dr. r.j. geraerts. first name, : roland. mail, : r.j.geraerts@uu.nl. office, : bbl-418. telephone, : +31 (30) 253 3977. faxnumber, : +31 (30) 253 2804.", 
+        "email_addr_list": [
+            "r.j.geraerts@uu.nl"
+        ], 
+        "cite_url": "www.cs.uu.nl/staff/roland.html", 
+        "cite_name": "Utrecht University", 
+        "title": "Roland Geraerts - Department of Information and ..."
+    }, 
+    {
+        "content": "r.j. (roland) geraerts. email address: r.j.geraerts@uu.nl. telephone number: 030 253 3977. assistant professor. address. princetonplein 5. 3584cc utrecht.", 
+        "email_addr_list": [
+            "r.j.geraerts@uu.nl"
+        ], 
+        "cite_url": "students.uu.nl/en/science/game-and-media-technology/.../people", 
+        "cite_name": "", 
+        "title": "people | Students | Universiteit Utrecht"
+    }, 
+    {
+        "content": "websites. homepage roland geraerts. email. r.j.geraerts@uu.nl ... roland geraerts is an assistant professor at the games and virtual worlds group in the...", 
+        "email_addr_list": [
+            "r.j.geraerts@uu.nl"
+        ], 
+        "cite_url": "orcid.org/0000-0002-8161-579X", 
+        "cite_name": "", 
+        "title": "Roland Geraerts (0000-0002-8161-579X) - ORCID ..."
+    }
+]

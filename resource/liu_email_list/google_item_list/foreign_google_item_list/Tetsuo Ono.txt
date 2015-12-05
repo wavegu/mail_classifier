@@ -1,0 +1,29 @@
+[
+    {
+        "content": "tetsuo ono: current contact information and listing of economic research of this author ... email: tono@econ.osaka-u.ac.jp ... ryo arawatari  tetsuo ono, 2015.", 
+        "email_addr_list": [
+            "tono@econ.osaka-u.ac.jp"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pon37.html", 
+        "cite_name": "", 
+        "title": "Tetsuo Ono at IDEAS"
+    }, 
+    {
+        "content": "tetsuo ono. search this site ... tetsuo ono. september 2015. 1. personal. year of birth: 1970 ... fax : +81-6-6850-5205 e-mail: tono@econ.osaka-u.ac.jp. 2.", 
+        "email_addr_list": [
+            "tono@econ.osaka-u.ac.jp"
+        ], 
+        "cite_url": "https://sites.google.com/site/tonoecon/home/curriculum-vitae-1", 
+        "cite_name": "", 
+        "title": "Curriculum Vitae - TETSUO ONO - Google Sites"
+    }, 
+    {
+        "content": "tetsuo ono, ph.d., hokkaido university human-computer ... tetsuo onos information（小野哲雄の情報）. myself（自己紹介） ... e-mail: tono [at] ist.hokudai.ac.jp...", 
+        "email_addr_list": [
+            "tono@ist.hokudai.ac.jp"
+        ], 
+        "cite_url": "chaosweb.complex.eng.hokudai.ac.jp/~tono/", 
+        "cite_name": "", 
+        "title": "小野哲雄(北海道大学)ホームページ Tetsuo Onos Home Page ..."
+    }
+]

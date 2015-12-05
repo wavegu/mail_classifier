@@ -1,0 +1,56 @@
+[
+    {
+        "content": "e-mail: jbsu@sjtu.edu.cn ... jianbo su received the b. s. degree in control theory and control engineering from shanghai jiaotong university, shanghai, china...", 
+        "email_addr_list": [
+            "jbsu@sjtu.edu.cn"
+        ], 
+        "cite_url": "rcir.sjtu.edu.cn/~jbsu/en/index.html", 
+        "cite_name": "", 
+        "title": "Jianbo Su - Research Center of Intelligent Robotics"
+    }, 
+    {
+        "content": "jianbo wan 萬建波 ... zhang xj, huang ll, su h, chen yx, huang j, he c, li p, yang dz, wan jb*, characterizing plasma phospholipid fatty acid profiles of ... zhang xj, su h, he cw, wang yt, yang fq, wan jb*. ..... e-mail: jbwan@umac.mo.", 
+        "email_addr_list": [
+            "jbwan@umac.mo"
+        ], 
+        "cite_url": "www.umac.mo/sklqrcm/academic.../jbwan_e.html", 
+        "cite_name": "University of Macau", 
+        "title": "ICMS Academic Staff - University of Macau"
+    }, 
+    {
+        "content": "jia x, zhang c, qiu j, wang l, bao j, wang k, zhang y, chen m, wan j, su h, han j, he c*. .... chengwei he, xiying qu, jianbo wan, rong rong, lili huang, chun cai, keyuan zhou, yan gu, steven y. qian .... e-mail: chengweihe@umac.mo.", 
+        "email_addr_list": [
+            "chengweihe@umac.mo"
+        ], 
+        "cite_url": "www.umac.mo/sklqrcm/academic.../cwhe_e.html", 
+        "cite_name": "University of Macau", 
+        "title": "Academic Qualifications - University of Macau"
+    }, 
+    {
+        "content": "e-mail: sunsq@tsinghua.edu.cn. research interests vibrational ... [4] chen jian-bo, sun su-qin, ma fang, zhou qun. vibrational microspectroscopic...", 
+        "email_addr_list": [
+            "sunsq@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201104042359278055047...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Department of Chemistry,Tsinghua University"
+    }, 
+    {
+        "content": "modeling and control of robot manipulators jianbo su department of automation email: jbsu@sjtu.edu.cn tel: 34204276.", 
+        "email_addr_list": [
+            "jbsu@sjtu.edu.cn"
+        ], 
+        "cite_url": "slideplayer.com/slide/6850440/", 
+        "cite_name": "", 
+        "title": "Modeling and Control of Robot Manipulators Jianbo Su ..."
+    }, 
+    {
+        "content": "email: ghma@home.ipe.ac.cn. qualifications ... if 5.589. wei wei, zhan-guo yue, jian-bo qu, hua yue, zhi-guo su  guang-hui ma. galactosylated...", 
+        "email_addr_list": [
+            "ghma@home.ipe.ac.cn"
+        ], 
+        "cite_url": "www.scirp.org/journal/DetailedInforOfEditorialBoard.aspx?personID...", 
+        "cite_name": "", 
+        "title": "Guanghui Ma - Journals, Conferences, Proceedings, Open ..."
+    }
+]

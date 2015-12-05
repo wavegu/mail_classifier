@@ -1,0 +1,39 @@
+[
+    {
+        "content": "gabor fichtinger, dr. univ. professor and cancer care ontario research chair. school of ... email: gabor@cs.queensu.ca  http://www.cs.queensu.ca/~gabor...", 
+        "email_addr_list": [
+            "gabor@cs.queensu.ca"
+        ], 
+        "cite_url": "www.cs.queensu.ca/~gabor", 
+        "cite_name": "", 
+        "title": "Gabor Fichtinger - School of Computing - Queens University"
+    }, 
+    {
+        "content": "gabor fichtinger professor, cancer care ontario ... gabor@cs.queensu.ca. janice glasgow professor ..... neilglossop@gmail.com. scott grant adjunct assistant...", 
+        "email_addr_list": [
+            "gabor@cs.queensu.ca", 
+            "neilglossop@gmail.com"
+        ], 
+        "cite_url": "www.cs.queensu.ca/people/faculty.php", 
+        "cite_name": "", 
+        "title": "Faculty - School of Computing - Queens University"
+    }, 
+    {
+        "content": "gabor fichtinger received bsc and msc degrees in electrical engineering, and dr. univ. degree in computer science from the ... dr. fichtinger holds a cancer ontario research chair in cancer imaging. .... email: gabor@cs.queensu.ca.", 
+        "email_addr_list": [
+            "gabor@cs.queensu.ca"
+        ], 
+        "cite_url": "perk.cs.queensu.ca/users/gabor", 
+        "cite_name": "", 
+        "title": "gabor | The Perk Lab"
+    }, 
+    {
+        "content": "gabor fichtinger, phd. professor and ... email: gabor@cs.queensu.ca ß preferred way of communication ... please always email me the day before.", 
+        "email_addr_list": [
+            "gabor@cs.queensu.ca"
+        ], 
+        "cite_url": "www.cs.queensu.ca/home/cisc330", 
+        "cite_name": "", 
+        "title": "Computer-Integrated Surgery - School of Computing"
+    }
+]

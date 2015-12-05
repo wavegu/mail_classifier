@@ -1,0 +1,48 @@
+[
+    {
+        "content": "research fields: computer-human interaction, theory and applications of real-time intelligent systems. tel: 010-62661578. e-mail: hongan@iscas.ac.cn...", 
+        "email_addr_list": [
+            "hongan@iscas.ac.cn"
+        ], 
+        "cite_url": "lcs.ios.ac.cn/en/wiki/Hongan_WANG", 
+        "cite_name": "", 
+        "title": "Hongan WANG - State Key Laboratory of Computer Science"
+    }, 
+    {
+        "content": "see information and reports about hw6646a@address.com (hongan wangs e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "hw6646a@address.com"
+        ], 
+        "cite_url": "spam-report.email/hw6646a/address.com", 
+        "cite_name": "", 
+        "title": "hw6646a@address.com (Hongan Wangs e-mail) - Spam ..."
+    }, 
+    {
+        "content": "fax: +86-10-62661577. email: danliwang2009@gmail.com; danli@iscas.ac.cn ... danli wang, tingting ying, jinquan xiong, hongan wang, and guozhong dai.", 
+        "email_addr_list": [
+            "danliwang2009@gmail.com", 
+            "danli@iscas.ac.cn"
+        ], 
+        "cite_url": "people.ucas.ac.cn/~danliwan...", 
+        "cite_name": "University of Chinese Academy of Sciences", 
+        "title": "个人主页 - 中国科学院大学"
+    }, 
+    {
+        "content": "technology, pennsylvania state university, pa 16802, email: lzhang@ist.psu.edu; guozhong dai and hongan. wang, state key lab of computer science,...", 
+        "email_addr_list": [
+            "lzhang@ist.psu.edu"
+        ], 
+        "cite_url": "zhang.ist.psu.edu/pdf/TIST_2011.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Drawn Concept Maps - (Luke) Zhang"
+    }, 
+    {
+        "content": "email: lixinsdu at gmail.com ... li ma,xin li,yongyan wang,hongan wang,real-time scheduling for continuous queries with deadlines. in proc. of the 24th...", 
+        "email_addr_list": [
+            "lixinsdu@gmail.com"
+        ], 
+        "cite_url": "seelab.ucsd.edu/people/resumes/index_lixin.html", 
+        "cite_name": "", 
+        "title": "Xin Lis Home Page - System Energy Efficiency Lab"
+    }
+]

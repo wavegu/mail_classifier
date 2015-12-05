@@ -1,0 +1,11 @@
+[
+    {
+        "content": "japan. phone: +81 801 493 9384. email: adriancheok@kmd.keio.ac.jp ..... application in museum and heritage, guest editors: adrian david cheok and pan...", 
+        "email_addr_list": [
+            "adriancheok@kmd.keio.ac.jp"
+        ], 
+        "cite_url": "www.mixedrealitylab.org/wp-content/uploads/.../adc-cv-us-06-12.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Adrian David Cheok: Curriculum Vitae - Mixed Reality Lab"
+    }
+]

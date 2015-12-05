@@ -1,0 +1,12 @@
+[
+    {
+        "content": "journal and highly selective conference papers andrew s. lan, divyanshu vats, ... andrew s. lan, and christoph studer rice university; e-mail: {waters,mr.lan ... algis rudys‡ arudys@cs.rice.edu andrew m. ladd‡ aladd@cs.rice.edu", 
+        "email_addr_list": [
+            "arudys@cs.rice.edu", 
+            "aladd@cs.rice.edu"
+        ], 
+        "cite_url": "search.rice.edu/?q=Andrew+Lan", 
+        "cite_name": "", 
+        "title": "Andrew Lan - Rice University » Search"
+    }
+]

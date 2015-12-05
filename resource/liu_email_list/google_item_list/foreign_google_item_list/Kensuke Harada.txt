@@ -1,0 +1,30 @@
+[
+    {
+        "content": "aug 19, 2015 - kensuke haradas webpage. 写真 ... kensuke harada（原田 研介）, dr., eng. ... tel：+81-29-861-5953, e-mail：kensuke.harada [at] aist.go.jp.", 
+        "email_addr_list": [
+            "kensuke.harada@aist.go.jp"
+        ], 
+        "cite_url": "https://staff.aist.g...", 
+        "cite_name": "National Institute of Advanced Industrial Science and...", 
+        "title": "Kensuke HARADA"
+    }, 
+    {
+        "content": "create alert. cancel. kensuke harada ... verified email at aist.go.jp. scholar ... s kajita, f kanehiro, k kaneko, k fujiwara, k harada, k yokoi, ... robotics and...", 
+        "email_addr_list": [
+            "email@aist.go.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=X5hwUlIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kensuke Harada - Google Scholar Citations"
+    }, 
+    {
+        "content": "kensuke harada, eiichi yoshida, kazuhito yokoi ... email: hauserk@indiana.edu victor ng-thow-hing honda research institute e-mail: vng@honda-ri.com...", 
+        "email_addr_list": [
+            "hauserk@indiana.edu", 
+            "vng@honda-ri.com"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=1849962200", 
+        "cite_name": "", 
+        "title": "Motion Planning for Humanoid Robots"
+    }
+]

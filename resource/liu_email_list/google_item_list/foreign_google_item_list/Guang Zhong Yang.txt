@@ -1,0 +1,11 @@
+[
+    {
+        "content": "professor guang-zhong yang royal society/wolfson mic laboratory ... email: g.z.yang at imperial.ac.uk (replace at with @) web: http://vip.doc.ic.ac.uk/gzy...", 
+        "email_addr_list": [
+            "g.z.yang@imperial.ac.uk"
+        ], 
+        "cite_url": "ubimon.doc.ic.ac.uk/gzy/m370.html", 
+        "cite_name": "", 
+        "title": "Prof Guang-Zhong Yang"
+    }
+]

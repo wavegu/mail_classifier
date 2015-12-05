@@ -1,0 +1,20 @@
+[
+    {
+        "content": "peter berkelman. recently graduated ph.d. student, robotics phd program ... 5620 hobart st #10, pittsburgh pa 15217, 412-422-0319. email-- pjb@ri.cmu.edu...", 
+        "email_addr_list": [
+            "pjb@ri.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~pjb/", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Peter Berkelman"
+    }, 
+    {
+        "content": "email: sebastian.bozlee at colorado.edu ... maglev haptic and 3d graphic display in achi 2013, with coauthors peter berkelman and muneaki miyasaka. 2013.", 
+        "email_addr_list": [
+            "sebastian.bozlee@colorado.edu"
+        ], 
+        "cite_url": "math.colorado.edu/~sebo2151/", 
+        "cite_name": "", 
+        "title": "Sebastian Bozlee"
+    }
+]

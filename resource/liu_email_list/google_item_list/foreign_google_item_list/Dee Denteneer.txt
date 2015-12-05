@@ -1,0 +1,12 @@
+[
+    {
+        "content": "search email number information data on the internet ... 6denteneer dee hyperlink mailto:dee.denteneer@philips.com dee.denteneer@philips.com philips...", 
+        "email_addr_list": [
+            "dee.denteneer@philips.com", 
+            "dee.denteneer@philips.com"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-denteneer-philips-com-2504069....", 
+        "cite_name": "", 
+        "title": "denteneer@philips.com - The Email Archive"
+    }
+]

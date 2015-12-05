@@ -1,0 +1,20 @@
+[
+    {
+        "content": "vice president. scott f. midkiff vice president for information technology and chief information officer information technology midkiff@vt.edu (540) 231-4227.", 
+        "email_addr_list": [
+            "midkiff@vt.edu"
+        ], 
+        "cite_url": "www.it.vt.edu/administration/staff/vice_president/", 
+        "cite_name": "", 
+        "title": "Virginia Tech - Office of the Vice President for Information ..."
+    }, 
+    {
+        "content": "ore hall virginia polytechnic institute and state university blacksburg va 24061 (540) 231-5096 gmorgan@vt.edu dr. scott f. midkiff bradley department of...", 
+        "email_addr_list": [
+            "gmorgan@vt.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-midkiff-vt-edu-19734666.htm", 
+        "cite_name": "", 
+        "title": "midkiff@vt.edu - The Email Archive"
+    }
+]

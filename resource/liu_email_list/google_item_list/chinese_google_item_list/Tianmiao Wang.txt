@@ -1,0 +1,11 @@
+[
+    {
+        "content": "tianmiao wang. contact details: ... email: peijiangyuan@gmail.com. url: http://robot.buaa.edu.cn/personality/dept7-wangtianmiao.htm. abstract: in this paper,...", 
+        "email_addr_list": [
+            "peijiangyuan@gmail.com"
+        ], 
+        "cite_url": "https://www.kcl.ac.uk/nms/depts/.../TWang.pdf", 
+        "cite_name": "King's College London", 
+        "title": "[PDF]A Feedback Optimistic Algorithm For Real-Time Robot ..."
+    }
+]

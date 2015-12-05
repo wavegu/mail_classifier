@@ -1,0 +1,40 @@
+[
+    {
+        "content": "email: ncheng26@uwo.ca, mohammad norouzi banis room: teb 315 ... email: yliu974@uwo.ca, biqiong wang ... postdoctoral fellow, dr. yongji tang", 
+        "email_addr_list": [
+            "ncheng26@uwo.ca", 
+            "yliu974@uwo.ca"
+        ], 
+        "cite_url": "www.eng.uwo.ca/people/asun/groups.htm", 
+        "cite_name": "University of Western Ontario", 
+        "title": "Dr. Suns Nanomaterials and Energy Group - Western ..."
+    }, 
+    {
+        "content": "email: jjwang@bnl.gov ... jiajun wang, jinli yang, yong zhang, mohammad norouzi banis, xifei li, ... yongliang li, jiajun wang, xifei li, dongsheng geng, mohammad norouzi banis, yongji tang, dongniu wang, ruying li, tsun-kong.", 
+        "email_addr_list": [
+            "jjwang@bnl.gov"
+        ], 
+        "cite_url": "https://sites.google.com/site/nslsx8ctxm/people/jiajun-wang", 
+        "cite_name": "", 
+        "title": "Jiajun Wang - Transmission X-ray Microscopy Beamline ..."
+    }, 
+    {
+        "content": "yongji wang (china). maarouf saad ... email: icmic@cu.edu.eg. website: ... kametwally@gmail.com; mahmoud el-metwally; maarouf saad (north america)", 
+        "email_addr_list": [
+            "icmic@cu.edu.eg", 
+            "kametwally@gmail.com"
+        ], 
+        "cite_url": "icmic.cu.edu.eg/International%20Program%20Committee/", 
+        "cite_name": "", 
+        "title": "International Program Committee"
+    }, 
+    {
+        "content": "gong, yongji; yang, shubin; zhan, liang; ma, lulu; vajtai, robert; ajayan, pulickel m. a bottom-up ... wang, xingli; gong, yongji; shi, gang; chow, wai leong; keyshar, kunttal; ye, gonglan; vajtai, robert; lou, ..... email: ajayan@rice.edu", 
+        "email_addr_list": [
+            "ajayan@rice.edu"
+        ], 
+        "cite_url": "https://chemistry.rice.edu/FacultyDetail.aspx?p...", 
+        "cite_name": "Rice University", 
+        "title": "Pulickel Ajayan : Rice University Department of Chemistry"
+    }
+]

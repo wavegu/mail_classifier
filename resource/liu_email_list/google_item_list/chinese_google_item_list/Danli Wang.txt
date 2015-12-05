@@ -1,0 +1,21 @@
+[
+    {
+        "content": "search by name, email, work phone, or sunetid. search in stanford view. show more ... danli wang. email: danliw@stanford.edu. return to top. stanford home...", 
+        "email_addr_list": [
+            "danliw@stanford.edu"
+        ], 
+        "cite_url": "https://stanfordwho.stanford.edu/.../detailAction.do?...Wang...", 
+        "cite_name": "", 
+        "title": "Danli Wang - Public Listing from Stanford People Search"
+    }, 
+    {
+        "content": "fax: +86-10-62661577. email: danliwang2009@gmail.com; danli@iscas.ac.cn ... danli wang, tingting ying, jinquan xiong, hongan wang, and guozhong dai.", 
+        "email_addr_list": [
+            "danliwang2009@gmail.com", 
+            "danli@iscas.ac.cn"
+        ], 
+        "cite_url": "people.ucas.ac.cn/~danliwan...", 
+        "cite_name": "University of Chinese Academy of Sciences", 
+        "title": "个人主页 - 中国科学院大学"
+    }
+]

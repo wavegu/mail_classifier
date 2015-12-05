@@ -1,0 +1,65 @@
+[
+    {
+        "content": "assistant professor li tao pic ... civelekoglu-scholey g,*, tao l *, brust-mascher i*, wollman r and scholey jm. (*co-first author) ... email: ltao2@hawaii.edu", 
+        "email_addr_list": [
+            "ltao2@hawaii.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Hawaii", 
+        "title": "Dr. Li Tao - University of Hawaii at Hilo"
+    }, 
+    {
+        "content": "undergraduate. ib2350: finance 1: financial markets; ib3120: project (full weight). finance group. email: tao.li@wbs.ac.uk / tel: 024 761 50505...", 
+        "email_addr_list": [
+            "tao.li@wbs.ac.uk"
+        ], 
+        "cite_url": "www.wbs.ac.uk/about/person/tao-li", 
+        "cite_name": "Warwick Business School", 
+        "title": "Tao Li - Assistant Professor of Finance | Staff Directory | WBS"
+    }, 
+    {
+        "content": "tao li. phd student. dtu nanotech department of micro- and nanotechnology. technical university of denmark ... e-mail, taoli@nanotech.dtu.dk...", 
+        "email_addr_list": [
+            "taoli@nanotech.dtu.dk"
+        ], 
+        "cite_url": "www.dtu.dk/english/Service/.../Person?i...", 
+        "cite_name": "Technical University of Denmark", 
+        "title": "Tao Li - DTU"
+    }, 
+    {
+        "content": "may 1, 2015 - email: taoli at cs.fiu.edu ... dr. tao li is currently a full professor in the school of computer science, florida international university.", 
+        "email_addr_list": [
+            "taoli@cs.fiu.edu"
+        ], 
+        "cite_url": "www.cs.fiu.edu/~taoli", 
+        "cite_name": "Florida International University", 
+        "title": "Dr. Tao Lis Home Page"
+    }, 
+    {
+        "content": "email: tao.li@sheffield.ac.uk. li tao will carry out research to investigate an effective legal protection mechanism of personal information in china. the security...", 
+        "email_addr_list": [
+            "tao.li@sheffield.ac.uk"
+        ], 
+        "cite_url": "https://www.sheffield.ac.uk/law/staff/visiting/tao", 
+        "cite_name": "University of Sheffield", 
+        "title": "Professor Li Tao - University of Sheffield"
+    }, 
+    {
+        "content": "e-mail: taoli at ece dot ufl dot edu. currently ... dr. tao li is a full professor in the department of electrical and computer engineering at the university of florida.", 
+        "email_addr_list": [
+            "taoli@ece.ufl.edu"
+        ], 
+        "cite_url": "www.taoli.ece.ufl.edu/", 
+        "cite_name": "", 
+        "title": "Dr. Tao Lis WWW Home"
+    }, 
+    {
+        "content": "oct 2, 2015 - li tao (dr). email : tli@ntu.edu.sg. project: piezoelectric pump. expertise: piezoelectric materials; piezoelectric devices, including actuators,...", 
+        "email_addr_list": [
+            "tli@ntu.edu.sg"
+        ], 
+        "cite_url": "www.mse.ntu.edu.sg/.../ResearchStaff....", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "Research Staff - MSE - Nanyang Technological University"
+    }
+]

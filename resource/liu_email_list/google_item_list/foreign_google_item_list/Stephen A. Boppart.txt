@@ -1,0 +1,38 @@
+[
+    {
+        "content": "title. phone. email. room. boppart, marni; associate professor; (217) 244-1459 ... boppart, stephen; professor; (217) 244-7479  boppart@illinois.edu; 4351.", 
+        "email_addr_list": [
+            "boppart@illinois.edu"
+        ], 
+        "cite_url": "beckman.illinois....", 
+        "cite_name": "Beckman Institute for Advanced Science and Technol...", 
+        "title": "Searching for: Boppart, Beckman Institute, University of Illinois"
+    }, 
+    {
+        "content": "office: university of illinois at urbana-champaign 405 n. mathews st. urbana, il 61801. phone: 217-244-7479. fax: 217-333-5833. email: boppart@illinois.edu...", 
+        "email_addr_list": [
+            "boppart@illinois.edu"
+        ], 
+        "cite_url": "chicago.medicine.ui...", 
+        "cite_name": "University of Illinois at Chicago College of Medicine", 
+        "title": "Boppart, Stephen - University of Illinois College of Medici..."
+    }, 
+    {
+        "content": "prof. stephen bopparts email address is boppart@uiuc.edu. references 1. d. huang, e.a. swanson, c.p. lin et al., 148 s.a. boppart.", 
+        "email_addr_list": [
+            "boppart@uiuc.edu"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=3540767827", 
+        "cite_name": "", 
+        "title": "Biophotonics - Page 148 - Google Books Result"
+    }, 
+    {
+        "content": "sep 10, 2014 - stephen a. boppart,,,,* and; rebecca richards-kortum,. + author affiliations ... ↵*corresponding author. e-mail: boppart@illinois.edu. science...", 
+        "email_addr_list": [
+            "boppart@illinois.edu"
+        ], 
+        "cite_url": "stm.sciencemag.org/content/6/253/253rv2", 
+        "cite_name": "Science Translational Medicine", 
+        "title": "Point-of-care and point-of-procedure optical imaging ..."
+    }
+]

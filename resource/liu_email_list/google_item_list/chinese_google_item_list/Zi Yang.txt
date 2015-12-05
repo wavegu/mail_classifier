@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email : ziyang.zhang@shef.ac.uk. tel: +44 (0) 114 222 5161. ziyang zhang received his ph.d. from the institute of semiconductor, chinese academy of...", 
+        "email_addr_list": [
+            "ziyang.zhang@shef.ac.uk"
+        ], 
+        "cite_url": "https://www.sheffield.ac.uk/eee/staff/.../z_zhang", 
+        "cite_name": "University of Sheffield", 
+        "title": "Dr. Ziyang Zhang - research - Staff  Research Students ..."
+    }, 
+    {
+        "content": "phone/fax : email : personal site : 3024 fxb. 734.764.3397 / 734.763.0578 ... zi. address : email : research interests : fxb 1048. pziyang@umich.edu.", 
+        "email_addr_list": [
+            "pziyang@umich.edu"
+        ], 
+        "cite_url": "gust.engin.umich.edu/people.html", 
+        "cite_name": "", 
+        "title": "People - A2SRL"
+    }, 
+    {
+        "content": "email kontakt@nyzy.dk. telefon +45 39 65 82 80. forside  profil  menukort  tag-selv bord  menuer  diner ... restaurent ny zi yang. 1; 2; 3. previous; next...", 
+        "email_addr_list": [
+            "kontakt@nyzy.dk"
+        ], 
+        "cite_url": "www.nyzy.dk/", 
+        "cite_name": "", 
+        "title": "Restaurent Ny Zi Yang"
+    }, 
+    {
+        "content": "zhi yang. phd fellow ... publications. yang z., zhou y., wenninger j., uhlenbrook s.: a multi-method approach to quantify ... email z.yang@unesco-ihe.org.", 
+        "email_addr_list": [
+            "z.yang@unesco-ihe.org"
+        ], 
+        "cite_url": "https://www.unesco-ihe.org/zhi-yang", 
+        "cite_name": "UNESCO‑IHE", 
+        "title": "Zhi Yang | UNESCO-IHE"
+    }
+]

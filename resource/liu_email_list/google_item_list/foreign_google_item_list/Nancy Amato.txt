@@ -1,0 +1,29 @@
+[
+    {
+        "content": "home page for nancy amato | parasol laboratory. picture, nancy amato ... department of computer science and engineering, email: amato@cse.tamu.edu.", 
+        "email_addr_list": [
+            "amato@cse.tamu.edu"
+        ], 
+        "cite_url": "https://parasol.tamu.edu/~amato/", 
+        "cite_name": "Texas AM University", 
+        "title": "Home Page for Nancy Amato | Parasol Laboratory"
+    }, 
+    {
+        "content": "unocal professor, osis director. image of nancy amato. office: 425h hrbb phone: 979.862.2275. fax: 979.458.0718. email: amato@cse.tamu.edu.", 
+        "email_addr_list": [
+            "amato@cse.tamu.edu"
+        ], 
+        "cite_url": "https://engineering.tamu.edu/.../na...", 
+        "cite_name": "Dwight Look College of Engineering", 
+        "title": "Amato, Nancy | People | Computer Science  Engineering ..."
+    }, 
+    {
+        "content": "course homepage: http://parasol.tamu.edu/~amato/courses/626. instructor: nancy amato office: 425h harvey r. bright ... email: vincent.marsy [at] tamu.edu", 
+        "email_addr_list": [
+            "vincent.marsy@tamu.edu"
+        ], 
+        "cite_url": "https://parasol.tamu.edu/~amato/Courses/626/", 
+        "cite_name": "Texas AM University", 
+        "title": "CSCE 626: Parallel Algorithm Design and Analysis"
+    }
+]

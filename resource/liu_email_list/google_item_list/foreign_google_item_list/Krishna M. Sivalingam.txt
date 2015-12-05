@@ -1,0 +1,41 @@
+[
+    {
+        "content": "krishna m sivalingam. department: cs designation: professor phone: 4378 email: skrishnam@iitm.ac.in. research interests. wireless networks and wireless...", 
+        "email_addr_list": [
+            "skrishnam@iitm.ac.in"
+        ], 
+        "cite_url": "https://www.iitm.ac.in/.../skrishna...", 
+        "cite_name": "Indian Institute of Technology Madras", 
+        "title": "Krishna M Sivalingam - Faculty Profile | Indian Institute of ..."
+    }, 
+    {
+        "content": "krishna m sivalingam. department: cs designation: professor phone: 4378 email: skrishnam@iitm.ac.in. research interests. wireless networks and wireless...", 
+        "email_addr_list": [
+            "skrishnam@iitm.ac.in"
+        ], 
+        "cite_url": "https://www.iit...", 
+        "cite_name": "Indian Institute of Technology Madras", 
+        "title": "Krishna M Sivalingam"
+    }, 
+    {
+        "content": "sep 26, 2015 - krishna.sivalingam@gmail.com; kristhri@gmail.com ...... c. s. raghavendra, krishna m. sivalingam and ty znati, “wireless sensor networks”,...", 
+        "email_addr_list": [
+            "krishna.sivalingam@gmail.com", 
+            "kristhri@gmail.com"
+        ], 
+        "cite_url": "www.csee.umbc.edu/~krishna/...", 
+        "cite_name": "University of Maryland, Baltimore County", 
+        "title": "[PDF]CURRICULUM VITAE Krishna Moorthy Sivalingam, Ph.D ..."
+    }, 
+    {
+        "content": "e-mail: eyqin@ntu.edu.sg, krishna@eecs.wsu.edu, bli@cs.ust.hk ..... krishna m. sivalingam (acm 93, ieee sm 00 m 95) received his ph.d. and m.s. degrees...", 
+        "email_addr_list": [
+            "eyqin@ntu.edu.sg", 
+            "krishna@eecs.wsu.edu", 
+            "bli@cs.ust.hk"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.12.5880...", 
+        "cite_name": "", 
+        "title": "[PDF]Download as a PDF"
+    }
+]

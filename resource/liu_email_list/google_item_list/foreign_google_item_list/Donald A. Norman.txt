@@ -1,0 +1,21 @@
+[
+    {
+        "content": "im also co-founder of the nielsen norman group and an honorary professor at tongji ... if you encounter site difficulties, send email to webmaster@jnd.org.", 
+        "email_addr_list": [
+            "webmaster@jnd.org"
+        ], 
+        "cite_url": "www.jnd.org/about.html", 
+        "cite_name": "", 
+        "title": "About Don Norman - jnd.org"
+    }, 
+    {
+        "content": "don norman -- human centered design ... email address: don@jnd.org or dnorman@ucsd.edu (both addresses end up at the same place). website:...", 
+        "email_addr_list": [
+            "don@jnd.org", 
+            "dnorman@ucsd.edu"
+        ], 
+        "cite_url": "www.cogsci.ucsd.edu/~norman/", 
+        "cite_name": "University of California, San Diego", 
+        "title": "Don Norman -- Human Centered Design"
+    }
+]

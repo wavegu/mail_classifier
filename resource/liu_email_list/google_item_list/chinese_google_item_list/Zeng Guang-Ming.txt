@@ -1,0 +1,56 @@
+[
+    {
+        "content": "zeng guangming, college of environmental science  engineering, environmental ... solid wastes treatment, tel: 0731-88821967（0）e-mail: sllou@hnu.cn.", 
+        "email_addr_list": [
+            "sllou@hnu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Hunan University", 
+        "title": "Environmental Science and Engineering-HNU"
+    }, 
+    {
+        "content": "email: mchensn@ntu.edu.sg. education: • ph.d ... chen ming, zeng guangming, tan zhongyang, jiang min, zhang jiachao, zhang chang, lu. lunhui, lin...", 
+        "email_addr_list": [
+            "mchensn@ntu.edu.sg"
+        ], 
+        "cite_url": "www3.ntu.edu.sg/.../Chen%20Ming.p...", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "[PDF]Dr. Chen Ming"
+    }, 
+    {
+        "content": "oct 31, 2013 - zip code: 361021. phone: 0592-6190527. email: yxiao@iue.ac.cn ... yong xiao, guang-ming zeng, zhao-hui yang, yan-he ma, cui huang,...", 
+        "email_addr_list": [
+            "yxiao@iue.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Yong Xiao - Institute of Urban Environment,Chinese ..."
+    }, 
+    {
+        "content": "guangming zhong, m.d., ph.d. professor ... email: zhongg@uthscsa.edu ... lei l, chen j, hou s, ding y, yang z, zeng h, baseman j, zhong g. infect immun.", 
+        "email_addr_list": [
+            "zhongg@uthscsa.edu"
+        ], 
+        "cite_url": "uthscsa.edu/.../gz....", 
+        "cite_name": "University of Texas Health Science Center at San Ant...", 
+        "title": "Department of Microbiology  Immunology - Guangming ..."
+    }, 
+    {
+        "content": "email: zengzheng@asu.edu. address: crossroads ... pei lu*, zheng zeng, caiting li, guangming zeng, jing guo, xiao jiang,. yunbo zhai, xiaopeng fan.", 
+        "email_addr_list": [
+            "zengzheng@asu.edu"
+        ], 
+        "cite_url": "www.public.asu.edu/.../CV_Zheng%20Zeng.pdf", 
+        "cite_name": "Arizona State University", 
+        "title": "[PDF]Goal:To pursue a Ph.D.degress in the environmental ..."
+    }, 
+    {
+        "content": "address: xilang, fangcun, guangzhou, p. r. china, 510380 ... email: zhuxinping_1964@yahoo.com.cn. prof. ... zheng guang-ming (郑光明). email:...", 
+        "email_addr_list": [
+            "zhuxinping_1964@yahoo.com.cn"
+        ], 
+        "cite_url": "www.cafs.ac.cn/english/map1-6.html", 
+        "cite_name": "", 
+        "title": "PEARL RIVER FISHERIES RESEARCH INSTITUTE"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "00962-6-4291511 fax: 00962-6-4291432 email: president@zuj.edu.jo. ... fundamental problems in algorithmic algebra - chee keng yap [sponsored magnet link]...", 
+        "email_addr_list": [
+            "president@zuj.edu.jo"
+        ], 
+        "cite_url": "rebel123.washingtonstateland.com/fundamental-problems-of-algorithmic-al...", 
+        "cite_name": "", 
+        "title": "Fundamental Problems Of Algorithmic Algebra By Chee ..."
+    }
+]

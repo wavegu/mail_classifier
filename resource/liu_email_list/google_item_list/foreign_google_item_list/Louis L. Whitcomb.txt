@@ -1,0 +1,41 @@
+[
+    {
+        "content": "... please email the following to peter kazanzides (pkaz@jhu.edu), louis l. whitcomb (llw@jhu.edu), and simon leonard (sleonard@jhu.edu) as a single pdf...", 
+        "email_addr_list": [
+            "pkaz@jhu.edu", 
+            "llw@jhu.edu", 
+            "sleonard@jhu.edu"
+        ], 
+        "cite_url": "https://lcsr.jhu.edu/employment-opportunities/", 
+        "cite_name": "Johns Hopkins University", 
+        "title": "Laboratory for Computational Sensing + Robotics ..."
+    }, 
+    {
+        "content": "verified email at jhu.edu - homepage  scholar. get my own ... r taylor, p jensen, l whitcomb, a barnes, r kumar, d stoianovici, ... the international ... d stoianovici, ll whitcomb, jh anderson, rh taylor, lr kavoussi. medical image...", 
+        "email_addr_list": [
+            "email@jhu.edu"
+        ], 
+        "cite_url": "0-scholar.google.com.brum.beds.ac.uk/citations?user=ppn7g...hl=en", 
+        "cite_name": "", 
+        "title": "Louis L. Whitcomb - Google Scholar Citations"
+    }, 
+    {
+        "content": "l only make us stronger hami kazerooni, university of california, berkeley ... csaba csoma: csoma@jhu.edu; louis l. whitcomb: llw@jhu.edu; gabor fichtinger:...", 
+        "email_addr_list": [
+            "csoma@jhu.edu", 
+            "llw@jhu.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-llw-jhu-edu-22342956.htm", 
+        "cite_name": "", 
+        "title": "llw@jhu.edu - The Email Archive"
+    }, 
+    {
+        "content": "email: eustice@umich.edu. ryan m. .... j. kinsey, r. eustice, and l. whitcomb, “underwater vehicle navigation: recent advances and new .... louis l. whitcomb.", 
+        "email_addr_list": [
+            "eustice@umich.edu"
+        ], 
+        "cite_url": "www.whoi.edu/cms/.../cv_20963....", 
+        "cite_name": "Woods Hole Oceanographic Institution", 
+        "title": "[PDF]Curriculum Vitae (external file) - Woods Hole ..."
+    }
+]

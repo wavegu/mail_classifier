@@ -1,0 +1,13 @@
+[
+    {
+        "content": "... gregorio convertino, ed h. chi and rowan nairn palo alto research center, inc. email: lesnelson@acm.org, convertino@parc.com, ed.h.chi@gmail.com,...", 
+        "email_addr_list": [
+            "lesnelson@acm.org", 
+            "convertino@parc.com", 
+            "ed.h.chi@gmail.com"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=0857299131", 
+        "cite_name": "", 
+        "title": "ECSCW 2011: Proceedings of the 12th European Conference on ..."
+    }
+]

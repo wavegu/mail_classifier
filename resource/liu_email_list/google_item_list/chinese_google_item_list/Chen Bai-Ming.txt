@@ -1,0 +1,58 @@
+[
+    {
+        "content": "email:bai@ee.fju.edu.tw ... (sci). 7. cheng-hung tsai, ying-wen bai, ming-bo lin, roger jia rong jhang and chih-yu chung, “reduce the standby power...", 
+        "email_addr_list": [
+            "bai@ee.fju.edu.tw"
+        ], 
+        "cite_url": "www.ee.fju.edu.tw/pages/032_faculty/bai/", 
+        "cite_name": "Fu Jen Catholic University", 
+        "title": "輔仁大學電機工程學系白英文老師"
+    }, 
+    {
+        "content": "name: chen baiming. current appointment: ... chen baiming etc. the land use and ecological ... fax: 86-10-6485-4230. email: chenbm@igsnrr.ac.cn...", 
+        "email_addr_list": [
+            "chenbm@igsnrr.ac.cn"
+        ], 
+        "cite_url": "english.igsnrr.cas.cn/eye/.../detail.aspx-menuID=153contentID=892.ht...", 
+        "cite_name": "", 
+        "title": "CHEN Baiming - Institute of Geographic Sciences and ..."
+    }, 
+    {
+        "content": "bai ming(associate professor). [top]. c. chang qing(associate professor); chen aixin(associate professor); chen ... email:webmaster@ee.buaa.edu.cn.", 
+        "email_addr_list": [
+            "webmaster@ee.buaa.edu.cn"
+        ], 
+        "cite_url": "www.ee.buaa.edu.cn/oldeeweb/html/english/.../associate_pro.html", 
+        "cite_name": "", 
+        "title": "School of Electronic and Information Engineering"
+    }, 
+    {
+        "content": "zou, baiming. research assistant professor faculty_zoubaiming. office: ctrb 3226; phone: 294-5932; fax: 294-5931; email: bzou@phhp.ufl.edu.", 
+        "email_addr_list": [
+            "bzou@phhp.ufl.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Florida", 
+        "title": "Zou, Baiming » Department of Biostatistics » College of ..."
+    }, 
+    {
+        "content": "website:http://www.ntu.edu.sg/home/aszchen/. professor chen zhong has more than 20 years research experience in the area of .... email: liuming@ntu.edu.sg ... bai yu obtained his bachelor and master degree in applied chemistry and...", 
+        "email_addr_list": [
+            "liuming@ntu.edu.sg"
+        ], 
+        "cite_url": "www3.ntu.edu.sg/.../advanced_detail1...", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "Team Members | Advanced Materials | TL@NTU"
+    }, 
+    {
+        "content": "aug 14, 2015 - email address : ... engineer, bai yihao, 67319091, bai_yihao@nea.gov.sg ... engineer, lim cheng choon, 67319604, lim_cheng_choon@nea.gov.sg ... engineer, sim ming teck, 67319620, sim_ming_teck@nea.gov.sg.", 
+        "email_addr_list": [
+            "bai_yihao@nea.gov.sg", 
+            "lim_cheng_choon@nea.gov.sg", 
+            "sim_ming_teck@nea.gov.sg"
+        ], 
+        "cite_url": "app.sgdi.gov.sg/listing_expand....", 
+        "cite_name": "List of Singapore Government Ministries", 
+        "title": "Gov.sg - Singapore Government Directory"
+    }
+]

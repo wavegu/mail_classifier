@@ -1,0 +1,21 @@
+[
+    {
+        "content": "cancel. francesco nori ... verified email at liralab.it - homepage  scholar ... g metta, l natale, f nori, g sandini, d vernon, l fadiga, c von hofsten, ... neural...", 
+        "email_addr_list": [
+            "email@liralab.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=AqlbAj8AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Francesco Nori - Google Scholar Citations"
+    }, 
+    {
+        "content": "... genoa (italy), supervisors : francesco nori (email: francesco.nori@iit.it) and prof. giorgio metta (email: giorgio.metta@iit.it). thesis title: increasing perceptual...", 
+        "email_addr_list": [
+            "francesco.nori@iit.it", 
+            "giorgio.metta@iit.it"
+        ], 
+        "cite_url": "https://www.ce.utwente.nl/fgl/Resume.html", 
+        "cite_name": "University of Twente", 
+        "title": "Personal webpage of Matteo Fumagalli"
+    }
+]

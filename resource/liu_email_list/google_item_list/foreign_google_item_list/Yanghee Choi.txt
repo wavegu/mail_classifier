@@ -1,0 +1,20 @@
+[
+    {
+        "content": "yanghee choi. professor. network convergence ... 301 building, room 504. phone: (02) 880-7303. fax: (02) 872-2045. email: yhchoi@snu.ac.kr. website:.", 
+        "email_addr_list": [
+            "yhchoi@snu.ac.kr"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Yanghee Choi | SNU Computer Science and Engineering"
+    }, 
+    {
+        "content": "school of computer science and engineering. seoul national university, gwanak-gu, seoul, korea. office: building 301, room 504. email: yhchoi@snu.ac.kr.", 
+        "email_addr_list": [
+            "yhchoi@snu.ac.kr"
+        ], 
+        "cite_url": "mmlab.snu.ac.kr/~yhchoi/", 
+        "cite_name": "", 
+        "title": "Yanghee Choi - MMLab"
+    }
+]

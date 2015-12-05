@@ -1,0 +1,29 @@
+[
+    {
+        "content": "shanghai institute of applied mathematics and mechanics, shanghai university 149 yanchang road, shanghai 200072, china. email: lqchen@staff.shu.edu.cn", 
+        "email_addr_list": [
+            "lqchen@staff.shu.edu.cn"
+        ], 
+        "cite_url": "www.dvc.shu.edu.cn/Default.aspx?tabid=15116", 
+        "cite_name": "", 
+        "title": "Prof. Li-Qun Chen - 上海大学"
+    }, 
+    {
+        "content": "email qunchen@tsinghua.edu.cn ... [10] hanning li, qun chen, xiaohui zhang, karren n. finney, vida n. sharifi, jim swithenbank. evaluation of a biomass...", 
+        "email_addr_list": [
+            "qunchen@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.te.tsinghua.edu.cn/.../2013041111214157417...", 
+        "cite_name": "Tsinghua University", 
+        "title": "热能工程系 - Department of Thermal Engineering, Tsinghua ..."
+    }, 
+    {
+        "content": "email: liliqun@hit.edu.cn ... li liqun, chen yanbin, zhang chunli, lei zhenglong, xu guangyin, “crystallization behaviours of ti3al-nb alloy laser beam welding...", 
+        "email_addr_list": [
+            "liliqun@hit.edu.cn"
+        ], 
+        "cite_url": "https://uwaterloo.ca/centre-advanced.../liqun-li", 
+        "cite_name": "University of Waterloo", 
+        "title": "Liqun Li | Centre for Advanced Materials Joining"
+    }
+]

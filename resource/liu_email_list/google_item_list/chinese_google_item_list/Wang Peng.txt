@@ -1,0 +1,56 @@
+[
+    {
+        "content": "email: pwang11@gsu.edu  phone: 404-413-3591  fax: 404-413-5505  url: ... peng george wang obtained his b.s. degree in chemistry from nankai...", 
+        "email_addr_list": [
+            "pwang11@gsu.edu"
+        ], 
+        "cite_url": "shared.cas.gsu.edu/profile/peng-wang/", 
+        "cite_name": "", 
+        "title": "Peng George Wang - Shared CAS"
+    }, 
+    {
+        "content": "peng wang assistant professor email: pwang@ust.hk. ph.d. 2009 economics, new york university m.a. 2007 economics, new york university b.a. 2001...", 
+        "email_addr_list": [
+            "pwang@ust.hk"
+        ], 
+        "cite_url": "www.bm.ust.hk/econ/staff/pwang.html", 
+        "cite_name": "HKUST Business School", 
+        "title": "Peng WANG"
+    }, 
+    {
+        "content": "sep 19, 2012 - 5625 renmin street, changchun, 130022,. p. r. china. phone: (86)431-85262952. fax: (86)431-85262953. email: peng.wang@ciac.jl.cn...", 
+        "email_addr_list": [
+            "peng.wang@ciac.jl.cn"
+        ], 
+        "cite_url": "ps-lab.ciac.jl.cn/ry/1-wangpeng.htm", 
+        "cite_name": "", 
+        "title": "Prof. Wang Peng"
+    }, 
+    {
+        "content": "email: mengzhuang@hit.edu.cn. human resource office ... municipal and environmental engineering, wang peng tel: 86-451-86283801", 
+        "email_addr_list": [
+            "mengzhuang@hit.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Harbin Institute of Technology", 
+        "title": "Faculty And Staff - HARBIN INSTITUTE OF TECHNOLOGY"
+    }, 
+    {
+        "content": "dr peng wang ... email, p.wang@adelaide.edu.au. fax, +61 8 8313 4366. building, ingkarni ... http://www.adelaide.edu.au/directory/p.wang. entry last updated:...", 
+        "email_addr_list": [
+            "p.wang@adelaide.edu.au"
+        ], 
+        "cite_url": "www.adelaide.edu.au/directory/p.wang", 
+        "cite_name": "University of Adelaide", 
+        "title": "Dr Peng Wang | The University of Adelaide Staff Directory"
+    }, 
+    {
+        "content": "peng wang, assistant professor medicine, endocrinology, diabetes and bone disease at mount sinai hospital. ... email. peng.wang@mssm.edu...", 
+        "email_addr_list": [
+            "peng.wang@mssm.edu"
+        ], 
+        "cite_url": "www.mountsinai.org/profiles/peng-wang", 
+        "cite_name": "Mount Sinai Hospital", 
+        "title": "Peng Wang - The Mount Sinai Hospital"
+    }
+]

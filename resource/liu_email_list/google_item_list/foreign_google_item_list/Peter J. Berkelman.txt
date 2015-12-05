@@ -1,0 +1,47 @@
+[
+    {
+        "content": "email:meoffice@eng.hawaii.edu ... email: peterb#hawaii.edu ... peter j. berkelman, louis l. whitcomb, russell h. taylor, and patrick jensen, a miniature...", 
+        "email_addr_list": [
+            "meoffice@eng.hawaii.edu"
+        ], 
+        "cite_url": "www.me.hawaii.edu/faculty/berkelman.htm", 
+        "cite_name": "", 
+        "title": "Peter Berkelman - Welcome to University of Hawaii at ..."
+    }, 
+    {
+        "content": "peter berkelman. recently graduated ph.d. student, robotics phd program ... 5620 hobart st #10, pittsburgh pa 15217, 412-422-0319. email-- pjb@ri.cmu.edu...", 
+        "email_addr_list": [
+            "pjb@ri.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~pjb/", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Peter Berkelman"
+    }, 
+    {
+        "content": "oct 15, 2013 - email: scsmith@email.unc.edu .... the public health, edited by randall m. packard, peter j. brown, ruth l. berkelman, and howard frumkin.", 
+        "email_addr_list": [
+            "scsmith@email.unc.edu"
+        ], 
+        "cite_url": "anthropology.unc.edu/.../sand...", 
+        "cite_name": "University of North Carolina at Chapel Hill", 
+        "title": "Sandy Smith-Nonini | Department of Anthropology"
+    }, 
+    {
+        "content": "associate professor. email. (205) 348-8410. egspears@ua.edu. 208 lloyd hall ... randall m. packard, peter j. brown, ruth l. berkelman, howard frumkin,...", 
+        "email_addr_list": [
+            "egspears@ua.edu"
+        ], 
+        "cite_url": "nc.as.ua.edu/.../ellen-...", 
+        "cite_name": "University of Alabama College of Arts and Sciences", 
+        "title": "Ellen Spears - New College - The University of Alabama"
+    }, 
+    {
+        "content": "kushner recently delivered the 26th annual peter w. lampert memorial lecture at the university of ... email: hkushne@emory.edu .... public health agenda, edited by randall m. packard, peter j. brown, ruth l. berkelman,  howard frumkin.", 
+        "email_addr_list": [
+            "hkushne@emory.edu"
+        ], 
+        "cite_url": "sph.emory.edu/faculty/profile/#...", 
+        "cite_name": "Rollins School of Public Health", 
+        "title": "Howard Kushner"
+    }
+]

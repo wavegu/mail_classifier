@@ -1,0 +1,56 @@
+[
+    {
+        "content": "chestnut hill, ma 02467, usa. email: xiaoping.chen@bc.edu. tel:1-617-455-1579. fax:1-617-552-2308. homepage: https://www2.bc.edu/xiaoping-chen/", 
+        "email_addr_list": [
+            "xiaoping.chen@bc.edu"
+        ], 
+        "cite_url": "https://www2.bc.edu/xiaoping-chen/", 
+        "cite_name": "Boston College", 
+        "title": "Xiaoping Chens Website - Boston College"
+    }, 
+    {
+        "content": "apr 1, 2015 - april, 2015. xiaoping chen (陈晓平). nanyang technological university ... +65 6790 5559. fax: +65 6795 5797. email: xpchen@ntu.edu.sg.", 
+        "email_addr_list": [
+            "xpchen@ntu.edu.sg"
+        ], 
+        "cite_url": "www.ntu.edu.sg/.../xpchen/CV_Xiaop...", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "[PDF]April, 2015 XIAOPING CHEN - Nanyang Technological ..."
+    }, 
+    {
+        "content": "xiaoping chen: current contact information and listing of economic research of this author provided by repec/ideas. ... email: xpchen@ntu.edu.sg. homepage...", 
+        "email_addr_list": [
+            "xpchen@ntu.edu.sg"
+        ], 
+        "cite_url": "https://ideas.repec.org/f/pch1213.html", 
+        "cite_name": "", 
+        "title": "Xiaoping Chen at IDEAS"
+    }, 
+    {
+        "content": "chen xiao-ping is a professor in school of computer science and technology at ... zongzhang zhang and xiaoping chen, fhhop: a factored hybrid heuristic online planning .... tel: +86-551-63600279, e-mail: tianlin@ustc.edu.cn...", 
+        "email_addr_list": [
+            "tianlin@ustc.edu.cn"
+        ], 
+        "cite_url": "dsxt.ustc.edu.cn/zj_ywjs....", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "XIAOPING Chen - Staff Profile"
+    }, 
+    {
+        "content": "do you have other email address other than:caspainfo@caspaonline.org? i sent one email to this address, however it was not received.", 
+        "email_addr_list": [
+            "caspainfo@caspaonline.org"
+        ], 
+        "cite_url": "https://www.facebook.com/CASPAOnlineApp/posts/847239882039274", 
+        "cite_name": "", 
+        "title": "Xiaoping Chen - Do you have other email address other..."
+    }, 
+    {
+        "content": "e-mail: xpchen@ustc.edu.cn. personal information. chen xiao-ping is a professor in school of computer science and technology at university of science and...", 
+        "email_addr_list": [
+            "xpchen@ustc.edu.cn"
+        ], 
+        "cite_url": "www.wrighteagle.org/en/people/xpchen.php", 
+        "cite_name": "", 
+        "title": "Xiaoping Chen - Multi-Agent Systems Lab., USTC"
+    }
+]

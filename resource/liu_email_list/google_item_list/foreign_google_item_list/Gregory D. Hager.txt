@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email. hager@cs.jhu.edu .... gregory d. hager: computer vision in medicine nih colloquium. nih, bethesda. december 12, 2008. (invited); gregory d. hager:...", 
+        "email_addr_list": [
+            "hager@cs.jhu.edu"
+        ], 
+        "cite_url": "cis.jhu.edu/faculty/cvs/hager-cv.html", 
+        "cite_name": "Johns Hopkins University", 
+        "title": "Gregory D. Hager"
+    }, 
+    {
+        "content": "original message -------- subject: your web page date: thu, 19 jan 2012 15:33:13 -0700 from: gregory d. hager, chair chair@cs.jhu.edu to: rajesh kumar...", 
+        "email_addr_list": [
+            "chair@cs.jhu.edu"
+        ], 
+        "cite_url": "rajesh-kumar.org/wiki/index.php?title=Hager-email", 
+        "cite_name": "", 
+        "title": "Email from Greg Hager disrupting all my CS account access ..."
+    }, 
+    {
+        "content": "gregory d. hager is the mandell bellmore professor of computer science. ... dr. hager is chair of the computing community consortium council and a board ... office: 340 malone hall; phone: (410)516.5521; email: hager@jhu.edu; web...", 
+        "email_addr_list": [
+            "hager@jhu.edu"
+        ], 
+        "cite_url": "www.bioengineering.gs.tum.de/.../mandell-bellmore-professor-of-compu...", 
+        "cite_name": "", 
+        "title": "Mandell Bellmore Professor of Computer Science, Dr ..."
+    }
+]

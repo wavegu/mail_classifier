@@ -1,0 +1,38 @@
+[
+    {
+        "content": "oct 7, 2014 - gary marchioninis home page. ... professor marchionini served for ten years as the director of evaluation for the ... email. gary at ils.unc.edu...", 
+        "email_addr_list": [
+            "gary@ils.unc.edu"
+        ], 
+        "cite_url": "ils.unc.edu/~march/", 
+        "cite_name": "University of North Carolina at Chapel Hill", 
+        "title": "Gary Marchionini - UNC School of Information and Library ..."
+    }, 
+    {
+        "content": "photo of gary marchionini. gary marchionini dean and cary c. boshamer distinguished ... 919/962-3638. manning hall, room 07a anthonyd@email.unc.edu.", 
+        "email_addr_list": [
+            "anthonyd@email.unc.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "UNC School of Information and Library Science", 
+        "title": "Faculty | sils.unc.edu"
+    }, 
+    {
+        "content": "sep 15, 2008 - gary marchionini: understanding human information interaction ... about gary marchionini: ... email: christine quirion, cquirion[at]mit.edu...", 
+        "email_addr_list": [
+            "cquirion@mit.edu"
+        ], 
+        "cite_url": "neasist.org/.../gary-marchionini-understanding-human-information-inter...", 
+        "cite_name": "", 
+        "title": "Gary Marchionini: Understanding Human Information ..."
+    }, 
+    {
+        "content": "dr. gary marchionini, cary c. boshamer professor at the university of north carolina at ... and provost, gary marchionini knows the school of information and library science and ... 301-495-0900 / fax: 301-495-0810 / e-mail: asis@asis.org", 
+        "email_addr_list": [
+            "asis@asis.org"
+        ], 
+        "cite_url": "https://www.asis.org/news/Gary_Marchionini.html", 
+        "cite_name": "", 
+        "title": "Dr. Gary Marchionini has been appointed dean of the ..."
+    }
+]

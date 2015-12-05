@@ -1,0 +1,29 @@
+[
+    {
+        "content": "verified email at iri.upc.edu. scholar ... j andrade-cetto, t vidal-calleja, a sanfeliu ... a sanfeliu, r alquézar, j andrade, j climent, f serratosa, j vergés.", 
+        "email_addr_list": [
+            "email@iri.upc.edu"
+        ], 
+        "cite_url": "scholar.google.it/citations?user=ZFRhP04AAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Alberto Sanfeliu - Google Scholar Citations"
+    }, 
+    {
+        "content": "alberto sanfeliu: publications, bio, bibliography, etc. ... send us an email at hello@interaction-design.org or through our online contact form. or find us on:...", 
+        "email_addr_list": [
+            "hello@interaction-design.org"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/alberto-sanfeliu", 
+        "cite_name": "", 
+        "title": "Alberto Sanfeliu - Interaction Design Foundation"
+    }, 
+    {
+        "content": "maría inés torres, alberto sanfeliu. m.i torres and a sanfeliu (eds.) 1os press. ... tenerife, spain email: enielsen@ull.es mario hernandez tejera...", 
+        "email_addr_list": [
+            "enielsen@ull.es"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=1586030345", 
+        "cite_name": "", 
+        "title": "Pattern Recognition and Applications - Page 164 - Google Books Result"
+    }
+]

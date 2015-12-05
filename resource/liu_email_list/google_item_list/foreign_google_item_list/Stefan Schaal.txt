@@ -1,0 +1,29 @@
+[
+    {
+        "content": "aug 17, 2013 - stefan schaal is professor of computer science, neuroscience, and ... los angeles, ca 90089-2905, usa. email: sschaal@usc.edu. phone:", 
+        "email_addr_list": [
+            "sschaal@usc.edu"
+        ], 
+        "cite_url": "www-clmc.usc.edu/~sschaal/", 
+        "cite_name": "University of Southern California", 
+        "title": "Stefan Schaal - Computational Learning and Motor Control ..."
+    }, 
+    {
+        "content": "email:sschaal@is.mpg.de. curriculum vitae. stefan schaal is professor of computer science, neuroscience, and biomedical engineering at the university of...", 
+        "email_addr_list": [
+            "sschaal@is.mpg.de"
+        ], 
+        "cite_url": "https://www.mpg.de/.../intelligente_systeme_tuebinge...", 
+        "cite_name": "Max Planck Society", 
+        "title": "Schaal, Stefan | Max Planck Society"
+    }, 
+    {
+        "content": "prof. stefan schaal. website: http://www-clmc.usc.edu/~sschaal. email: sschaal@usc.edu. university of southern california, los angeles and director of...", 
+        "email_addr_list": [
+            "sschaal@usc.edu"
+        ], 
+        "cite_url": "www.edinburgh-robotics.org/academics/stefan-schaal", 
+        "cite_name": "", 
+        "title": "Prof. Stefan Schaal | Edinburgh Centre for Robotics"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "sven behnke asked a question in robotics: open ... applications in pdf format should be sent by email to behnke@ais.uni-bonn.de with the subject line...", 
+        "email_addr_list": [
+            "behnke@ais.uni-bonn.de"
+        ], 
+        "cite_url": "www.researchgate.net/profile/Sven_Behnke/topics", 
+        "cite_name": "", 
+        "title": "Sven Behnke - Topics - ResearchGate"
+    }, 
+    {
+        "content": "sven behnke. professor for ... verified email at cs.uni-bonn.de - homepage  scholar ... s behnke. robocup 2003: robot soccer world cup vii, 332-343, 2004.", 
+        "email_addr_list": [
+            "email@cs.uni-bonn.de"
+        ], 
+        "cite_url": "scholar.google.nl/citations?user=1xx3X_0AAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Sven Behnke - Google Scholar Citations"
+    }, 
+    {
+        "content": "fax: +49 (0) 228 73-4425. email: behnke [at] cs.uni-bonn.de. sven behnke received his ms degree in computer science (dipl.-inform.) in 1997 from martin-.", 
+        "email_addr_list": [
+            "behnke@cs.uni-bonn.de"
+        ], 
+        "cite_url": "www.jsps-bonn.de/fileadmin/veranstaltungen/2009_Abstr_Behnke.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Humanoid Soccer - A challenge for AI and robotics"
+    }
+]

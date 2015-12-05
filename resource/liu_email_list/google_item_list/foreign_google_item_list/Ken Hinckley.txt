@@ -1,0 +1,20 @@
+[
+    {
+        "content": "apr 28, 2015 - ken hinckley. microsoft research. email: kenh@microsoft.com. dr. ken hinckley, 99/3110. web: https://kenhinckley.wordpress.com.", 
+        "email_addr_list": [
+            "kenh@microsoft.com"
+        ], 
+        "cite_url": "research.microsoft.com/.../kenh/.../Ken-Hinckley-CV....", 
+        "cite_name": "Microsoft Research", 
+        "title": "[PDF]KEN HINCKLEY - Microsoft Research"
+    }, 
+    {
+        "content": "ken hinckley is a research scientist at microsoft research. he has ..... send us an email at hello@interaction-design.org or through our online contact form.", 
+        "email_addr_list": [
+            "hello@interaction-design.org"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/ken-hinckley", 
+        "cite_name": "", 
+        "title": "Ken Hinckley - Interaction Design Foundation"
+    }
+]

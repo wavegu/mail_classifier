@@ -1,0 +1,56 @@
+[
+    {
+        "content": "email:niuzhs@tsinghua.edu.cn ... zhisheng niu graduated from northern jiaotong university (currently beijing jiaotong university), beijing, china, in 1985, and...", 
+        "email_addr_list": [
+            "niuzhs@tsinghua.edu.cn"
+        ], 
+        "cite_url": "network.ee.tsinghua.edu.cn/niulab/niu_zhisheng.php", 
+        "cite_name": "", 
+        "title": "牛志升(Niu, Zhisheng) | Niulab"
+    }, 
+    {
+        "content": "email: niuzhs@tsinghua.edu.cn .... zhisheng niu graduated from northern jiaotong university, beijing, china, in 1985, and got his m.e. and d.e. degrees from...", 
+        "email_addr_list": [
+            "niuzhs@tsinghua.edu.cn"
+        ], 
+        "cite_url": "network.ee.tsinghua.edu.cn/Niu_Zhisheng.htm", 
+        "cite_name": "", 
+        "title": "Niu Zhisheng"
+    }, 
+    {
+        "content": "zhisheng niu, ph.d. professor ... e-mail: niuzhs@tsinghua.edu.cn .... [1] zhisheng niu, tao shu, yoshitaka takahashi, “a vacation queue with setup and...", 
+        "email_addr_list": [
+            "niuzhs@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201012191258533519608...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Zhisheng Niu - Department of Electronic Engineering ..."
+    }, 
+    {
+        "content": "zhisheng niu. professor of electronic ... verified email at tsinghua.edu.cn - homepage  scholar ... s zhou, j gong, z yang, z niu, p yang. acm mobicom 9...", 
+        "email_addr_list": [
+            "email@tsinghua.edu.cn"
+        ], 
+        "cite_url": "scholar.google.co.in/citations?user=gnxgnwQAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Zhisheng Niu - Google Scholar Citations"
+    }, 
+    {
+        "content": "office: 303 web; ✉ email: alick nospam at tamu dot edu ... sheng zhou, tao zhao, zhisheng niu, and shidong zhou, “software-defined hyper-cellular...", 
+        "email_addr_list": [
+            "nospam@tamu.edu"
+        ], 
+        "cite_url": "people.tamu.edu/~alick/", 
+        "cite_name": "", 
+        "title": "Tao Zhao | TAMU - Tamu.edu - Texas AM University"
+    }, 
+    {
+        "content": "zhisheng niu, jian wu, xueying guo, jianan zhang, sheng zhou. electronic engineering ... email: niuzhs@tsinghua.edu.cn. abstract: one of the key...", 
+        "email_addr_list": [
+            "niuzhs@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.ic1004.org/.../Zhisheng%20Niu_Fundamental%20Energy-Delay%20...", 
+        "cite_name": "", 
+        "title": "Zhisheng Niu"
+    }
+]

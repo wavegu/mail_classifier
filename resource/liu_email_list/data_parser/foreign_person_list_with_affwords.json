@@ -1,0 +1,6971 @@
+[
+    {
+        "affiliation": "Carnegie Mellon University, Pittsburgh, PA", 
+        "contact": {
+            "email": "bam@cs.cmu.edu"
+        }, 
+        "name": "Brad A. Myers", 
+        "affiliation_words": [
+            "pittsburgh", 
+            "pa", 
+            "mellon", 
+            "carnegie"
+        ]
+    }, 
+    {
+        "affiliation": "LSIIT (UMR CNRS-ULP 7005), Strasbourg I University, Bd. S. Brant, BP 10413, 67412 Illkirch cedex, France", 
+        "contact": {
+            "email": "demathelin@unistra.fr"
+        }, 
+        "name": "Michel De Mathelin", 
+        "affiliation_words": [
+            "bd", 
+            "cnrs-ulp", 
+            "strasbourg", 
+            "umr", 
+            "67412", 
+            "france", 
+            "cedex", 
+            "bp", 
+            "lsiit", 
+            "illkirch", 
+            "10413", 
+            "brant", 
+            "7005"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Computer Science, Ben-Gurion University, Beer-Sheva, Israel", 
+        "contact": {
+            "email": "brafman@cs.bgu.ac.il"
+        }, 
+        "name": "Ronen I. Brafman", 
+        "affiliation_words": [
+            "science", 
+            "ben-gurion", 
+            "computer", 
+            "israel", 
+            "beer-sheva"
+        ]
+    }, 
+    {
+        "affiliation": "University of North Carolina at Chapel Hill", 
+        "contact": {
+            "email": "gary@ils.unc.edu"
+        }, 
+        "name": "Gary Marchionini", 
+        "affiliation_words": [
+            "chapel", 
+            "north", 
+            "hill", 
+            "carolina"
+        ]
+    }, 
+    {
+        "affiliation": "Materials Science Division, Argonne National Laboratory, Argonne, IL 60439, USA", 
+        "contact": {
+            "email": "donglushi@tongji.edu.cn"
+        }, 
+        "name": "Donglu Shi", 
+        "affiliation_words": [
+            "division", 
+            "argonne", 
+            "usa", 
+            "60439", 
+            "science", 
+            "national", 
+            "materials", 
+            "il", 
+            "laboratory"
+        ]
+    }, 
+    {
+        "affiliation": "School of Information Technology and Engineering, University of Ottawa, Ottawa, ON, Canada", 
+        "contact": {
+            "email": "anayak@site.uottawa.ca%20"
+        }, 
+        "name": "Amiya Nayak", 
+        "affiliation_words": [
+            "canada", 
+            "information", 
+            "engineering", 
+            "technology", 
+            "ottawa"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Chemical Engineering, University of Delaware, 19716-3110, Newark, DE, USA", 
+        "contact": {
+            "email": "sandler@udel.edu"
+        }, 
+        "name": "Stanley I. Sandler", 
+        "affiliation_words": [
+            "19716-3110", 
+            "de", 
+            "usa", 
+            "delaware", 
+            "chemical", 
+            "engineering", 
+            "newark"
+        ]
+    }, 
+    {
+        "affiliation": "Dipartimento di Fisica|Universita di Roma La Sapienza", 
+        "contact": {
+            "email": "francesco.sciortino@phys.uniroma1.it"
+        }, 
+        "name": "Francesco Sciortino", 
+        "affiliation_words": [
+            "sapienza", 
+            "la", 
+            "dipartimento", 
+            "di", 
+            "fisica", 
+            "universita", 
+            "roma"
+        ]
+    }, 
+    {
+        "affiliation": "National Institute of Advanced Industrial Science and Technology, Tokyo, Japan", 
+        "contact": {
+            "email": "s.kagami@aist.go.jp"
+        }, 
+        "name": "Satoshi Kagami", 
+        "affiliation_words": [
+            "industrial", 
+            "tokyo", 
+            "science", 
+            "national", 
+            "japan", 
+            "technology", 
+            "advanced"
+        ]
+    }, 
+    {
+        "affiliation": "Central Queensland University,Rockhampton , Qld 4702 , Australia.", 
+        "contact": {
+            "email": "x.yu@rmit.edu.au"
+        }, 
+        "name": "Xinghuo Yu", 
+        "affiliation_words": [
+            "australia", 
+            "central", 
+            "4702", 
+            "queensland", 
+            "qld", 
+            "rockhampton"
+        ]
+    }, 
+    {
+        "affiliation": "Georgia Institute of Technology, Atlanta, GA, USA", 
+        "contact": {
+            "email": "hic@cc.gatech.edu"
+        }, 
+        "name": "Henrik I. Christensen", 
+        "affiliation_words": [
+            "atlanta", 
+            "georgia", 
+            "technology", 
+            "usa", 
+            "ga"
+        ]
+    }, 
+    {
+        "affiliation": "Rutgers University, Piscataway, NJ", 
+        "contact": {
+            "email": "wtrappe@princeton.edu,trappe@winlab.rutgers.edu"
+        }, 
+        "name": "Wade Trappe", 
+        "affiliation_words": [
+            "piscataway", 
+            "nj", 
+            "rutgers"
+        ]
+    }, 
+    {
+        "affiliation": "Dept . of EE , KAIST , 373-1 Kusong-dong,", 
+        "contact": {
+            "email": "johkim@vivaldi.kaist.ac.kr"
+        }, 
+        "name": "Jong-Hwan Kim", 
+        "affiliation_words": [
+            "ee", 
+            "dept", 
+            "kusong-dong", 
+            "373-1", 
+            "kaist"
+        ]
+    }, 
+    {
+        "affiliation": "Departamento de Ci \u02c6|Universidade Federal de Minas Gerais", 
+        "contact": {
+            "email": "mateus@dcc.ufmg.br"
+        }, 
+        "name": "Geraldo Robson Mateus", 
+        "affiliation_words": [
+            "gerais", 
+            "ci", 
+            "\u02c6", 
+            "federal", 
+            "de", 
+            "departamento", 
+            "minas", 
+            "universidade"
+        ]
+    }, 
+    {
+        "affiliation": "Duke University", 
+        "contact": {
+            "email": "pankaj@cs.duke.edu"
+        }, 
+        "name": "Pankaj K. Agarwal", 
+        "affiliation_words": [
+            "duke"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd West, Montreal, Que, H3G 1M8, Canada", 
+        "contact": {
+            "email": "kash@ece.concordia.ca"
+        }, 
+        "name": "K. Khorasani", 
+        "affiliation_words": [
+            "canada", 
+            "1m8", 
+            "h3g", 
+            "west", 
+            "de", 
+            "1455", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "maisonneuve", 
+            "blvd", 
+            "concordia", 
+            "montreal"
+        ]
+    }, 
+    {
+        "affiliation": "University of California, Berkeley", 
+        "contact": {
+            "email": "sastry@coe.berkeley.edu"
+        }, 
+        "name": "Shankar Sastry", 
+        "affiliation_words": [
+            "california", 
+            "berkeley"
+        ]
+    }, 
+    {
+        "affiliation": "Grid Computing and Distributed Systems (GRIDS) Laboratory, Department of Computer Science and Software Engineering, The University of Melbourne, Australia", 
+        "contact": {
+            "email": "srikumar@csse.unimelb.edu.au"
+        }, 
+        "name": "Srikumar Venugopal", 
+        "affiliation_words": [
+            "australia", 
+            "grids", 
+            "computing", 
+            "science", 
+            "distributed", 
+            "melbourne", 
+            "engineering", 
+            "computer", 
+            "grid", 
+            "systems", 
+            "laboratory", 
+            "software"
+        ]
+    }, 
+    {
+        "affiliation": null, 
+        "contact": {
+            "email": "khorrami@smart.poly.edu"
+        }, 
+        "name": "Farshad Khorrami", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "Dept . of Computer Science|Texas A&M University", 
+        "contact": {
+            "email": "amato@cs.tamu.edu"
+        }, 
+        "name": "Nancy Amato", 
+        "affiliation_words": [
+            "dept", 
+            "a&m", 
+            "computer", 
+            "texas", 
+            "science"
+        ]
+    }, 
+    {
+        "affiliation": "IRIDIA, CoDE, Universit\u00e9 Libre de Bruxelles, Brussels, Belgium", 
+        "contact": {
+            "email": "mbiro@ulb.ac.be"
+        }, 
+        "name": "Mauro Birattari", 
+        "affiliation_words": [
+            "code", 
+            "de", 
+            "bruxelles", 
+            "libre", 
+            "belgium", 
+            "iridia", 
+            "brussels", 
+            "universit\u00e9"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Computer and Information Science, Univ. of Pennsylvania", 
+        "contact": {
+            "email": "fainekos@asudotedu"
+        }, 
+        "name": "Georgios E. Fainekos", 
+        "affiliation_words": [
+            "pennsylvania", 
+            "information", 
+            "computer", 
+            "univ", 
+            "science"
+        ]
+    }, 
+    {
+        "affiliation": "University of Waterloo, Waterloo, Ontario, Canada", 
+        "contact": {
+            "email": "j.mark@ece.uwaterloo.ca"
+        }, 
+        "name": "Jon W. Mark", 
+        "affiliation_words": [
+            "canada", 
+            "ontario", 
+            "waterloo"
+        ]
+    }, 
+    {
+        "affiliation": "University of Illinois at Urbana-Champaign", 
+        "contact": {
+            "email": "mspong@utdallas.edu"
+        }, 
+        "name": "Mark W. Spong", 
+        "affiliation_words": [
+            "urbana-champaign", 
+            "illinois"
+        ]
+    }, 
+    {
+        "affiliation": "Katholieke Universiteit Leuven", 
+        "contact": {
+            "email": "wim.dehaene@esat.kuleuven.be"
+        }, 
+        "name": "Wim Dehaene", 
+        "affiliation_words": [
+            "leuven", 
+            "katholieke", 
+            "universiteit"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electrical Engineering and Computer Science|University of Michigan", 
+        "contact": {
+            "email": "hero@eecs.umich.edu"
+        }, 
+        "name": "Alfred O. Hero", 
+        "affiliation_words": [
+            "science", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "michigan"
+        ]
+    }, 
+    {
+        "affiliation": "Northwestern University, Evanston, IL", 
+        "contact": {
+            "email": "memik@ece.northwestern.edu"
+        }, 
+        "name": "Gokhan Memik", 
+        "affiliation_words": [
+            "northwestern", 
+            "il", 
+            "evanston"
+        ]
+    }, 
+    {
+        "affiliation": "Tel Aviv University, Tel Aviv, Israel", 
+        "contact": {
+            "email": "michas@post.tau.ac.il"
+        }, 
+        "name": "Micha Sharir", 
+        "affiliation_words": [
+            "aviv", 
+            "israel", 
+            "tel"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Mechanical and Industrial Engineering|University of Toronto|King ' s College", 
+        "contact": {
+            "email": "benhabi@mie.utoronto.ca"
+        }, 
+        "name": "B. Benhabib", 
+        "affiliation_words": [
+            "toronto", 
+            "king", 
+            "industrial", 
+            "'", 
+            "engineering", 
+            "college", 
+            "mechanical"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Precision Engineering, The University of Tokyo, Tokyo, Japan", 
+        "contact": {
+            "email": "arai-tamio@prince.pe.u-tokyo.ac.jp"
+        }, 
+        "name": "Tamio Arai", 
+        "affiliation_words": [
+            "japan", 
+            "engineering", 
+            "precision", 
+            "tokyo"
+        ]
+    }, 
+    {
+        "affiliation": "GIPSA-Lab, INPG, Grenoble, France", 
+        "contact": {
+            "email": "jeanny.herault@inpg.fr"
+        }, 
+        "name": "Jeanny H\u00e9rault", 
+        "affiliation_words": [
+            "france", 
+            "grenoble", 
+            "inpg", 
+            "gipsa-lab"
+        ]
+    }, 
+    {
+        "affiliation": "Columbia University", 
+        "contact": {
+            "email": "feiner@cs.columbia.edu"
+        }, 
+        "name": "Steven Feiner", 
+        "affiliation_words": [
+            "columbia"
+        ]
+    }, 
+    {
+        "affiliation": "FernUniversit\u00e4t Hagen, Praktische Informatik VI, D-58084 Hagen, Germany", 
+        "contact": {
+            "email": "christian.icking"
+        }, 
+        "name": "Christian Icking", 
+        "affiliation_words": [
+            "informatik", 
+            "hagen", 
+            "vi", 
+            "praktische", 
+            "germany", 
+            "d-58084", 
+            "fernuniversit\u00e4t"
+        ]
+    }, 
+    {
+        "affiliation": "LAAS-CNRS", 
+        "contact": {
+            "email": "nic@laas.fr"
+        }, 
+        "name": "T. Simeon", 
+        "affiliation_words": [
+            "laas-cnrs"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Polymer Engineering, University of Minho, Campus de Gualtar, 4710-057 Braga, Portugal", 
+        "contact": {
+            "email": "rgreis@dep.uminho.pt"
+        }, 
+        "name": "R.L. Reis", 
+        "affiliation_words": [
+            "polymer", 
+            "de", 
+            "portugal", 
+            "minho", 
+            "gualtar", 
+            "4710-057", 
+            "engineering", 
+            "braga", 
+            "campus"
+        ]
+    }, 
+    {
+        "affiliation": "Carnegie Mellon University, Pittsburgh, PA, USA", 
+        "contact": {
+            "email": "kiesler@cs.cmu.edu"
+        }, 
+        "name": "Sara Kiesler", 
+        "affiliation_words": [
+            "pittsburgh", 
+            "pa", 
+            "mellon", 
+            "usa", 
+            "carnegie"
+        ]
+    }, 
+    {
+        "affiliation": "Max Planck Institute for Polymer Research(Max-Planck-Institut f\u00fcr Polymerforschung,Max Planck Institute for Polymer Research),Mainz,Germany", 
+        "contact": {
+            "email": "landfest@mpip-mainz.mpg.de"
+        }, 
+        "name": "Katharina Landfester", 
+        "affiliation_words": [
+            "polymer", 
+            "mainz", 
+            "max", 
+            "polymerforschung", 
+            "germany", 
+            "max-planck-institut", 
+            "f\u00fcr", 
+            "planck"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electrical and Computer Engineering|University of Toronto", 
+        "contact": {
+            "email": "liang@comm.utoronto.ca"
+        }, 
+        "name": "Ben Liang", 
+        "affiliation_words": [
+            "toronto", 
+            "engineering", 
+            "computer", 
+            "electrical"
+        ]
+    }, 
+    {
+        "affiliation": "Korea University School of Mechanical Engineering Seoul 136-713 Korea", 
+        "contact": {
+            "email": "jbsong@korea.ac.kr"
+        }, 
+        "name": "Jae-Bok Song", 
+        "affiliation_words": [
+            "136-713", 
+            "engineering", 
+            "korea", 
+            "seoul", 
+            "mechanical"
+        ]
+    }, 
+    {
+        "affiliation": "Honda Research Institute, Mountain View, CA", 
+        "contact": {
+            "email": "ambarish@ambarish@com"
+        }, 
+        "name": "Ambarish Goswami", 
+        "affiliation_words": [
+            "mountain", 
+            "ca", 
+            "honda", 
+            "view"
+        ]
+    }, 
+    {
+        "affiliation": "Univ. of Utrecht, Utrecht, The Netherlands", 
+        "contact": {
+            "email": "m.h.overmars@cs.uu.nl"
+        }, 
+        "name": "Mark H. Overmars", 
+        "affiliation_words": [
+            "utrecht", 
+            "netherlands", 
+            "univ"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Mechanical and Industrial Engineering, University of Toronto, Toronto, ON, Canada", 
+        "contact": {
+            "email": "mills@mie.utoronto.ca"
+        }, 
+        "name": "James K. Mills", 
+        "affiliation_words": [
+            "toronto", 
+            "canada", 
+            "engineering", 
+            "industrial", 
+            "mechanical"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Materials Engineering, School of Engineering, The University of Tokyo, 7-3-1, Hongo, Bunkyo-ku, Tokyo 113-8656, Japan", 
+        "contact": {
+            "email": "ishihara@mpc.u-tokyo.ac.jp"
+        }, 
+        "name": "Kazuhiko Ishihara", 
+        "affiliation_words": [
+            "tokyo", 
+            "bunkyo-ku", 
+            "7-3-1", 
+            "engineering", 
+            "materials", 
+            "hongo", 
+            "japan", 
+            "113-8656"
+        ]
+    }, 
+    {
+        "affiliation": "Chalmers University of Technology, G\u00f6teborg, Sweden", 
+        "contact": {
+            "email": "tsigas@cs.chalmers.se"
+        }, 
+        "name": "Philippas Tsigas", 
+        "affiliation_words": [
+            "chalmers", 
+            "sweden", 
+            "technology", 
+            "g\u00f6teborg"
+        ]
+    }, 
+    {
+        "affiliation": "University of Genova", 
+        "contact": {
+            "email": "lorenzo.natale(@iit.it"
+        }, 
+        "name": "Lorenzo Natale", 
+        "affiliation_words": [
+            "genova"
+        ]
+    }, 
+    {
+        "affiliation": "University of Pittsburgh", 
+        "contact": {
+            "email": "prashant@maildotsisdotpittdotedu"
+        }, 
+        "name": "Prashant Krishnamurthy", 
+        "affiliation_words": [
+            "pittsburgh"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Chemistry, State University of New York at Stony Brook, Stony Brook, NY 11794-3400, USA", 
+        "contact": {
+            "email": "benjamin.chu@stonybrook.edu"
+        }, 
+        "name": "Benjamin Chu", 
+        "affiliation_words": [
+            "usa", 
+            "brook", 
+            "11794-3400", 
+            "ny", 
+            "state", 
+            "york", 
+            "chemistry", 
+            "stony"
+        ]
+    }, 
+    {
+        "affiliation": "University of Freiburg|Computer Science Institute", 
+        "contact": {
+            "email": "behnke@cs.uni-bonn.de"
+        }, 
+        "name": "Sven Behnke", 
+        "affiliation_words": [
+            "freiburg", 
+            "science", 
+            "computer"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electronics, The University of York, Heslington, York, UK", 
+        "contact": {
+            "email": "slsmith@mit.edu"
+        }, 
+        "name": "Stephen L. Smith", 
+        "affiliation_words": [
+            "electronics", 
+            "york", 
+            "uk", 
+            "heslington"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Computer Science|Rice University", 
+        "contact": {
+            "email": "florent@laas.fr"
+        }, 
+        "name": "Florent Lamiraux", 
+        "affiliation_words": [
+            "science", 
+            "computer", 
+            "rice"
+        ]
+    }, 
+    {
+        "affiliation": "Massachusetts Institute of Technology", 
+        "contact": {
+            "email": "username=haridomain=csail.mit.edu"
+        }, 
+        "name": "Hari Balakrishnan", 
+        "affiliation_words": [
+            "technology", 
+            "massachusetts"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Ophthalmology and Visual Sciences, Kyoto University Graduate School of Medicine, Kyoto, Japan", 
+        "contact": {
+            "email": "eye@med.kyoto-u.ac.jp"
+        }, 
+        "name": "Nagahisa Yoshimura", 
+        "affiliation_words": [
+            "kyoto", 
+            "visual", 
+            "graduate", 
+            "sciences", 
+            "ophthalmology", 
+            "medicine", 
+            "japan"
+        ]
+    }, 
+    {
+        "affiliation": "Surgical Planning Laboratory|Brigham and Women ' s Hospital|Harvard Medical School", 
+        "contact": {
+            "email": "kikinis@bwh.harvard.edu"
+        }, 
+        "name": "Ron Kikinis", 
+        "affiliation_words": [
+            "'", 
+            "brigham", 
+            "hospital", 
+            "harvard", 
+            "surgical", 
+            "planning", 
+            "laboratory", 
+            "medical", 
+            "women"
+        ]
+    }, 
+    {
+        "affiliation": "Thoraxcenter, Erasmus MC, Rotterdam, The Netherlands", 
+        "contact": {
+            "email": "p.serruys@imperial.ac.uk"
+        }, 
+        "name": "Patrick W. Serruys", 
+        "affiliation_words": [
+            "netherlands", 
+            "erasmus", 
+            "rotterdam", 
+            "mc", 
+            "thoraxcenter"
+        ]
+    }, 
+    {
+        "affiliation": "INRIA, Sophia-Antipolis, France", 
+        "contact": {
+            "email": "jean-daniel.boissonnat@sophia.inria.fr"
+        }, 
+        "name": "Jean-Daniel Boissonnat", 
+        "affiliation_words": [
+            "sophia-antipolis", 
+            "inria", 
+            "france"
+        ]
+    }, 
+    {
+        "affiliation": "University of Pittsburgh, Pittsburgh, PA, USA", 
+        "contact": {
+            "email": "dah44@pitt.edu"
+        }, 
+        "name": "Daqing He", 
+        "affiliation_words": [
+            "pittsburgh", 
+            "pa", 
+            "usa"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Chemical Engineering, Drexel University, Philadelphia, PA, USA", 
+        "contact": {
+            "email": "laurencin@uchc.edu"
+        }, 
+        "name": "Cato T. Laurencin", 
+        "affiliation_words": [
+            "usa", 
+            "philadelphia", 
+            "chemical", 
+            "engineering", 
+            "pa", 
+            "drexel"
+        ]
+    }, 
+    {
+        "affiliation": "Institute of Microtechnology, University of Neuch\u00e2tel, Rue A.-L. Breguet 2, CH-2000 Neuch\u00e2tel Switzerland", 
+        "contact": {
+            "email": "a.vandenberg@utwente.nl"
+        }, 
+        "name": "Albert Van Den Berg", 
+        "affiliation_words": [
+            "neuch\u00e2tel", 
+            "-l", 
+            "microtechnology", 
+            "rue", 
+            "breguet", 
+            "2", 
+            "switzerland", 
+            "ch-2000"
+        ]
+    }, 
+    {
+        "affiliation": "Mobile Robotics Lab", 
+        "contact": {
+            "email": "asaffio@aass.oru.se"
+        }, 
+        "name": "Alessandro Saffiotti", 
+        "affiliation_words": [
+            "mobile", 
+            "robotics", 
+            "lab"
+        ]
+    }, 
+    {
+        "affiliation": "Hong Kong University of Science and Technology, Hong Kong", 
+        "contact": {
+            "email": "yunhao@tsinghua.edu.cn"
+        }, 
+        "name": "Yunhao Liu", 
+        "affiliation_words": [
+            "science", 
+            "hong", 
+            "technology", 
+            "kong"
+        ]
+    }, 
+    {
+        "affiliation": "New Jersey Institute of Technology", 
+        "contact": {
+            "email": "haimin.wang@njit.edu"
+        }, 
+        "name": "Haimin Wang", 
+        "affiliation_words": [
+            "technology", 
+            "jersey"
+        ]
+    }, 
+    {
+        "affiliation": "University of Wisconsin - Madison, Computer Sciences Department, 1210 West Dayton St., Madison, WI 53706, USA", 
+        "contact": {
+            "email": "lumelsky@engr.wisc.edu"
+        }, 
+        "name": "Vladimir Lumelsky", 
+        "affiliation_words": [
+            "madison", 
+            "wisconsin", 
+            "usa", 
+            "dayton", 
+            "53706", 
+            "west", 
+            "1210", 
+            "wi", 
+            "st", 
+            "sciences", 
+            "computer"
+        ]
+    }, 
+    {
+        "affiliation": "Max Planck Institute for Biological Cybernetics, T\u00fcbingen, Germany", 
+        "contact": {
+            "email": "mail@jan-peters.net"
+        }, 
+        "name": "Jan Peters", 
+        "affiliation_words": [
+            "max", 
+            "t\u00fcbingen", 
+            "cybernetics", 
+            "biological", 
+            "germany", 
+            "planck"
+        ]
+    }, 
+    {
+        "affiliation": "Space Systems Laboratory|Massachusetts Institute of Technology", 
+        "contact": {
+            "email": "yoshiaki.kuwata@jpl.nasa.gov"
+        }, 
+        "name": "Yoshiaki Kuwata", 
+        "affiliation_words": [
+            "laboratory", 
+            "massachusetts", 
+            "technology", 
+            "systems", 
+            "space"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Computer Science", 
+        "contact": {
+            "email": "bekris,at,cse.unr.edu"
+        }, 
+        "name": "Kostas E. Bekris", 
+        "affiliation_words": [
+            "science", 
+            "computer"
+        ]
+    }, 
+    {
+        "affiliation": "National University of Singapore, Singapore", 
+        "contact": {
+            "email": "zgzy-dcs@tsinghua.edu.cn"
+        }, 
+        "name": "Zhiying Zhou", 
+        "affiliation_words": [
+            "national", 
+            "singapore"
+        ]
+    }, 
+    {
+        "affiliation": "Harbin Institute of Technology(Harbin Institute of Technology,Harbin Inst. of Technol.),Harbin,China", 
+        "contact": {
+            "email": "wangsg@hit.edu.cn"
+        }, 
+        "name": "Shuguo Wang", 
+        "affiliation_words": [
+            "inst", 
+            "technol", 
+            "technology", 
+            "china", 
+            "harbin"
+        ]
+    }, 
+    {
+        "affiliation": "MIT Media Lab", 
+        "contact": {
+            "email": "pattie@media.mit.edu"
+        }, 
+        "name": "Pattie Maes", 
+        "affiliation_words": [
+            "media", 
+            "mit", 
+            "lab"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Materials Science and Engineering|Cornell University", 
+        "contact": {
+            "email": "cko3@cornell.edu"
+        }, 
+        "name": "Christopher K. Ober", 
+        "affiliation_words": [
+            "cornell", 
+            "science", 
+            "engineering", 
+            "materials"
+        ]
+    }, 
+    {
+        "affiliation": "School of Computer Science and Engineering|Seoul National University", 
+        "contact": {
+            "email": "yhchoi@snu.ac.kr"
+        }, 
+        "name": "Yanghee Choi", 
+        "affiliation_words": [
+            "science", 
+            "engineering", 
+            "computer", 
+            "seoul", 
+            "national"
+        ]
+    }, 
+    {
+        "affiliation": "Vrije Universiteit Brussel, Brussel, Belgium", 
+        "contact": {
+            "email": "bram.vanderborght@vub.ac.be"
+        }, 
+        "name": "Bram Vanderborght", 
+        "affiliation_words": [
+            "belgium", 
+            "vrije", 
+            "brussel", 
+            "universiteit"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Computer Science and Information Engineering, National Taiwan University, Taipei, Taiwan", 
+        "contact": {
+            "email": "lichen@ntu.edu.tw"
+        }, 
+        "name": "Li-Chen Fu", 
+        "affiliation_words": [
+            "information", 
+            "science", 
+            "national", 
+            "engineering", 
+            "computer", 
+            "taiwan", 
+            "taipei"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Computer and Information Sciences, University of Strathclyde, Glasgow, UK", 
+        "contact": {
+            "email": "maria.fox@cis.strath.ac.uk"
+        }, 
+        "name": "Maria Fox", 
+        "affiliation_words": [
+            "information", 
+            "sciences", 
+            "strathclyde", 
+            "computer", 
+            "uk", 
+            "glasgow"
+        ]
+    }, 
+    {
+        "affiliation": "TU Berlin", 
+        "contact": {
+            "email": "wolisz@tkn.tu-berlin.de"
+        }, 
+        "name": "Adam Wolisz", 
+        "affiliation_words": [
+            "berlin", 
+            "tu"
+        ]
+    }, 
+    {
+        "affiliation": "Philips Research, Connectivity Systems and Networks group, Eindhoven, The Netherlands", 
+        "contact": {
+            "email": "dentenee@natlab.research.philips.com"
+        }, 
+        "name": "Dee Denteneer", 
+        "affiliation_words": [
+            "philips", 
+            "eindhoven", 
+            "group", 
+            "connectivity", 
+            "netherlands", 
+            "systems", 
+            "networks"
+        ]
+    }, 
+    {
+        "affiliation": "Northwestern University, Evanston, IL", 
+        "contact": {
+            "email": "dickrp@eecs.umich.edu"
+        }, 
+        "name": "Robert P. Dick", 
+        "affiliation_words": [
+            "northwestern", 
+            "il", 
+            "evanston"
+        ]
+    }, 
+    {
+        "affiliation": "Harvard University", 
+        "contact": {
+            "email": "rachna@deas.harvard.edu"
+        }, 
+        "name": "Rachna Dhamija", 
+        "affiliation_words": [
+            "harvard"
+        ]
+    }, 
+    {
+        "affiliation": "Carnegie Mellon University, Pittsburgh, PA, USA", 
+        "contact": {
+            "email": "gunhee@cs@cmu@edu"
+        }, 
+        "name": "Gun-Hee Kim", 
+        "affiliation_words": [
+            "pittsburgh", 
+            "pa", 
+            "mellon", 
+            "usa", 
+            "carnegie"
+        ]
+    }, 
+    {
+        "affiliation": "Univ. of Sheffield, Sheffield, UK", 
+        "contact": {
+            "email": "a.morris@sheffield.ac.uk"
+        }, 
+        "name": "A. S. Morris", 
+        "affiliation_words": [
+            "sheffield", 
+            "univ", 
+            "uk"
+        ]
+    }, 
+    {
+        "affiliation": "yrabani@cs.huji.ac.il", 
+        "contact": {
+            "email": "rabani@cs.technion.ac.il"
+        }, 
+        "name": "Yuval Rabani", 
+        "affiliation_words": [
+            "yrabani@cs", 
+            "huji", 
+            "ac", 
+            "il"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Computer Science, George Mason University, Fairfax, VA", 
+        "contact": {
+            "email": "jmlien@cs.gmu.edu"
+        }, 
+        "name": "Jyh-Ming Lien", 
+        "affiliation_words": [
+            "va", 
+            "science", 
+            "mason", 
+            "computer", 
+            "fairfax", 
+            "george"
+        ]
+    }, 
+    {
+        "affiliation": "University of Twente, The Netherlands", 
+        "contact": {
+            "email": "nospamroelw@cs.utwente.nl"
+        }, 
+        "name": "Roel Wieringa", 
+        "affiliation_words": [
+            "netherlands", 
+            "twente"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electrical and Computer Engineering|University of British Columbia", 
+        "contact": {
+            "email": "vincentw@ece.ubc.ca"
+        }, 
+        "name": "Vincent W. S. Wong", 
+        "affiliation_words": [
+            "columbia", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "british"
+        ]
+    }, 
+    {
+        "affiliation": "Pohang University of Science & Technology Department of Mechanical Engineering Pohang 790-784 Korea", 
+        "contact": {
+            "email": "youmyi@unist.ac.kr"
+        }, 
+        "name": "Youngil Youm", 
+        "affiliation_words": [
+            "korea", 
+            "&", 
+            "science", 
+            "engineering", 
+            "mechanical", 
+            "technology", 
+            "pohang", 
+            "790-784"
+        ]
+    }, 
+    {
+        "affiliation": "University of Freiburg|Department of Computer Science", 
+        "contact": {
+            "email": "burgard@informatik.uni-freiburg.de"
+        }, 
+        "name": "Wolfram Burgard", 
+        "affiliation_words": [
+            "freiburg", 
+            "science", 
+            "computer"
+        ]
+    }, 
+    {
+        "affiliation": "Dept. of Comput. Sci., Iowa State Univ., Ames, IA", 
+        "contact": {
+            "email": "lavalle@cs.uiuc.edu"
+        }, 
+        "name": "S. M. Lavalle", 
+        "affiliation_words": [
+            "iowa", 
+            "dept", 
+            "state", 
+            "ia", 
+            "comput", 
+            "ames", 
+            "univ", 
+            "sci"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Surgery, The Children's Hospital, Harvard Medical School, 300 Longwood Avenue, Boston, MA 02115, USA", 
+        "contact": {
+            "email": "jvacanti@partners.org"
+        }, 
+        "name": "Joseph P. Vacanti", 
+        "affiliation_words": [
+            "ma", 
+            "usa", 
+            "300", 
+            "boston", 
+            "hospital", 
+            "02115", 
+            "children's", 
+            "harvard", 
+            "longwood", 
+            "surgery", 
+            "avenue", 
+            "medical"
+        ]
+    }, 
+    {
+        "affiliation": "State Key Laboratory of Robotics and System,Harbin Institute of Technology,Harbin ,China", 
+        "contact": {
+            "email": "dlrhitlab@yahoo.com.cn"
+        }, 
+        "name": "Liu Hong", 
+        "affiliation_words": [
+            "robotics", 
+            "system", 
+            "state", 
+            "china", 
+            "key", 
+            "laboratory", 
+            "technology", 
+            "harbin"
+        ]
+    }, 
+    {
+        "affiliation": "Carnegie Mellon University", 
+        "contact": {
+            "email": "tk@cs.cmu.edukanade@andrew.cmu.edu"
+        }, 
+        "name": "Takeo Kanade", 
+        "affiliation_words": [
+            "mellon", 
+            "carnegie"
+        ]
+    }, 
+    {
+        "affiliation": "Stanford Univ., Stanford, CA", 
+        "contact": {
+            "email": "nilsson@cs.stanford.edu"
+        }, 
+        "name": "Nils Nilsson", 
+        "affiliation_words": [
+            "ca", 
+            "univ", 
+            "stanford"
+        ]
+    }, 
+    {
+        "affiliation": "Dipartimento di Informatica e Sistemistica Universita degli Studi di Roma \" La Sapienza", 
+        "contact": {
+            "email": "oriolo@dis.uniroma1.it"
+        }, 
+        "name": "Giuseppe Oriolo", 
+        "affiliation_words": [
+            "\"", 
+            "degli", 
+            "di", 
+            "dipartimento", 
+            "la", 
+            "universita", 
+            "sapienza", 
+            "roma", 
+            "studi", 
+            "informatica", 
+            "sistemistica"
+        ]
+    }, 
+    {
+        "affiliation": "Johns Hopkins University", 
+        "contact": {
+            "email": "aokamura@stanford.edu"
+        }, 
+        "name": "Allison M. Okamura", 
+        "affiliation_words": [
+            "johns", 
+            "hopkins"
+        ]
+    }, 
+    {
+        "affiliation": "Bartol Research Institute|University of Delaware", 
+        "contact": {
+            "email": "yswhm@bartol.udel.edu"
+        }, 
+        "name": "William H. Matthaeus", 
+        "affiliation_words": [
+            "delaware", 
+            "bartol"
+        ]
+    }, 
+    {
+        "affiliation": "Center for Molecular Imaging Research|Massachusetts General Hospital|Harvard Medical School", 
+        "contact": {
+            "email": "rweissleder@mgh.harvard.edu"
+        }, 
+        "name": "Ralph Weissleder", 
+        "affiliation_words": [
+            "hospital", 
+            "general", 
+            "harvard", 
+            "imaging", 
+            "molecular", 
+            "medical", 
+            "massachusetts"
+        ]
+    }, 
+    {
+        "affiliation": "Yale University, New Haven, CT, USA", 
+        "contact": {
+            "email": "scaz@cs.yale.edu"
+        }, 
+        "name": "Brian Scassellati", 
+        "affiliation_words": [
+            "ct", 
+            "haven", 
+            "usa", 
+            "yale"
+        ]
+    }, 
+    {
+        "affiliation": "Institute of Automatic Control Engineering, Technische Universit\u00e4t M\u00fcnchen, Munich, Germany", 
+        "contact": {
+            "email": "http:,,www.lsr.ei.tum.de,typo3temp,gb,b4918337c7.gif"
+        }, 
+        "name": "Dirk Wollherr", 
+        "affiliation_words": [
+            "control", 
+            "universit\u00e4t", 
+            "technische", 
+            "munich", 
+            "m\u00fcnchen", 
+            "engineering", 
+            "germany", 
+            "automatic"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electrical and Computer Engineering, University of Western Ontario, 1151 Richmond Street North, London, Ontario, Canada N6A5B9", 
+        "contact": {
+            "email": "mmoallem@sfu.ca"
+        }, 
+        "name": "Mehrdad Moallem", 
+        "affiliation_words": [
+            "canada", 
+            "ontario", 
+            "street", 
+            "n6a5b9", 
+            "1151", 
+            "london", 
+            "richmond", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "western", 
+            "north"
+        ]
+    }, 
+    {
+        "affiliation": "HUBO Laboratory, Humanoid Robot Research Center, Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology, Daejeon, South Korea 305-701", 
+        "contact": {
+            "email": "jhoh@kaist.ac.kr"
+        }, 
+        "name": "Jun-Ho Oh", 
+        "affiliation_words": [
+            "korea", 
+            "hubo", 
+            "science", 
+            "humanoid", 
+            "robot", 
+            "daejeon", 
+            "engineering", 
+            "305-701", 
+            "south", 
+            "mechanical", 
+            "laboratory", 
+            "technology", 
+            "advanced"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Materials Science and Engineering, University of Washington, Seattle, WA 98195, USA", 
+        "contact": {
+            "email": "mzhang@u.washington.edu"
+        }, 
+        "name": "Miqin Zhang", 
+        "affiliation_words": [
+            "usa", 
+            "wa", 
+            "science", 
+            "washington", 
+            "engineering", 
+            "materials", 
+            "98195", 
+            "seattle"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Information Engineering, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong", 
+        "contact": {
+            "email": "yjzhang@ie.cuhk.edu.hk,yjzhang77@ieee.org"
+        }, 
+        "name": "Ying Jun Zhang", 
+        "affiliation_words": [
+            "information", 
+            "hong", 
+            "shatin", 
+            "chinese", 
+            "kong", 
+            "territories", 
+            "engineering"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Informatics|Aristotle University", 
+        "contact": {
+            "email": "gp@csd.auth.gr"
+        }, 
+        "name": "G. I. Papadimitriou", 
+        "affiliation_words": [
+            "informatics", 
+            "aristotle"
+        ]
+    }, 
+    {
+        "affiliation": "University of Munich, Munich, Germany", 
+        "contact": {
+            "email": "alexander.de.luca@ifi.lmu.de"
+        }, 
+        "name": "Alexander De Luca", 
+        "affiliation_words": [
+            "germany", 
+            "munich"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Computer Science, University of Coloradoat Boulder, Boulder, CO, USA", 
+        "contact": {
+            "email": "nikolaus.correll@colorado.edu"
+        }, 
+        "name": "Nikolaus Correll", 
+        "affiliation_words": [
+            "boulder", 
+            "science", 
+            "computer", 
+            "coloradoat", 
+            "usa"
+        ]
+    }, 
+    {
+        "affiliation": "Institute for Systems and Robotics, Instituto Superior T\u00e9cnico, Lisbon, Portugal", 
+        "contact": {
+            "email": "alex@isr.tecnico.ulisboa.pt"
+        }, 
+        "name": "Alexandre Bernardino", 
+        "affiliation_words": [
+            "superior", 
+            "instituto", 
+            "portugal", 
+            "t\u00e9cnico", 
+            "robotics", 
+            "systems", 
+            "lisbon"
+        ]
+    }, 
+    {
+        "affiliation": "Carnegie Mellon University", 
+        "contact": {
+            "email": "yoky.msjuoka@cs.washington.edu"
+        }, 
+        "name": "Yoky Matsuoka", 
+        "affiliation_words": [
+            "mellon", 
+            "carnegie"
+        ]
+    }, 
+    {
+        "affiliation": "School of Computer Engineering, Nanyang Technological University, Singapore", 
+        "contact": {
+            "email": "asjfcai@ntu.edu.sg"
+        }, 
+        "name": "Jianfei Cai", 
+        "affiliation_words": [
+            "engineering", 
+            "computer", 
+            "nanyang", 
+            "singapore", 
+            "technological"
+        ]
+    }, 
+    {
+        "affiliation": "3B\u2019s Research Group \u2013 Biomaterials, Biodegradables and Biomimetics, University of Minho, Headquarters of the European Institute of Excellence on Tissue Engineering and Regenerative Medicine, AvePark, 4806-909 Taipas, Guimar\u00e3es, Portugal", 
+        "contact": {
+            "email": "rgreis@dep.uminho.pt"
+        }, 
+        "name": "Rui L. Reis", 
+        "affiliation_words": [
+            "guimar\u00e3es", 
+            "group", 
+            "avepark", 
+            "minho", 
+            "taipas", 
+            "headquarters", 
+            "3b\u2019s", 
+            "biodegradables", 
+            "\u2013", 
+            "tissue", 
+            "biomaterials", 
+            "portugal", 
+            "4806-909", 
+            "medicine", 
+            "excellence", 
+            "biomimetics", 
+            "regenerative", 
+            "engineering", 
+            "european"
+        ]
+    }, 
+    {
+        "affiliation": "Royal Society/Wolfson Foundation Medical Image Computing Laboratory, Imperial College of Science, Technology and Medicine, London, UK", 
+        "contact": {
+            "email": "danail.stoyanov@imperial.ac.uk"
+        }, 
+        "name": "Danail Stoyanov", 
+        "affiliation_words": [
+            "society/wolfson", 
+            "foundation", 
+            "computing", 
+            "science", 
+            "medical", 
+            "royal", 
+            "london", 
+            "imperial", 
+            "college", 
+            "uk", 
+            "medicine", 
+            "laboratory", 
+            "technology", 
+            "image"
+        ]
+    }, 
+    {
+        "affiliation": "University of California, Merced", 
+        "contact": {
+            "email": "mkallmann@ucmerced.edu"
+        }, 
+        "name": "Marcelo Kallmann", 
+        "affiliation_words": [
+            "merced", 
+            "california"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Computer Science|Rutgers University", 
+        "contact": {
+            "email": "rmartin@cs.rutgers.edu"
+        }, 
+        "name": "Richard P. Martin", 
+        "affiliation_words": [
+            "science", 
+            "computer", 
+            "rutgers"
+        ]
+    }, 
+    {
+        "affiliation": "Queen's University, Kingston, ON, Canada", 
+        "contact": {
+            "email": "gabor@cs.queensu.ca"
+        }, 
+        "name": "Gabor Fichtinger", 
+        "affiliation_words": [
+            "canada", 
+            "queen's", 
+            "kingston"
+        ]
+    }, 
+    {
+        "affiliation": "University of Bologna, Bologna, Italy", 
+        "contact": {
+            "email": "luciano.bononi@unibo.it"
+        }, 
+        "name": "Luciano Bononi", 
+        "affiliation_words": [
+            "bologna", 
+            "italy"
+        ]
+    }, 
+    {
+        "affiliation": "University of Washington, Tacoma, WA", 
+        "contact": {
+            "email": "ankurt@u.washington.edu"
+        }, 
+        "name": "Ankur Teredesai", 
+        "affiliation_words": [
+            "tacoma", 
+            "washington", 
+            "wa"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Pharmaceutics, Utrecht Institute for Pharmaceutical Sciences (UIPS), Utrecht University, Sorbonnelaan 16, P.O. Box 80082, 3508 TB Utrecht, The Netherlands", 
+        "contact": {
+            "email": "c.f.vannostrum@uu.nl"
+        }, 
+        "name": "Cornelus F. Van Nostrum", 
+        "affiliation_words": [
+            "box", 
+            "pharmaceutical", 
+            "netherlands", 
+            "uips", 
+            "16", 
+            "80082", 
+            "sciences", 
+            "sorbonnelaan", 
+            "utrecht", 
+            "tb", 
+            "3508", 
+            "pharmaceutics"
+        ]
+    }, 
+    {
+        "affiliation": "Purdue University", 
+        "contact": {
+            "email": "spaf@purdue.edu"
+        }, 
+        "name": "Eugene H. Spafford", 
+        "affiliation_words": [
+            "purdue"
+        ]
+    }, 
+    {
+        "affiliation": "Mobile Robot Laboratory|College of Computing|Georgia Institute of Technology", 
+        "contact": {
+            "email": "arkin@gatech.edu"
+        }, 
+        "name": "Ronald C. Arkin", 
+        "affiliation_words": [
+            "georgia", 
+            "computing", 
+            "mobile", 
+            "robot", 
+            "college", 
+            "laboratory", 
+            "technology"
+        ]
+    }, 
+    {
+        "affiliation": "Microsoft Research, Redmond, WA", 
+        "contact": {
+            "email": "kenh@microsoft.com"
+        }, 
+        "name": "Ken Hinckley", 
+        "affiliation_words": [
+            "redmond", 
+            "microsoft", 
+            "wa"
+        ]
+    }, 
+    {
+        "affiliation": "University of Konstanz, Germany", 
+        "contact": {
+            "email": "enrico.bertini@nyu.edu"
+        }, 
+        "name": "Enrico Bertini", 
+        "affiliation_words": [
+            "konstanz", 
+            "germany"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electrical and Computer Engineering, Spectral Analysis Laboratory, University of Florida", 
+        "contact": {
+            "email": "li@dsp.ufl.edu"
+        }, 
+        "name": "Jian Li", 
+        "affiliation_words": [
+            "spectral", 
+            "florida", 
+            "analysis", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "laboratory"
+        ]
+    }, 
+    {
+        "affiliation": "Yahoo! Research, Barcelona, Spain", 
+        "contact": {
+            "email": "ricardo.baeza@upf.edu"
+        }, 
+        "name": "Ricardo Baeza-Yates", 
+        "affiliation_words": [
+            "spain", 
+            "barcelona", 
+            "yahoo!"
+        ]
+    }, 
+    {
+        "affiliation": "Univ. Pierre & Marie Curie - Paris 6, LIP6, CNRS, UMR, France and INRIA REGAL, France", 
+        "contact": {
+            "email": "maria.gradinariu@lip6.fr"
+        }, 
+        "name": "Maria Gradinariu Potop-Butucaru", 
+        "affiliation_words": [
+            "cnrs", 
+            "umr", 
+            "&", 
+            "paris", 
+            "lip6", 
+            "pierre", 
+            "inria", 
+            "france", 
+            "curie", 
+            "6", 
+            "regal", 
+            "marie", 
+            "univ"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Engineering Synthesis, School of Engineering, The University of Tokyo, Tokyo, Japan", 
+        "contact": {
+            "email": "mamoru@nml.t.u-tokyo.ac.jp"
+        }, 
+        "name": "Mamoru Mitsuishi", 
+        "affiliation_words": [
+            "japan", 
+            "engineering", 
+            "tokyo", 
+            "synthesis"
+        ]
+    }, 
+    {
+        "affiliation": "University of North Carolina at Chapel Hill", 
+        "contact": {
+            "email": "rgayle@cs.unc.edu<rgayle@cs.unc.edu>"
+        }, 
+        "name": "Russell Gayle", 
+        "affiliation_words": [
+            "chapel", 
+            "north", 
+            "hill", 
+            "carolina"
+        ]
+    }, 
+    {
+        "affiliation": "University of Massachusetts, Amherst", 
+        "contact": {
+            "email": "ganz@ecs.umass.edu"
+        }, 
+        "name": "Aura Ganz", 
+        "affiliation_words": [
+            "massachusetts", 
+            "amherst"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Chemistry|University of Washington", 
+        "contact": {
+            "email": "zhyli@ucdavis.eduwebsite"
+        }, 
+        "name": "Zhi-Yuan Li", 
+        "affiliation_words": [
+            "chemistry", 
+            "washington"
+        ]
+    }, 
+    {
+        "affiliation": "Swiss Federal Institute of Technology", 
+        "contact": {
+            "email": "roland.siegwart@ethz.ch"
+        }, 
+        "name": "Roland Siegwart", 
+        "affiliation_words": [
+            "swiss", 
+            "federal", 
+            "technology"
+        ]
+    }, 
+    {
+        "affiliation": "Politecnico di Milano, Italy", 
+        "contact": {
+            "email": "cesana@elet.polimi.it"
+        }, 
+        "name": "Matteo Cesana", 
+        "affiliation_words": [
+            "milano", 
+            "italy", 
+            "politecnico", 
+            "di"
+        ]
+    }, 
+    {
+        "affiliation": "Berkeley, CA USA", 
+        "contact": {
+            "email": "ergen@cal.berkeley.edu"
+        }, 
+        "name": "Mustafa Ergen", 
+        "affiliation_words": [
+            "ca", 
+            "usa", 
+            "berkeley"
+        ]
+    }, 
+    {
+        "affiliation": "Technical University of Denmark, Lyngby, Denmark", 
+        "contact": {
+            "email": "na.wasniewski@na-net.ornl.gov"
+        }, 
+        "name": "Jerzy Wasniewski", 
+        "affiliation_words": [
+            "technical", 
+            "denmark", 
+            "lyngby"
+        ]
+    }, 
+    {
+        "affiliation": "University of Glasgow, Glasgow, United Kingdom", 
+        "contact": {
+            "email": "jj@dcs.gla.ac.uk"
+        }, 
+        "name": "Joemon M. Jose", 
+        "affiliation_words": [
+            "kingdom", 
+            "united", 
+            "glasgow"
+        ]
+    }, 
+    {
+        "affiliation": "Humanoid Robotics Institute (HRI), Waseda University, Tokyo, Japan", 
+        "contact": {
+            "email": "h.miwa@aist.go.jp"
+        }, 
+        "name": "Hiroyasu Miwa", 
+        "affiliation_words": [
+            "waseda", 
+            "tokyo", 
+            "robotics", 
+            "humanoid", 
+            "hri", 
+            "japan"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Computer Science and Engineering|University of Washington", 
+        "contact": {
+            "email": "rao@cs.washington.edu"
+        }, 
+        "name": "Rajesh P. N. Rao", 
+        "affiliation_words": [
+            "science", 
+            "engineering", 
+            "computer", 
+            "washington"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Physics and Materials Science, City University of Hong Kong, Tat Chee Avenue, Kowloon, Hong Kong", 
+        "contact": {
+            "email": "xyliu@mail.sic.ac.cn"
+        }, 
+        "name": "Xuanyong Liu", 
+        "affiliation_words": [
+            "tat", 
+            "city", 
+            "hong", 
+            "chee", 
+            "science", 
+            "kong", 
+            "materials", 
+            "kowloon", 
+            "physics", 
+            "avenue"
+        ]
+    }, 
+    {
+        "affiliation": "Samsung Advanced Institute of Technology", 
+        "contact": {
+            "email": "lsh@ece.skku.ac.kr"
+        }, 
+        "name": "Sukhan Lee", 
+        "affiliation_words": [
+            "technology", 
+            "advanced", 
+            "samsung"
+        ]
+    }, 
+    {
+        "affiliation": "Tianjin University(Tianjin University,Tianjin Univ.),Tianjin,China", 
+        "contact": {
+            "email": "xinyut@tamu.edu"
+        }, 
+        "name": "Xinyu Tang", 
+        "affiliation_words": [
+            "tianjin", 
+            "china", 
+            "univ"
+        ]
+    }, 
+    {
+        "affiliation": "Mechanical Engineering Laboratory", 
+        "contact": {
+            "email": "kurokawa-h@aist.go.jp"
+        }, 
+        "name": "Haruhisa Kurokawa", 
+        "affiliation_words": [
+            "laboratory", 
+            "engineering", 
+            "mechanical"
+        ]
+    }, 
+    {
+        "affiliation": "University of Guelph(University of Guelph),Guelph,Canada", 
+        "contact": {
+            "email": "syang@uoguelph.ca"
+        }, 
+        "name": "Simon X. Yang", 
+        "affiliation_words": [
+            "canada", 
+            "guelph"
+        ]
+    }, 
+    {
+        "affiliation": "Beckman Laser Institute|University of California , Irvine", 
+        "contact": {
+            "email": "jsnelson@uci.edu"
+        }, 
+        "name": "J. Stuart Nelson", 
+        "affiliation_words": [
+            "laser", 
+            "irvine", 
+            "beckman", 
+            "california"
+        ]
+    }, 
+    {
+        "affiliation": "Centre National de la Recherche Scientifique (CNRS) Paris France", 
+        "contact": {
+            "email": "abderrahmane.kheddar@lirmm.fr"
+        }, 
+        "name": "Abderrahmane Kheddar", 
+        "affiliation_words": [
+            "recherche", 
+            "la", 
+            "paris", 
+            "national", 
+            "de", 
+            "cnrs", 
+            "scientifique", 
+            "centre", 
+            "france"
+        ]
+    }, 
+    {
+        "affiliation": "Graduate School of Engineering|University of Tokyo", 
+        "contact": {
+            "email": "liao@tsinghua.edu.cn"
+        }, 
+        "name": "Hongen Liao", 
+        "affiliation_words": [
+            "engineering", 
+            "tokyo", 
+            "graduate"
+        ]
+    }, 
+    {
+        "affiliation": "National Institute of Informatics, Tokyo, Japan", 
+        "contact": {
+            "email": "uno@nii.jp"
+        }, 
+        "name": "Takeaki Uno", 
+        "affiliation_words": [
+            "informatics", 
+            "japan", 
+            "national", 
+            "tokyo"
+        ]
+    }, 
+    {
+        "affiliation": "University of North Carolina at Chapel Hill", 
+        "contact": {
+            "email": "dm@cs.unc.edu"
+        }, 
+        "name": "Dinesh Manocha", 
+        "affiliation_words": [
+            "chapel", 
+            "north", 
+            "hill", 
+            "carolina"
+        ]
+    }, 
+    {
+        "affiliation": "University Roma Tre of Rome, Italy", 
+        "contact": {
+            "email": "panzieri@uniroma3.it,stefano.panzieri@uniroma3.it"
+        }, 
+        "name": "Stefano Panzieri", 
+        "affiliation_words": [
+            "italy", 
+            "rome", 
+            "tre", 
+            "roma"
+        ]
+    }, 
+    {
+        "affiliation": "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, MA 02139", 
+        "contact": {
+            "email": "schwager@bu.edu"
+        }, 
+        "name": "Mac Schwager", 
+        "affiliation_words": [
+            "ma", 
+            "science", 
+            "artificial", 
+            "computer", 
+            "massachusetts", 
+            "intelligence", 
+            "laboratory", 
+            "technology", 
+            "02139"
+        ]
+    }, 
+    {
+        "affiliation": null, 
+        "contact": {
+            "email": "gianluca.palli@unibo.it"
+        }, 
+        "name": "Gianluca Palli", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "Carnegie Mellon University", 
+        "contact": {
+            "email": "kuffner@cs.cmu.edu"
+        }, 
+        "name": "James Kuffner", 
+        "affiliation_words": [
+            "mellon", 
+            "carnegie"
+        ]
+    }, 
+    {
+        "affiliation": "Lancaster University, Lancaster, UK", 
+        "contact": {
+            "email": "alan@hcibook.com"
+        }, 
+        "name": "Alan Dix", 
+        "affiliation_words": [
+            "lancaster", 
+            "uk"
+        ]
+    }, 
+    {
+        "affiliation": "Budapest University of Technology and Economics, Dept. of Control Engineering and Information Technology, Budapest, Hungary", 
+        "contact": {
+            "email": "benyo@fsz.bme.hu"
+        }, 
+        "name": "Zolt\u00e1n Beny\u00f3", 
+        "affiliation_words": [
+            "control", 
+            "information", 
+            "budapest", 
+            "economics", 
+            "dept", 
+            "engineering", 
+            "hungary", 
+            "technology"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Computer Science|Texas A&M University", 
+        "contact": {
+            "email": "bayazit@wustl.edu"
+        }, 
+        "name": "O. Bur\u00e7han Bayazit", 
+        "affiliation_words": [
+            "science", 
+            "computer", 
+            "texas", 
+            "a&m"
+        ]
+    }, 
+    {
+        "affiliation": "Swiss Federal Institute of Technology (EPFL), Lausanne, Switzerland", 
+        "contact": {
+            "email": "pearl.pu@epfl.ch"
+        }, 
+        "name": "Pearl Pu", 
+        "affiliation_words": [
+            "federal", 
+            "switzerland", 
+            "lausanne", 
+            "swiss", 
+            "epfl", 
+            "technology"
+        ]
+    }, 
+    {
+        "affiliation": "University of Massachusetts Amherst, Amherst, MA, USA", 
+        "contact": {
+            "email": "allan@cs.umass.edu"
+        }, 
+        "name": "James Allan", 
+        "affiliation_words": [
+            "ma", 
+            "massachusetts", 
+            "usa", 
+            "amherst"
+        ]
+    }, 
+    {
+        "affiliation": "Laboratoire d'Informatique de Paris", 
+        "contact": {
+            "email": "guy.pujolle@lip6.fr"
+        }, 
+        "name": "Guy Pujolle", 
+        "affiliation_words": [
+            "paris", 
+            "laboratoire", 
+            "de", 
+            "d'informatique"
+        ]
+    }, 
+    {
+        "affiliation": "Harvard School of Engineering and Applied Sciences, Cambridge, MA", 
+        "contact": {
+            "email": "howe@seas.harvard.edu"
+        }, 
+        "name": "Robert D. Howe", 
+        "affiliation_words": [
+            "applied", 
+            "cambridge", 
+            "ma", 
+            "sciences", 
+            "engineering", 
+            "harvard"
+        ]
+    }, 
+    {
+        "affiliation": "Universit\u00e4t Karlsruhe Fak. Informatik Inst. Proze\u00dfrechentechnik und Robotik Kaiserstr. 12 76128 Karlsruhe Deutschland", 
+        "contact": {
+            "email": "dillmann@ira.uka.de"
+        }, 
+        "name": "R\u00fcdiger Dillmann", 
+        "affiliation_words": [
+            "informatik", 
+            "12", 
+            "universit\u00e4t", 
+            "deutschland", 
+            "fak", 
+            "proze\u00dfrechentechnik", 
+            "inst", 
+            "76128", 
+            "und", 
+            "kaiserstr", 
+            "karlsruhe", 
+            "robotik"
+        ]
+    }, 
+    {
+        "affiliation": "The University of Iowa", 
+        "contact": {
+            "email": "milan-sonka@uiowa.edu"
+        }, 
+        "name": "Milan Sonka", 
+        "affiliation_words": [
+            "iowa"
+        ]
+    }, 
+    {
+        "affiliation": "Texas A&M University", 
+        "contact": {
+            "email": "amato@cs.tamu.edu"
+        }, 
+        "name": "Nancy M. Amato", 
+        "affiliation_words": [
+            "a&m", 
+            "texas"
+        ]
+    }, 
+    {
+        "affiliation": "University of Southern California", 
+        "contact": {
+            "email": "mataric@usc.edu"
+        }, 
+        "name": "Maja J. Mataric", 
+        "affiliation_words": [
+            "california", 
+            "southern"
+        ]
+    }, 
+    {
+        "affiliation": "Laboratoire d'Informatique Fondamentale et d'Intelligence; Artificielle", 
+        "contact": {
+            "email": "mazer@imag.fr"
+        }, 
+        "name": "E. Mazer", 
+        "affiliation_words": [
+            "laboratoire", 
+            "d'intelligence;", 
+            "fondamentale", 
+            "artificielle", 
+            "d'informatique"
+        ]
+    }, 
+    {
+        "affiliation": "Departamento de Engenharia de Computa\u00e7\u00e3o e Automa\u00e7\u00e3o Industrial|Faculdade de Engenharia El\u00e9trica|Universidade Estadual de Campinas", 
+        "contact": {
+            "email": "eleri@arroba@dca.fee.unicamp.br"
+        }, 
+        "name": "Eleri Cardozo", 
+        "affiliation_words": [
+            "automa\u00e7\u00e3o", 
+            "industrial", 
+            "estadual", 
+            "faculdade", 
+            "de", 
+            "departamento", 
+            "engenharia", 
+            "campinas", 
+            "el\u00e9trica", 
+            "computa\u00e7\u00e3o", 
+            "universidade"
+        ]
+    }, 
+    {
+        "affiliation": "Electrical and Computer Engineering Department, University of Patras, Rio, Achaia, Greece", 
+        "contact": {
+            "email": "tzes@ece.upatras.gr"
+        }, 
+        "name": "Anthony Tzes", 
+        "affiliation_words": [
+            "achaia", 
+            "patras", 
+            "rio", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "greece"
+        ]
+    }, 
+    {
+        "affiliation": "Robotics Institute|Carnegie Mellon University", 
+        "contact": {
+            "email": "alonzo@cmu.edu"
+        }, 
+        "name": "Alonzo Kelly", 
+        "affiliation_words": [
+            "mellon", 
+            "robotics", 
+            "carnegie"
+        ]
+    }, 
+    {
+        "affiliation": "University of Southern California", 
+        "contact": {
+            "email": "gaurav@usc.edu"
+        }, 
+        "name": "Gaurav S. Sukhatme", 
+        "affiliation_words": [
+            "california", 
+            "southern"
+        ]
+    }, 
+    {
+        "affiliation": "Georgia Institute of Technology", 
+        "contact": {
+            "email": "magnus.egerstedt@ece.gatech.edu<magnus.egerstedt@ece.gatech.edu>"
+        }, 
+        "name": "Magnus Egerstedt", 
+        "affiliation_words": [
+            "georgia", 
+            "technology"
+        ]
+    }, 
+    {
+        "affiliation": "ATR, Kyoto, Japan", 
+        "contact": {
+            "email": "m-shiomi@atr.jp"
+        }, 
+        "name": "Masahiro Shiomi", 
+        "affiliation_words": [
+            "kyoto", 
+            "atr", 
+            "japan"
+        ]
+    }, 
+    {
+        "affiliation": "State Key Laboratory of Robotics and System, Harbin Institute of Technology, Harbin, China", 
+        "contact": {
+            "email": "ylfms@hit.edu.cn"
+        }, 
+        "name": "Yili Fu", 
+        "affiliation_words": [
+            "robotics", 
+            "system", 
+            "state", 
+            "china", 
+            "key", 
+            "laboratory", 
+            "technology", 
+            "harbin"
+        ]
+    }, 
+    {
+        "affiliation": "INRIA, CNRS-LIG and Grenoble University, France", 
+        "contact": {
+            "email": "thierry.fraichard@inria.fr"
+        }, 
+        "name": "Thierry Fraichard", 
+        "affiliation_words": [
+            "cnrs-lig", 
+            "grenoble", 
+            "inria", 
+            "france"
+        ]
+    }, 
+    {
+        "affiliation": "Technische Universit\u00e4t M\u00fcnchen, Munich, Germany", 
+        "contact": {
+            "email": "alfons.kemper@in.tum.de"
+        }, 
+        "name": "Alfons Kemper", 
+        "affiliation_words": [
+            "universit\u00e4t", 
+            "m\u00fcnchen", 
+            "technische", 
+            "germany", 
+            "munich"
+        ]
+    }, 
+    {
+        "affiliation": "Interdepartmental Research Center \"E. Piaggio\"", 
+        "contact": {
+            "email": "bicchi@ing.unipi.it"
+        }, 
+        "name": "Antonio Bicchi", 
+        "affiliation_words": [
+            "\"e", 
+            "piaggio\"", 
+            "interdepartmental"
+        ]
+    }, 
+    {
+        "affiliation": "University of Nebraska-Lincoln, Lincoln, NE, USA", 
+        "contact": {
+            "email": "myra@cse.unl.edu"
+        }, 
+        "name": "Myra B. Cohen", 
+        "affiliation_words": [
+            "nebraska-lincoln", 
+            "lincoln", 
+            "ne", 
+            "usa"
+        ]
+    }, 
+    {
+        "affiliation": "Italian Institute of Technology, Genova, Italy", 
+        "contact": {
+            "email": "darwin.caldwell@iit.it"
+        }, 
+        "name": "Darwin G. Caldwell", 
+        "affiliation_words": [
+            "genova", 
+            "italy", 
+            "technology", 
+            "italian"
+        ]
+    }, 
+    {
+        "affiliation": "1.Key Laboratory of Computer Networks and Information Security(Ministry of Education", 
+        "contact": {
+            "email": "jfma@mail.xidian.edu.cn"
+        }, 
+        "name": "Ma Jian-Feng", 
+        "affiliation_words": [
+            "information", 
+            "ministry", 
+            "1", 
+            "computer", 
+            "key", 
+            "laboratory", 
+            "security", 
+            "education", 
+            "networks"
+        ]
+    }, 
+    {
+        "affiliation": "Nordita", 
+        "contact": {
+            "email": "brandenb@nordita.org"
+        }, 
+        "name": "Axel Brandenburg", 
+        "affiliation_words": [
+            "nordita"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Mechanical Engineering|Massachusetts Institute of Technology", 
+        "contact": {
+            "email": "dubowsky@mit.edu"
+        }, 
+        "name": "Steven Dubowsky", 
+        "affiliation_words": [
+            "engineering", 
+            "technology", 
+            "massachusetts", 
+            "mechanical"
+        ]
+    }, 
+    {
+        "affiliation": "Microsoft Research, Redmond, WA", 
+        "contact": {
+            "email": "marycz@microsoft.com"
+        }, 
+        "name": "Mary Czerwinski", 
+        "affiliation_words": [
+            "redmond", 
+            "microsoft", 
+            "wa"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electrical and Computer Engineering, University of Waterloo, Waterloo, ON, Canada", 
+        "contact": {
+            "email": "xshen@bbcr.uwaterloo.ca"
+        }, 
+        "name": "Xuemin Shen", 
+        "affiliation_words": [
+            "canada", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "waterloo"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Mechanical and Aerospace Engineering, Rutgers University, Piscataway, NJ", 
+        "contact": {
+            "email": "jgyi@rutgers.edu"
+        }, 
+        "name": "Jingang Yi", 
+        "affiliation_words": [
+            "nj", 
+            "piscataway", 
+            "engineering", 
+            "rutgers", 
+            "aerospace", 
+            "mechanical"
+        ]
+    }, 
+    {
+        "affiliation": "Graduate Institute of Communication Engineering,; College of EECS , National Taiwan University", 
+        "contact": {
+            "email": "chenkc@cc.ee.ntu.edu.tw"
+        }, 
+        "name": "Kwang-Cheng Chen", 
+        "affiliation_words": [
+            "eecs", 
+            "communication", 
+            "national", 
+            "graduate", 
+            "engineering", 
+            "college", 
+            ";", 
+            "taiwan"
+        ]
+    }, 
+    {
+        "affiliation": "Polytechnic University, Brooklyn, NY", 
+        "contact": {
+            "email": "boris.aronov@nyu.edu"
+        }, 
+        "name": "Boris Aronov", 
+        "affiliation_words": [
+            "ny", 
+            "brooklyn", 
+            "polytechnic"
+        ]
+    }, 
+    {
+        "affiliation": "California Institute of Technology", 
+        "contact": {
+            "email": "murray@cds.caltech.edu"
+        }, 
+        "name": "Richard M. Murray", 
+        "affiliation_words": [
+            "technology", 
+            "california"
+        ]
+    }, 
+    {
+        "affiliation": "Yahoo! Labs, Barcelona, Spain", 
+        "contact": {
+            "email": "mounia@acm.org"
+        }, 
+        "name": "Mounia Lalmas", 
+        "affiliation_words": [
+            "labs", 
+            "spain", 
+            "barcelona", 
+            "yahoo!"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Mechanical Engineering|Ben-Gurion University", 
+        "contact": {
+            "email": "gary@bgu.ac.il"
+        }, 
+        "name": "Igor Rogachevskii", 
+        "affiliation_words": [
+            "engineering", 
+            "ben-gurion", 
+            "mechanical"
+        ]
+    }, 
+    {
+        "affiliation": "University of Maryland, College Park, MD", 
+        "contact": {
+            "email": "bederson@cs.umd.edu"
+        }, 
+        "name": "Benjamin B. Bederson", 
+        "affiliation_words": [
+            "park", 
+            "maryland", 
+            "college", 
+            "md"
+        ]
+    }, 
+    {
+        "affiliation": "Loughborough University(Loughborough University),Loughborough,United Kingdom", 
+        "contact": {
+            "email": "f.iza@lboro.ac.uk"
+        }, 
+        "name": "Felipe Iza", 
+        "affiliation_words": [
+            "kingdom", 
+            "united", 
+            "loughborough"
+        ]
+    }, 
+    {
+        "affiliation": "Univ. of North Carolina, Charlotte", 
+        "contact": {
+            "email": "zbyszek@cs.adelaide.edu.au"
+        }, 
+        "name": "Zbigniew Michalewicz", 
+        "affiliation_words": [
+            "charlotte", 
+            "north", 
+            "univ", 
+            "carolina"
+        ]
+    }, 
+    {
+        "affiliation": "TIMC", 
+        "contact": {
+            "email": "pjb@ri.cmu.edu"
+        }, 
+        "name": "Peter J. Berkelman", 
+        "affiliation_words": [
+            "timc"
+        ]
+    }, 
+    {
+        "affiliation": "School of Computing|University of Ulster", 
+        "contact": {
+            "email": "j.augusto@mdx.ac.uk"
+        }, 
+        "name": "Juan Carlos Augusto", 
+        "affiliation_words": [
+            "ulster", 
+            "computing"
+        ]
+    }, 
+    {
+        "affiliation": "The University of Tokyo, Tokyo, Japan", 
+        "contact": {
+            "email": "kuniyosh@isi.imi.i.u-tokyo.ac.jp"
+        }, 
+        "name": "Yasuo Kuniyoshi", 
+        "affiliation_words": [
+            "japan", 
+            "tokyo"
+        ]
+    }, 
+    {
+        "affiliation": "ATR, Kyoto, Japan", 
+        "contact": {
+            "email": "kanda@atr.jp"
+        }, 
+        "name": "Takayuki Kanda", 
+        "affiliation_words": [
+            "kyoto", 
+            "atr", 
+            "japan"
+        ]
+    }, 
+    {
+        "affiliation": "School of Computing|University of Utah", 
+        "contact": {
+            "email": "zachary@cs.utah.edu"
+        }, 
+        "name": "Joseph L. Zachary", 
+        "affiliation_words": [
+            "utah", 
+            "computing"
+        ]
+    }, 
+    {
+        "affiliation": "Laboratory for Perceptual Robotics|Department of Computer Science|University of Massachusetts , Amherst", 
+        "contact": {
+            "email": "grupen@tigger.cs.umass.edu"
+        }, 
+        "name": "Roderic A. Grupen", 
+        "affiliation_words": [
+            "science", 
+            "robotics", 
+            "computer", 
+            "massachusetts", 
+            "laboratory", 
+            "perceptual", 
+            "amherst"
+        ]
+    }, 
+    {
+        "affiliation": "Univ. of California, Berkeley", 
+        "contact": {
+            "email": "mclinn@berkeley.edu"
+        }, 
+        "name": "Marcia C. Linn", 
+        "affiliation_words": [
+            "california", 
+            "univ", 
+            "berkeley"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Statistics|Cornell University", 
+        "contact": {
+            "email": "ahadi@aucegypt.edu"
+        }, 
+        "name": "Ali S. Hadi", 
+        "affiliation_words": [
+            "cornell", 
+            "statistics"
+        ]
+    }, 
+    {
+        "affiliation": "Centre for Autonomous Systems|Royal Institute of Technology", 
+        "contact": {
+            "email": "http:,,www.nada.kth.se,~ekvall,email.jpg"
+        }, 
+        "name": "Staffan Ekvall", 
+        "affiliation_words": [
+            "technology", 
+            "autonomous", 
+            "royal", 
+            "systems", 
+            "centre"
+        ]
+    }, 
+    {
+        "affiliation": "Control Systems Laboratory, National Technical University of Athens, 9 Heroon Polytechniou Street, Zografou 15780, Greece", 
+        "contact": {
+            "email": "kkyria@central.ntua.gr"
+        }, 
+        "name": "Kostas J. Kyriakopoulos", 
+        "affiliation_words": [
+            "control", 
+            "zografou", 
+            "heroon", 
+            "technical", 
+            "polytechniou", 
+            "national", 
+            "athens", 
+            "15780", 
+            "street", 
+            "systems", 
+            "greece", 
+            "9", 
+            "laboratory"
+        ]
+    }, 
+    {
+        "affiliation": "University of Pennsylvania", 
+        "contact": {
+            "email": "ozio@upenn.edu"
+        }, 
+        "name": "Vijay Kumar", 
+        "affiliation_words": [
+            "pennsylvania"
+        ]
+    }, 
+    {
+        "affiliation": "Faculty of Chemistry, Materials and Bioengineering and High Technology Research Centre, Kansai University, Osaka 564-8680, Japan", 
+        "contact": {
+            "email": "r.jayakumar@unesco.org"
+        }, 
+        "name": "R. Jayakumar", 
+        "affiliation_words": [
+            "japan", 
+            "centre", 
+            "osaka", 
+            "high", 
+            "kansai", 
+            "materials", 
+            "faculty", 
+            "bioengineering", 
+            "chemistry", 
+            "technology", 
+            "564-8680"
+        ]
+    }, 
+    {
+        "affiliation": "University of Freiburg|Computer Science Institute", 
+        "contact": {
+            "email": "maren@cs.uni-bonn.de"
+        }, 
+        "name": "Maren Bennewitz", 
+        "affiliation_words": [
+            "freiburg", 
+            "science", 
+            "computer"
+        ]
+    }, 
+    {
+        "affiliation": "University of Canterbury, Christchurch, New Zealand", 
+        "contact": {
+            "email": "mark.billinghurst@hitlabnz.org"
+        }, 
+        "name": "Mark Billinghurst", 
+        "affiliation_words": [
+            "zealand", 
+            "canterbury", 
+            "christchurch"
+        ]
+    }, 
+    {
+        "affiliation": "City University of Hong Kong(City University of Hong Kong),Hong Kong,China", 
+        "contact": {
+            "email": "paul.chu@cityu.edu.hk"
+        }, 
+        "name": "Paul K. Chu", 
+        "affiliation_words": [
+            "city", 
+            "hong", 
+            "china", 
+            "kong"
+        ]
+    }, 
+    {
+        "affiliation": "Stanford University Computer Science Department", 
+        "contact": {
+            "email": "hauserk@indiana.edu"
+        }, 
+        "name": "Kris Hauser", 
+        "affiliation_words": [
+            "science", 
+            "computer", 
+            "stanford"
+        ]
+    }, 
+    {
+        "affiliation": "Adaptive Systems Research Group|School of Computer Science|University of Hertfordshire", 
+        "contact": {
+            "email": "k.dautenhahn@herts.ac.uk"
+        }, 
+        "name": "Kerstin Dautenhahn", 
+        "affiliation_words": [
+            "group", 
+            "science", 
+            "computer", 
+            "systems", 
+            "adaptive", 
+            "hertfordshire"
+        ]
+    }, 
+    {
+        "affiliation": "University of North Carolina at Chapel Hill", 
+        "contact": {
+            "email": "varadhan@cs.unc.edu"
+        }, 
+        "name": "Gokul Varadhan", 
+        "affiliation_words": [
+            "chapel", 
+            "north", 
+            "hill", 
+            "carolina"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electrical and Computer Engineering, Auburn University, Auburn, AL", 
+        "contact": {
+            "email": "agrawpr@auburn.edu"
+        }, 
+        "name": "Prathima Agrawal", 
+        "affiliation_words": [
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "al", 
+            "auburn"
+        ]
+    }, 
+    {
+        "affiliation": "Purdue Univ., West Lafayette, IN", 
+        "contact": {
+            "email": "jrr@cs.purdue.edu"
+        }, 
+        "name": "John R. Rice", 
+        "affiliation_words": [
+            "west", 
+            "univ", 
+            "lafayette", 
+            "purdue"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Mechanical Engineering, McGill University,Montreal, Quebec, Canada", 
+        "contact": {
+            "email": "isharf@uvic.ca"
+        }, 
+        "name": "Inna Sharf", 
+        "affiliation_words": [
+            "canada", 
+            "engineering", 
+            "quebec", 
+            "mcgill", 
+            "mechanical", 
+            "montreal"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electrical and Computer Engineering, The University of Western Ontario, Canada", 
+        "contact": {
+            "email": "ashami@eng.uwo.ca"
+        }, 
+        "name": "Abdallah Shami", 
+        "affiliation_words": [
+            "canada", 
+            "ontario", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "western"
+        ]
+    }, 
+    {
+        "affiliation": "Computer Science and Neuroscience|University of Southern California|Computational Neuroscience Laboratories", 
+        "contact": {
+            "email": "sschaal@usc.edu"
+        }, 
+        "name": "Stefan Schaal", 
+        "affiliation_words": [
+            "computational", 
+            "science", 
+            "southern", 
+            "computer", 
+            "california", 
+            "neuroscience", 
+            "laboratories"
+        ]
+    }, 
+    {
+        "affiliation": "University of Manchester, Manchester, UK", 
+        "contact": {
+            "email": "alistair.sutcliffe@mbs.ac.uk"
+        }, 
+        "name": "Alistair Sutcliffe", 
+        "affiliation_words": [
+            "manchester", 
+            "uk"
+        ]
+    }, 
+    {
+        "affiliation": "Div. Production Engineering, Machine Design and Automation, K.U. Leuven, Heverlee, Belgium 3001", 
+        "contact": {
+            "email": "dominiek.reynaerts@kuleuven.be"
+        }, 
+        "name": "Dominiek Reynaerts", 
+        "affiliation_words": [
+            "leuven", 
+            "heverlee", 
+            "automation", 
+            "machine", 
+            "engineering", 
+            "production", 
+            "design", 
+            "belgium", 
+            "3001", 
+            "div"
+        ]
+    }, 
+    {
+        "affiliation": "INRIA Dolphin Project / Opac LIFL CNRS, Villeneuve d'Ascq Cedex, France", 
+        "contact": {
+            "email": "el-ghazali.talbi@univ-lille1.fr"
+        }, 
+        "name": "El-Ghazali Talbi", 
+        "affiliation_words": [
+            "cnrs", 
+            "dolphin", 
+            "opac", 
+            "villeneuve", 
+            "lifl", 
+            "/", 
+            "france", 
+            "project", 
+            "cedex", 
+            "inria", 
+            "d'ascq"
+        ]
+    }, 
+    {
+        "affiliation": "University of Victoria, Victoria, BC, Canada", 
+        "contact": {
+            "email": "jppan@mail.xjtu.edu.cn"
+        }, 
+        "name": "Jianping Pan", 
+        "affiliation_words": [
+            "canada", 
+            "bc", 
+            "victoria"
+        ]
+    }, 
+    {
+        "affiliation": "Stanford University Dept. of Mgmt. Science & Engineering Stanford CA USA", 
+        "contact": {
+            "email": "ye@stanford.edu"
+        }, 
+        "name": "Yinyu Ye", 
+        "affiliation_words": [
+            "usa", 
+            "&", 
+            "science", 
+            "ca", 
+            "stanford", 
+            "dept", 
+            "engineering", 
+            "mgmt"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Mathematics|University of Newcastle", 
+        "contact": {
+            "email": "\u00a0anvar.shukurov@ncl.ac.uk"
+        }, 
+        "name": "Anvar Shukurov", 
+        "affiliation_words": [
+            "mathematics", 
+            "newcastle"
+        ]
+    }, 
+    {
+        "affiliation": "Saitama University, Saitama, Japan", 
+        "contact": {
+            "email": "kuno@cv.ics.saitama-u.ac.jp"
+        }, 
+        "name": "Yoshinori Kuno", 
+        "affiliation_words": [
+            "japan", 
+            "saitama"
+        ]
+    }, 
+    {
+        "affiliation": "Osservatorio Astrofisico di Arcetri", 
+        "contact": {
+            "email": "pettini@arcetri.astro.it"
+        }, 
+        "name": "Marco Pettini", 
+        "affiliation_words": [
+            "arcetri", 
+            "di", 
+            "osservatorio", 
+            "astrofisico"
+        ]
+    }, 
+    {
+        "affiliation": "University of Maryland", 
+        "contact": {
+            "email": "ben@cs.umd.edu"
+        }, 
+        "name": "Ben Shneiderman", 
+        "affiliation_words": [
+            "maryland"
+        ]
+    }, 
+    {
+        "affiliation": "LIP6-CNRS 7606, Universit\u00e9 Pierre et Marie Curie - Paris 6, France", 
+        "contact": {
+            "email": "sebastien.tixeuil@lip6.fr"
+        }, 
+        "name": "S\u00e9bastien Tixeuil", 
+        "affiliation_words": [
+            "marie", 
+            "paris", 
+            "7606", 
+            "pierre", 
+            "france", 
+            "curie", 
+            "6", 
+            "universit\u00e9", 
+            "lip6-cnrs"
+        ]
+    }, 
+    {
+        "affiliation": "INRIA, Sophia Antipolis, France", 
+        "contact": {
+            "email": "eitan.altman@sophia.inria.fr"
+        }, 
+        "name": "Eitan Altman", 
+        "affiliation_words": [
+            "antipolis", 
+            "sophia", 
+            "inria", 
+            "france"
+        ]
+    }, 
+    {
+        "affiliation": "National Institute of Advanced Industrial Science and Technology", 
+        "contact": {
+            "email": "kazuhito.yokoi@aist.go.jp"
+        }, 
+        "name": "Kazuhito Yokoi", 
+        "affiliation_words": [
+            "science", 
+            "national", 
+            "industrial", 
+            "technology", 
+            "advanced"
+        ]
+    }, 
+    {
+        "affiliation": "Thanks to Professor R\u00a8udiger Dillmann at the Institute for Computer design and", 
+        "contact": {
+            "email": "topp@csc.kth.se"
+        }, 
+        "name": "Elin Anna Topp", 
+        "affiliation_words": [
+            "r\u00a8udiger", 
+            "professor", 
+            "computer", 
+            "design", 
+            "dillmann"
+        ]
+    }, 
+    {
+        "affiliation": "School of Information Science and Electrical Engineering, Kyushu University, Fukuoka, Japan", 
+        "contact": {
+            "email": "zhidao@ieee.org"
+        }, 
+        "name": "Tomomichi Sugihara", 
+        "affiliation_words": [
+            "information", 
+            "fukuoka", 
+            "science", 
+            "engineering", 
+            "electrical", 
+            "japan", 
+            "kyushu"
+        ]
+    }, 
+    {
+        "affiliation": "National University of Singapore", 
+        "contact": {
+            "email": "adriancheok@city.ac.uk"
+        }, 
+        "name": "Adrian David Cheok", 
+        "affiliation_words": [
+            "national", 
+            "singapore"
+        ]
+    }, 
+    {
+        "affiliation": "Seoul National University, Seoul, Korea", 
+        "contact": {
+            "email": "schoi@snu.ac.krc"
+        }, 
+        "name": "Sunghyun Choi", 
+        "affiliation_words": [
+            "national", 
+            "korea", 
+            "seoul"
+        ]
+    }, 
+    {
+        "affiliation": "School of Computer Engineering, Nanyang Technological University, Singapore", 
+        "contact": {
+            "email": "c.foh@surrey.ac.uk"
+        }, 
+        "name": "Chuan Heng Foh", 
+        "affiliation_words": [
+            "engineering", 
+            "computer", 
+            "nanyang", 
+            "singapore", 
+            "technological"
+        ]
+    }, 
+    {
+        "affiliation": "Dipartimento di Informatica e Sistemistica|Universita di Roma \" La Sapienza", 
+        "contact": {
+            "email": "iocchi@dis.uniroma1.it"
+        }, 
+        "name": "Luca Iocchi", 
+        "affiliation_words": [
+            "\"", 
+            "di", 
+            "dipartimento", 
+            "la", 
+            "universita", 
+            "sapienza", 
+            "roma", 
+            "informatica", 
+            "sistemistica"
+        ]
+    }, 
+    {
+        "affiliation": "Rice University", 
+        "contact": {
+            "email": "vardi_delete_this_@cs.rice.edu"
+        }, 
+        "name": "Moshe Y. Vardi", 
+        "affiliation_words": [
+            "rice"
+        ]
+    }, 
+    {
+        "affiliation": "CRIM Lab, Polo Sant\u2019Anna Valdera, Scuola Superiore Sant\u2019Anna, Pisa, Italy", 
+        "contact": {
+            "email": "arianna.menciassi@sssup.it"
+        }, 
+        "name": "Arianna Menciassi", 
+        "affiliation_words": [
+            "crim", 
+            "sant\u2019anna", 
+            "scuola", 
+            "pisa", 
+            "lab", 
+            "superiore", 
+            "polo", 
+            "italy", 
+            "valdera"
+        ]
+    }, 
+    {
+        "affiliation": "University of Massachusetts Lowell, Lowell", 
+        "contact": {
+            "email": "xinwenfu@cs.uml.edu"
+        }, 
+        "name": "Xinwen Fu", 
+        "affiliation_words": [
+            "lowell", 
+            "massachusetts"
+        ]
+    }, 
+    {
+        "affiliation": "University of Maryland", 
+        "contact": {
+            "email": "warbaugh@umd.edu"
+        }, 
+        "name": "William A. Arbaugh", 
+        "affiliation_words": [
+            "maryland"
+        ]
+    }, 
+    {
+        "affiliation": "Technische Universiteit Eindhoven", 
+        "contact": {
+            "email": "vanwijk@win.tue.nl"
+        }, 
+        "name": "Jarke J. Van Wijk", 
+        "affiliation_words": [
+            "technische", 
+            "eindhoven", 
+            "universiteit"
+        ]
+    }, 
+    {
+        "affiliation": "Delft University of Technology, Delft, The Netherlands", 
+        "contact": {
+            "email": "mtjspaan@ristut.lpt"
+        }, 
+        "name": "Matthijs T. J. Spaan", 
+        "affiliation_words": [
+            "delft", 
+            "netherlands", 
+            "technology"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electrical Engineering|Department of Surgery|University of Washington", 
+        "contact": {
+            "email": "rosen@seas.ucla.edu"
+        }, 
+        "name": "Jacob Rosen", 
+        "affiliation_words": [
+            "washington", 
+            "engineering", 
+            "electrical", 
+            "surgery"
+        ]
+    }, 
+    {
+        "affiliation": "The University of Melbourne, Australia", 
+        "contact": {
+            "email": "rbuyya@unimelb.edu.au"
+        }, 
+        "name": "Rajkumar Buyya", 
+        "affiliation_words": [
+            "melbourne", 
+            "australia"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Chemistry|Laboratory for Advanced Materials|Stanford University", 
+        "contact": {
+            "email": "hdai@stanford.edu"
+        }, 
+        "name": "Hongjie Dai", 
+        "affiliation_words": [
+            "laboratory", 
+            "chemistry", 
+            "stanford", 
+            "advanced", 
+            "materials"
+        ]
+    }, 
+    {
+        "affiliation": "Massachusetts Institute of Technology, Cambridge, Massachusetts 02139", 
+        "contact": {
+            "email": "sertac@mit.edu"
+        }, 
+        "name": "Sertac Karaman", 
+        "affiliation_words": [
+            "cambridge", 
+            "technology", 
+            "massachusetts", 
+            "02139"
+        ]
+    }, 
+    {
+        "affiliation": "TIMC / IMAG Laboratory", 
+        "contact": {
+            "email": "pjb@ri.cmu.edu"
+        }, 
+        "name": "Peter Berkelman", 
+        "affiliation_words": [
+            "timc", 
+            "imag", 
+            "/", 
+            "laboratory"
+        ]
+    }, 
+    {
+        "affiliation": "Universit\u00e0 degli Studi di Bologna", 
+        "contact": {
+            "email": "donat@cs.unibo.it,lorenzo.donatiello@unibo.it"
+        }, 
+        "name": "Lorenzo Donatiello", 
+        "affiliation_words": [
+            "bologna", 
+            "studi", 
+            "universit\u00e0", 
+            "degli", 
+            "di"
+        ]
+    }, 
+    {
+        "affiliation": "University of Trento", 
+        "contact": {
+            "email": "dzmitry.kliazovich@uni.lu"
+        }, 
+        "name": "Dzmitry Kliazovich", 
+        "affiliation_words": [
+            "trento"
+        ]
+    }, 
+    {
+        "affiliation": "Microsoft Research", 
+        "contact": {
+            "email": "dcr@microsoft.com"
+        }, 
+        "name": "Daniel C. Robbins", 
+        "affiliation_words": [
+            "microsoft"
+        ]
+    }, 
+    {
+        "affiliation": "LAAS-CNRS, Toulouse, France", 
+        "contact": {
+            "email": "jpl@laas.fr"
+        }, 
+        "name": "Jean-Paul Laumond", 
+        "affiliation_words": [
+            "toulouse", 
+            "laas-cnrs", 
+            "france"
+        ]
+    }, 
+    {
+        "affiliation": "Brain Science Institute, RIKEN, Saitama, Japan", 
+        "contact": {
+            "email": "http:,,www.bdc.brain.riken.go.jp,~tani,tanisign0024.jpg"
+        }, 
+        "name": "Jun Tani", 
+        "affiliation_words": [
+            "brain", 
+            "japan", 
+            "saitama", 
+            "riken", 
+            "science"
+        ]
+    }, 
+    {
+        "affiliation": "Centre for Autonomous Systems|Royal Institute of Technology", 
+        "contact": {
+            "email": "dani@kth.se"
+        }, 
+        "name": "Danica Kragic", 
+        "affiliation_words": [
+            "technology", 
+            "autonomous", 
+            "royal", 
+            "systems", 
+            "centre"
+        ]
+    }, 
+    {
+        "affiliation": "Virginia Polytechnic Institute and State University", 
+        "contact": {
+            "email": "vtnews@vt.edu"
+        }, 
+        "name": "Scott F. Midkiff", 
+        "affiliation_words": [
+            "state", 
+            "virginia", 
+            "polytechnic"
+        ]
+    }, 
+    {
+        "affiliation": "University of California, San Fransisco USA", 
+        "contact": {
+            "email": "ron@cs.unc.edu"
+        }, 
+        "name": "Ron Alterovitz", 
+        "affiliation_words": [
+            "fransisco", 
+            "california", 
+            "san", 
+            "usa"
+        ]
+    }, 
+    {
+        "affiliation": "Institute for Anthropomatics, University of Karlsruhe, Germany", 
+        "contact": {
+            "email": "asfour@kit.edu"
+        }, 
+        "name": "Tamim Asfour", 
+        "affiliation_words": [
+            "germany", 
+            "anthropomatics", 
+            "karlsruhe"
+        ]
+    }, 
+    {
+        "affiliation": "Intelligent Autonomous Systems|Technische Universitat M", 
+        "contact": {
+            "email": "beetz@cs.uni-bremen.de"
+        }, 
+        "name": "Michael Beetz", 
+        "affiliation_words": [
+            "technische", 
+            "autonomous", 
+            "intelligent", 
+            "systems", 
+            "universitat"
+        ]
+    }, 
+    {
+        "affiliation": "Rice University", 
+        "contact": {
+            "email": "aladd@cs.rice.edu"
+        }, 
+        "name": "Andrew M. Ladd", 
+        "affiliation_words": [
+            "rice"
+        ]
+    }, 
+    {
+        "affiliation": "Coordinated Science Laboratory|University of Illinois at Urbana-Champaign", 
+        "contact": {
+            "email": "bullo@engineering.ucsb.edu"
+        }, 
+        "name": "Francesco Bullo", 
+        "affiliation_words": [
+            "laboratory", 
+            "coordinated", 
+            "urbana-champaign", 
+            "illinois", 
+            "science"
+        ]
+    }, 
+    {
+        "affiliation": "University of Pennsylvania, Philadelphia, PA, USA", 
+        "contact": {
+            "email": "clarkc@mail.med.upenn.edu"
+        }, 
+        "name": "Christopher M. Clark", 
+        "affiliation_words": [
+            "pennsylvania", 
+            "pa", 
+            "philadelphia", 
+            "usa"
+        ]
+    }, 
+    {
+        "affiliation": "IMEC, Leuven, Belgium", 
+        "contact": {
+            "email": "bruno.bougard@imec.be"
+        }, 
+        "name": "Bruno Bougard", 
+        "affiliation_words": [
+            "belgium", 
+            "imec", 
+            "leuven"
+        ]
+    }, 
+    {
+        "affiliation": "University of North Carolina at Chapel Hill", 
+        "contact": {
+            "email": "anderson@cs.unc.edu"
+        }, 
+        "name": "James H. Anderson", 
+        "affiliation_words": [
+            "chapel", 
+            "north", 
+            "hill", 
+            "carolina"
+        ]
+    }, 
+    {
+        "affiliation": "Robotics Institute|Carnegie Mellon University", 
+        "contact": {
+            "email": "matt.mason@cs.cmu.edu"
+        }, 
+        "name": "Matthew T. Mason", 
+        "affiliation_words": [
+            "mellon", 
+            "robotics", 
+            "carnegie"
+        ]
+    }, 
+    {
+        "affiliation": "Mechanical Engineering Department|Katholieke Universiteit Leuven", 
+        "contact": {
+            "email": "hendrik.vanbrussel@mech.kuleuven.ac.be"
+        }, 
+        "name": "Hendrik Van Brussel", 
+        "affiliation_words": [
+            "engineering", 
+            "universiteit", 
+            "leuven", 
+            "katholieke", 
+            "mechanical"
+        ]
+    }, 
+    {
+        "affiliation": "University of Hertfordshire, UK", 
+        "contact": {
+            "email": "b.robins@herts.ac.uk"
+        }, 
+        "name": "Ben Robins", 
+        "affiliation_words": [
+            "hertfordshire", 
+            "uk"
+        ]
+    }, 
+    {
+        "affiliation": "Graduate School of Information Science and Technology|University of Tokyo", 
+        "contact": {
+            "email": "k-okada@jsk.t.u-tokyo.ac.jp"
+        }, 
+        "name": "Kei Okada", 
+        "affiliation_words": [
+            "science", 
+            "information", 
+            "tokyo", 
+            "technology", 
+            "graduate"
+        ]
+    }, 
+    {
+        "affiliation": "The Edward S. Rogers Sr. Dept. of Electrical and Computer Engineering, University of Toronto, Toronto, Canada", 
+        "contact": {
+            "email": "kostas@comm.utoronto.ca"
+        }, 
+        "name": "Konstantinos N. Plataniotis", 
+        "affiliation_words": [
+            "toronto", 
+            "edward", 
+            "rogers", 
+            "sr", 
+            "dept", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "canada"
+        ]
+    }, 
+    {
+        "affiliation": "Norwegian University of Science and Technology", 
+        "contact": {
+            "email": "ajith.abraham@ieee.org,abraham.ajith@acm.org"
+        }, 
+        "name": "Ajith Abraham", 
+        "affiliation_words": [
+            "norwegian", 
+            "technology", 
+            "science"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Mechanical Engineering, Michigan State University, East Lansing, MI 48824, United States", 
+        "contact": {
+            "email": "mukherji@egr.msu.edu"
+        }, 
+        "name": "Ranjan Mukherjee", 
+        "affiliation_words": [
+            "48824", 
+            "michigan", 
+            "mi", 
+            "state", 
+            "lansing", 
+            "states", 
+            "engineering", 
+            "united", 
+            "mechanical", 
+            "east"
+        ]
+    }, 
+    {
+        "affiliation": "Institute of Information and Computing Sciences, Utrecht University, PO Box 80089, 3508 TB Utrecht, The Netherlands", 
+        "contact": {
+            "email": "a.f.vanderstappen@uu.nl"
+        }, 
+        "name": "A. Frank Van Der Stappen", 
+        "affiliation_words": [
+            "box", 
+            "information", 
+            "netherlands", 
+            "computing", 
+            "80089", 
+            "sciences", 
+            "utrecht", 
+            "3508", 
+            "tb", 
+            "po"
+        ]
+    }, 
+    {
+        "affiliation": "ATR|Computational Neuroscience Lab|Jozef Stefan Institute|Carnegie Mellon University|Dept . of Hum . Robot . and Comp . Neurosc . of Automatics|Biocybernetics Robotics Institute", 
+        "contact": {
+            "email": "aude@atr.jp"
+        }, 
+        "name": "Ales Ude", 
+        "affiliation_words": [
+            "computational", 
+            "neurosc", 
+            "automatics", 
+            "biocybernetics", 
+            "hum", 
+            "stefan", 
+            "robot", 
+            "lab", 
+            "dept", 
+            "mellon", 
+            "atr", 
+            "carnegie", 
+            "jozef", 
+            "robotics", 
+            "neuroscience", 
+            "comp"
+        ]
+    }, 
+    {
+        "affiliation": "University of Antwerp, Belgium", 
+        "contact": {
+            "email": "chris.blondia@uantwerpen.be"
+        }, 
+        "name": "Chris Blondia", 
+        "affiliation_words": [
+            "belgium", 
+            "antwerp"
+        ]
+    }, 
+    {
+        "affiliation": "Brigham and Women's Hospital(Brigham and Women's Hospital),Boston,United States", 
+        "contact": {
+            "email": "hata@bwh.harvard.edu"
+        }, 
+        "name": "Nobuhiko Hata", 
+        "affiliation_words": [
+            "united", 
+            "boston", 
+            "hospital", 
+            "women's", 
+            "states", 
+            "brigham"
+        ]
+    }, 
+    {
+        "affiliation": "Boston University, Boston, MA, USA", 
+        "contact": {
+            "email": "cbelta@bu.edu"
+        }, 
+        "name": "Calin Belta", 
+        "affiliation_words": [
+            "boston", 
+            "ma", 
+            "usa"
+        ]
+    }, 
+    {
+        "affiliation": "Georgia Institute of Technology Laser Dynamics Laboratory, School of Chemistry and Biochemistry Atlanta GA 30332-0400 USA", 
+        "contact": {
+            "email": "mostafa.elsayed@chemistry.gatech.edu"
+        }, 
+        "name": "Mostafa A. El-Sayed", 
+        "affiliation_words": [
+            "georgia", 
+            "laser", 
+            "usa", 
+            "biochemistry", 
+            "30332-0400", 
+            "ga", 
+            "laboratory", 
+            "dynamics", 
+            "chemistry", 
+            "technology", 
+            "atlanta"
+        ]
+    }, 
+    {
+        "affiliation": "Program for Robotics|MEM Department|Drexel University", 
+        "contact": {
+            "email": "jaydev@umd.edu"
+        }, 
+        "name": "Jaydev P. Desai", 
+        "affiliation_words": [
+            "robotics", 
+            "mem", 
+            "program", 
+            "drexel"
+        ]
+    }, 
+    {
+        "affiliation": "University of Strathclyde, Glasgow, United Kingdom", 
+        "contact": {
+            "email": "ian.ruthven@cis.strath.ac.uk"
+        }, 
+        "name": "Ian Ruthven", 
+        "affiliation_words": [
+            "kingdom", 
+            "strathclyde", 
+            "united", 
+            "glasgow"
+        ]
+    }, 
+    {
+        "affiliation": "University College London", 
+        "contact": {
+            "email": "niloy@cse.iitd.ernet.in"
+        }, 
+        "name": "Niloy J. Mitra", 
+        "affiliation_words": [
+            "london", 
+            "college"
+        ]
+    }, 
+    {
+        "affiliation": "King\u2019s College London, Department of Mechanical Engineering, The Strand, London WC2R 2LS, United Kingdom", 
+        "contact": {
+            "email": "k.althoefer@kcl.ac.uk"
+        }, 
+        "name": "Kaspar Althoefer", 
+        "affiliation_words": [
+            "kingdom", 
+            "united", 
+            "king\u2019s", 
+            "engineering", 
+            "london", 
+            "2ls", 
+            "wc2r", 
+            "mechanical", 
+            "college", 
+            "strand"
+        ]
+    }, 
+    {
+        "affiliation": "University of Colorado at Boulder", 
+        "contact": {
+            "email": "grunwald@colorado.edu"
+        }, 
+        "name": "Dirk Grunwald", 
+        "affiliation_words": [
+            "boulder", 
+            "colorado"
+        ]
+    }, 
+    {
+        "affiliation": "New York Univ., New York, NY", 
+        "contact": {
+            "email": "yap@cs.nyu.edu"
+        }, 
+        "name": "Chee-Keng Yap", 
+        "affiliation_words": [
+            "ny", 
+            "univ", 
+            "york"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Mechanical Engineering|University of Nevada", 
+        "contact": {
+            "email": "hechanova@unlv.nevada.edu"
+        }, 
+        "name": "Woosoon Yim", 
+        "affiliation_words": [
+            "engineering", 
+            "nevada", 
+            "mechanical"
+        ]
+    }, 
+    {
+        "affiliation": "Mechanical Engineering Laboratory", 
+        "contact": {
+            "email": "k.tomita@aist.go.jp"
+        }, 
+        "name": "Kohji Tomita", 
+        "affiliation_words": [
+            "laboratory", 
+            "engineering", 
+            "mechanical"
+        ]
+    }, 
+    {
+        "affiliation": "University of Manchester", 
+        "contact": {
+            "email": "sve@man.ac.uk"
+        }, 
+        "name": "Colin C. Venters", 
+        "affiliation_words": [
+            "manchester"
+        ]
+    }, 
+    {
+        "affiliation": "MIT Laboratory for Computer Science", 
+        "contact": {
+            "email": "aklmiu@mit.edu"
+        }, 
+        "name": "Allen Miu", 
+        "affiliation_words": [
+            "laboratory", 
+            "computer", 
+            "mit", 
+            "science"
+        ]
+    }, 
+    {
+        "affiliation": "Dept . of Computer-Controlled Mechanical Systems|Osaka University", 
+        "contact": {
+            "email": "shirai@ci.ritsumeikan.ac.jp"
+        }, 
+        "name": "Yoshiaki Shirai", 
+        "affiliation_words": [
+            "dept", 
+            "osaka", 
+            "mechanical", 
+            "systems", 
+            "computer-controlled"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Information Engineering|Chinese University of Hong Kong", 
+        "contact": {
+            "email": "http:,,www.ie.cuhk.edu.hk,fileadmin,images,staff,em_leeyb.jpg"
+        }, 
+        "name": "Jack Y. B. Lee", 
+        "affiliation_words": [
+            "information", 
+            "engineering", 
+            "hong", 
+            "chinese", 
+            "kong"
+        ]
+    }, 
+    {
+        "affiliation": "UC Berkeley, Berkeley, CA, USA", 
+        "contact": {
+            "email": "goldberg@berkeley.edu"
+        }, 
+        "name": "Kenneth Y. Goldberg", 
+        "affiliation_words": [
+            "ca", 
+            "usa", 
+            "uc", 
+            "berkeley"
+        ]
+    }, 
+    {
+        "affiliation": "National Centre for e-Social Science|University of Manchester", 
+        "contact": {
+            "email": "rob.procter@warwick.ac.uk"
+        }, 
+        "name": "Rob Procter", 
+        "affiliation_words": [
+            "science", 
+            "national", 
+            "e-social", 
+            "manchester", 
+            "centre"
+        ]
+    }, 
+    {
+        "affiliation": "INRIA Rh\u00f4ne-Alpes, France", 
+        "contact": {
+            "email": "pierre-brice.wieber@inria.fr"
+        }, 
+        "name": "Pierre-Brice Wieber", 
+        "affiliation_words": [
+            "rh\u00f4ne-alpes", 
+            "inria", 
+            "france"
+        ]
+    }, 
+    {
+        "affiliation": "University California at Berkeley Computer Science Division Cory Hall Berkeley 94720 USA Cory Hall Berkeley 94720 USA", 
+        "contact": {
+            "email": "\tnuernb@iws.cs.uni-magdeburg.de"
+        }, 
+        "name": "Andreas N\u00fcrnberger", 
+        "affiliation_words": [
+            "division", 
+            "usa", 
+            "science", 
+            "hall", 
+            "94720", 
+            "computer", 
+            "california", 
+            "berkeley", 
+            "cory"
+        ]
+    }, 
+    {
+        "affiliation": "Institute for Biological and Chemical Engineering, Swiss Federal Institute of Technology Lausanne (EPFL), CH-1015 Ecublens, Switzerland", 
+        "contact": {
+            "email": "jhubbell@uchicago.edu"
+        }, 
+        "name": "Jeffrey A. Hubbell", 
+        "affiliation_words": [
+            "ch-1015", 
+            "federal", 
+            "ecublens", 
+            "chemical", 
+            "switzerland", 
+            "engineering", 
+            "lausanne", 
+            "epfl", 
+            "swiss", 
+            "biological", 
+            "technology"
+        ]
+    }, 
+    {
+        "affiliation": "Dartmouth University", 
+        "contact": {
+            "email": "brd@cs.duck.edu"
+        }, 
+        "name": "Bruce Randall Donald", 
+        "affiliation_words": [
+            "dartmouth"
+        ]
+    }, 
+    {
+        "affiliation": "University of Antwerp and IBBT, Belgium", 
+        "contact": {
+            "email": "vincenzo.deflorio@ua.ac.be,vincenzo.deflorio@gmail.com"
+        }, 
+        "name": "Vincenzo De Florio", 
+        "affiliation_words": [
+            "belgium", 
+            "antwerp", 
+            "ibbt"
+        ]
+    }, 
+    {
+        "affiliation": "Seoul National University, Korea", 
+        "contact": {
+            "email": "mskim@snu.ac.kr"
+        }, 
+        "name": "Myung-Soo Kim", 
+        "affiliation_words": [
+            "national", 
+            "korea", 
+            "seoul"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electrical Engineering|University of Washington", 
+        "contact": {
+            "email": "blake@u.washington.edu"
+        }, 
+        "name": "Blake Hannaford", 
+        "affiliation_words": [
+            "washington", 
+            "engineering", 
+            "electrical"
+        ]
+    }, 
+    {
+        "affiliation": "National Taiwan University, Taipei, Taiwan", 
+        "contact": {
+            "email": "tsungnan@cc.ee.ntu.edu.tw"
+        }, 
+        "name": "Tsungnan Lin", 
+        "affiliation_words": [
+            "national", 
+            "taiwan", 
+            "taipei"
+        ]
+    }, 
+    {
+        "affiliation": "Microsoft Research, Redmond, WA", 
+        "contact": {
+            "email": "horvitz@microsoft.com"
+        }, 
+        "name": "Eric Horvitz", 
+        "affiliation_words": [
+            "redmond", 
+            "microsoft", 
+            "wa"
+        ]
+    }, 
+    {
+        "affiliation": "University of Waterloo, Waterloo", 
+        "contact": {
+            "email": "wzhuang@uwaterloo.ca"
+        }, 
+        "name": "Weihua Zhuang", 
+        "affiliation_words": [
+            "waterloo"
+        ]
+    }, 
+    {
+        "affiliation": "Graduate School of Informatics|Kyoto University", 
+        "contact": {
+            "email": "komatani@sanken.osaka-u.ac.jp"
+        }, 
+        "name": "Kazunori Komatani", 
+        "affiliation_words": [
+            "informatics", 
+            "kyoto", 
+            "graduate"
+        ]
+    }, 
+    {
+        "affiliation": "Robotics Institute, Carnegie Mellon University, Pittsburgh, PA", 
+        "contact": {
+            "email": "cga@cmu.edu"
+        }, 
+        "name": "Christopher G. Atkeson", 
+        "affiliation_words": [
+            "pittsburgh", 
+            "pa", 
+            "mellon", 
+            "robotics", 
+            "carnegie"
+        ]
+    }, 
+    {
+        "affiliation": null, 
+        "contact": {
+            "email": "xyshius@yahoo.com"
+        }, 
+        "name": "Xiangyang Shi", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "Robotics Laboratory, Department of Computer Science, Stanford University, Stanford, CA", 
+        "contact": {
+            "email": "latombe@cs.stanford.edu"
+        }, 
+        "name": "Jean-Claude Latombe", 
+        "affiliation_words": [
+            "stanford", 
+            "science", 
+            "ca", 
+            "robotics", 
+            "computer", 
+            "laboratory"
+        ]
+    }, 
+    {
+        "affiliation": "Kansas State University Center for Plasma Astrophysics", 
+        "contact": {
+            "email": "tinatin@amorgos.unige.ch"
+        }, 
+        "name": "Tina Kahniashvili", 
+        "affiliation_words": [
+            "astrophysics", 
+            "state", 
+            "kansas", 
+            "plasma"
+        ]
+    }, 
+    {
+        "affiliation": "University of Edinburgh, Edinburgh, UK", 
+        "contact": {
+            "email": "sethu.vijayakumar@ed.ac.uk"
+        }, 
+        "name": "Sethu Vijayakumar", 
+        "affiliation_words": [
+            "edinburgh", 
+            "uk"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Bioengineering and Physiology, University of California, San Francisco, CA", 
+        "contact": {
+            "email": "tejal.desai@ucsf.edu"
+        }, 
+        "name": "Tejal A. Desai", 
+        "affiliation_words": [
+            "francisco", 
+            "san", 
+            "ca", 
+            "california", 
+            "bioengineering", 
+            "physiology"
+        ]
+    }, 
+    {
+        "affiliation": "Dept . of Mech|Osaka University", 
+        "contact": {
+            "email": "openhouse@ams.eng.osaka-u.ac.jp"
+        }, 
+        "name": "Minoru Asada", 
+        "affiliation_words": [
+            "dept", 
+            "osaka", 
+            "mech"
+        ]
+    }, 
+    {
+        "affiliation": "Institute of Robotics and Mechatronics, German Aerospace Center, Wessling, Germany", 
+        "contact": {
+            "email": "rainer.konietschke@dlr.de"
+        }, 
+        "name": "Rainer Konietschke", 
+        "affiliation_words": [
+            "aerospace", 
+            "german", 
+            "robotics", 
+            "germany", 
+            "wessling", 
+            "mechatronics"
+        ]
+    }, 
+    {
+        "affiliation": "MIT Media Lab", 
+        "contact": {
+            "email": "cynthiab@media"
+        }, 
+        "name": "Cynthia Breazeal", 
+        "affiliation_words": [
+            "media", 
+            "mit", 
+            "lab"
+        ]
+    }, 
+    {
+        "affiliation": "School of Computer Science|Carnegie Mellon University", 
+        "contact": {
+            "email": "maxim@cs.cmu.edu"
+        }, 
+        "name": "Maxim Likhachev", 
+        "affiliation_words": [
+            "science", 
+            "mellon", 
+            "computer", 
+            "carnegie"
+        ]
+    }, 
+    {
+        "affiliation": "Carnegie Mellon University", 
+        "contact": {
+            "email": "arizzi@bostondynamics.com"
+        }, 
+        "name": "Alfred A. Rizzi", 
+        "affiliation_words": [
+            "mellon", 
+            "carnegie"
+        ]
+    }, 
+    {
+        "affiliation": "University of Massachusetts Amherst", 
+        "contact": {
+            "email": "bburns@cs.umass.edu"
+        }, 
+        "name": "Brendan Burns", 
+        "affiliation_words": [
+            "massachusetts", 
+            "amherst"
+        ]
+    }, 
+    {
+        "affiliation": "Stanford University", 
+        "contact": {
+            "email": "luis.sentis@austin.utexas.edu"
+        }, 
+        "name": "Luis Sentis", 
+        "affiliation_words": [
+            "stanford"
+        ]
+    }, 
+    {
+        "affiliation": "Control and Dynamical Systems|zMechanical Engineering|California Institute of Technology", 
+        "contact": {
+            "email": "jwb@robby.caltech.edu"
+        }, 
+        "name": "Joel W. Burdick", 
+        "affiliation_words": [
+            "control", 
+            "zmechanical", 
+            "dynamical", 
+            "engineering", 
+            "california", 
+            "systems", 
+            "technology"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Life Sciences and Center for Biofunctional Molecules, Pohang University of Science and Technology, Pohang, 790-784, Korea", 
+        "contact": {
+            "email": "dhkim@umn.edu"
+        }, 
+        "name": "Do-Hyung Kim", 
+        "affiliation_words": [
+            "biofunctional", 
+            "life", 
+            "korea", 
+            "science", 
+            "sciences", 
+            "molecules", 
+            "technology", 
+            "pohang", 
+            "790-784"
+        ]
+    }, 
+    {
+        "affiliation": "The University of Texas at Arlington", 
+        "contact": {
+            "email": "lewis@uta.edu"
+        }, 
+        "name": "Frank L. Lewis", 
+        "affiliation_words": [
+            "arlington", 
+            "texas"
+        ]
+    }, 
+    {
+        "affiliation": "Stevens Institute of Technology, Hoboken, NJ, USA", 
+        "contact": {
+            "email": "yingying.chen@stevens.edu"
+        }, 
+        "name": "Yingying Chen", 
+        "affiliation_words": [
+            "nj", 
+            "hoboken", 
+            "technology", 
+            "usa", 
+            "stevens"
+        ]
+    }, 
+    {
+        "affiliation": "University of Washington", 
+        "contact": {
+            "email": "<myfirstname>@cse.washington.edu"
+        }, 
+        "name": "Gaetano Borriello", 
+        "affiliation_words": [
+            "washington"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Pharmaceutics, Utrecht Institute for Pharmaceutical Sciences (UIPS), Utrecht University, P.O. Box 80082, 3508 TB Utrecht, The Netherlands", 
+        "contact": {
+            "email": "w.e.hennink@uu.nl"
+        }, 
+        "name": "Wim E. Hennink", 
+        "affiliation_words": [
+            "box", 
+            "pharmaceutical", 
+            "netherlands", 
+            "uips", 
+            "80082", 
+            "sciences", 
+            "utrecht", 
+            "tb", 
+            "3508", 
+            "pharmaceutics"
+        ]
+    }, 
+    {
+        "affiliation": "School of Mechanical and Production Engineering, Nanyang Technological University, Nanyang Avenue, Singapore 639798, Singapore", 
+        "contact": {
+            "email": "mkakhor@ntu.edu.sg"
+        }, 
+        "name": "K.A. Khor", 
+        "affiliation_words": [
+            "singapore", 
+            "nanyang", 
+            "engineering", 
+            "production", 
+            "technological", 
+            "639798", 
+            "mechanical", 
+            "avenue"
+        ]
+    }, 
+    {
+        "affiliation": "Institute of Information and Computing Sciences|Utrecht University", 
+        "contact": {
+            "email": "r.j.geraerts@uu.nl"
+        }, 
+        "name": "Roland Geraerts", 
+        "affiliation_words": [
+            "sciences", 
+            "information", 
+            "utrecht", 
+            "computing"
+        ]
+    }, 
+    {
+        "affiliation": "Adaptive Systems Research Group|University of Hertfordshire", 
+        "contact": {
+            "email": "c.l.nehaniv@herts.ac.uk"
+        }, 
+        "name": "Chrystopher L. Nehaniv", 
+        "affiliation_words": [
+            "hertfordshire", 
+            "adaptive", 
+            "group", 
+            "systems"
+        ]
+    }, 
+    {
+        "affiliation": "University of Udine, Udine, Italy", 
+        "contact": {
+            "email": "luca.chittaroimmaginevuota@immaginevuotauniud.it"
+        }, 
+        "name": "Luca Chittaro", 
+        "affiliation_words": [
+            "udine", 
+            "italy"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Bioengineering, Rice University, Houston, TX, USA", 
+        "contact": {
+            "email": "mikos@rice.edu\u00a0"
+        }, 
+        "name": "Antonios G. Mikos", 
+        "affiliation_words": [
+            "bioengineering", 
+            "rice", 
+            "usa", 
+            "tx", 
+            "houston"
+        ]
+    }, 
+    {
+        "affiliation": "Departamento de Inform\u00e1tica, Universidad de Valencia, Avenida de Vicente Andr\u00e9s Estell\u00e9s, s/n,46100 Burjassot, Valencia, Spain", 
+        "contact": {
+            "email": "jose.claver@uv.es"
+        }, 
+        "name": "Jos\u00e9 M. Claver", 
+        "affiliation_words": [
+            "vicente", 
+            "46100", 
+            "estell\u00e9s", 
+            "inform\u00e1tica", 
+            "de", 
+            "departamento", 
+            "s/n", 
+            "burjassot", 
+            "universidad", 
+            "valencia", 
+            "avenida", 
+            "andr\u00e9s", 
+            "spain"
+        ]
+    }, 
+    {
+        "affiliation": "Universidade do Minho DI-CCTC Braga Portugal", 
+        "contact": {
+            "email": "pjon@di.uminho.pt"
+        }, 
+        "name": "Paulo Novais", 
+        "affiliation_words": [
+            "braga", 
+            "portugal", 
+            "di-cctc", 
+            "universidade", 
+            "minho"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Chemistry, Faculty of Science, Kyushu University 33, Hakozaki, Higashiku, Fukuoka 812, Japan", 
+        "contact": {
+            "email": "k.h.scc@chem.kyushu-univ.jp"
+        }, 
+        "name": "Kensuke Harada", 
+        "affiliation_words": [
+            "fukuoka", 
+            "33", 
+            "science", 
+            "higashiku", 
+            "hakozaki", 
+            "faculty", 
+            "japan", 
+            "812", 
+            "chemistry", 
+            "kyushu"
+        ]
+    }, 
+    {
+        "affiliation": "Tohoku University", 
+        "contact": {
+            "email": "keiji@ieee.org"
+        }, 
+        "name": "Keiji Nagatani", 
+        "affiliation_words": [
+            "tohoku"
+        ]
+    }, 
+    {
+        "affiliation": "University of Michigan", 
+        "contact": {
+            "email": "kgshin@eecs.umich.edu"
+        }, 
+        "name": "Kang G. Shin", 
+        "affiliation_words": [
+            "michigan"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Mechanical and Aerospace Engineering, University of California Los Angeles, Los Angeles, Ca 90095-1597, USA", 
+        "contact": {
+            "email": "shiller@yosh.ac.il"
+        }, 
+        "name": "Zvi Shiller", 
+        "affiliation_words": [
+            "usa", 
+            "ca", 
+            "angeles", 
+            "los", 
+            "engineering", 
+            "california", 
+            "aerospace", 
+            "mechanical", 
+            "90095-1597"
+        ]
+    }, 
+    {
+        "affiliation": "Carnegie Mellon University", 
+        "contact": {
+            "email": "kuffner@cs.cmu.edu"
+        }, 
+        "name": "James J. Kuffner", 
+        "affiliation_words": [
+            "mellon", 
+            "carnegie"
+        ]
+    }, 
+    {
+        "affiliation": "Palo Alto Research Center", 
+        "contact": {
+            "email": "chi@acm.org"
+        }, 
+        "name": "Ed H. Chi", 
+        "affiliation_words": [
+            "alto", 
+            "palo"
+        ]
+    }, 
+    {
+        "affiliation": "Toyohashi University of Technology the Department of Production Systems Engineering 441-8580 Toyohashi Japan", 
+        "contact": {
+            "email": "niinomi@imr.tohoku.ac.jp"
+        }, 
+        "name": "Mitsuo Niinomi", 
+        "affiliation_words": [
+            "441-8580", 
+            "toyohashi", 
+            "engineering", 
+            "production", 
+            "systems", 
+            "japan", 
+            "technology"
+        ]
+    }, 
+    {
+        "affiliation": "School of Computer Science|Carnegie Mellon University", 
+        "contact": {
+            "email": "thrun@stanford.edu"
+        }, 
+        "name": "Sebastian Thrun", 
+        "affiliation_words": [
+            "science", 
+            "mellon", 
+            "computer", 
+            "carnegie"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Computer Science, Duke University, Durham, NC", 
+        "contact": {
+            "email": "reif@cs.duke.edu"
+        }, 
+        "name": "John H. Reif", 
+        "affiliation_words": [
+            "durham", 
+            "science", 
+            "computer", 
+            "nc", 
+            "duke"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electronics and Telecommunication Engineering, Jadavpur University, Kolkata, India", 
+        "contact": {
+            "email": "swagatam.das@ieee.org,swagatam.das@isical.ac.in"
+        }, 
+        "name": "Swagatam Das", 
+        "affiliation_words": [
+            "telecommunication", 
+            "india", 
+            "engineering", 
+            "kolkata", 
+            "electronics", 
+            "jadavpur"
+        ]
+    }, 
+    {
+        "affiliation": "Crop, Soil, and Water Sciences Division, International Rice Research Institute, DAPO, 7777 Metro Manila, Philippines", 
+        "contact": {
+            "email": "eps@cs.purdue.edu"
+        }, 
+        "name": "E. Sacks", 
+        "affiliation_words": [
+            "division", 
+            "metro", 
+            "soil", 
+            "philippines", 
+            "crop", 
+            "water", 
+            "sciences", 
+            "7777", 
+            "dapo", 
+            "manila", 
+            "international", 
+            "rice"
+        ]
+    }, 
+    {
+        "affiliation": "Italian Institute of Technology (IIT), Italy", 
+        "contact": {
+            "email": "iron@liralab.it"
+        }, 
+        "name": "Francesco Nori", 
+        "affiliation_words": [
+            "iit", 
+            "italy", 
+            "technology", 
+            "italian"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Mechano-Informatics|University of Tokyo", 
+        "contact": {
+            "email": "ikuo@jsk.t.u-tokyo.ac.jp"
+        }, 
+        "name": "Ikuo Mizuuchi", 
+        "affiliation_words": [
+            "mechano-informatics", 
+            "tokyo"
+        ]
+    }, 
+    {
+        "affiliation": "University of Illinois", 
+        "contact": {
+            "email": "lavalle@illinois.edu"
+        }, 
+        "name": "Steven M. Lavalle", 
+        "affiliation_words": [
+            "illinois"
+        ]
+    }, 
+    {
+        "affiliation": "Research School of Information Sciences and Engineering, Australian National University, Canberra, ACT 0200, Australia", 
+        "contact": {
+            "email": "brian.anderson@anu.edu.au"
+        }, 
+        "name": "Brian D. O. Anderson", 
+        "affiliation_words": [
+            "information", 
+            "australia", 
+            "canberra", 
+            "national", 
+            "sciences", 
+            "engineering", 
+            "0200", 
+            "act", 
+            "australian"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Chemistry, University of Tsukuba, Tsukuba, Ibaraki 305, Japan", 
+        "contact": {
+            "email": "arai@chem.tsukuba.ac.jp"
+        }, 
+        "name": "Tatsuo Arai", 
+        "affiliation_words": [
+            "japan", 
+            "ibaraki", 
+            "chemistry", 
+            "tsukuba", 
+            "305"
+        ]
+    }, 
+    {
+        "affiliation": "Key Laboratory for Advanced Materials Processing Technology, Ministry of Education, Dept. of Mechanical Engineering, Tsinghua University, Beijing, China", 
+        "contact": {
+            "email": "wenzeng@tsinghua.edu.cn"
+        }, 
+        "name": "Wenzeng Zhang", 
+        "affiliation_words": [
+            "beijing", 
+            "ministry", 
+            "processing", 
+            "dept", 
+            "engineering", 
+            "materials", 
+            "china", 
+            "tsinghua", 
+            "key", 
+            "mechanical", 
+            "laboratory", 
+            "education", 
+            "technology", 
+            "advanced"
+        ]
+    }, 
+    {
+        "affiliation": "INRIA Sophia-Antipolis, 2004 route des Lucioles, 06 902 Sophia-Antipolis, France", 
+        "contact": {
+            "email": "eve.coste_maniere@sophia.inria.fr"
+        }, 
+        "name": "\u00c8ve Coste-Mani\u00e8re", 
+        "affiliation_words": [
+            "902", 
+            "06", 
+            "route", 
+            "des", 
+            "inria", 
+            "france", 
+            "lucioles", 
+            "2004", 
+            "sophia-antipolis"
+        ]
+    }, 
+    {
+        "affiliation": "University of Ulster, UK", 
+        "contact": {
+            "email": "liming.chen@ec-lyon.fr"
+        }, 
+        "name": "Liming Chen", 
+        "affiliation_words": [
+            "ulster", 
+            "uk"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Mechanical Engineering|Johns Hopkins University", 
+        "contact": {
+            "email": "gregc@jhu.edu"
+        }, 
+        "name": "Gregory S. Chirikjian", 
+        "affiliation_words": [
+            "engineering", 
+            "johns", 
+            "hopkins", 
+            "mechanical"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electrical and Computer Engineering|University of British Columbia", 
+        "contact": {
+            "email": "vleung@ece\u00b7ubc\u00b7ca"
+        }, 
+        "name": "Victor C. M. Leung", 
+        "affiliation_words": [
+            "columbia", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "british"
+        ]
+    }, 
+    {
+        "affiliation": "Mechanical Engineering Department|Southern Methodist University", 
+        "contact": {
+            "email": "dss@jhu.edu"
+        }, 
+        "name": "Dan Stoianovici", 
+        "affiliation_words": [
+            "methodist", 
+            "engineering", 
+            "southern", 
+            "mechanical"
+        ]
+    }, 
+    {
+        "affiliation": "Rutgers University, Piscataway, NJ", 
+        "contact": {
+            "email": "yyzhang@winlab.rutgers.edu\n"
+        }, 
+        "name": "Yanyong Zhang", 
+        "affiliation_words": [
+            "piscataway", 
+            "nj", 
+            "rutgers"
+        ]
+    }, 
+    {
+        "affiliation": "Laboratory for Information and Decision Systems, Massachusetts Institute of Technology, Cambridge, MA", 
+        "contact": {
+            "email": "moewin@mit.edu"
+        }, 
+        "name": "Moe Z. Win", 
+        "affiliation_words": [
+            "information", 
+            "cambridge", 
+            "ma", 
+            "decision", 
+            "systems", 
+            "laboratory", 
+            "technology", 
+            "massachusetts"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Biomedical Engineering, Columbia University, New York, NY 10027, USA", 
+        "contact": {
+            "email": "gv2131@columbia.edu"
+        }, 
+        "name": "Gordana Vunjak-Novakovic", 
+        "affiliation_words": [
+            "columbia", 
+            "usa", 
+            "ny", 
+            "engineering", 
+            "biomedical", 
+            "10027", 
+            "york"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Computer Science, The University of Alabama, Tuscaloosa, AL", 
+        "contact": {
+            "email": "yangxiao@ieee.org"
+        }, 
+        "name": "Yang Xiao", 
+        "affiliation_words": [
+            "tuscaloosa", 
+            "science", 
+            "alabama", 
+            "computer", 
+            "al"
+        ]
+    }, 
+    {
+        "affiliation": "University of North Carolina at Chapel Hill", 
+        "contact": {
+            "email": "lin@cs.unc.edu"
+        }, 
+        "name": "Ming C. Lin", 
+        "affiliation_words": [
+            "chapel", 
+            "north", 
+            "hill", 
+            "carolina"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Computing, School of Informatics, University of Bradford, Bradford, UK", 
+        "contact": {
+            "email": "g.min@exeter.ac.uk"
+        }, 
+        "name": "Geyong Min", 
+        "affiliation_words": [
+            "informatics", 
+            "bradford", 
+            "uk", 
+            "computing"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Chemistry, State University of New York at Buffalo, Buffalo, New York 14214, USA", 
+        "contact": {
+            "email": "pnprasad@buffalo.edu"
+        }, 
+        "name": "Paras N. Prasad", 
+        "affiliation_words": [
+            "usa", 
+            "state", 
+            "york", 
+            "chemistry", 
+            "buffalo", 
+            "14214"
+        ]
+    }, 
+    {
+        "affiliation": "Augsburg University, Augsburg, Germany", 
+        "contact": {
+            "email": "andre@informatik.uni-augsburg.nospam.de"
+        }, 
+        "name": "Elisabeth Andr\u00e9", 
+        "affiliation_words": [
+            "augsburg", 
+            "germany"
+        ]
+    }, 
+    {
+        "affiliation": "National University of Singapore, Singapore", 
+        "contact": {
+            "email": "leews@comp.nus.edu.sg"
+        }, 
+        "name": "Wee Sun Lee", 
+        "affiliation_words": [
+            "national", 
+            "singapore"
+        ]
+    }, 
+    {
+        "affiliation": "Laboratory for Terrestrial Physics|NASA / Goddard Space Flight Center", 
+        "contact": {
+            "email": "thomas.f.eck@nasa.gov"
+        }, 
+        "name": "T. F. Eck", 
+        "affiliation_words": [
+            "terrestrial", 
+            "flight", 
+            "space", 
+            "/", 
+            "nasa", 
+            "laboratory", 
+            "physics", 
+            "goddard"
+        ]
+    }, 
+    {
+        "affiliation": "University of Trento", 
+        "contact": {
+            "email": "granelli@disi.unitn.it"
+        }, 
+        "name": "Fabrizio Granelli", 
+        "affiliation_words": [
+            "trento"
+        ]
+    }, 
+    {
+        "affiliation": "Graduate School of Informatics, Kyoto University, Kyoto, Japan", 
+        "contact": {
+            "email": "okuno@aoni.waseda.jp"
+        }, 
+        "name": "Hiroshi G. Okuno", 
+        "affiliation_words": [
+            "informatics", 
+            "kyoto", 
+            "japan", 
+            "graduate"
+        ]
+    }, 
+    {
+        "affiliation": "University of Wisconsin-Madison", 
+        "contact": {
+            "email": "suman@cs.wisc.edu"
+        }, 
+        "name": "Suman Banerjee", 
+        "affiliation_words": [
+            "wisconsin-madison"
+        ]
+    }, 
+    {
+        "affiliation": "Joint Research Institute for Signal and Image Processing, School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, UK", 
+        "contact": {
+            "email": "cheng-xiang.wang@hw.ac.uk"
+        }, 
+        "name": "Cheng-Xiang Wang", 
+        "affiliation_words": [
+            "edinburgh", 
+            "sciences", 
+            "signal", 
+            "processing", 
+            "joint", 
+            "engineering", 
+            "heriot-watt", 
+            "uk", 
+            "image", 
+            "physical"
+        ]
+    }, 
+    {
+        "affiliation": "Carnegie Mellon University, Pittsburgh, PA, USA", 
+        "contact": {
+            "email": "anind@cs.cmu.edu"
+        }, 
+        "name": "Anind K. Dey", 
+        "affiliation_words": [
+            "pittsburgh", 
+            "pa", 
+            "mellon", 
+            "usa", 
+            "carnegie"
+        ]
+    }, 
+    {
+        "affiliation": "National Institute of Advanced Industrial Science and Technology ( AIST )", 
+        "contact": {
+            "email": "@hotamail.com"
+        }, 
+        "name": "Kenji Kaneko", 
+        "affiliation_words": [
+            "industrial", 
+            "science", 
+            "national", 
+            "aist", 
+            "technology", 
+            "advanced"
+        ]
+    }, 
+    {
+        "affiliation": "Massachusetts Institute of Technology", 
+        "contact": {
+            "email": "jhow@mit.edu"
+        }, 
+        "name": "Jonathan P. How", 
+        "affiliation_words": [
+            "technology", 
+            "massachusetts"
+        ]
+    }, 
+    {
+        "affiliation": "Singapore Polytechnic(Singapore Polytechnic),Singapore City,Singapore", 
+        "contact": {
+            "email": "zhoucj@sp.edu.sg"
+        }, 
+        "name": "Changjiu Zhou", 
+        "affiliation_words": [
+            "city", 
+            "polytechnic", 
+            "singapore"
+        ]
+    }, 
+    {
+        "affiliation": "University of Dortmund", 
+        "contact": {
+            "email": "fuhr@uni-duisburg.de"
+        }, 
+        "name": "Norbert Fuhr", 
+        "affiliation_words": [
+            "dortmund"
+        ]
+    }, 
+    {
+        "affiliation": "ProBayes S.A.S.", 
+        "contact": {
+            "email": "juan-manuel.ahuactzin@probayes.com"
+        }, 
+        "name": "Juan Manuel Ahuactzin", 
+        "affiliation_words": [
+            "probayes"
+        ]
+    }, 
+    {
+        "affiliation": "Institute of Polymer Research, GKSS-Forschungszentrum Geesthacht GmbH Center for Biomaterial Development Kantstra\u00dfe 55 14513 Teltow Germany", 
+        "contact": {
+            "email": "andreas.lendlein@hzg.de"
+        }, 
+        "name": "Andreas Lendlein", 
+        "affiliation_words": [
+            "development", 
+            "polymer", 
+            "14513", 
+            "55", 
+            "biomaterial", 
+            "kantstra\u00dfe", 
+            "gmbh", 
+            "germany", 
+            "teltow", 
+            "gkss-forschungszentrum", 
+            "geesthacht"
+        ]
+    }, 
+    {
+        "affiliation": "Nielsen Norman Group and Northwestern University", 
+        "contact": {
+            "email": "dnorman@ucsd.edu"
+        }, 
+        "name": "Donald A. Norman", 
+        "affiliation_words": [
+            "northwestern", 
+            "group", 
+            "nielsen", 
+            "norman"
+        ]
+    }, 
+    {
+        "affiliation": "Royal Society/Wolfson Medical Image Computing Laboratory & Department of Biosurgery and Surgical Technology, Imperial College London, London, United Kingdom", 
+        "contact": {
+            "email": "gm201@doc.ic.ac.uk"
+        }, 
+        "name": "George P. Mylonas", 
+        "affiliation_words": [
+            "society/wolfson", 
+            "kingdom", 
+            "united", 
+            "computing", 
+            "medical", 
+            "&", 
+            "royal", 
+            "london", 
+            "imperial", 
+            "biosurgery", 
+            "surgical", 
+            "college", 
+            "laboratory", 
+            "technology", 
+            "image"
+        ]
+    }, 
+    {
+        "affiliation": "LASA Laboratory - Ecole Polytechnique Federale de Lausanne (EPFL), Lausanne, Switzerland", 
+        "contact": {
+            "email": "sylvain.calinongmail.com"
+        }, 
+        "name": "Sylvain Calinon", 
+        "affiliation_words": [
+            "federale", 
+            "ecole", 
+            "de", 
+            "lasa", 
+            "lausanne", 
+            "polytechnique", 
+            "epfl", 
+            "switzerland", 
+            "laboratory"
+        ]
+    }, 
+    {
+        "affiliation": "Northwestern University", 
+        "contact": {
+            "email": "pdinda@cs.northwestern.edu"
+        }, 
+        "name": "Peter A. Dinda", 
+        "affiliation_words": [
+            "northwestern"
+        ]
+    }, 
+    {
+        "affiliation": "Massachusetts Institute of Technology", 
+        "contact": {
+            "email": "tfollowedbylfollowedbyp@mitdotedu"
+        }, 
+        "name": "Tomas Lozano-Perez", 
+        "affiliation_words": [
+            "technology", 
+            "massachusetts"
+        ]
+    }, 
+    {
+        "affiliation": "Federal University of Minas Gerais, Brazil", 
+        "contact": {
+            "email": "gpereira@ufmg.br"
+        }, 
+        "name": "Guilherme A. S. Pereira", 
+        "affiliation_words": [
+            "federal", 
+            "minas", 
+            "brazil", 
+            "gerais"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electrical and Computer Engineering, North Carolina State University, Raleigh, NC", 
+        "contact": {
+            "email": "wwang@ncsu.edu"
+        }, 
+        "name": "Wenye Wang", 
+        "affiliation_words": [
+            "north", 
+            "nc", 
+            "state", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "raleigh", 
+            "carolina"
+        ]
+    }, 
+    {
+        "affiliation": "Georgia Institute of Technology", 
+        "contact": {
+            "email": "wayne.book@me.gatech.edu"
+        }, 
+        "name": "Wayne J. Book", 
+        "affiliation_words": [
+            "georgia", 
+            "technology"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Computer Science|University of Essex", 
+        "contact": {
+            "email": "hhuadd@essex.ac.uk"
+        }, 
+        "name": "Huosheng Hu", 
+        "affiliation_words": [
+            "science", 
+            "computer", 
+            "essex"
+        ]
+    }, 
+    {
+        "affiliation": "Institut de Rob\u00f2tica i Inform\u00e0tica Industrial Universitat Polit\u00e8cnica de Catalunya \u2013 Consejo Superior de Investigaciones Cient\u00edficas Llorens Artigas 4\u20136 08028 Barcelona Spain Spain", 
+        "contact": {
+            "email": "cetto@iri.upc.edu"
+        }, 
+        "name": "Juan Andrade-Cetto", 
+        "affiliation_words": [
+            "polit\u00e8cnica", 
+            "industrial", 
+            "rob\u00f2tica", 
+            "consejo", 
+            "superior", 
+            "llorens", 
+            "de", 
+            "catalunya", 
+            "barcelona", 
+            "4\u20136", 
+            "\u2013", 
+            "08028", 
+            "spain", 
+            "cient\u00edficas", 
+            "universitat", 
+            "investigaciones", 
+            "institut", 
+            "artigas", 
+            "inform\u00e0tica"
+        ]
+    }, 
+    {
+        "affiliation": "University of London Department of Mechanical Engineering, King\u2019s College London WC2R 2LS London UK", 
+        "contact": {
+            "email": "jian.dai@kcl.ac.uk"
+        }, 
+        "name": "Jian S. Dai", 
+        "affiliation_words": [
+            "uk", 
+            "mechanical", 
+            "engineering", 
+            "college", 
+            "wc2r", 
+            "king\u2019s", 
+            "london", 
+            "2ls"
+        ]
+    }, 
+    {
+        "affiliation": "Graz University of Technology", 
+        "contact": {
+            "email": "schmalstieg@tugraz.at"
+        }, 
+        "name": "Dieter Schmalstieg", 
+        "affiliation_words": [
+            "graz", 
+            "technology"
+        ]
+    }, 
+    {
+        "affiliation": "Nonlinear Systems Laboratory|Massachusetts Institute of Technology", 
+        "contact": {
+            "email": "jjs@mit.edu"
+        }, 
+        "name": "Jean-Jacques E. Slotine", 
+        "affiliation_words": [
+            "laboratory", 
+            "nonlinear", 
+            "technology", 
+            "systems", 
+            "massachusetts"
+        ]
+    }, 
+    {
+        "affiliation": "University of Genova", 
+        "contact": {
+            "email": "pasa@liralab.it"
+        }, 
+        "name": "G. Metta", 
+        "affiliation_words": [
+            "genova"
+        ]
+    }, 
+    {
+        "affiliation": "LARM: Laboratory of Robotics and Mechatronics, DiMSAT \u2013 University of Cassino, Via Di Biasio 43, 03043 Cassino (Fr), Italy", 
+        "contact": {
+            "email": "ceccarelli@unicas.it"
+        }, 
+        "name": "Marco Ceccarelli", 
+        "affiliation_words": [
+            "fr", 
+            "03043", 
+            "italy", 
+            "cassino", 
+            "dimsat", 
+            "robotics", 
+            "biasio", 
+            "43", 
+            "larm:", 
+            "\u2013", 
+            "mechatronics", 
+            "laboratory", 
+            "di"
+        ]
+    }, 
+    {
+        "affiliation": "Royal Society/Wolfson Medical Image Computing Laboratory, Imperial College London, London, United Kingdom", 
+        "contact": {
+            "email": "g.z.yang@imperial.ac.uk"
+        }, 
+        "name": "Guang-Zhong Yang", 
+        "affiliation_words": [
+            "society/wolfson", 
+            "kingdom", 
+            "united", 
+            "computing", 
+            "medical", 
+            "royal", 
+            "london", 
+            "imperial", 
+            "college", 
+            "laboratory", 
+            "image"
+        ]
+    }, 
+    {
+        "affiliation": "University of Massachusetts Lowell", 
+        "contact": {
+            "email": "fredm@cs.uml.edu<fredm@cs.uml.edu>"
+        }, 
+        "name": "Fred G. Martin", 
+        "affiliation_words": [
+            "lowell", 
+            "massachusetts"
+        ]
+    }, 
+    {
+        "affiliation": "Carnegie Mellon University", 
+        "contact": {
+            "email": "guestrin@cs.washington.edu"
+        }, 
+        "name": "Carlos Guestrin", 
+        "affiliation_words": [
+            "mellon", 
+            "carnegie"
+        ]
+    }, 
+    {
+        "affiliation": "Autodesk Research, Toronto, ON, Canada", 
+        "contact": {
+            "email": "tovi.grossman@autodesk.com"
+        }, 
+        "name": "Tovi Grossman", 
+        "affiliation_words": [
+            "toronto", 
+            "canada", 
+            "autodesk"
+        ]
+    }, 
+    {
+        "affiliation": "Delft University of Technology, Delft, Netherlands", 
+        "contact": {
+            "email": "s.g.lukosch@tudelft.nl"
+        }, 
+        "name": "Stephan Lukosch", 
+        "affiliation_words": [
+            "delft", 
+            "netherlands", 
+            "technology"
+        ]
+    }, 
+    {
+        "affiliation": "School of Electrical Engineering and Computer Science, Hanyang University, Ansan, Korea", 
+        "contact": {
+            "email": "bj@hanyang.ac.kr"
+        }, 
+        "name": "Byung-Ju Yi", 
+        "affiliation_words": [
+            "korea", 
+            "science", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "hanyang", 
+            "ansan"
+        ]
+    }, 
+    {
+        "affiliation": "Dipartimento di Scienze Farmaceutiche, Universit\u00e0 di Trieste, Piazzale Europa 1, 34127 Trieste, Italy", 
+        "contact": {
+            "email": "prato@units.it"
+        }, 
+        "name": "Maurizio Prato", 
+        "affiliation_words": [
+            "farmaceutiche", 
+            "europa", 
+            "di", 
+            "dipartimento", 
+            "scienze", 
+            "1", 
+            "trieste", 
+            "34127", 
+            "universit\u00e0", 
+            "italy", 
+            "piazzale"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Information Science, Bar-Ilan University, Ramat-Gan, Israel", 
+        "contact": {
+            "email": "barilaj@mail.biu.ac.il"
+        }, 
+        "name": "Judit Bar-Ilan", 
+        "affiliation_words": [
+            "information", 
+            "bar-ilan", 
+            "ramat-gan", 
+            "israel", 
+            "science"
+        ]
+    }, 
+    {
+        "affiliation": "University of Genoa", 
+        "contact": {
+            "email": "pasa@liralab.it,giorgio.metta@iit.it"
+        }, 
+        "name": "Giorgio Metta", 
+        "affiliation_words": [
+            "genoa"
+        ]
+    }, 
+    {
+        "affiliation": "Wayne State University", 
+        "contact": {
+            "email": "szeadally@uky.edu"
+        }, 
+        "name": "Sherali Zeadally", 
+        "affiliation_words": [
+            "state", 
+            "wayne"
+        ]
+    }, 
+    {
+        "affiliation": "Computer Science and Engineering Department, Texas A&M University, College Station, TX", 
+        "contact": {
+            "email": "dzsong@cs.tamu.edu"
+        }, 
+        "name": "Dezhen Song", 
+        "affiliation_words": [
+            "a&m", 
+            "tx", 
+            "science", 
+            "engineering", 
+            "computer", 
+            "college", 
+            "station", 
+            "texas"
+        ]
+    }, 
+    {
+        "affiliation": "Herzzentrum, Klinik f\u00fcr Herzchirurgie, Leipzig, Germany; ChIR Medical Robotics, Institut National de Recherche en Informatique", 
+        "contact": {
+            "email": "louai.adhami@sophia.inria.fr"
+        }, 
+        "name": "Loua\u00ef Adhami", 
+        "affiliation_words": [
+            "informatique", 
+            "klinik", 
+            "leipzig", 
+            "institut", 
+            "chir", 
+            "germany;", 
+            "herzzentrum", 
+            "recherche", 
+            "de", 
+            "en", 
+            "robotics", 
+            "national", 
+            "herzchirurgie", 
+            "f\u00fcr", 
+            "medical"
+        ]
+    }, 
+    {
+        "affiliation": "TU Kaiserslautern FB Informatik AG Robotersysteme, Kaiserslautern, Deutschland", 
+        "contact": {
+            "email": "berns@informatik.uni-kl.de"
+        }, 
+        "name": "Karsten Berns", 
+        "affiliation_words": [
+            "informatik", 
+            "robotersysteme", 
+            "ag", 
+            "tu", 
+            "deutschland", 
+            "kaiserslautern", 
+            "fb"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Computer Science, University of Wisconsin-Milwaukee, WI 53201-0784, USA", 
+        "contact": {
+            "email": "dumitres@uwm.edu"
+        }, 
+        "name": "Adrian Dumitrescu", 
+        "affiliation_words": [
+            "usa", 
+            "science", 
+            "wi", 
+            "53201-0784", 
+            "computer", 
+            "wisconsin-milwaukee"
+        ]
+    }, 
+    {
+        "affiliation": "University of Pennsylvania", 
+        "contact": {
+            "email": "pappasg@seas.upenn.edu"
+        }, 
+        "name": "George J. Pappas", 
+        "affiliation_words": [
+            "pennsylvania"
+        ]
+    }, 
+    {
+        "affiliation": "Concordia University Department of Electrical & Computer Engineering 1455 Maisonneuve Blvd. West, EV005.126 H3G 1M8 Montreal QC Canada", 
+        "contact": {
+            "email": "kash@ece.concordia.ca"
+        }, 
+        "name": "Khashayar Khorasani", 
+        "affiliation_words": [
+            "canada", 
+            "1m8", 
+            "ev005", 
+            "h3g", 
+            "&", 
+            "west", 
+            "qc", 
+            "1455", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "126", 
+            "maisonneuve", 
+            "blvd", 
+            "concordia", 
+            "montreal"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Computer Science|Rice University", 
+        "contact": {
+            "email": "plaku,at,cua.edu"
+        }, 
+        "name": "Erion Plaku", 
+        "affiliation_words": [
+            "science", 
+            "computer", 
+            "rice"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Physics|Pennsylvania State University", 
+        "contact": {
+            "email": "ralbert@phys.psu.edu"
+        }, 
+        "name": "R\u00e9ka Albert", 
+        "affiliation_words": [
+            "pennsylvania", 
+            "state", 
+            "physics"
+        ]
+    }, 
+    {
+        "affiliation": "Institute of Automatic Control Engineering, Technische Universit\u00e4t M\u00fcnchen, Munich, Germany", 
+        "contact": {
+            "email": "mb@tum.de"
+        }, 
+        "name": "Martin Buss", 
+        "affiliation_words": [
+            "control", 
+            "universit\u00e4t", 
+            "technische", 
+            "munich", 
+            "m\u00fcnchen", 
+            "engineering", 
+            "germany", 
+            "automatic"
+        ]
+    }, 
+    {
+        "affiliation": "Beckman Institute for Advanced Science and Technology|Department of Electrical and Computer Engineering|University of Illinois at Urbana-Champaign", 
+        "contact": {
+            "email": "boppart@illinois.edu"
+        }, 
+        "name": "Stephen A. Boppart", 
+        "affiliation_words": [
+            "science", 
+            "beckman", 
+            "illinois", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "urbana-champaign", 
+            "technology", 
+            "advanced"
+        ]
+    }, 
+    {
+        "affiliation": "Rutgers University, Piscataway, NJ", 
+        "contact": {
+            "email": "badri@cs.rutgers.edu"
+        }, 
+        "name": "Badri Nath", 
+        "affiliation_words": [
+            "piscataway", 
+            "nj", 
+            "rutgers"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electrical and Computer Engineering, University of Massachusetts, Amherst, MA", 
+        "contact": {
+            "email": "lgao@ecs.umass.edu"
+        }, 
+        "name": "Lixin Gao", 
+        "affiliation_words": [
+            "ma", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "massachusetts", 
+            "amherst"
+        ]
+    }, 
+    {
+        "affiliation": "University of Toronto(University of Toronto),Toronto,Canada", 
+        "contact": {
+            "email": "wilson@uhnres.utoronto.ca"
+        }, 
+        "name": "Brian C. Wilson", 
+        "affiliation_words": [
+            "toronto", 
+            "canada"
+        ]
+    }, 
+    {
+        "affiliation": "The Johns Hopkins University", 
+        "contact": {
+            "email": "rht@cs.jhu.edu"
+        }, 
+        "name": "Russell H. Taylor", 
+        "affiliation_words": [
+            "johns", 
+            "hopkins"
+        ]
+    }, 
+    {
+        "affiliation": "CNRS, LAAS, Univ de Toulouse, Toulouse, France", 
+        "contact": {
+            "email": "rachid.alami@laas.fr"
+        }, 
+        "name": "Rachid Alami", 
+        "affiliation_words": [
+            "cnrs", 
+            "toulouse", 
+            "de", 
+            "france", 
+            "univ", 
+            "laas"
+        ]
+    }, 
+    {
+        "affiliation": "Biologically Inspired|Robotics Group|Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne", 
+        "contact": {
+            "email": "ludovic.righetti@tuebingen.mpg.de"
+        }, 
+        "name": "Ludovic Righetti", 
+        "affiliation_words": [
+            "de", 
+            "group", 
+            "ecole", 
+            "biologically", 
+            "robotics", 
+            "f\u00e9d\u00e9rale", 
+            "lausanne", 
+            "polytechnique", 
+            "inspired"
+        ]
+    }, 
+    {
+        "affiliation": "University of Toronto, Toronto, ON, Canada", 
+        "contact": {
+            "email": "paolo@cs.toronto.edu"
+        }, 
+        "name": "Paolo Viappiani", 
+        "affiliation_words": [
+            "toronto", 
+            "canada"
+        ]
+    }, 
+    {
+        "affiliation": "ATR Intelligent Robotics & Communication Laboratories, Soraku-gun, Kyoto, Japan", 
+        "contact": {
+            "email": "tono@econ.osaka-u.ac.jp"
+        }, 
+        "name": "Tetsuo Ono", 
+        "affiliation_words": [
+            "&", 
+            "communication", 
+            "robotics", 
+            "soraku-gun", 
+            "atr", 
+            "kyoto", 
+            "japan", 
+            "laboratories", 
+            "intelligent"
+        ]
+    }, 
+    {
+        "affiliation": "Bell Laboratories|Lucent Technologies", 
+        "contact": {
+            "email": "iwidjaja@research.bell-labs.com"
+        }, 
+        "name": "I. Widjaja", 
+        "affiliation_words": [
+            "lucent", 
+            "technologies", 
+            "laboratories", 
+            "bell"
+        ]
+    }, 
+    {
+        "affiliation": "School of Electrical Engineering and Computer Science|Washington State University", 
+        "contact": {
+            "email": "skrishnam@iitm.ac.in,krishna.sivalingam@ieee.org"
+        }, 
+        "name": "Krishna M. Sivalingam", 
+        "affiliation_words": [
+            "science", 
+            "washington", 
+            "state", 
+            "engineering", 
+            "computer", 
+            "electrical"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electrical and Computer Engineering, University of Florida, Gainesville, FL", 
+        "contact": {
+            "email": "fang@ece.ufl.edu"
+        }, 
+        "name": "Yuguang Fang", 
+        "affiliation_words": [
+            "gainesville", 
+            "florida", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "fl"
+        ]
+    }, 
+    {
+        "affiliation": "Intelligent Autonomous Systems Laboratory|Department of Information Engineering|University of Padua", 
+        "contact": {
+            "email": "epv@dei.unipd.it,enrico.pagello@unipd.it"
+        }, 
+        "name": "Enrico Pagello", 
+        "affiliation_words": [
+            "information", 
+            "engineering", 
+            "padua", 
+            "systems", 
+            "laboratory", 
+            "autonomous", 
+            "intelligent"
+        ]
+    }, 
+    {
+        "affiliation": "Psychology Department, University of Wales Swansea, SA2 8PP Swansea, Wales", 
+        "contact": {
+            "email": "mailto:o.debruijn@ic.ac.uk"
+        }, 
+        "name": "Oscar De Bruijn", 
+        "affiliation_words": [
+            "wales", 
+            "swansea", 
+            "psychology", 
+            "8pp", 
+            "sa2"
+        ]
+    }, 
+    {
+        "affiliation": "National University of Singapore, Singapore, Singapore", 
+        "contact": {
+            "email": "elenr@nus.edu.sg"
+        }, 
+        "name": "Ryohei Nakatsu", 
+        "affiliation_words": [
+            "national", 
+            "singapore"
+        ]
+    }, 
+    {
+        "affiliation": "School of Eng. and Computer Science, The Hebrew Univ. of Jerusalem, Israel", 
+        "contact": {
+            "email": "josko@cs.huji.ac.il"
+        }, 
+        "name": "Leo Joskowicz", 
+        "affiliation_words": [
+            "israel", 
+            "eng", 
+            "science", 
+            "computer", 
+            "hebrew", 
+            "jerusalem", 
+            "univ"
+        ]
+    }, 
+    {
+        "affiliation": "DIST, Department of Communication, Computer and Systems Science, University of Genova, Via Opera Pia, 13, 16145 Genova, Italy", 
+        "contact": {
+            "email": "cannata@dist.unige.it"
+        }, 
+        "name": "Giorgio Cannata", 
+        "affiliation_words": [
+            "13", 
+            "dist", 
+            "opera", 
+            "communication", 
+            "pia", 
+            "computer", 
+            "systems", 
+            "science", 
+            "italy", 
+            "16145", 
+            "genova"
+        ]
+    }, 
+    {
+        "affiliation": "Institute of Industrial Science|University of Tokyo", 
+        "contact": {
+            "email": "ki@cvl.iis.u-tokyo.ac.jp"
+        }, 
+        "name": "Katsushi Ikeuchi", 
+        "affiliation_words": [
+            "science", 
+            "industrial", 
+            "tokyo"
+        ]
+    }, 
+    {
+        "affiliation": "University of Pittsburgh, Pittsburgh, PA, USA", 
+        "contact": {
+            "email": "peterb@pitt.edu"
+        }, 
+        "name": "Peter Brusilovsky", 
+        "affiliation_words": [
+            "pittsburgh", 
+            "pa", 
+            "usa"
+        ]
+    }, 
+    {
+        "affiliation": "University College Dublin, Dublin, Ireland", 
+        "contact": {
+            "email": "barry.smyth@insight-centre.org"
+        }, 
+        "name": "Barry Smyth", 
+        "affiliation_words": [
+            "dublin", 
+            "college", 
+            "ireland"
+        ]
+    }, 
+    {
+        "affiliation": "Microsoft Research, Redmond, WA, USA", 
+        "contact": {
+            "email": "sdumais@microsoft.com"
+        }, 
+        "name": "Susan T. Dumais", 
+        "affiliation_words": [
+            "usa", 
+            "redmond", 
+            "microsoft", 
+            "wa"
+        ]
+    }, 
+    {
+        "affiliation": "The Johns Hopkins University", 
+        "contact": {
+            "email": "hager@cs.jhu.edu"
+        }, 
+        "name": "Gregory D. Hager", 
+        "affiliation_words": [
+            "johns", 
+            "hopkins"
+        ]
+    }, 
+    {
+        "affiliation": "Division of Cardiology, Massachusetts General Hospital and Harvard Medical School, Boston, Massachusetts", 
+        "contact": {
+            "email": "jang.ik@mgh.harvard.edu"
+        }, 
+        "name": "Ik-Kyung Jang", 
+        "affiliation_words": [
+            "division", 
+            "cardiology", 
+            "boston", 
+            "hospital", 
+            "general", 
+            "harvard", 
+            "massachusetts", 
+            "medical"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Computer Science, Tel Aviv University, Tel Aviv 69978, Israel", 
+        "contact": {
+            "email": "danha@tau.ac.il"
+        }, 
+        "name": "Dan Halperin", 
+        "affiliation_words": [
+            "69978", 
+            "israel", 
+            "tel", 
+            "science", 
+            "aviv", 
+            "computer"
+        ]
+    }, 
+    {
+        "affiliation": "Imperial College of Science, Technology, and Medicine Royal Society/Wolfson Medical Image Computing Laboratory, 305/306 Huxley Building, Department of Computing 180 Queens Gate London SW7 2BZ UK", 
+        "contact": {
+            "email": "g.z.yang@imperial.ac.uk"
+        }, 
+        "name": "Guang Zhong Yang", 
+        "affiliation_words": [
+            "society/wolfson", 
+            "building", 
+            "2bz", 
+            "computing", 
+            "science", 
+            "medical", 
+            "royal", 
+            "london", 
+            "imperial", 
+            "180", 
+            "305/306", 
+            "college", 
+            "uk", 
+            "huxley", 
+            "gate", 
+            "medicine", 
+            "laboratory", 
+            "technology", 
+            "image", 
+            "sw7", 
+            "queens"
+        ]
+    }, 
+    {
+        "affiliation": "New York Medical College, Valhalla, New York, USA", 
+        "contact": {
+            "email": "jml18@earthlink.net"
+        }, 
+        "name": "Jeffrey M. Liebmann", 
+        "affiliation_words": [
+            "medical", 
+            "college", 
+            "york", 
+            "usa", 
+            "valhalla"
+        ]
+    }, 
+    {
+        "affiliation": "University of South Australia", 
+        "contact": {
+            "email": "bruce.thomas@unisa.edu.au"
+        }, 
+        "name": "Bruce H. Thomas", 
+        "affiliation_words": [
+            "australia", 
+            "south"
+        ]
+    }, 
+    {
+        "affiliation": "Graduate School of Information Science and Technology|University of Tokyo", 
+        "contact": {
+            "email": "inaba@i.u-tokyo.ac.jp"
+        }, 
+        "name": "Masayuki Inaba", 
+        "affiliation_words": [
+            "science", 
+            "information", 
+            "tokyo", 
+            "technology", 
+            "graduate"
+        ]
+    }, 
+    {
+        "affiliation": "MIT Media Lab, Cambridge, MA", 
+        "contact": {
+            "email": "athomaz@cc.gatech.edu"
+        }, 
+        "name": "Andrea Lockerd", 
+        "affiliation_words": [
+            "media", 
+            "cambridge", 
+            "ma", 
+            "mit", 
+            "lab"
+        ]
+    }, 
+    {
+        "affiliation": "Computer Science Department, University of Southern California, Los Angeles, California", 
+        "contact": {
+            "email": "aude.billard@epfl.ch"
+        }, 
+        "name": "Aude Billard", 
+        "affiliation_words": [
+            "science", 
+            "southern", 
+            "angeles", 
+            "los", 
+            "computer", 
+            "california"
+        ]
+    }, 
+    {
+        "affiliation": "Stanford University", 
+        "contact": {
+            "email": "hjatib@robotics.stanford.edu"
+        }, 
+        "name": "Oussama Khatib", 
+        "affiliation_words": [
+            "stanford"
+        ]
+    }, 
+    {
+        "affiliation": "NASA Goddard Space Flight Center, Greenbelt, MD, USA", 
+        "contact": {
+            "email": "brent.n.holben@nasa.gov"
+        }, 
+        "name": "Brent Holben", 
+        "affiliation_words": [
+            "md", 
+            "flight", 
+            "usa", 
+            "space", 
+            "nasa", 
+            "greenbelt", 
+            "goddard"
+        ]
+    }, 
+    {
+        "affiliation": "LIRMM, UMR 5506 CNRS UM2, 161 rue Ada, 34292 Montpellier, France", 
+        "contact": {
+            "email": "dombre@lirmm.fr"
+        }, 
+        "name": "Etienne Dombre", 
+        "affiliation_words": [
+            "cnrs", 
+            "34292", 
+            "montpellier", 
+            "um2", 
+            "umr", 
+            "rue", 
+            "ada", 
+            "5506", 
+            "france", 
+            "161", 
+            "lirmm"
+        ]
+    }, 
+    {
+        "affiliation": "Texas A&M University Parasol Lab, Department of Computer Science College Station TX USA", 
+        "contact": {
+            "email": "sthomas@cs.tamu.edu"
+        }, 
+        "name": "Shawna L. Thomas", 
+        "affiliation_words": [
+            "a&m", 
+            "usa", 
+            "tx", 
+            "science", 
+            "lab", 
+            "computer", 
+            "college", 
+            "station", 
+            "parasol", 
+            "texas"
+        ]
+    }, 
+    {
+        "affiliation": "IUCAA", 
+        "contact": {
+            "email": "kandu@iucaa.ernet.in"
+        }, 
+        "name": "Kandaswamy Subramanian", 
+        "affiliation_words": [
+            "iucaa"
+        ]
+    }, 
+    {
+        "affiliation": "Mathematics Department, COMSATS Institute of Information Technology, Islamabad, Pakistan", 
+        "contact": {
+            "email": "noormaslam@hotmail.com"
+        }, 
+        "name": "Muhammad Aslam Noor", 
+        "affiliation_words": [
+            "pakistan", 
+            "information", 
+            "islamabad", 
+            "comsats", 
+            "mathematics", 
+            "technology"
+        ]
+    }, 
+    {
+        "affiliation": "Harvard-MIT Division of Health Sciences and Technology, Massachusetts Institute of Technology, Cambridge, MA 02139, USA", 
+        "contact": {
+            "email": "alik@rics.bwh.harvard.edu"
+        }, 
+        "name": "Ali Khademhosseini", 
+        "affiliation_words": [
+            "division", 
+            "cambridge", 
+            "ma", 
+            "usa", 
+            "harvard-mit", 
+            "sciences", 
+            "health", 
+            "massachusetts", 
+            "technology", 
+            "02139"
+        ]
+    }, 
+    {
+        "affiliation": "Michigan State University", 
+        "contact": {
+            "email": "radha@egr.msu.edu"
+        }, 
+        "name": "Hayder Radha", 
+        "affiliation_words": [
+            "michigan", 
+            "state"
+        ]
+    }, 
+    {
+        "affiliation": "University of Toronto(University of Toronto),Toronto,Canada", 
+        "contact": {
+            "email": "cleghrn@mie.utoronto.ca"
+        }, 
+        "name": "William L. Cleghorn", 
+        "affiliation_words": [
+            "toronto", 
+            "canada"
+        ]
+    }, 
+    {
+        "affiliation": "Rutgers University, North Brunswick, NJ, USA", 
+        "contact": {
+            "email": "gruteser@winlab.rutgers.edu"
+        }, 
+        "name": "Marco Gruteser", 
+        "affiliation_words": [
+            "brunswick", 
+            "nj", 
+            "rutgers", 
+            "north", 
+            "usa"
+        ]
+    }, 
+    {
+        "affiliation": "CWI, Amsterdam, The Netherlands", 
+        "contact": {
+            "email": "lynda.hardman@cwi.nl"
+        }, 
+        "name": "Lynda Hardman", 
+        "affiliation_words": [
+            "cwi", 
+            "amsterdam", 
+            "netherlands"
+        ]
+    }, 
+    {
+        "affiliation": "Institute for Medical Informatics, Statistics & Documentation (IMI) Research Unit HCI4MED, Medical University Graz, Graz, Austria A-8036", 
+        "contact": {
+            "email": "a.holzinger@hci-kdd.org"
+        }, 
+        "name": "Andreas Holzinger", 
+        "affiliation_words": [
+            "graz", 
+            "statistics", 
+            "&", 
+            "imi", 
+            "hci4med", 
+            "medical", 
+            "documentation", 
+            "austria", 
+            "a-8036", 
+            "informatics", 
+            "unit"
+        ]
+    }, 
+    {
+        "affiliation": "Case Western Reserve University", 
+        "contact": {
+            "email": "msb@ku.edu"
+        }, 
+        "name": "Michael S. Branicky", 
+        "affiliation_words": [
+            "case", 
+            "western", 
+            "reserve"
+        ]
+    }, 
+    {
+        "affiliation": "CRIM Lab, Polo Sant\u2019Anna Valdera, Scuola Superiore Sant\u2019Anna, Pisa, Italy", 
+        "contact": {
+            "email": "paolo.dario@kustar.ac.ae"
+        }, 
+        "name": "Paolo Dario", 
+        "affiliation_words": [
+            "crim", 
+            "sant\u2019anna", 
+            "scuola", 
+            "pisa", 
+            "lab", 
+            "superiore", 
+            "polo", 
+            "italy", 
+            "valdera"
+        ]
+    }, 
+    {
+        "affiliation": "Centro de Qu\u00edmica-F\u00edsica Molecular, Complexo I, IST, Av. Rovisco Pais, 1096 Lisboa Codex, Portugal", 
+        "contact": {
+            "email": "\u00a0jmano@dep.uminho.pt"
+        }, 
+        "name": "Jo\u00e3o F. Mano", 
+        "affiliation_words": [
+            "rovisco", 
+            "1096", 
+            "complexo", 
+            "portugal", 
+            "qu\u00edmica-f\u00edsica", 
+            "codex", 
+            "de", 
+            "centro", 
+            "ist", 
+            "av", 
+            "lisboa", 
+            "pais", 
+            "molecular"
+        ]
+    }, 
+    {
+        "affiliation": "CSIRO ICT Centre, Australia", 
+        "contact": {
+            "email": "peter.corke@csiro.au"
+        }, 
+        "name": "Peter Corke", 
+        "affiliation_words": [
+            "australia", 
+            "ict", 
+            "centre", 
+            "csiro"
+        ]
+    }, 
+    {
+        "affiliation": "University of Tennessee", 
+        "contact": {
+            "email": "dongarra@cs.utk.edu"
+        }, 
+        "name": "Jack Dongarra", 
+        "affiliation_words": [
+            "tennessee"
+        ]
+    }, 
+    {
+        "affiliation": "Technische Universit\u00e4t M\u00fcnchen, Germany", 
+        "contact": {
+            "email": "klinker@in.tum.de"
+        }, 
+        "name": "Gudrun Klinker", 
+        "affiliation_words": [
+            "universit\u00e4t", 
+            "m\u00fcnchen", 
+            "technische", 
+            "germany"
+        ]
+    }, 
+    {
+        "affiliation": "Arizona State University", 
+        "contact": {
+            "email": "hari.sundaram@asu.edu"
+        }, 
+        "name": "Hari Sundaram", 
+        "affiliation_words": [
+            "state", 
+            "arizona"
+        ]
+    }, 
+    {
+        "affiliation": "The University of Tokyo", 
+        "contact": {
+            "email": "tachi@tachilab.org"
+        }, 
+        "name": "Susumu Tachi", 
+        "affiliation_words": [
+            "tokyo"
+        ]
+    }, 
+    {
+        "affiliation": "Robotics Laboratory; University of Wisconsin-Madison", 
+        "contact": {
+            "email": "lumelsky@engr.wisc.edu"
+        }, 
+        "name": "V. Lumelsky", 
+        "affiliation_words": [
+            "laboratory;", 
+            "robotics", 
+            "wisconsin-madison"
+        ]
+    }, 
+    {
+        "affiliation": "Department of electrical and computer engineering, university of western ontario, london, on, canadan6g 1h1", 
+        "contact": {
+            "email": "kmcisaac@uwo.ca"
+        }, 
+        "name": "Kenneth A. Mcisaac", 
+        "affiliation_words": [
+            "ontario", 
+            "canadan6g", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "western", 
+            "london", 
+            "1h1"
+        ]
+    }, 
+    {
+        "affiliation": "Pohang University of Science and Technology, Pohang, Korea", 
+        "contact": {
+            "email": "kck@postech.ac.kr"
+        }, 
+        "name": "Kyo Chul Kang", 
+        "affiliation_words": [
+            "science", 
+            "korea", 
+            "technology", 
+            "pohang"
+        ]
+    }, 
+    {
+        "affiliation": "German Aerospace Center|Institute of Robotics", 
+        "contact": {
+            "email": "tobias.ortmaier@dlr.de"
+        }, 
+        "name": "Tobias Ortmaier", 
+        "affiliation_words": [
+            "german", 
+            "robotics", 
+            "aerospace"
+        ]
+    }, 
+    {
+        "affiliation": "Intelligent Robotics Research Centre|Department of Electrical and Computer Systems Engineering|Monash University", 
+        "contact": {
+            "email": "lindsay.kleeman@monash.edu"
+        }, 
+        "name": "Lindsay Kleeman", 
+        "affiliation_words": [
+            "monash", 
+            "centre", 
+            "robotics", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "systems", 
+            "intelligent"
+        ]
+    }, 
+    {
+        "affiliation": "University of Salzburg, Salzburg, Austria", 
+        "contact": {
+            "email": "firstname.lastname@sbg.ac.at"
+        }, 
+        "name": "Manfred Tscheligi", 
+        "affiliation_words": [
+            "salzburg", 
+            "austria"
+        ]
+    }, 
+    {
+        "affiliation": "Scuola Superiore Sant ' Anna", 
+        "contact": {
+            "email": "cecilia@arts.sssup.it"
+        }, 
+        "name": "Cecilia Laschi", 
+        "affiliation_words": [
+            "anna", 
+            "sant", 
+            "scuola", 
+            "'", 
+            "superiore"
+        ]
+    }, 
+    {
+        "affiliation": "Honda Research Institute", 
+        "contact": {
+            "email": "christian.goerick@honda-ri.de"
+        }, 
+        "name": "Christian Goerick", 
+        "affiliation_words": [
+            "honda"
+        ]
+    }, 
+    {
+        "affiliation": "Cornell University", 
+        "contact": {
+            "email": "cbb2@cornell.edu"
+        }, 
+        "name": "Christopher B. Barrett", 
+        "affiliation_words": [
+            "cornell"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Mechano-Informatics|University of Tokyo", 
+        "contact": {
+            "email": "nakamura@ynl.t.u-tokyo.ac.jp"
+        }, 
+        "name": "Yoshihiko Nakamura", 
+        "affiliation_words": [
+            "mechano-informatics", 
+            "tokyo"
+        ]
+    }, 
+    {
+        "affiliation": "Institute of Robotics|German Aerospace Center", 
+        "contact": {
+            "email": "gerd.hirzinger@dlr.de"
+        }, 
+        "name": "Gerd Hirzinger", 
+        "affiliation_words": [
+            "german", 
+            "robotics", 
+            "aerospace"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Mechanical Engineering|Johns Hopkins University", 
+        "contact": {
+            "email": "llw@jhu.edu"
+        }, 
+        "name": "Louis L. Whitcomb", 
+        "affiliation_words": [
+            "engineering", 
+            "johns", 
+            "hopkins", 
+            "mechanical"
+        ]
+    }, 
+    {
+        "affiliation": "University of Tokyo, Tokyo, Japan", 
+        "contact": {
+            "email": "toruiba@iba.k.utokyo.ac.jp"
+        }, 
+        "name": "Hitoshi Iba", 
+        "affiliation_words": [
+            "japan", 
+            "tokyo"
+        ]
+    }, 
+    {
+        "affiliation": "Instituto Superior T\u00e9cnico, Instituto de Sistemas e Rob\u00f3tica, Lisboa, Portugal", 
+        "contact": {
+            "email": "jasv@isr.tecnico.ulisboa.pt"
+        }, 
+        "name": "Jos\u00e9 Santos-Victor", 
+        "affiliation_words": [
+            "superior", 
+            "instituto", 
+            "de", 
+            "rob\u00f3tica", 
+            "portugal", 
+            "t\u00e9cnico", 
+            "sistemas", 
+            "lisboa"
+        ]
+    }, 
+    {
+        "affiliation": "Swarm-Intelligent Systems Group|Ecole Polytechnique Federale de Lausanne", 
+        "contact": {
+            "email": "alcherio.martinoli@epfl.ch"
+        }, 
+        "name": "Alcherio Martinoli", 
+        "affiliation_words": [
+            "federale", 
+            "group", 
+            "ecole", 
+            "de", 
+            "swarm-intelligent", 
+            "lausanne", 
+            "polytechnique", 
+            "systems"
+        ]
+    }, 
+    {
+        "affiliation": "and P. Coiffet Mechanical Engineering Laboratory Laboratoire de Robotique de Paris; Bio-Robotics Division - Robotics Dpt . CNRS URA 1778 - UPMC - UVSQ", 
+        "contact": {
+            "email": "tanie@mel.go.jp"
+        }, 
+        "name": "K. Tanie", 
+        "affiliation_words": [
+            "division", 
+            "cnrs", 
+            "robotics", 
+            "ura", 
+            "upmc", 
+            "laboratoire", 
+            "de", 
+            "1778", 
+            "uvsq", 
+            "bio-robotics", 
+            "engineering", 
+            "dpt", 
+            "coiffet", 
+            "robotique", 
+            "mechanical", 
+            "laboratory", 
+            "paris;"
+        ]
+    }, 
+    {
+        "affiliation": "Hamilton Glaucoma Center, Department of Ophthalmology, University of California San Diego, La Jolla, California", 
+        "contact": {
+            "email": "rweinreb@ucsd.edu"
+        }, 
+        "name": "Robert N. Weinreb", 
+        "affiliation_words": [
+            "diego", 
+            "san", 
+            "la", 
+            "glaucoma", 
+            "ophthalmology", 
+            "california", 
+            "jolla", 
+            "hamilton"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electrical Engineering|National Sun Yat-Sen University", 
+        "contact": {
+            "email": "wongkl@mail.nsysu.edu.tw"
+        }, 
+        "name": "Kin-Lu Wong", 
+        "affiliation_words": [
+            "yat-sen", 
+            "sun", 
+            "engineering", 
+            "electrical", 
+            "national"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Mathematics|Seoul National University", 
+        "contact": {
+            "email": "jskim01@snu.ac.kr"
+        }, 
+        "name": "Jin-Soo Kim", 
+        "affiliation_words": [
+            "mathematics", 
+            "national", 
+            "seoul"
+        ]
+    }, 
+    {
+        "affiliation": "Massachusetts Institute of Technology", 
+        "contact": {
+            "email": "frazzoli@mit.edu"
+        }, 
+        "name": "Emilio Frazzoli", 
+        "affiliation_words": [
+            "technology", 
+            "massachusetts"
+        ]
+    }, 
+    {
+        "affiliation": "University of North Carolina at Chapel Hill", 
+        "contact": {
+            "email": "zhanglj@cs.stanford.edu"
+        }, 
+        "name": "Liangjun Zhang", 
+        "affiliation_words": [
+            "chapel", 
+            "north", 
+            "hill", 
+            "carolina"
+        ]
+    }, 
+    {
+        "affiliation": "Laboratoire d'Analyse et d'Architectures des Syst\u00e8mes, Centre National de la Recherche Scientique, Toulouse University, Toulouse, France", 
+        "contact": {
+            "email": "jpl@laas.fr"
+        }, 
+        "name": "J.-P. Laumond", 
+        "affiliation_words": [
+            "recherche", 
+            "de", 
+            "la", 
+            "centre", 
+            "laboratoire", 
+            "national", 
+            "des", 
+            "france", 
+            "syst\u00e8mes", 
+            "d'analyse", 
+            "scientique", 
+            "toulouse", 
+            "d'architectures"
+        ]
+    }, 
+    {
+        "affiliation": "Brown University", 
+        "contact": {
+            "email": "dhl@cs.brown.edu"
+        }, 
+        "name": "David H. Laidlaw", 
+        "affiliation_words": [
+            "brown"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Computer Science, Brown University, Providence, RI 02912, USA", 
+        "contact": {
+            "email": "franco@cs.brown.edu"
+        }, 
+        "name": "Franco P. Preparata", 
+        "affiliation_words": [
+            "brown", 
+            "usa", 
+            "science", 
+            "02912", 
+            "providence", 
+            "computer", 
+            "ri"
+        ]
+    }, 
+    {
+        "affiliation": "IMEC, Leuven, Belgium", 
+        "contact": {
+            "email": "nurmi@cs.tut.fi"
+        }, 
+        "name": "Francky Catthoor", 
+        "affiliation_words": [
+            "belgium", 
+            "imec", 
+            "leuven"
+        ]
+    }, 
+    {
+        "affiliation": null, 
+        "contact": {
+            "email": "jhoh@kaist.ac.kr"
+        }, 
+        "name": "Oh Jun-Ho", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "The Pennsylvania State University", 
+        "contact": {
+            "email": "skumara@psu.edu"
+        }, 
+        "name": "Soundar Kumara", 
+        "affiliation_words": [
+            "pennsylvania", 
+            "state"
+        ]
+    }, 
+    {
+        "affiliation": "Mechatronics Lab|Department of Machine Design|Royal Institute of Technology", 
+        "contact": {
+            "email": "jan@damek.kth.se"
+        }, 
+        "name": "Jan Wikander", 
+        "affiliation_words": [
+            "royal", 
+            "lab", 
+            "machine", 
+            "design", 
+            "mechatronics", 
+            "technology"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electrical Engineering and Computer Science and Research Laboratory of Electronics, Massachusetts Institute of Technology, Cambridge, Massachusetts", 
+        "contact": {
+            "email": "jgfuji@mit.edu"
+        }, 
+        "name": "James G. Fujimoto", 
+        "affiliation_words": [
+            "cambridge", 
+            "science", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "massachusetts", 
+            "laboratory", 
+            "electronics", 
+            "technology"
+        ]
+    }, 
+    {
+        "affiliation": "Carnegie Mellon University", 
+        "contact": {
+            "email": "jkh@cs.cmu.edu"
+        }, 
+        "name": "Jessica K. Hodgins", 
+        "affiliation_words": [
+            "mellon", 
+            "carnegie"
+        ]
+    }, 
+    {
+        "affiliation": "National Institute of Advanced Industrial Science and Technology ( AIST )", 
+        "contact": {
+            "email": "s.kajita@aist.go.jp"
+        }, 
+        "name": "Shuuji Kajita", 
+        "affiliation_words": [
+            "industrial", 
+            "science", 
+            "national", 
+            "aist", 
+            "technology", 
+            "advanced"
+        ]
+    }, 
+    {
+        "affiliation": "Intel Research Pittsburgh, Pittsburgh, PA", 
+        "contact": {
+            "email": "dave.ferguson@intel.com"
+        }, 
+        "name": "Dave Ferguson", 
+        "affiliation_words": [
+            "pittsburgh", 
+            "pa", 
+            "intel"
+        ]
+    }, 
+    {
+        "affiliation": "Carnegie Mellon University", 
+        "contact": {
+            "email": "lorrie@cs.cmu.edu"
+        }, 
+        "name": "Lorrie Faith Cranor", 
+        "affiliation_words": [
+            "mellon", 
+            "carnegie"
+        ]
+    }, 
+    {
+        "affiliation": "George Mason University", 
+        "contact": {
+            "email": "hgomaa@gmu.edu"
+        }, 
+        "name": "Hassan Gomaa", 
+        "affiliation_words": [
+            "george", 
+            "mason"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Chemistry|University of Washington", 
+        "contact": {
+            "email": "younan.xia@bme.gatech.edu"
+        }, 
+        "name": "Younan Xia", 
+        "affiliation_words": [
+            "chemistry", 
+            "washington"
+        ]
+    }, 
+    {
+        "affiliation": "University of Leipzig", 
+        "contact": {
+            "email": "scheuermann'at'informatik.uni-leipzig.de"
+        }, 
+        "name": "Gerik Scheuermann", 
+        "affiliation_words": [
+            "leipzig"
+        ]
+    }, 
+    {
+        "affiliation": "Stanford University", 
+        "contact": {
+            "email": "shoham@stanford.edu"
+        }, 
+        "name": "Yoav Shoham", 
+        "affiliation_words": [
+            "stanford"
+        ]
+    }, 
+    {
+        "affiliation": "Dept. of Computer Science, RWTH Aachen, Aachen, Germany", 
+        "contact": {
+            "email": "gerhard@informatik.rwth-aachen.de"
+        }, 
+        "name": "Gerhard Lakemeyer", 
+        "affiliation_words": [
+            "rwth", 
+            "dept", 
+            "computer", 
+            "germany", 
+            "science", 
+            "aachen"
+        ]
+    }, 
+    {
+        "affiliation": "Institut de Rob\u00f2tica i Inform\u00e0tica Industrial, Universitat Polit\u00e8cnica de Catalunya, Spain", 
+        "contact": {
+            "email": "sanfeliu@iri.upc.edu"
+        }, 
+        "name": "Alberto Sanfeliu", 
+        "affiliation_words": [
+            "polit\u00e8cnica", 
+            "industrial", 
+            "rob\u00f2tica", 
+            "de", 
+            "catalunya", 
+            "spain", 
+            "universitat", 
+            "institut", 
+            "inform\u00e0tica"
+        ]
+    }, 
+    {
+        "affiliation": "ARTS-Lab (Advanced Robotics Technologies and Systems Laboratory), Scuola Superiore Sant'Anna, Polo Sant'Anna Valdera, Viale Rinaldo Piaggio, 34-56025-Pontedera (PI), Italy", 
+        "contact": {
+            "email": "chiara.carrozza@sssup.it"
+        }, 
+        "name": "Maria Chiara Carrozza", 
+        "affiliation_words": [
+            "viale", 
+            "scuola", 
+            "34-56025-pontedera", 
+            "valdera", 
+            "robotics", 
+            "italy", 
+            "piaggio", 
+            "rinaldo", 
+            "sant'anna", 
+            "systems", 
+            "superiore", 
+            "polo", 
+            "laboratory", 
+            "technologies", 
+            "pi", 
+            "arts-lab", 
+            "advanced"
+        ]
+    }, 
+    {
+        "affiliation": "College of Computing|Georgia Institute of Technology", 
+        "contact": {
+            "email": "mriley@cc.gatech.edu"
+        }, 
+        "name": "Marcia Riley", 
+        "affiliation_words": [
+            "technology", 
+            "georgia", 
+            "college", 
+            "computing"
+        ]
+    }, 
+    {
+        "affiliation": "Division of Computer Engineering, Daejeon University, 96-3 Yongun-Dong, Dong-Gu, Daejeon 300-716, South Korea", 
+        "contact": {
+            "email": "chkim@pop.umn.edu"
+        }, 
+        "name": "Changhwan Kim", 
+        "affiliation_words": [
+            "division", 
+            "korea", 
+            "yongun-dong", 
+            "300-716", 
+            "daejeon", 
+            "dong-gu", 
+            "engineering", 
+            "computer", 
+            "96-3", 
+            "south"
+        ]
+    }, 
+    {
+        "affiliation": "German Aerospace Center|Institute of Robotics", 
+        "contact": {
+            "email": "holger.weiss@abo.fi"
+        }, 
+        "name": "Holger Weiss", 
+        "affiliation_words": [
+            "german", 
+            "robotics", 
+            "aerospace"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Chemistry, Brown University, Providence, RI 02912, USA", 
+        "contact": {
+            "email": "shouheng_sun@brown.edu"
+        }, 
+        "name": "Shouheng Sun", 
+        "affiliation_words": [
+            "brown", 
+            "usa", 
+            "providence", 
+            "02912", 
+            "chemistry", 
+            "ri"
+        ]
+    }, 
+    {
+        "affiliation": "Dipartimento di Scienze Farmaceutiche, Universit\u00e0 di Trieste, 34127 Trieste, Italy", 
+        "contact": {
+            "email": "a.bianco@ibmc-cnrs.unistra.fr"
+        }, 
+        "name": "Alberto Bianco", 
+        "affiliation_words": [
+            "farmaceutiche", 
+            "italy", 
+            "di", 
+            "dipartimento", 
+            "scienze", 
+            "trieste", 
+            "34127", 
+            "universit\u00e0"
+        ]
+    }, 
+    {
+        "affiliation": "Surgical Assist Technology Group, Institute for Human Science and Biomedical Engineering, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8564, Japan", 
+        "contact": {
+            "email": "k.chinzei@aist.go.jp"
+        }, 
+        "name": "Kiyoyuki Chinzei", 
+        "affiliation_words": [
+            "ibaraki", 
+            "industrial", 
+            "group", 
+            "science", 
+            "national", 
+            "assist", 
+            "engineering", 
+            "305-8564", 
+            "surgical", 
+            "biomedical", 
+            "human", 
+            "aist", 
+            "tsukuba", 
+            "technology", 
+            "japan", 
+            "advanced"
+        ]
+    }, 
+    {
+        "affiliation": "Key Laboratory of Biomedical Polymers of Ministry of Education & Department of Chemistry,Wuhan University,Wuhan ", 
+        "contact": {
+            "email": "xz-zhang@whu.edu.cn"
+        }, 
+        "name": "Zhang Xianzheng", 
+        "affiliation_words": [
+            "chemistry", 
+            "ministry", 
+            "polymers", 
+            "&", 
+            "wuhan", 
+            "biomedical", 
+            "key", 
+            "laboratory", 
+            "education"
+        ]
+    }, 
+    {
+        "affiliation": "Rice University", 
+        "contact": {
+            "email": "kavraki@rice.edu"
+        }, 
+        "name": "Lydia E. Kavraki", 
+        "affiliation_words": [
+            "rice"
+        ]
+    }, 
+    {
+        "affiliation": "Technical University of Sofia, Bulgaria", 
+        "contact": {
+            "email": "valerim@tu-sofia.bg"
+        }, 
+        "name": "Valeri Mladenov", 
+        "affiliation_words": [
+            "technical", 
+            "sofia", 
+            "bulgaria"
+        ]
+    }, 
+    {
+        "affiliation": "Honda Research Institute Japan Co., Ltd., Japan", 
+        "contact": {
+            "email": "nakadai@symbio.jst.go.jp"
+        }, 
+        "name": "Kazuhiro Nakadai", 
+        "affiliation_words": [
+            "japan", 
+            "honda"
+        ]
+    }, 
+    {
+        "affiliation": "Dipartimento di Sistemi e Informatica; Dept . Systems Science and Mathematics; Universit`a di Firenze Washington University", 
+        "contact": {
+            "email": "xin@egr.msu.edu"
+        }, 
+        "name": "Ning Xi", 
+        "affiliation_words": [
+            "mathematics;", 
+            "universit`a", 
+            "di", 
+            "science", 
+            "dipartimento", 
+            "washington", 
+            "firenze", 
+            "dept", 
+            "informatica;", 
+            "systems", 
+            "sistemi"
+        ]
+    }, 
+    {
+        "affiliation": "City University of Hong Kong(City University of Hong Kong),Hong Kong,China", 
+        "contact": {
+            "email": "jia-wj@cs.sjtu.edu.cn"
+        }, 
+        "name": "Weijia Jia", 
+        "affiliation_words": [
+            "city", 
+            "hong", 
+            "china", 
+            "kong"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Computer Science, University of Verona, Verona, Italy", 
+        "contact": {
+            "email": "paolo.fiorini@univr.it"
+        }, 
+        "name": "Paolo Fiorini", 
+        "affiliation_words": [
+            "science", 
+            "computer", 
+            "italy", 
+            "verona"
+        ]
+    }, 
+    {
+        "affiliation": "James Buchanan Brady Urological Institute, Johns Hopkins Medical Institutions, Baltimore, Maryland, USA", 
+        "contact": {
+            "email": "kavoussi@nshs.edu"
+        }, 
+        "name": "Louis R. Kavoussi", 
+        "affiliation_words": [
+            "urological", 
+            "brady", 
+            "usa", 
+            "hopkins", 
+            "james", 
+            "buchanan", 
+            "johns", 
+            "institutions", 
+            "maryland", 
+            "medical", 
+            "baltimore"
+        ]
+    }, 
+    {
+        "affiliation": "Royal Institute of Technology, Stockholm, Sweden", 
+        "contact": {
+            "email": "martin@md.kth.se"
+        }, 
+        "name": "Martin T\u00f6rngren", 
+        "affiliation_words": [
+            "technology", 
+            "sweden", 
+            "royal", 
+            "stockholm"
+        ]
+    }, 
+    {
+        "affiliation": "Keio University, Yokohama, Kanagawa, Japan", 
+        "contact": {
+            "email": "michita@ayu.ics.keio.ac.jp"
+        }, 
+        "name": "Michita Imai", 
+        "affiliation_words": [
+            "japan", 
+            "kanagawa", 
+            "keio", 
+            "yokohama"
+        ]
+    }
+]

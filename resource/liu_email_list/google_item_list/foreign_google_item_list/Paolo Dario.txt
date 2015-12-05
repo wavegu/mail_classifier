@@ -1,0 +1,47 @@
+[
+    {
+        "content": "paolo dario. settore scientifico disciplinare: ing-ind/34 - bioingegneria industriale. istituto di afferenza: istituto di biorobotica. email: paolo.dario@sssup.it.", 
+        "email_addr_list": [
+            "paolo.dario@sssup.it"
+        ], 
+        "cite_url": "www.sssup.it/paolo.dario", 
+        "cite_name": "Sant'Anna School of Advanced Studies", 
+        "title": "Paolo Dario - Scuola Superiore SantAnna -"
+    }, 
+    {
+        "content": "paolo dario. phone: +39 050 88 3420. website: http://sssa.bioroboticsinstitute.it/user/56. email: paolo.dario@sssup.it. biorobotics institute, scuola superiore...", 
+        "email_addr_list": [
+            "paolo.dario@sssup.it"
+        ], 
+        "cite_url": "www.edinburgh-robotics.org/academics/paolo-dario", 
+        "cite_name": "", 
+        "title": "Prof. Paolo Dario | Edinburgh Centre for Robotics"
+    }, 
+    {
+        "content": "aug 29, 2014 - paolo dario with the mission of performing research in the field of advanced robotics. the biorobotics institute ... e-mail: paolo.dario@sssup.it", 
+        "email_addr_list": [
+            "paolo.dario@sssup.it"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "01 Coordinator - Scuola Superiore SantAnna (SSSA), Pisa ..."
+    }, 
+    {
+        "content": "affiliation. the biorobotics institute, scuola superiore. santanna. email paolo.dario@sssup.it. paolo dario is professor of biomedical robotics and director of...", 
+        "email_addr_list": [
+            "paolo.dario@sssup.it"
+        ], 
+        "cite_url": "www.mms2015.org/CV/Paolo_Dario.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Paolo Dario"
+    }, 
+    {
+        "content": "paolo dario. email: dario@arts.sssup.it. finalita del corso. lo scopo del corso è di fornire allo studente metodologie e tecniche per lo studio di differenti.", 
+        "email_addr_list": [
+            "dario@arts.sssup.it"
+        ], 
+        "cite_url": "www2.ing.unipi.it/.../bimc0001.pdf", 
+        "cite_name": "University of Pisa", 
+        "title": "[PDF]Prof. Paolo Dario Email: dario@arts.sssup.it - Scuola di ..."
+    }
+]

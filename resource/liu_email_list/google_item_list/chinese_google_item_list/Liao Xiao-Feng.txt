@@ -1,0 +1,20 @@
+[
+    {
+        "content": "xiaofeng liao. email address: lxf@berkeley.edu. job title: visiting scholar. lab name: nielsen. mailing address: nielsen lab university of california, berkeley", 
+        "email_addr_list": [
+            "lxf@berkeley.edu"
+        ], 
+        "cite_url": "https://ib.berkeley.edu/people/.../6365/", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Xiaofeng Liao - Directory Detail | Integrative Biology"
+    }, 
+    {
+        "content": "email: yuanliao2008@u.northwestern.edu. homepage ... fan, jianqing  liao, yuan  shi, xiaofeng, 2013. ... jianqing fan  yuan liao  xiaofeng shi, 2013.", 
+        "email_addr_list": [
+            "yuanliao2008@u.northwestern.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/f/pli595.html", 
+        "cite_name": "", 
+        "title": "Yuan Liao at IDEAS"
+    }
+]

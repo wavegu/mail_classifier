@@ -1,0 +1,47 @@
+[
+    {
+        "content": "tel: 301-594-8416. email: cuilingl@mail.nih.gov ... cuiling li, ph.d. biologist, office of the chief, genetics of development and disease branch. biologist...", 
+        "email_addr_list": [
+            "cuilingl@mail.nih.gov"
+        ], 
+        "cite_url": "www.niddk.nih.gov/.../cuiling-li/.../research-...", 
+        "cite_name": "National Institutes of Health", 
+        "title": "Cuiling Li, Ph.D. - Research Summary"
+    }, 
+    {
+        "content": "tel: 301-594-8416. email: cuilingl@mail.nih.gov ... cuiling li, ph.d. biologist, office of the chief, genetics of development and disease branch. biologist...", 
+        "email_addr_list": [
+            "cuilingl@mail.nih.gov"
+        ], 
+        "cite_url": "www.niddk.nih.gov/.../cuiling-li/.../research-i...", 
+        "cite_name": "National Institutes of Health", 
+        "title": "Research Images"
+    }, 
+    {
+        "content": "email: lingpeng@ln.edu.hk ... peng, ling, geng cui and chunyu li (2013), the comparative impact of critics and consumers: applying the generalizability...", 
+        "email_addr_list": [
+            "lingpeng@ln.edu.hk"
+        ], 
+        "cite_url": "www.ln.edu.hk/mkt/lpeng/", 
+        "cite_name": "Lingnan University", 
+        "title": "Prof. PENG Ling - Lingnan University"
+    }, 
+    {
+        "content": "singapore 637665. email: xyling@ntu.edu.sg ... yih hong lee. email: .... ling group alumni. research fellow. lanlan sun. 2012 - 2013. yan cui. 2013 - 2015.", 
+        "email_addr_list": [
+            "xyling@ntu.edu.sg"
+        ], 
+        "cite_url": "www3.ntu.edu.sg/.../xyling/Members....", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "NTU - Xing Yi LING - Nanyang Technological University"
+    }, 
+    {
+        "content": "email, cxdeng@umac.mo ... ruihong wang, cuiling li, xiaoling xu, yin zheng, cuiying xiao, patricia zerfas, sharon cooperman, michael eckhaus, tracey...", 
+        "email_addr_list": [
+            "cxdeng@umac.mo"
+        ], 
+        "cite_url": "https://fhs.umac.mo/staff/academic.../chuxia-deng/", 
+        "cite_name": "University of Macau", 
+        "title": "Faculty of Health Sciences (FHS) – Chuxia DENG"
+    }
+]

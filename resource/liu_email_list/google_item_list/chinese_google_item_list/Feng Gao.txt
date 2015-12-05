@@ -1,0 +1,74 @@
+[
+    {
+        "content": "email address feng.gao@duke.edu. dr. feng gao is professor of medicine at duke university and leader of the laboratory of molecular virology at the duke...", 
+        "email_addr_list": [
+            "feng.gao@duke.edu"
+        ], 
+        "cite_url": "https://medicine.duke.edu/faculty/feng-gao-md", 
+        "cite_name": "Duke University", 
+        "title": "Feng Gao, MD | Duke Department of Medicine"
+    }, 
+    {
+        "content": "dr. feng gao is a professor at the department of accounting and information systems at rutgers business school. ... office email: feng.gao.actg@rutgers.edu.", 
+        "email_addr_list": [
+            "feng.gao.actg@rutgers.edu"
+        ], 
+        "cite_url": "www.business.rut...", 
+        "cite_name": "Rutgers Business School – Newark and New Brunswi...", 
+        "title": "Feng Gao | Rutgers Business School"
+    }, 
+    {
+        "content": "feng gaos picture. ph.d. student. view expert profile. insight affiliation: national university of ireland, galway (nuig). email: feng.gao@insight-centre.org...", 
+        "email_addr_list": [
+            "feng.gao@insight-centre.org"
+        ], 
+        "cite_url": "https://www.insight-centre.org/users/feng-gao", 
+        "cite_name": "", 
+        "title": "Feng Gao | The Insight Centre for Data Analytics"
+    }, 
+    {
+        "content": "a staff profile for feng gao. ... email: f.gao@bath.ac.uk ... dr feng gao is a research officer in the department of architecture and civil engineering, working for...", 
+        "email_addr_list": [
+            "f.gao@bath.ac.uk"
+        ], 
+        "cite_url": "www.bath.ac.uk/ace/people/gao/", 
+        "cite_name": "University of Bath", 
+        "title": "Feng Gaos profile | University of Bath"
+    }, 
+    {
+        "content": "image of feng gao. feng gao. postgraduate research student, faculty of social sciences. download to ... (0) 115 951 5232 email: socspa@nottingham.ac.uk...", 
+        "email_addr_list": [
+            "socspa@nottingham.ac.uk"
+        ], 
+        "cite_url": "https://www.nottingham.ac.uk/sociology/.../lqx...", 
+        "cite_name": "University of Nottingham", 
+        "title": "Feng Gao - The University of Nottingham"
+    }, 
+    {
+        "content": "sep 8, 2015 - dr feng gao. research fellow. email: f.gao@surrey.ac.uk  home  department of mechanical engineering sciences; people...", 
+        "email_addr_list": [
+            "f.gao@surrey.ac.uk"
+        ], 
+        "cite_url": "www.surrey.ac.uk/mes/people/feng_gao", 
+        "cite_name": "University of Surrey", 
+        "title": "Feng Gao - University of Surrey - Guildford"
+    }, 
+    {
+        "content": "email: fengg@sjtu.edu.cn ... feng gao, yong zhang and weimin li, “type synthesis of 3-dof reducible translational mechanisms”. robotica, 2005, vol.", 
+        "email_addr_list": [
+            "fengg@sjtu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "Feng Gao - School of Mechanical Engineering Shanghai ..."
+    }, 
+    {
+        "content": "feng gao. graduate student. college of engineering. graduate student department of chemical and biomolecular engineering. email: aveselik@nd.edu.", 
+        "email_addr_list": [
+            "aveselik@nd.edu"
+        ], 
+        "cite_url": "https://engineering.nd.edu/profiles/fgao", 
+        "cite_name": "University of Notre Dame", 
+        "title": "Feng Gao — College of Engineering"
+    }
+]

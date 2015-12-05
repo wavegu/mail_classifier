@@ -1,0 +1,20 @@
+[
+    {
+        "content": "nov 25, 2015 - murray-aug12.jpg. richard m. murray thomas e. and doris everhart .... e-mail: murray@cds.caltech.edu. office: 109 steele lab, (626) 395-...", 
+        "email_addr_list": [
+            "murray@cds.caltech.edu"
+        ], 
+        "cite_url": "www.cds.caltech.edu/~murray/", 
+        "cite_name": "California Institute of Technology", 
+        "title": "Richard Murray - Control  Dynamical Systems - California ..."
+    }, 
+    {
+        "content": "richard m murray. icb caltech program co-leader icb systems and synthetic ... email: murray@cds.caltech.edu. website: http://www.cds.caltech.edu/~murray/...", 
+        "email_addr_list": [
+            "murray@cds.caltech.edu"
+        ], 
+        "cite_url": "https://www.icb.ucsb.edu/.../richar...", 
+        "cite_name": "University of California, Santa Barbara", 
+        "title": "Richard M Murray | www.icb.ucsb.edu"
+    }
+]

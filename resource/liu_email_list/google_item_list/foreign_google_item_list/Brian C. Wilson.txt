@@ -1,0 +1,11 @@
+[
+    {
+        "content": "brian c. wilson ph.d. professor. tel: +1 (902) 585-1295. fax: +1 (902) 585-1059. email: brian.wilson@acadiau.ca. photos. 1.mersey-tobeatic watershed. 2.", 
+        "email_addr_list": [
+            "brian.wilson@acadiau.ca"
+        ], 
+        "cite_url": "www.acadiau.ca/~bwilson/", 
+        "cite_name": "Acadia University", 
+        "title": "Wilson Lab - Acadia University"
+    }
+]

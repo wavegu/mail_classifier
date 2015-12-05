@@ -1,0 +1,66 @@
+[
+    {
+        "content": "jun 26, 2014 - zhang wei , ll.m., university of harvard ... qualifications: email: weizhang@smu.edu.sg ... email: smullm@smu.edu.sg. tel: +65 6808 5215...", 
+        "email_addr_list": [
+            "weizhang@smu.edu.sg", 
+            "smullm@smu.edu.sg"
+        ], 
+        "cite_url": "", 
+        "cite_name": "SMU School of Law", 
+        "title": "ZHANG Wei - School of Law (SMU) - Singapore ..."
+    }, 
+    {
+        "content": "aug 4, 2015 - zhang wei, assistant professor of law, singapore management university ... email: weizhang@smu.edu.sg. phone: +65 68085357. school:.", 
+        "email_addr_list": [
+            "weizhang@smu.edu.sg"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Singapore Management University", 
+        "title": "ZHANG Wei | Singapore Management University (SMU)"
+    }, 
+    {
+        "content": "jul 1, 2015 - dr zhang wei is an economist. ... prior to joining nils, zhang wei had completed his ph. d. in economics .... email: zhang.wei@flinders.edu.au.", 
+        "email_addr_list": [
+            "zhang.wei@flinders.edu.au"
+        ], 
+        "cite_url": "www.flinders.edu.au/people/zhang.wei", 
+        "cite_name": "Flinders University", 
+        "title": "Zhang Wei - Flinders University"
+    }, 
+    {
+        "content": "wei zhang. uh email: weizhang@hawaii.edu  personal website  full vita (pdf) ... co-authors: krysia mossakowski and wei zhang. psychological distress of...", 
+        "email_addr_list": [
+            "weizhang@hawaii.edu"
+        ], 
+        "cite_url": "www.socialsciences.hawaii.edu/.../index.cfm?email=...", 
+        "cite_name": "University of Hawaii", 
+        "title": "Wei Zhang - College of Social Sciences - University of Hawaii"
+    }, 
+    {
+        "content": "lecturer in education. ma (warwick), phd (manchester). tel: 0116 229 7506. email: wz24@le.ac.uk. wei zhang joined the university of leicester, school of...", 
+        "email_addr_list": [
+            "wz24@le.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Leicester", 
+        "title": "Dr Wei Zhang — University of Leicester"
+    }, 
+    {
+        "content": "wei zhang, phd. associate professor of management information systems; work telephone: 617-287-3946; work email: wei.zhang@umb.edu. 100 morrissey...", 
+        "email_addr_list": [
+            "wei.zhang@umb.edu"
+        ], 
+        "cite_url": "https://www.umb.edu/.../wei_zhang", 
+        "cite_name": "University of Massachusetts Boston", 
+        "title": "Wei Zhang - University of Massachusetts Boston"
+    }, 
+    {
+        "content": "... rm 708, run run shaw tower, centennial campus, hku; email: weiz9@hku.hk ... ms. zhang wei joined the school of chinese hku in 2007 as a part-time...", 
+        "email_addr_list": [
+            "weiz9@hku.hk"
+        ], 
+        "cite_url": "www.chinese.hku.hk/.../miss...", 
+        "cite_name": "University of Hong Kong", 
+        "title": "Ms. ZHANG Wei 張偉女士| School of Chinese, University of ..."
+    }
+]

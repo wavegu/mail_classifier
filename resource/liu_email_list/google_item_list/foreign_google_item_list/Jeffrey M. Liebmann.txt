@@ -1,0 +1,11 @@
+[
+    {
+        "content": "nov 16, 2003 - jeffrey m. liebmann, m.d. ... email: jml18@earthlink.net .... disclafani m, liebmann j, ritch r, stock l, steinberger d, joiner dw, hudock s:...", 
+        "email_addr_list": [
+            "jml18@earthlink.net"
+        ], 
+        "cite_url": "www.glaucoma.net/gany/physicians/liebmanncv.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Jeffrey M. Liebmann, M.D. - New York Glaucoma Research ..."
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "alessandro saffiotti. title: professor school/office: school of science and technology e-mail: alessandro.saffiotti@oru.se. phone: +46 19303794. room: t2224.", 
+        "email_addr_list": [
+            "alessandro.saffiotti@oru.se"
+        ], 
+        "cite_url": "www.oru.se/English/Employee/alessandro_saffiotti/", 
+        "cite_name": "Örebro University", 
+        "title": "Alessandro Saffiotti - Institutionen för naturvetenskap och ..."
+    }, 
+    {
+        "content": "enrico di lello, alessandro saffiotti. the peis table: an ... e. di lello, a. saffiotti the robotic fridge and ...... email: alessandro.saffiotti@aass.oru.se. received:...", 
+        "email_addr_list": [
+            "alessandro.saffiotti@aass.oru.se"
+        ], 
+        "cite_url": "hrcak.srce.hr/file/112990", 
+        "cite_name": "", 
+        "title": "[PDF]The PEIS Table: An Autonomous Robotic Table for ..."
+    }, 
+    {
+        "content": "alessandro saffiotti aass mobile robotics lab department of technology orebro university, sweden email: alessandro.saffiotti@aass.oru.se...", 
+        "email_addr_list": [
+            "alessandro.saffiotti@aass.oru.se"
+        ], 
+        "cite_url": "robocomm.org/2009/tutorials-ubiquitous.shtml", 
+        "cite_name": "", 
+        "title": "Building Ubiquitous Robot Systems: A hands-on tutorial"
+    }
+]

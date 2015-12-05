@@ -1,0 +1,29 @@
+[
+    {
+        "content": "university of waterloo 200 university avenue west waterloo, on n2l 3g1, email: stephen.smith@uwaterloo.ca. tel: +1 (519) 888-4567 x31215. office: e5 5112...", 
+        "email_addr_list": [
+            "stephen.smith@uwaterloo.ca"
+        ], 
+        "cite_url": "https://ece.uwaterloo.ca/~sl2smith/", 
+        "cite_name": "University of Waterloo", 
+        "title": "Stephen L. Smith - University of Waterloo"
+    }, 
+    {
+        "content": "contact information email: stephen.smith@uwaterloo.ca phone: 519-888-4567 x31215 location: e5 5112 fax: (519) 746-3077 biography summary.", 
+        "email_addr_list": [
+            "stephen.smith@uwaterloo.ca"
+        ], 
+        "cite_url": "https://uwaterloo.ca/electrical.../stephen-smith", 
+        "cite_name": "University of Waterloo", 
+        "title": "Stephen L. Smith, PEng | Electrical and Computer Engineering"
+    }, 
+    {
+        "content": "dr. stephen smith bsc (hons.), msc, phd, ceng, citp, fbcs, fhea, mieee. reader. email: stephen.smith@york.ac.uk. homepage:...", 
+        "email_addr_list": [
+            "stephen.smith@york.ac.uk"
+        ], 
+        "cite_url": "https://www.york.ac.uk/electronics/.../stephen_smith/", 
+        "cite_name": "University of York", 
+        "title": "Dr Stephen L Smith - University of York"
+    }
+]

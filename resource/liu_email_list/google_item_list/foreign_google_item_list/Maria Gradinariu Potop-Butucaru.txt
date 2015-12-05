@@ -1,0 +1,20 @@
+[
+    {
+        "content": "verified email at lip6.fr - homepage  scholar. get my own ... j beauquier, ak datta, m gradinariu, f magniette. distributed ... e anceaume, m gradinariu, ak datta, g simon, a virgillito. distributed ... l blin, a milani, m potop-butucaru, s tixeuil.", 
+        "email_addr_list": [
+            "email@lip6.fr"
+        ], 
+        "cite_url": "scholar.google.ro/citations?user...hl=en", 
+        "cite_name": "Google", 
+        "title": "Merged citations"
+    }, 
+    {
+        "content": "florin pop, university politehnica of bucharest, romania e-mail: florin.pop@cs.pub.ro. maria gradinariu potop-butucaru, upmc sorbonne universités, paris,...", 
+        "email_addr_list": [
+            "florin.pop@cs.pub.ro"
+        ], 
+        "cite_url": "www.journals.elsevier.com/.../advanced-topics-in-resource-mana...", 
+        "cite_name": "Elsevier", 
+        "title": "Advanced Topics in Resource Management for Ubiquitous ..."
+    }
+]

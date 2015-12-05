@@ -1,0 +1,39 @@
+[
+    {
+        "content": "e-mail: alfons.kemper@in.tum.de ... kemper organisiert zusammen mit dr. ippokratis pandis (ibm research) den acm sigmod workshop damon 2014.", 
+        "email_addr_list": [
+            "alfons.kemper@in.tum.de"
+        ], 
+        "cite_url": "www-db.in.tum.de/~kemper/", 
+        "cite_name": "Technische Universität München", 
+        "title": "Prof. Alfons Kemper, Ph.D. - Lehrstuhl für Datenbanksysteme"
+    }, 
+    {
+        "content": "unnesting arbitrary queries thomas neumann and alfons kemper technische universit at m unchen munich germany neumann@in.tum.de kemper@in.tum.de...", 
+        "email_addr_list": [
+            "neumann@in.tum.de", 
+            "kemper@in.tum.de"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-kemper-in-tu...", 
+        "cite_name": "", 
+        "title": "kemper@in.tum.de - The Email Archive"
+    }, 
+    {
+        "content": "email: austaller@tk.informatik.tu-darmstadt.de .... alfons kemper studied computer science at the university of dortmund from 1977 - 1980 and, thereafter at the...", 
+        "email_addr_list": [
+            "austaller@tk.informatik.tu-darmstadt.de"
+        ], 
+        "cite_url": "www.web-engineering.at/eng/bios_authors.html", 
+        "cite_name": "", 
+        "title": "Authors - Web Engineering"
+    }, 
+    {
+        "content": "email: nikolaus.augsten@sbg.ac.at ... alfons kemper at technische universität münchen (tum, munich, germany) for 6 months (my website at technische...", 
+        "email_addr_list": [
+            "nikolaus.augsten@sbg.ac.at"
+        ], 
+        "cite_url": "dbresearch.uni-salzburg.at/people/augsten", 
+        "cite_name": "", 
+        "title": "Database Research Group - Nikolaus Augsten - Personal ..."
+    }
+]

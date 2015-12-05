@@ -1,0 +1,51 @@
+[
+    {
+        "content": "tel: +44 (0)1933 622624, e-mail: journal.information.science@gmail.com. associate ... email: ronald.kostoff@pubpolicy.gatech.edu. editorial ... ian ruthven.", 
+        "email_addr_list": [
+            "journal.information.science@gmail.com", 
+            "ronald.kostoff@pubpolicy.gatech.edu"
+        ], 
+        "cite_url": "jis.sagepub.com/content/41/6/.../ed-board.pd...", 
+        "cite_name": "Journal of Information Science", 
+        "title": "Editorial Board (PDF) - Journal of Information Science"
+    }, 
+    {
+        "content": "ruthven@cis.strath.ac.uk mounia@dcs.qmul.ac.uk keith@dcs.gla.ac.uk abstract in this ... e-mail: j.rowley@mmu.ac.uk ian ruthven professor department of...", 
+        "email_addr_list": [
+            "ruthven@cis.strath.ac.uk", 
+            "mounia@dcs.qmul.ac.uk", 
+            "keith@dcs.gla.ac.uk", 
+            "j.rowley@mmu.ac.uk"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-ruthven-cis-str-5970232.htm", 
+        "cite_name": "", 
+        "title": "ruthven@cis.str - The Email Archive"
+    }, 
+    {
+        "content": "ian ruthven: publications, bio, bibliography, etc. ... personal homepage: https://personal.cis.strath.ac.uk/ian.ruthven/; employer: (); email: ian.ruthven@strath.ac.", 
+        "email_addr_list": [
+            "ian.ruthven@strath.ac"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/ian-ruthven", 
+        "cite_name": "", 
+        "title": "Ian Ruthven: Publications, bio, bibliography, etc ..."
+    }, 
+    {
+        "content": "key contact. name: ian ruthven job title: managing director. tel: 0113 2032066. email: ian.ruthven@barratthomes.co.uk...", 
+        "email_addr_list": [
+            "ian.ruthven@barratthomes.co.uk"
+        ], 
+        "cite_url": "www.connectwakefield.com/.../33/Barratt-Homes--David-Wilson-Homes", 
+        "cite_name": "", 
+        "title": "Barratt Homes  David Wilson Homes - Connect Wakefield"
+    }, 
+    {
+        "content": "order at bookpoint: phone +44 (0)1235 827702 email facet@bookpoint.co.uk ... edited by ian ruthven and g. g. chowdhury. about the book; table of contents...", 
+        "email_addr_list": [
+            "facet@bookpoint.co.uk"
+        ], 
+        "cite_url": "www.facetpublishing.co.uk/title.php?id=049306", 
+        "cite_name": "", 
+        "title": "Cultural Heritage Information: Access and management"
+    }
+]

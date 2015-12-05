@@ -1,0 +1,51 @@
+[
+    {
+        "content": "yinyu ye. k. t. li chair professor of engineering management science  engineering and, by courtesy, electrical engineering .... email: yinyu-ye@stanford.edu.", 
+        "email_addr_list": [
+            "yinyu-ye@stanford.edu"
+        ], 
+        "cite_url": "web.stanford.edu/~yyye/", 
+        "cite_name": "Stanford University", 
+        "title": "Yinyu Ye - Stanford University"
+    }, 
+    {
+        "content": "yinyu ye is part of stanford profiles, official site for faculty, postdocs, students and staff information ... email profile ... academic yinyu-ye@stanford.edu.", 
+        "email_addr_list": [
+            "yinyu-ye@stanford.edu"
+        ], 
+        "cite_url": "https://profiles.stanford.edu/yinyu-ye;jsessionid...cap-su-capappprd07", 
+        "cite_name": "", 
+        "title": "Yinyu Yes Profile | Stanford Profiles"
+    }, 
+    {
+        "content": "16 stowe lane, menlo park, ca 94025, usa. home (650) 233-8988 and office (650) 723-7262 http://www.stanford.edu/~yyye. email: yinyu-ye@stanford.edu. 1.", 
+        "email_addr_list": [
+            "yinyu-ye@stanford.edu"
+        ], 
+        "cite_url": "www.polyu.edu.hk/ama/.../YeYY.pdf", 
+        "cite_name": "Hong Kong Polytechnic University", 
+        "title": "[PDF]1 Yinyu Ye 16 Stowe Lane, Menlo Park, CA 94025, USA ..."
+    }, 
+    {
+        "content": "nov 16, 2012 - email: davood@stanford.edu, , yinyu-ye@stanford.edu. †institute for computational and mathematical engineering, stanford university,...", 
+        "email_addr_list": [
+            "davood@stanford.edu", 
+            "yinyu-ye@stanford.edu"
+        ], 
+        "cite_url": "arxiv.org/pdf/1010.2262", 
+        "cite_name": "arXiv", 
+        "title": "On Sensor Network Localization Using SDP Relaxation"
+    }, 
+    {
+        "content": "oct 20, 2011 - ... de-sc0002009. email: akle@stanford.edu, onkar@stanford.edu, ... de-sc0002009. email: saunders@stanford.edu, yinyu-ye@stanford.edu. 1...", 
+        "email_addr_list": [
+            "akle@stanford.edu", 
+            "onkar@stanford.edu", 
+            "saunders@stanford.edu", 
+            "yinyu-ye@stanford.edu"
+        ], 
+        "cite_url": "arxiv.org/pdf/1105.2359", 
+        "cite_name": "arXiv", 
+        "title": "[PDF]Existence of Positive Steady States for Mass Conserving ..."
+    }
+]

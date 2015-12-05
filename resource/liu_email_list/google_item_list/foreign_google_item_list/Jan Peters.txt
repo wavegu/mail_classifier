@@ -1,0 +1,20 @@
+[
+    {
+        "content": "jun 13, 2012 - jan peters is a full professor (w3) for intelligent autonomous systems at the computer science department of the ... email: mail@jan-peters.net...", 
+        "email_addr_list": [
+            "mail@jan-peters.net"
+        ], 
+        "cite_url": "www-clmc.usc.edu/Main/JanPeters", 
+        "cite_name": "University of Southern California", 
+        "title": "Jan Peters - Computational Learning and Motor Control Lab"
+    }, 
+    {
+        "content": "martinistraße 52 20246 hamburg germany phone: +49-7410-57186. email: j.peters@uke.de  http://www.uke.de/institute/systemische-neurowissenschaften/.", 
+        "email_addr_list": [
+            "j.peters@uke.de"
+        ], 
+        "cite_url": "sfb134.de/en/team/jan-peters-ph-d-bsc-cognitive-science.html", 
+        "cite_name": "", 
+        "title": "Jan Peters, Ph.D, BSc (Cognitive Science) - SFB134 EN"
+    }
+]

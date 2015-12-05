@@ -1,0 +1,29 @@
+[
+    {
+        "content": "office: 407-905-5063 email: hello@simontbailey.com. about  meet simon  media  the ... simon t. baileys new book, shift your brilliance. — now available —.", 
+        "email_addr_list": [
+            "hello@simontbailey.com"
+        ], 
+        "cite_url": "simontbailey.com/", 
+        "cite_name": "", 
+        "title": "Simon T. Bailey"
+    }, 
+    {
+        "content": "email: simeondo@carpha.org. dr. donald simeon, a citizen of trinidad  tobago, has been director of the caribbean health research council since 2002.", 
+        "email_addr_list": [
+            "simeondo@carpha.org"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of the West Indies", 
+        "title": "Donald Simeon - University of the West Indies"
+    }, 
+    {
+        "content": "mar 17, 2010 - scary things are threatened to those who open a mail server report. ... ashton (simon25@hotmail.co.uk ) contacts you through email, dont...", 
+        "email_addr_list": [
+            "simon25@hotmail.co.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "The Guardian", 
+        "title": "Is the virus warning about a hacker called Simon Ashton real?"
+    }
+]

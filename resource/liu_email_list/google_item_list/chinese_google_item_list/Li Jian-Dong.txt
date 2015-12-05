@@ -1,0 +1,65 @@
+[
+    {
+        "content": "email: jdli@gsu.edu  phone: 404-413-3574  url: http://imflammation.gsu.edu ... jian-dong li, professor and director of the center for inflammation, immunity and ... li earned his m.d. from tsingtao university school of medicine in china and...", 
+        "email_addr_list": [
+            "jdli@gsu.edu"
+        ], 
+        "cite_url": "biomedical.gsu.edu/profile/jian-dong-li/", 
+        "cite_name": "", 
+        "title": "Jian-Dong Li - Institute for Biomedical Sciences"
+    }, 
+    {
+        "content": "... events  alumni. jiandong chen ... email: jiandon.chen@moffitt.org ... qian cheng, lihong chen, zhenyu li, william s. lane, and jiandong chen. (2009).", 
+        "email_addr_list": [
+            "jiandon.chen@moffitt.org"
+        ], 
+        "cite_url": "www.cancerbiology.usf.edu/faculty/jchen/", 
+        "cite_name": "University of South Florida", 
+        "title": "Jiandong Chen Professor - USF :: Cancer Biology Ph.D ..."
+    }, 
+    {
+        "content": "jul 9, 2015 - professor huang, jiandong 黃建東 ... office: l3-72, laboratory block, 21 sassoon road, hong kong; email: jdhuang@hku.hk; tel: +852 3917 6810 ... xiongfei fu, lizhong liu, xiaojing ren, carlos k.l. chau, sihong li,...", 
+        "email_addr_list": [
+            "jdhuang@hku.hk"
+        ], 
+        "cite_url": "www.hku.hk/biochem/research/jdhuang/", 
+        "cite_name": "University of Hong Kong", 
+        "title": "Professor HUANG, Jiandong - The University of Hong Kong"
+    }, 
+    {
+        "content": "ju, jiandong. professor, department of economics curriculum vitae. phone (86) (10) 62792879. email jujd@sem.tsinghua.edu.cn. office 386h weilun building", 
+        "email_addr_list": [
+            "jujd@sem.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.sem.tsingh...", 
+        "cite_name": "Tsinghua University School of Economics and Manag...", 
+        "title": "Ju,Jiandong"
+    }, 
+    {
+        "content": "e-mail: lichang@umoncton.ca ... [1] changle li, jiandong li and xuelian cai, “a novel self-adaptive transmission scheme over an ieee 802.11 wlan for...", 
+        "email_addr_list": [
+            "lichang@umoncton.ca"
+        ], 
+        "cite_url": "www8.umoncton.ca/umcm-greti/clli/index.htm", 
+        "cite_name": "Université de Moncton", 
+        "title": "Changle Li, Ph"
+    }, 
+    {
+        "content": "email: jdding1@fudan.edu.cn ... xiang yao, rong peng, and jiandong ding*, biomaterials, 34, 930-939 (2013); xuan wang, ce yan ... 2834–2842 (2013); tianyuan ci, ting li, guangtao chang, lin yu, jiandong ding*, j. controlled release...", 
+        "email_addr_list": [
+            "jdding1@fudan.edu.cn"
+        ], 
+        "cite_url": "www.polymer.fudan.edu.cn/EN/show.aspx?...", 
+        "cite_name": "Fudan University", 
+        "title": "Jiandong Ding - Fudan University Polymer Science"
+    }, 
+    {
+        "content": "received 2008-12-04 revised online: doi: 10.3969/j.issn.1001-2400.2010.02.002. fund: corresponding authors: li jian-dong. email: jdli@mail.xidian.edu.cn.", 
+        "email_addr_list": [
+            "jdli@mail.xidian.edu.cn"
+        ], 
+        "cite_url": "www.xdxb.net/EN/abstract/abstract11097.shtml", 
+        "cite_name": "", 
+        "title": "LI Jian-dong;XUE Fu-guo;YANG Chun-gang;LI Wei-ying;SHI ..."
+    }
+]

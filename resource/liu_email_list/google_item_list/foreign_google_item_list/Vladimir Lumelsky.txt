@@ -1,0 +1,11 @@
+[
+    {
+        "content": "learn more about vladimir lumelsky in hartford, connecticut (fees, qualifications, ... fax number (860) 244-9200 or email address lumelsky@sbcglobal.net.", 
+        "email_addr_list": [
+            "lumelsky@sbcglobal.net"
+        ], 
+        "cite_url": "www.lawyer-map.com/Vladimir_Lumelsky_Criminal_Law_in_Hartford...", 
+        "cite_name": "", 
+        "title": "Vladimir Lumelsky in Hartford, CT - Lawyer Map"
+    }
+]

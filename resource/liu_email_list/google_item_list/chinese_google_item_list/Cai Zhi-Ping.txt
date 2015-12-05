@@ -1,0 +1,50 @@
+[
+    {
+        "content": "email: zpcai at nudt.edu.cn. url: http://individual.utoronto.ca/zcai/. dr. zhiping cai is an associate professor in networking engineering department, school of...", 
+        "email_addr_list": [
+            "zpcai@nudt.edu.cn"
+        ], 
+        "cite_url": "individual.utoronto.ca/zcai/", 
+        "cite_name": "University of Toronto", 
+        "title": "Zhiping Cai : Homepage - University of Toronto"
+    }, 
+    {
+        "content": "email: zcai at gsu dot edu. dr. zhipeng cai received his phd and m.s. degree in department of computing science at university of alberta, and b.s. degree...", 
+        "email_addr_list": [
+            "zcai@gsu.edu"
+        ], 
+        "cite_url": "grid.cs.gsu.edu/zcai/", 
+        "cite_name": "", 
+        "title": "Dr. Zhipeng Cai - Computer Science - Georgia State University"
+    }, 
+    {
+        "content": "email : shurtini_sayuti@moe.edu.sg, mr cai zhi wen.jpg mr cai zhiwen ... jpg. ms lim yan ping. (lower secondary) class 3a2 form teacher email:", 
+        "email_addr_list": [
+            "shurtini_sayuti@moe.edu.sg"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Science - Juying Secondary School"
+    }, 
+    {
+        "content": "oct 9, 2015 - post, name, did, email. director-general, ms wong siow ping catherine, 63798200, catherine_wong@mfa.gov.sg. deputy director- ..... did, email. assistant director, chai xian yang justin, 63797875, chai_xian_yang@mfa.gov.sg ...... country officer, ms lin zhiping, 63798329, lin_zhiping@mfa.gov.sg...", 
+        "email_addr_list": [
+            "catherine_wong@mfa.gov.sg", 
+            "chai_xian_yang@mfa.gov.sg", 
+            "lin_zhiping@mfa.gov.sg"
+        ], 
+        "cite_url": "app.sgdi.gov.sg/listing_expand....", 
+        "cite_name": "List of Singapore Government Ministries", 
+        "title": "Gov.sg - Singapore Government Directory"
+    }, 
+    {
+        "content": "mar 8, 2014 - email: xbhuang@dhu.edu.cn. li ruqin professor, doctoral ..... email: xmm@dhu.edu.cn. cai zaisheng ... mao zhiping professor, doctoral...", 
+        "email_addr_list": [
+            "xbhuang@dhu.edu.cn", 
+            "xmm@dhu.edu.cn"
+        ], 
+        "cite_url": "en.study-shanghai.org/sis/tutors/2014-03-08/207.html", 
+        "cite_name": "", 
+        "title": "Donghua University - Study in Shanghai"
+    }
+]

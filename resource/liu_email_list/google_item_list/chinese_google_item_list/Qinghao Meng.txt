@@ -1,0 +1,38 @@
+[
+    {
+        "content": "harper meng. research associate. mechanical engineering department. southern university, baton rouge. email: harpermeng@gmail.com. professional...", 
+        "email_addr_list": [
+            "harpermeng@gmail.com"
+        ], 
+        "cite_url": "www.lsu.edu/nasa-epscor/resumes/Harper.pdf", 
+        "cite_name": "Louisiana State University", 
+        "title": "[PDF]Harper Meng"
+    }, 
+    {
+        "content": "may 9, 2014 - yaqi jing1, qinghao meng1,a), peifeng qi1, ming zeng1, wei li1 and shugen ma1. scitation ... a) electronic mail: qh_meng@tju.edu.cn. rev.", 
+        "email_addr_list": [
+            "qh_meng@tju.edu.cn"
+        ], 
+        "cite_url": "scitation.aip.org/content/aip/.../1.4874326", 
+        "cite_name": "American Institute of Physics", 
+        "title": "Electronic nose with a new feature reduction method and a ..."
+    }, 
+    {
+        "content": "canada tel: (418) 6562131 ext. 4707( office) (418) 6562131 ext. 4865 (lab) email: feng.wei@gch.ulaval.ca. meng qinghao bundeswehr university munich", 
+        "email_addr_list": [
+            "feng.wei@gch.ulaval.ca"
+        ], 
+        "cite_url": "www.personal.kent.edu/~jshi/friends.html", 
+        "cite_name": "", 
+        "title": "friends"
+    }, 
+    {
+        "content": "jun 29, 2015 - qinghao meng ,. * e-mail: qh_meng@tju.edu.cn (qm); jianghui. ... liguo tian,; qinghao meng,; liping wang,; jianghui dong,; hai wu. plos.", 
+        "email_addr_list": [
+            "qh_meng@tju.edu.cn"
+        ], 
+        "cite_url": "journals.plos.org/plosone/article?id=10.1371/journal.pone.0131838", 
+        "cite_name": "", 
+        "title": "PLOS ONE: Research on the Effect of Electrical Signals on ..."
+    }
+]

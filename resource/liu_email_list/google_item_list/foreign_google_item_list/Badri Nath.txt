@@ -1,0 +1,29 @@
+[
+    {
+        "content": "badri nath. nature uses only the longest thread to weave her ... e-mail. badri@cs.rutgers.edu. office. core 320. phone/fax. 848-445-8320/848-445-0537. web.", 
+        "email_addr_list": [
+            "badri@cs.rutgers.edu"
+        ], 
+        "cite_url": "www.cs.rutgers.edu/~badri/", 
+        "cite_name": "Rutgers University", 
+        "title": "Badri Nath - Computer Science at Rutgers"
+    }, 
+    {
+        "content": "jun 26, 2015 - email nels5373@umn.edu; administrative contact amy nelson ... dr. badrinath konety is professor and chair at the university of minnesota,...", 
+        "email_addr_list": [
+            "nels5373@umn.edu"
+        ], 
+        "cite_url": "www.urology.umn.edu/our-people/faculty/badrinath-konety/", 
+        "cite_name": "", 
+        "title": "Badrinath R. Konety, M.D., M.B.A. - Department of Urology ..."
+    }, 
+    {
+        "content": "email: s.badrinath@sdsu.edu ... s.g. badrinath is a professor of finance at sdsu. professor badrinath has held faculty appointments at rutgers university,...", 
+        "email_addr_list": [
+            "s.badrinath@sdsu.edu"
+        ], 
+        "cite_url": "www-rohan.sdsu.edu/~cba/.../badrinath.html", 
+        "cite_name": "San Diego State University", 
+        "title": "S.G. Badrinath (Badri), Ph.D. - SDSU College of Business ..."
+    }
+]

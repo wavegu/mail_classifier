@@ -1,0 +1,48 @@
+[
+    {
+        "content": "farshad khorrami. professor. electrical  computer engineering. phone: 646.997.3227; email: khorrami@nyu.edu; office: lc 266e; link:...", 
+        "email_addr_list": [
+            "khorrami@nyu.edu"
+        ], 
+        "cite_url": "engineering.nyu.edu/people/farshad-khorrami", 
+        "cite_name": "New York University", 
+        "title": "Farshad Khorrami | NYU Tandon School of Engineering"
+    }, 
+    {
+        "content": "farshad khorrami. professor. electrical  computer engineering. khorrami@nyu.edu 646.997.3227 ... professor email: greengard@cims.nyu.edu...", 
+        "email_addr_list": [
+            "khorrami@nyu.edu", 
+            "greengard@cims.nyu.edu"
+        ], 
+        "cite_url": "engineering.nyu.edu/academics/departments/.../peo...", 
+        "cite_name": "New York University", 
+        "title": "People - NYU Tandon School of Engineering"
+    }, 
+    {
+        "content": "farshad khorrami polytechnic university department of electrical  computer ... email: khorrami@smart.poly.edu. current courses: fall 2004 - el625 linear...", 
+        "email_addr_list": [
+            "khorrami@smart.poly.edu"
+        ], 
+        "cite_url": "eeweb.poly.edu/faculty/khorrami/", 
+        "cite_name": "", 
+        "title": "Farshad Khorrami"
+    }, 
+    {
+        "content": "brooklyn, ny 11201, usa. email: khorrami@smart.poly.edu. phone: (718) 260-3227 fax: (718) 260-3906. farshad khorrami received his bachelors degrees in...", 
+        "email_addr_list": [
+            "khorrami@smart.poly.edu"
+        ], 
+        "cite_url": "aeromav.free.fr/MAV08/document/speakers/12.7.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Prof. Farshad Khorrami Professor of Electrical ... - eroMAV"
+    }, 
+    {
+        "content": "discover who owns the email address farshad.khorrami@gmail.com, which domains, hostnames and names are related.", 
+        "email_addr_list": [
+            "farshad.khorrami@gmail.com"
+        ], 
+        "cite_url": "www.whoismind.com/email/ZmFyc2hhZC5raG9ycmFtaQ-gmail.com.html", 
+        "cite_name": "", 
+        "title": "farshad.khorrami@gmail.com - Email Data"
+    }
+]

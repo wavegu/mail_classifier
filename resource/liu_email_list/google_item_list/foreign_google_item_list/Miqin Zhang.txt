@@ -1,0 +1,29 @@
+[
+    {
+        "content": "miqin zhang ... email: mzhang@uw.edu ... f. m. kievit, and m. zhang “surface engineering of iron oxide nanoparticles for targeted cancer therapy, accounts of...", 
+        "email_addr_list": [
+            "mzhang@uw.edu"
+        ], 
+        "cite_url": "https://depts.washington.edu/.../faculty_Zhang....", 
+        "cite_name": "University of Washington", 
+        "title": "UW MSE - Faculty - Miqin Zhang"
+    }, 
+    {
+        "content": "miqin zhang ... email: mzhang@u.washington.edu ... s. l. levengood, and m. zhang “chitosan-based scaffolds for bone tissue engineering, journal of...", 
+        "email_addr_list": [
+            "mzhang@u.washington.edu"
+        ], 
+        "cite_url": "faculty.washington.edu/mzhang/", 
+        "cite_name": "University of Washington", 
+        "title": "MIQIN ZHANG - University of Washington"
+    }, 
+    {
+        "content": "email: nbhattar@ncat.edu ... narayan bhattarai, jonathan gunn, miqin zhang “chitosan-based hydrogels for controlled, localized drug delivery” advanced drug...", 
+        "email_addr_list": [
+            "nbhattar@ncat.edu"
+        ], 
+        "cite_url": "www.ncat.edu/...", 
+        "cite_name": "North Carolina Agricultural and Technical State Unive...", 
+        "title": "Narayan Bhattarai, Ph.D. - North Carolina AT State University"
+    }
+]

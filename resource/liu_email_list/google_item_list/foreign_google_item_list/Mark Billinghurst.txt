@@ -1,0 +1,41 @@
+[
+    {
+        "content": "billinghurst, mark. billinghurst, mark ... billinghurst has a wealth of knowledge and expertise in human computer interface technology, particularly in the area of ... email info@hitlabnz.org  university of canterbury. university of washington.", 
+        "email_addr_list": [
+            "info@hitlabnz.org"
+        ], 
+        "cite_url": "www.hitlabnz.org/.../p...", 
+        "cite_name": "Human Interface Technology Lab ‑ New Zealand", 
+        "title": "HITLabNZ - Billinghurst, Mark"
+    }, 
+    {
+        "content": "... to our mailing list to receive the latest information about the hit lab nz. email: ... email info@hitlabnz.org  university of canterbury  university of washington.", 
+        "email_addr_list": [
+            "info@hitlabnz.org"
+        ], 
+        "cite_url": "www.hitlabnz.org/.../c...", 
+        "cite_name": "Human Interface Technology Lab ‑ New Zealand", 
+        "title": "HITLabNZ - Contact Us"
+    }, 
+    {
+        "content": "2.2 content julian.looser@hitlabnz.org e-mail:raphael.grasset@hitlabnz.org e-mail:hartmut.seichter@hitlabnz.org e-mail:mark.billinghurst@hitlabnz.org an...", 
+        "email_addr_list": [
+            "julian.looser@hitlabnz.org", 
+            "raphael.grasset@hitlabnz.org", 
+            "hartmut.seichter@hitlabnz.org", 
+            "mark.billinghurst@hitlabnz.org"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-billinghurst-hitlabnz-org-16304...", 
+        "cite_name": "", 
+        "title": "billinghurst@hitlabnz.org - The Email Archive"
+    }, 
+    {
+        "content": "apr 21, 2015 - a presentation given by mark billinghurst on april 21st 2015 at the ... mark billinghurst – email: mark.billinghurst@hitlabnz.org – a survey of...", 
+        "email_addr_list": [
+            "mark.billinghurst@hitlabnz.org"
+        ], 
+        "cite_url": "www.slideshare.net/marknb00/a-survey-of-augmented-reality", 
+        "cite_name": "", 
+        "title": "A Survey of Augmented Reality Mark Billinghurst - SlideShare"
+    }
+]

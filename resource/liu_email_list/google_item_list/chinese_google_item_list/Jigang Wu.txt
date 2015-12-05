@@ -1,0 +1,30 @@
+[
+    {
+        "content": "nov 15, 2013 - email: lc-chao@sjtu.edu.cn. current position: phd student, columbia university. guangshuo liu b.s., electrical and computer engineering,...", 
+        "email_addr_list": [
+            "lc-chao@sjtu.edu.cn"
+        ], 
+        "cite_url": "umji.sjtu.edu.cn/personal/wujigang/people.html", 
+        "cite_name": "", 
+        "title": "People - University of Michigan – Shanghai Jiao Tong ..."
+    }, 
+    {
+        "content": "apr 10, 2015 - jigang wu assistant professor of ... phone: +86-21-34207935. email: jigang.wu@sjtu.edu.cn ... email: zweigpang@163.com. current position:...", 
+        "email_addr_list": [
+            "jigang.wu@sjtu.edu.cn", 
+            "zweigpang@163.com"
+        ], 
+        "cite_url": "umji.sjtu.edu.cn/~jgwu/people.html", 
+        "cite_name": "", 
+        "title": "People - University of Michigan – Shanghai Jiao Tong ..."
+    }, 
+    {
+        "content": "peisen huang, jigang wu, kai xu, tian yang, and benjamin yellen. communication and ... robert g. parker (professor) e-mail: rparker@sjtu.edu.cn. ph.d.", 
+        "email_addr_list": [
+            "rparker@sjtu.edu.cn"
+        ], 
+        "cite_url": "pbf.kpi.ua/arch/m_office/Michigan-Shanghai_University_2012.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Information booklet"
+    }
+]

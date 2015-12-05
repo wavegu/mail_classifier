@@ -1,0 +1,47 @@
+[
+    {
+        "content": "university of science and technology of china. hefei, china. email: lijie610@mail.ustc.edu.cn. changwen zheng and xiaohui hu. national key laboratory of.", 
+        "email_addr_list": [
+            "lijie610@mail.ustc.edu.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../05...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "A Hypervolume Based Approach for Minimal Visual ..."
+    }, 
+    {
+        "content": "email: iscassucess@gmail.com. changwen zheng. science  tech. on integrated info. system lab. institute of software, chinese academy of sciences. beijing...", 
+        "email_addr_list": [
+            "iscassucess@gmail.com"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0681...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Simulation of Wave Effects Based on Ray Tracing"
+    }, 
+    {
+        "content": "may 11, 2013 - email, : wu_jiaze@sbic.a-star.edu.sg ... jiaze wu, changwen zheng, xiaohui hu, fanjiang xu, rendering realistic spectral bokeh effect due...", 
+        "email_addr_list": [
+            "wu_jiaze@sbic.a-star.edu.sg"
+        ], 
+        "cite_url": "https://researchers.a-star.e...", 
+        "cite_name": "Agency for Science, Technology and Research", 
+        "title": "Dr Wu, Jiaze - User Profile"
+    }, 
+    {
+        "content": "email: cli17 at ncsu dot edu. quality is not ... chao li, yi yang, zhen lin and huiyang zhou. ... chao li, yunquan zhang, changwen zheng and xiaohui hu.", 
+        "email_addr_list": [
+            "cli17@ncsu.edu"
+        ], 
+        "cite_url": "www4.ncsu.edu/~cli17/", 
+        "cite_name": "North Carolina State University", 
+        "title": "Chao Lis Homepage - North Carolina State University"
+    }, 
+    {
+        "content": "chang wen chen has been a professor of computer science and engineering at the university at buffalo, state university of ... email: chencw@buffalo.edu...", 
+        "email_addr_list": [
+            "chencw@buffalo.edu"
+        ], 
+        "cite_url": "www.cse.buffalo.edu/faculty/chencw/", 
+        "cite_name": "University at Buffalo", 
+        "title": "UB CSE Department: Chang Wen Chen"
+    }
+]

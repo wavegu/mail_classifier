@@ -1,0 +1,47 @@
+[
+    {
+        "content": "leo joskowicz. short bio. biography  curriculum vitae. leo joskowicz is a professor at the school of engineering and computer ... email: josko@cs.huji.ac.il.", 
+        "email_addr_list": [
+            "josko@cs.huji.ac.il"
+        ], 
+        "cite_url": "elsc.huji.ac.il/joskowicz/biocv", 
+        "cite_name": "Hebrew University of Jerusalem", 
+        "title": "Short Bio | Prof. Leo Joskowicz"
+    }, 
+    {
+        "content": "3 days ago - leo joskowicz. casmip laboratory. biography. leo joskowicz is a professor at the school of engineering and ... email: josko@cs.huji.ac.il.", 
+        "email_addr_list": [
+            "josko@cs.huji.ac.il"
+        ], 
+        "cite_url": "elsc.huji.ac.il/joskowicz", 
+        "cite_name": "Hebrew University of Jerusalem", 
+        "title": "Prof. Leo Joskowicz - The Edmond  Lily Safra Center for ..."
+    }, 
+    {
+        "content": "aug 30, 2015 - email for further inforamtion: emanuel.sestieri@mail.huji.ac.il. application ... joskowicz leo. prof. leo joskowicz. phone: +972-2-549-4544.", 
+        "email_addr_list": [
+            "emanuel.sestieri@mail.huji.ac.il"
+        ], 
+        "cite_url": "elsc.huji.ac.il/joskowicz/in-vivo-rec-2015", 
+        "cite_name": "Hebrew University of Jerusalem", 
+        "title": "ELSC International School | Prof. Leo Joskowicz"
+    }, 
+    {
+        "content": "email: simon.warfield@childrens.harvard.edu. prof. leo joskowicz professor of computer science head, computer-assisted surgery and medical image...", 
+        "email_addr_list": [
+            "simon.warfield@childrens.harvard.edu"
+        ], 
+        "cite_url": "crl.med.harvard.edu/research/MICCAI_Tutorial/organizers.php", 
+        "cite_name": "", 
+        "title": "Organizers - Computational Radiology Laboratory"
+    }, 
+    {
+        "content": "cse department - leo joskowicz. biojerusalem is ... leo joskowicz. academic ... email, josko@cs.huji.ac.il. phone, 972-2-658-6299. fax, 972-2-658-5261...", 
+        "email_addr_list": [
+            "josko@cs.huji.ac.il"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Leo Joskowicz - BioJerusalem"
+    }
+]

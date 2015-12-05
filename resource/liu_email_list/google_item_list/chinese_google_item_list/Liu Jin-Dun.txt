@@ -1,0 +1,20 @@
+[
+    {
+        "content": "fax：+86-021-68066666（domestic） e-mail：shjdsales@tycoint.com. international sale hotline：+86-21-68131899 ext 8024（fire safety equipment） international...", 
+        "email_addr_list": [
+            "shjdsales@tycoint.com"
+        ], 
+        "cite_url": "en.shjd.com/contact.html", 
+        "cite_name": "", 
+        "title": "-Shanghai Jindun Industrial Group Co., Ltd"
+    }, 
+    {
+        "content": "bing liu obtained his bs in physics from peking university and ms from the ... science communication. his blog: http://blog.sina.com.cn/ liubing1958. email: liubing@tsinghua.edu.cn dun liu, former director of the institute for the history of natural science, ... jin-yang liu obtained his be and ma from chengdu university of...", 
+        "email_addr_list": [
+            "liubing@tsinghua.edu.cn"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=9814472948", 
+        "cite_name": "", 
+        "title": "All About Science: Philosophy, History, Sociology  ..."
+    }
+]

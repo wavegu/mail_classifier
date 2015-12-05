@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email, reif at cs.duke.edu ... john h. reif and sudheer sahu, autonomous programmable dna nanorobotic devices using dnazymes, special journal issue...", 
+        "email_addr_list": [
+            "reif@cs.duke.edu"
+        ], 
+        "cite_url": "www.cs.duke.edu/people/?csid=31", 
+        "cite_name": "Duke University", 
+        "title": "John Reif - Duke University"
+    }, 
+    {
+        "content": "office phone: (919) 660-6568; email address: reif@cs.duke.edu; web page: ... john h. reif and thomas h. labean, autonomous programmable biomolecular...", 
+        "email_addr_list": [
+            "reif@cs.duke.edu"
+        ], 
+        "cite_url": "www.fitzpatrick.duke.edu/faculty/john-h-reif", 
+        "cite_name": "Duke University", 
+        "title": "John H. Reif | Fitzpatrick Institute for Photonics"
+    }, 
+    {
+        "content": "prof. john reif. duke university / kau. email reif@cs.duke.edu. http:// ... ohn h. reif and sudheer sahu, autonomous programmable dna nanorobotic devices...", 
+        "email_addr_list": [
+            "reif@cs.duke.edu"
+        ], 
+        "cite_url": "www.kau.edu.sa/GetFile.aspx?id...fn...reif...", 
+        "cite_name": "King Abdulaziz University", 
+        "title": "[PDF]Duke University / KAU Email Http:// http://www.cs.duke.edu ..."
+    }, 
+    {
+        "content": "email: admissions@duq.edu ... a a email print share. john rief, ph.d. ... dr. rief completed his phd in communication  rhetoric (2012) and ma in bioethics...", 
+        "email_addr_list": [
+            "admissions@duq.edu"
+        ], 
+        "cite_url": "www.duq.edu/academics/faculty/john-rief", 
+        "cite_name": "Duquesne University", 
+        "title": "John Rief, Ph.D. | Duquesne University"
+    }
+]

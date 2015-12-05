@@ -1,0 +1,22 @@
+[
+    {
+        "content": "fax: (024) 2273-0328. email:peoplelawyer@163.com ... liaoning chun ming law office add: no.206 ... liaoning gangcheng zhengda law office add: no.21...", 
+        "email_addr_list": [
+            "peoplelawyer@163.com"
+        ], 
+        "cite_url": "shenyang.usembassy-china.org.cn/.../leg...", 
+        "cite_name": "The U.S. Consulate in Shenyang", 
+        "title": "Legal Assistace - The U.S. Consulate in Shenyang"
+    }, 
+    {
+        "content": "email: international@acic.com.au ... email: ecie@tpg.com.au, application@globeedu.com, marketing.aunz@globeedu. ..... 23 ren ming road, zhong shan qu", 
+        "email_addr_list": [
+            "international@acic.com.au", 
+            "ecie@tpg.com.au", 
+            "application@globeedu.com"
+        ], 
+        "cite_url": "www.international.utas.edu.au/reps/replist.php?id...", 
+        "cite_name": "University of Tasmania", 
+        "title": "China - Our Representatives - International Students"
+    }
+]

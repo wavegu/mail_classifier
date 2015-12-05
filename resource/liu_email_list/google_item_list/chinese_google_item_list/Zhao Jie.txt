@@ -1,0 +1,56 @@
+[
+    {
+        "content": "staff. photo of dr zhaojie ju ... telephone: +44 (0)23 9284 5382; email: zhaojie.ju@port.ac.uk; department: school of computing; faculty: faculty of technology...", 
+        "email_addr_list": [
+            "zhaojie.ju@port.ac.uk"
+        ], 
+        "cite_url": "www.port.ac.uk/school-of.../dr-zhaojie-ju.html", 
+        "cite_name": "University of Portsmouth", 
+        "title": "Staff: Dr Zhaojie Ju - University of Portsmouth"
+    }, 
+    {
+        "content": "zhao, yu. yu obtained his b.s. in chemistry at peking university in 2002 where ... chao ma, chao. email: chmmach@nus.edu.sg. chao was born and raised in...", 
+        "email_addr_list": [
+            "chmmach@nus.edu.sg"
+        ], 
+        "cite_url": "zhaoyu.science.nus.edu.sg/people.html", 
+        "cite_name": "National University of Singapore", 
+        "title": "Ng, Jie Qi - Zhao Group @ NUS"
+    }, 
+    {
+        "content": "jie zhao. drill instructor in chinese. jie zhao. fall 2015 office hours: friday 11-12 ... contact information. email: jiezhao@fas.harvard.edu. 5 bryant st. #301.", 
+        "email_addr_list": [
+            "jiezhao@fas.harvard.edu"
+        ], 
+        "cite_url": "ealc.fas.harvard.edu/people/jie-zhao", 
+        "cite_name": "Harvard University", 
+        "title": "Jie Zhao | East Asian Languages and Civilizations"
+    }, 
+    {
+        "content": "email: zhaoj@maine.edu. dr. jie zhao is an associate professor of history in the department of history and political science. professor zhao received her ph.d.", 
+        "email_addr_list": [
+            "zhaoj@maine.edu"
+        ], 
+        "cite_url": "https://usm.maine.edu/history/jie-zhao", 
+        "cite_name": "University of Southern Maine", 
+        "title": "Jie Zhao, Ph.D. | History Major | University of Southern Maine"
+    }, 
+    {
+        "content": "mar 25, 2006 - resource is little ,but students is more and more.and job is difficuty to find more and more. name: zhaojie email:zhaojie_gsgl8011@163.com...", 
+        "email_addr_list": [
+            "zhaojie_gsgl8011@163.com"
+        ], 
+        "cite_url": "blog.chinadaily.com.cn/thread-509065-1-1.html", 
+        "cite_name": "", 
+        "title": "Name: zhaojie Email:zhaojie_gsgl8011@163.com - Forum Support ..."
+    }, 
+    {
+        "content": "(+44) 01582 763133. email: fangjie.zhao@rothamsted.ac.uk. participation in icobte: • participated in all icobte conferences since 1997 except 2013.", 
+        "email_addr_list": [
+            "fangjie.zhao@rothamsted.ac.uk"
+        ], 
+        "cite_url": "srel.uga.edu/isteb/candidates2015/VicePresident_Zhao.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Fang-Jie Zhao"
+    }
+]

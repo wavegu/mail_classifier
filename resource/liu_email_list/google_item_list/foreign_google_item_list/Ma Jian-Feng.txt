@@ -1,0 +1,38 @@
+[
+    {
+        "content": "dec 16, 2014 - ma jianfeng is a well-known phytologist with great contribution to plant ... road hangzhou zhejiang china email:nxyyb@zju.edu.cn telfax:...", 
+        "email_addr_list": [
+            "nxyyb@zju.edu.cn"
+        ], 
+        "cite_url": "www.cab.zju.edu.cn/en/redir.php?catalog_id=49894object_id...", 
+        "cite_name": "", 
+        "title": "Lecture by Prof. Ma Jianfeng, Okayama University, Japan ..."
+    }, 
+    {
+        "content": "jian feng ma, kazunori tamai, naoki yamaji, namiki mitani, saeko konishi, ... for materials should be addressed to j.f.m. (email: maj@rib.okayama-u.ac.jp).", 
+        "email_addr_list": [
+            "maj@rib.okayama-u.ac.jp"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Nature", 
+        "title": "A silicon transporter in rice : Nature"
+    }, 
+    {
+        "content": "email: jianfeng@buffalo.edu ... (22) z xu, h jiang, p zhong, z yan, s chen, j feng (2015). ... [pdf file]. (16) y. ren, h. jiang, d. ma, k. nakaso, j. feng (2011).", 
+        "email_addr_list": [
+            "jianfeng@buffalo.edu"
+        ], 
+        "cite_url": "www.buffalo.edu/~jianfeng/", 
+        "cite_name": "University at Buffalo", 
+        "title": "Jian Feng - University at Buffalo"
+    }, 
+    {
+        "content": "jianfeng ma. lecturer fax: +86 010 62333582. email: majianfeng@ustb.edu.cn. academic qualifications. 05/2010 post phd, university of science and...", 
+        "email_addr_list": [
+            "majianfeng@ustb.edu.cn"
+        ], 
+        "cite_url": "sem.ustb.edu.cn/.../86.html", 
+        "cite_name": "University of Science and Technology Beijing", 
+        "title": "Jianfeng Ma"
+    }
+]

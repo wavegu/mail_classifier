@@ -1,0 +1,59 @@
+[
+    {
+        "content": "qing-qing xuan. born in henan province. email：xuanqingqing@iccas.ac.cn. tel: 010-62561375. educational background. b. sci. xinan university 2006-2010.", 
+        "email_addr_list": [
+            "xuanqingqing@iccas.ac.cn"
+        ], 
+        "cite_url": "159.226.64.162/web/31204/qing-qing-xuan", 
+        "cite_name": "", 
+        "title": "Qing-qing Xuan - 集成平台"
+    }, 
+    {
+        "content": "dr. qins research interests are in the development and application of statistical methods for genomic data and other ... li-xuan qin ... e-mail. qinl@mskcc.org...", 
+        "email_addr_list": [
+            "qinl@mskcc.org"
+        ], 
+        "cite_url": "https://www.mskcc.org/.../li-xua...", 
+        "cite_name": "Memorial Sloan Kettering Cancer Center", 
+        "title": "Li-Xuan Qin - Memorial Sloan Kettering Cancer Center"
+    }, 
+    {
+        "content": "email this article (login required) ... enyu rao1, yuwen zhang1, ganqian zhu1, jiaqing hao1, xuan-mai t. persson2, nejat k. ... bing li, email: bli@hi.umn.edu.", 
+        "email_addr_list": [
+            "bli@hi.umn.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Deficiency of AMPK in CD8 + T cells suppresses their anti ..."
+    }, 
+    {
+        "content": "e-mail: mamirzadeh@uh.edu. office: sr1 ... e-mail: pbhattacharyya@uh.edu ..... e-mail: cqi@uh.edu. office: sr1 136. xuan qin, xuan curriculum vitae (pdf)", 
+        "email_addr_list": [
+            "mamirzadeh@uh.edu", 
+            "pbhattacharyya@uh.edu", 
+            "cqi@uh.edu"
+        ], 
+        "cite_url": "www.geosc.uh.edu/people/tasras/index.php", 
+        "cite_name": "University of Houston", 
+        "title": "Teaching and Research Assistants"
+    }, 
+    {
+        "content": "aaron alexander lim qing rong. diploma in ... computing [nus]. brandon lum jia jun ... seah qing xuan. diploma in (yber .... email : iit@tp.edu.sg. website...", 
+        "email_addr_list": [
+            "iit@tp.edu.sg"
+        ], 
+        "cite_url": "www.tp.edu.sg/staticfiles/TP/.../iit_scholar_flyer.pdf", 
+        "cite_name": "Temasek Polytechnic", 
+        "title": "[PDF]@egwm - Temasek Polytechnic"
+    }, 
+    {
+        "content": "oct 22, 2013 - 电邮：chenjiarong@mail.ccnu.edu.cn; jiarongchen2003@163.com. 研究兴趣 ... jun xuan, liang-qiu lu, jia-rong chen, wen-jing xiao*, eur.", 
+        "email_addr_list": [
+            "chenjiarong@mail.ccnu.edu.cn", 
+            "jiarongchen2003@163.com"
+        ], 
+        "cite_url": "chem-xiao.ccnu.edu.cn/.../2013102218452648927.pd...", 
+        "cite_name": "", 
+        "title": "[PDF]陈加荣 - 华中师范大学"
+    }
+]

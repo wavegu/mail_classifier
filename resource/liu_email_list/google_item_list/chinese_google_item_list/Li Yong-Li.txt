@@ -1,0 +1,57 @@
+[
+    {
+        "content": "dr yong li joined the then department in october 2009 as a lecturer in accounting and financial management. yong obtained her ... email: yong.li@kcl.ac.uk", 
+        "email_addr_list": [
+            "yong.li@kcl.ac.uk"
+        ], 
+        "cite_url": "www.kcl.ac.uk/sspp/departments/.../liy.aspx", 
+        "cite_name": "King's College London", 
+        "title": "Kings College London - Dr Yong Li"
+    }, 
+    {
+        "content": "mr yong li. ... contact details. email: yong.li14@imperial.ac.uk  back to metal forming and ... print; email to a friend; report incorrect content. email to a friend...", 
+        "email_addr_list": [
+            "yong.li14@imperial.ac.uk"
+        ], 
+        "cite_url": "www3.imperial.ac.uk/memetalforming/.../yongl...", 
+        "cite_name": "Imperial College London", 
+        "title": "Mr Yong Li - Imperial College London"
+    }, 
+    {
+        "content": "you are here: home / yong li phd » faculty ... cindy li (ms food science), recovery of pathogenic bacterial cells injured under ... email: novotny@hawaii.edu...", 
+        "email_addr_list": [
+            "novotny@hawaii.edu"
+        ], 
+        "cite_url": "manoa.hawaii.edu/ctahr/.../name/yong-li/", 
+        "cite_name": "University of Hawaii at Manoa", 
+        "title": "Yong Li PhD Faculty - University of Hawaii at Manoa"
+    }, 
+    {
+        "content": "mar 4, 2014 - associate professor yong li ... y.li@unsw.edu.au ... research @ unsw, sydney, nsw, 2052, australia | email: researchgateway@unsw.edu.au.", 
+        "email_addr_list": [
+            "y.li@unsw.edu.au", 
+            "researchgateway@unsw.edu.au"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of New South Wales", 
+        "title": "Associate Professor Yong Li | UNSW Research Gateway"
+    }, 
+    {
+        "content": "email: yol34 at pitt.edu ... w. layton y. li and c. trenchea, recent developments in imex methods with time filters for systems of evolution equations,, to appear...", 
+        "email_addr_list": [
+            "yol34@pitt.edu"
+        ], 
+        "cite_url": "www.pitt.edu/~yol34/", 
+        "cite_name": "University of Pittsburgh", 
+        "title": "Yong Li"
+    }, 
+    {
+        "content": "jun 28, 2013 - in an election on monday, li yong ran against five other candidates and secured the necessary two-thirds of ... email: m. evstafyev[at]unido.org...", 
+        "email_addr_list": [
+            "evstafyev@unido.org"
+        ], 
+        "cite_url": "www.unis.unvienna.org/unis/en/pressrels/2013/unisous198.html", 
+        "cite_name": "", 
+        "title": "Li Yong confirmed as new Director General of UNIDO"
+    }
+]

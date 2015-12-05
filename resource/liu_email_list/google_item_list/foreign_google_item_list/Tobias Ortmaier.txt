@@ -1,0 +1,30 @@
+[
+    {
+        "content": "d – 82234 wessling, germany http://www.robotic.dlr.de/tobias.ortmaier. email: tobias.ortmaier@dlr.de tel.: +49-8153-28-3500. born may 22, 1974. career.", 
+        "email_addr_list": [
+            "tobias.ortmaier@dlr.de"
+        ], 
+        "cite_url": "www.jsps-bonn.de/images/stories/Ortmaier.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Tobias Ortmaier - JSPS Bonn Office"
+    }, 
+    {
+        "content": "tobias ortmaier. german aerospace center (dlr). institute of robotics and mechatronics. d – 82234 wessling. germany. email: tobias.ortmaier@dlr.de...", 
+        "email_addr_list": [
+            "tobias.ortmaier@dlr.de"
+        ], 
+        "cite_url": "www.lirmm.fr/UEE05/presentations/lecturers/Ortmaier.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Hands-On-Robotics - Lirmm"
+    }, 
+    {
+        "content": "e-mail: wauer@itm.uni-karlsruhe.de. enable javascript to see ... e-mail: torsten.brix@tu-ilmenau.de. enable javascript to see .... prof. dr.-ing. tobias ortmaier...", 
+        "email_addr_list": [
+            "wauer@itm.uni-karlsruhe.de", 
+            "torsten.brix@tu-ilmenau.de"
+        ], 
+        "cite_url": "www.iftomm.org/index.php?option=com_contentview...id...", 
+        "cite_name": "", 
+        "title": "IFToMM"
+    }
+]

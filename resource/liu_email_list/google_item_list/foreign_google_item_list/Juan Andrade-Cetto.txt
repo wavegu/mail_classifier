@@ -1,0 +1,11 @@
+[
+    {
+        "content": "juan andrade-cetto. científico titular institut de robotica i informatica industrial, ... 4-6, 08028 barcelona, spain tel: +34 934017336 email: cetto at iri.upc.edu...", 
+        "email_addr_list": [
+            "cetto@iri.upc.edu"
+        ], 
+        "cite_url": "www.iri.upc.edu/people/cetto/", 
+        "cite_name": "", 
+        "title": "Juan Andrade-Cetto Homepage"
+    }
+]

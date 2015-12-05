@@ -1,0 +1,66 @@
+[
+    {
+        "content": "e-mail:hcyan@ecust.edu.cn ... [1] huaicheng yan, xinhan huang, min wang, hao zhang, delay-dependent stability criteria for a class of networked control...", 
+        "email_addr_list": [
+            "hcyan@ecust.edu.cn"
+        ], 
+        "cite_url": "webmanage.ecust.edu.cn/s/2/t/209/a/14576/info.jspy", 
+        "cite_name": "", 
+        "title": "Yan Huaicheng"
+    }, 
+    {
+        "content": "yue huang (email: huangyueshanshida@163.com) ... jing chen, zhiqiang liang, yinxi huang, han xiao, ... hui zhou, wei xing, xiang ma, ge gao, ting liu,", 
+        "email_addr_list": [
+            "huangyueshanshida@163.com"
+        ], 
+        "cite_url": "genxililab.nju.edu.cn/people.htm", 
+        "cite_name": "", 
+        "title": "Prof. Genxi Lis Lab －－ People"
+    }, 
+    {
+        "content": "email: huangsheng@hrbeu.edu.cn. research fields: design and ... han duanfeng. tel: 0086 451 82519900. email: .... chang xin. tel: 0086 451 82569910.", 
+        "email_addr_list": [
+            "huangsheng@hrbeu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Harbin Engineering University", 
+        "title": "1 - Harbin Engineering University"
+    }, 
+    {
+        "content": "yi han assistant professor of accounting phone: (405)325-5792 email: han ... email: xiangming dot xiao at ou dot edu ... xin huang (黄欣), assistant professor", 
+        "email_addr_list": [
+            "xiao@ou.edu"
+        ], 
+        "cite_url": "www.ou.edu/uschina/faculty.html", 
+        "cite_name": "University of Oklahoma", 
+        "title": "OU US-China Institute: Faculty"
+    }, 
+    {
+        "content": "advisor: xue han email: hgritton@bu.edu. chenguang huang advisor: kamil ekinci email: huang88@bu.edu. harold hwang advisor: xin zhang email:...", 
+        "email_addr_list": [
+            "hgritton@bu.edu", 
+            "huang88@bu.edu"
+        ], 
+        "cite_url": "www.bu.edu/photonics/people/postdocs/", 
+        "cite_name": "Boston University", 
+        "title": "Post-Docs » Photonics Center | Boston University"
+    }, 
+    {
+        "content": "yun-han huang. graduate student. pictured: yun-han huang. lab phone. 646-888-2063. lab fax. 646-422-0197. e-mail. huangy4@mskcc.org...", 
+        "email_addr_list": [
+            "huangy4@mskcc.org"
+        ], 
+        "cite_url": "https://www.mskcc.org/.../yun-h...", 
+        "cite_name": "Memorial Sloan Kettering Cancer Center", 
+        "title": "Yun-Han Huang - Memorial Sloan Kettering Cancer Center"
+    }, 
+    {
+        "content": "zhongyi huang. (黄忠亿). professor ... (8610) 62796893. email: zhuang@math.tsinghua.edu.cn ... o beijing science and technology awards, (with houde han, weizhu bao, xiaonan wu, chunxiong zheng and xin wen), 2002. o teaching...", 
+        "email_addr_list": [
+            "zhuang@math.tsinghua.edu.cn"
+        ], 
+        "cite_url": "faculty.math.tsinghua.edu.cn/~zhuang/", 
+        "cite_name": "", 
+        "title": "Dr. Zhongyi Huang, Tsinghua University"
+    }
+]

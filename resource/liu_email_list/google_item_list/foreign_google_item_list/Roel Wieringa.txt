@@ -1,0 +1,31 @@
+[
+    {
+        "content": "dr. roel wieringa is full professor of information systems at the university of twente. ... r.j. wieringa (1998), a survey of structured and object-oriented software specification methods and techniques, acm ... email:roelw@cs.utwente.nl...", 
+        "email_addr_list": [
+            "roelw@cs.utwente.nl"
+        ], 
+        "cite_url": "www0.cs.ucl.ac.uk/research/.../twente.html", 
+        "cite_name": "University College London", 
+        "title": "Universiteit Twente - UCL Computer Science"
+    }, 
+    {
+        "content": "feb 27, 2004 - from: roel wieringa (roelw@cs.utwente.nl) ... dr. roel wieringa, http://www.cs.utwente.nl/~roelw, email: roelw@cs.utwente.nl; telephone: +31...", 
+        "email_addr_list": [
+            "roelw@cs.utwente.nl", 
+            "roelw@cs.utwente.nl"
+        ], 
+        "cite_url": "research.it.uts.edu.au/re/re.../1738.html", 
+        "cite_name": "University of Technology Sydney", 
+        "title": "[re-online] assistant prof. opening"
+    }, 
+    {
+        "content": "mar 3, 2004 - from: roel wieringa (roelw@cs.utwente.nl) ... this mailing list, email majordomo@it.uts.edu.au with the message `unsubscribe re-online in the...", 
+        "email_addr_list": [
+            "roelw@cs.utwente.nl", 
+            "majordomo@it.uts.edu.au"
+        ], 
+        "cite_url": "research.it.uts.edu.au/re/re.../1745.html", 
+        "cite_name": "University of Technology Sydney", 
+        "title": "[re-online] Postdoc  Ph.D. openings"
+    }
+]

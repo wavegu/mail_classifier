@@ -1,0 +1,39 @@
+[
+    {
+        "content": "department, electrical  computer engineering. email, kash@ece.concordia.ca. telephone, 514-848-2424; ext. 3086. office, ev012.113. website...", 
+        "email_addr_list": [
+            "kash@ece.concordia.ca"
+        ], 
+        "cite_url": "aits.encs.concordia.ca/oldsite/...and.../details/?...Khorasani%2C%20K...", 
+        "cite_name": "", 
+        "title": "Khashayar Khorasani, Professor - Concordia University"
+    }, 
+    {
+        "content": "jul 7, 2003 - 1455 de maisonneuve blvd. w. fax: (514) 848-2802. montréal, québec, office: ev-5-125. canada h3g 1m8, e-mail: kash@ece.concordia.ca...", 
+        "email_addr_list": [
+            "kash@ece.concordia.ca"
+        ], 
+        "cite_url": "www.ece.concordia.ca/~kash/", 
+        "cite_name": "Concordia University", 
+        "title": "ECE: Home Page of Khashayar (Kash) Khorasani"
+    }, 
+    {
+        "content": "ormond blvd, bundoora, vic 3083 australia, +61 3 992 58015, e-mail: roberto.sabatini@rmit.edu.au ... khashayar (kash) khorasani. guillaume ducard.", 
+        "email_addr_list": [
+            "roberto.sabatini@rmit.edu.au"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0727...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "IEEE TRANSACTIONS ON AEROSPACE AND ..."
+    }, 
+    {
+        "content": "email: nikravsh@aut.ac.ir. phone: (+9821) 64543316 ... khashayar khorasani. professor. email: kash@ece.concordia.ca. phone: (+514) 848-2424 x 3086.", 
+        "email_addr_list": [
+            "nikravsh@aut.ac.ir", 
+            "kash@ece.concordia.ca"
+        ], 
+        "cite_url": "ele.aut.ac.ir/~eecontrol/index/index.php?p=0x02", 
+        "cite_name": "", 
+        "title": "Khashayar Khorasani"
+    }
+]

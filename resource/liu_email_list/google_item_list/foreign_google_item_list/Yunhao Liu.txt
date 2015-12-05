@@ -1,0 +1,48 @@
+[
+    {
+        "content": "yunhao liu received his bs degree in automation department from tsinghua university, and an ma degree in beijing ... email: yunhao at greenorbs dot com.", 
+        "email_addr_list": [
+            "yunhao@greenorbs.com"
+        ], 
+        "cite_url": "www.cse.ust.hk/~liu/", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "Yunhao Liu - Department of Computer Science and ..."
+    }, 
+    {
+        "content": "email: yunhao at tsinghua dot edu dot cn；yunhao at greenorbs dot com ... yunhao liu, yuan he, mo li, jiliang wang, kebin liu, xiang-yang li, does...", 
+        "email_addr_list": [
+            "yunhao@tsinghua.edu.cn", 
+            "yunhao@greenorbs.com"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../2011060...", 
+        "cite_name": "Tsinghua University", 
+        "title": "刘云浩 - 清华大学"
+    }, 
+    {
+        "content": "name. chinese name. email. position. research area. yunhao liu. 刘云浩. yunhao@greenorbs.com this e-mail address is being protected from spambots.", 
+        "email_addr_list": [
+            "yunhao@greenorbs.com"
+        ], 
+        "cite_url": "www.greenorbs.org/all/all-people.htm", 
+        "cite_name": "", 
+        "title": "people"
+    }, 
+    {
+        "content": "oct 23, 2015 - email: zhenjiang.li@cityu.edu.hk ... [tpds] zhenjiang li, yunhao liu, mo li, jiliang wang, and zhichao cao, exploiting ubiquitous data...", 
+        "email_addr_list": [
+            "zhenjiang.li@cityu.edu.hk"
+        ], 
+        "cite_url": "www6.cityu.edu.hk/.../zhenjiangli.htm", 
+        "cite_name": "City University of Hong Kong", 
+        "title": "Dr. LI Zhenjiang - City University of Hong Kong"
+    }, 
+    {
+        "content": "email: limo@ntu.edu.sg .... lei yang, yekui chen, xiang-yang li, chaowei xiao, mo li, and yunhao liu .... mo li, yunhao liu, jiliang wang, and zheng yang.", 
+        "email_addr_list": [
+            "limo@ntu.edu.sg"
+        ], 
+        "cite_url": "www.ntu.edu.sg/home/limo/", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "Mo Li - Nanyang Technological University"
+    }
+]

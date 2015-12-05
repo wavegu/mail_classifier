@@ -1,0 +1,39 @@
+[
+    {
+        "content": "wang yaonan, college of electrical and information engineering, control science and ... electrical engineering, tel: 0731-88822224 e-mail: yaonan@hnu.cn...", 
+        "email_addr_list": [
+            "yaonan@hnu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Hunan University", 
+        "title": "Control Science And Engineering-HNU - Hunan University"
+    }, 
+    {
+        "content": "email: a0123254@nus.edu.sg, thesis title: operations research applications in service industry ... 12, kong yaonan email: ... 23, wang qiong email:...", 
+        "email_addr_list": [
+            "a0123254@nus.edu.sg"
+        ], 
+        "cite_url": "https://www.ise.nus.edu.sg/.../phd.php", 
+        "cite_name": "National University of Singapore", 
+        "title": "ISE Research Students"
+    }, 
+    {
+        "content": "e-mail, htchen@mail.ncku.edu.tw ... j. heat mass transfer;，(other 2008); chen, han-taw;wang, yao-nan，optical micro-flow cytometer for particle counting,...", 
+        "email_addr_list": [
+            "htchen@mail.ncku.edu.tw"
+        ], 
+        "cite_url": "www.me.ncku.edu.tw/.../han-taw-chen", 
+        "cite_name": "National Cheng Kung University", 
+        "title": "Han-Taw Chen | NCKU Mechanical Engineering"
+    }, 
+    {
+        "content": "jan 12, 2014 - authors. mai thang long  mailongtk@gmail.com (1) (2); wang yao nan  yaonan@hnu.cn (1). author affiliations. 1. college of electrical and...", 
+        "email_addr_list": [
+            "mailongtk@gmail.com", 
+            "yaonan@hnu.cn"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2Fs108...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Adaptive Position Tracking System and Force Control ..."
+    }
+]

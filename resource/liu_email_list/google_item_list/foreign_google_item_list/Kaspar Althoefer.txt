@@ -1,0 +1,47 @@
+[
+    {
+        "content": "professor kaspar althoefer. kaspar-althoefer. telephone: +44 020 7848 2431. email: k.althoefer@kcl.ac.uk. office: s1.20, strand campus. research group:...", 
+        "email_addr_list": [
+            "k.althoefer@kcl.ac.uk"
+        ], 
+        "cite_url": "www.kcl.ac.uk/nms/depts/.../atoz/althoefera.aspx", 
+        "cite_name": "King's College London", 
+        "title": "Kings College London - Professor Kaspar Althoefer"
+    }, 
+    {
+        "content": "email: kaspar.althoefer@kcl.ac.uk. telephone: +44 (0)20 7848 2431. address. kings college london department of informatics centre for robotics research", 
+        "email_addr_list": [
+            "kaspar.althoefer@kcl.ac.uk"
+        ], 
+        "cite_url": "nms.kcl.ac.uk/core/?page_id=7", 
+        "cite_name": "", 
+        "title": "Prof. Kaspar Althoefer | Kings CoRe - Kings College London"
+    }, 
+    {
+        "content": "contact details: postal address: floor 1. kings building the strand. united kingdom. telephone: +44 (0)20 7848 2431. e-mail: kaspar.althoefer@kcl.ac.uk...", 
+        "email_addr_list": [
+            "kaspar.althoefer@kcl.ac.uk"
+        ], 
+        "cite_url": "https://kclpure.kcl.ac.uk/.../kaspar.althoefer.html", 
+        "cite_name": "King's College London", 
+        "title": "Kaspar Althoefer - Research Portal, Kings College, London"
+    }, 
+    {
+        "content": "jul 31, 2015 - professor kaspar althoefer from kings college london will be visiting cas. he will be giving a presentation on ... email: k.althoefer@kcl.ac.uk", 
+        "email_addr_list": [
+            "k.althoefer@kcl.ac.uk"
+        ], 
+        "cite_url": "www.uts.edu.au/.../cas-seminar-prof-k...", 
+        "cite_name": "University of Technology Sydney", 
+        "title": "CAS Seminar with Prof. Kaspar Althoefer (Kings College ..."
+    }, 
+    {
+        "content": "informal enquiries about the posts can be made via email to prof. kaspar althoefer (k.althoefer@kcl.ac.uk), prof. prokar dasgupta...", 
+        "email_addr_list": [
+            "k.althoefer@kcl.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "PostDoc, PhD  Research Associate positions, Kings College London ..."
+    }
+]

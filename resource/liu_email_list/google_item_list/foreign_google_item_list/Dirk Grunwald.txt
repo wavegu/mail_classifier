@@ -1,0 +1,29 @@
+[
+    {
+        "content": "dirk grunwald is the wilfred and caroline slade endowed professor at university of colorado at ... boulder, co 80301-0430, email grunwald@cs.colorado.edu", 
+        "email_addr_list": [
+            "grunwald@cs.colorado.edu"
+        ], 
+        "cite_url": "systems.cs.colorado.edu/.../dirk-grunwal...", 
+        "cite_name": "University of Colorado Boulder", 
+        "title": "Dirk Grunwald | Computer Systems @ Colorado"
+    }, 
+    {
+        "content": "feb 26, 1995 - dirk grunwald. name: dirk grunwald email: grunwald@foobar.cs.colorado.edu organization: unknown description: ill be building it on osf/1...", 
+        "email_addr_list": [
+            "grunwald@foobar.cs.colorado.edu"
+        ], 
+        "cite_url": "vieta.math.tu-cottbus.de/programme/fresco/fresco/people/p0211.html", 
+        "cite_name": "", 
+        "title": "People - Dirk Grunwald"
+    }, 
+    {
+        "content": "aveek dutta, dola saha, dirk grunwald, douglas sicker ... dola saha, aveek dutta, dirk grunwald and douglas sicker .... email: ray@winlab.rutgers.edu.", 
+        "email_addr_list": [
+            "ray@winlab.rutgers.edu"
+        ], 
+        "cite_url": "winlab.rutgers.edu/~dola/dola.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]PDF Format - Winlab - Rutgers University"
+    }
+]

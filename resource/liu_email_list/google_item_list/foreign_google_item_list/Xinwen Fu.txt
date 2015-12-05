@@ -1,0 +1,30 @@
+[
+    {
+        "content": "one university avenue lowell , ma 01854. office: olsen hall 203. voice: (978) 934-3623 (o); 605-270-9427 (c) fax: (978) 934-3551. e-mail : xinwenfu@cs.uml.", 
+        "email_addr_list": [
+            "xinwenfu@cs.uml"
+        ], 
+        "cite_url": "www.cs.uml.edu/~xinwenfu/", 
+        "cite_name": "University of Massachusetts Lowell", 
+        "title": "Dr. Xinwen Fu @ UMass Lowell - Computer Science"
+    }, 
+    {
+        "content": "xinwen fu. home  kennedy college of ... xinwen fu, computer science, security studies. co-director, associate ... email: xinwenfu@cs.uml.edu  website...", 
+        "email_addr_list": [
+            "xinwenfu@cs.uml.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Massachusetts Lowell", 
+        "title": "Xinwen Fu - UMass Lowell"
+    }, 
+    {
+        "content": "yi qian, university of nebraska -lincoln, usa. email: yqian@ieee.org. xinwen fu, university of massachusetts lowell, usa. email: xinwenfu@cs.uml.edu.", 
+        "email_addr_list": [
+            "yqian@ieee.org", 
+            "xinwenfu@cs.uml.edu"
+        ], 
+        "cite_url": "globecom2011.ieee-globecom.org/cfp_69_2240937517.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Yi Qian, University of Nebraska -Lincoln, USA. Email - IEEE ..."
+    }
+]

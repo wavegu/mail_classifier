@@ -1,0 +1,67 @@
+[
+    {
+        "content": "zhenguo wu phd western ontario. professor. email: bczgwu@ust.hk ... wan, j., sun, l., mendoza, j.w., chui, y.l., huang, d.p., chen, z.j., suzuki, n., suzuki,...", 
+        "email_addr_list": [
+            "bczgwu@ust.hk"
+        ], 
+        "cite_url": "life-sci.ust.hk/.../Prof....", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "Zhenguo WU - Division of Life Science"
+    }, 
+    {
+        "content": "... lab, hong kong email: zhenguol at gmail.com ... qin liu, jiefeng cheng, zhenguo li, john c.s. lui ... deli pei, zhenguo li, rongrong ji, and fuchun sun.", 
+        "email_addr_list": [
+            "zhenguol@gmail.com"
+        ], 
+        "cite_url": "www.ee.columbia.edu/~zgli/", 
+        "cite_name": "", 
+        "title": "Welcome to Zhenguo Lis Homepage"
+    }, 
+    {
+        "content": "email: micky10@vt.edu. jon atwood ... zhenguo gao .... peng sun degree currently sought: ph.d. office: 403f hutcheson hall email: peng11@vt.edu.", 
+        "email_addr_list": [
+            "micky10@vt.edu", 
+            "peng11@vt.edu"
+        ], 
+        "cite_url": "www.stat.vt.edu/people/gs.html", 
+        "cite_name": "Virginia Tech", 
+        "title": "Graduate Students | Department of Statistics | Virginia Tech"
+    }, 
+    {
+        "content": "e-mail: sunzhg@tsinghua.edu.cn ... liu pengfei, sun zhenguo, chen qing and zhang wenzeng. ... chen qiang, du dong, sun zhenguo, zhang wenzeng.", 
+        "email_addr_list": [
+            "sunzhg@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201104231524275545621...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Dept of Mechanical Engineering, Tsinghua University"
+    }, 
+    {
+        "content": "see information and reports about zhenguosun007@yahoo.com (zhenguo suns e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "zhenguosun007@yahoo.com"
+        ], 
+        "cite_url": "spam-report.email/zhenguosun007/yahoo.com", 
+        "cite_name": "", 
+        "title": "zhenguosun007@yahoo.com (Zhenguo Suns e-mail ..."
+    }, 
+    {
+        "content": "name: zhenguo sun; phone number: 905-845-6601 3109; email: david.sun@oakville.ca; member status: oala full member seal and certificate; firm: town...", 
+        "email_addr_list": [
+            "david.sun@oakville.ca"
+        ], 
+        "cite_url": "oala.ca/show-member/1060/", 
+        "cite_name": "", 
+        "title": "Zhenguo Sun - The Ontario Association of Landscape ..."
+    }, 
+    {
+        "content": "e-mail: germanas_peleckis@uow.edu.au. phone: + 61 2 4221 5728 ... e-mail: zhenguo@uow.edu.au. phone: + 61 2 4221 3220 ... dr ziqi sun honorary fellow.", 
+        "email_addr_list": [
+            "germanas_peleckis@uow.edu.au", 
+            "zhenguo@uow.edu.au"
+        ], 
+        "cite_url": "eis.uow.edu.au...", 
+        "cite_name": "University of Wollongong Faculty of Engineering and I...", 
+        "title": "Staff - Engineering and Information Sciences @ UOW"
+    }
+]

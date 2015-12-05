@@ -1,0 +1,38 @@
+[
+    {
+        "content": "congratulations to prof. lin-shan lee received “ieee comsoc/kics exemplary global service award”. ... tsungnan lin won the best travel app of chunghwa telecom hami. star congratulations to ... email:dept@ntu.edu.tw  home  about...", 
+        "email_addr_list": [
+            "dept@ntu.edu.tw"
+        ], 
+        "cite_url": "www.ee.ntu.edu.tw/en/", 
+        "cite_name": "National Taiwan University", 
+        "title": "Department of Electrical Engineering, National Taiwan ..."
+    }, 
+    {
+        "content": "e-mail, pclin@saturn.yzu.edu.tw ... pochiang lin, tsungnan lin, “machine-learning based adaptive approach for frame-size optimization in wireless lan...", 
+        "email_addr_list": [
+            "pclin@saturn.yzu.edu.tw"
+        ], 
+        "cite_url": "www.comm.yzu.edu.tw/english/teacher/cn_pclin.htm", 
+        "cite_name": "Yuan Ze University", 
+        "title": "YZUCN --Po-Chiang Lin"
+    }, 
+    {
+        "content": "tsungnan lin, department of electrical engineering, national taiwan university, taiwan, email: tsungnan@ntu.edu.tw. © 2012 jalel ben-othman contact me.", 
+        "email_addr_list": [
+            "tsungnan@ntu.edu.tw"
+        ], 
+        "cite_url": "www-l2ti.univ-paris13.fr/~jbo/page3/styled/index.html", 
+        "cite_name": "", 
+        "title": "Jalel BEN-OTHMAN Home Page - L2TI"
+    }, 
+    {
+        "content": "david w. lin, national chiao-tung univ., taiwan. ... email: dwlin@cc.nctu.edu.tw. dr. ran ... professor tsungnan lin, national taiwan university, taiwan", 
+        "email_addr_list": [
+            "dwlin@cc.nctu.edu.tw"
+        ], 
+        "cite_url": "www.princeton.edu/~kung/kungstudent.html?q...", 
+        "cite_name": "Princeton University", 
+        "title": "No Title - Princeton University"
+    }
+]

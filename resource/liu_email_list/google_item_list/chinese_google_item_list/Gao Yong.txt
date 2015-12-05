@@ -1,0 +1,67 @@
+[
+    {
+        "content": "by email: contact@gao.gov. organizational phone book. the gao organizational telephone directory provides contact information for ... contact: chuck young", 
+        "email_addr_list": [
+            "contact@gao.gov"
+        ], 
+        "cite_url": "www.gao.gov/about/contact.html", 
+        "cite_name": "Government Accountability Office", 
+        "title": "U.S. GAO - Contact GAO"
+    }, 
+    {
+        "content": "school of engineering. professor yongsheng gao ... tel: (7) 3735-3652; fax: (7) 3735-5198; email: yongsheng.gao@griffith.edu.au. office: n55_0.28h. back to...", 
+        "email_addr_list": [
+            "yongsheng.gao@griffith.edu.au"
+        ], 
+        "cite_url": "https://maxwell.ict.griffith.edu.au/yg/", 
+        "cite_name": "", 
+        "title": "Yongsheng Gao Homepage - Griffith University"
+    }, 
+    {
+        "content": "aug 15, 2015 - yong q. gao, ph.d. professor of cs. office: nc2315 email: ygao@ohlone.edu ... ygao@ohlone.edu. office nc2315 (email me for appointment)...", 
+        "email_addr_list": [
+            "ygao@ohlone.edu", 
+            "ygao@ohlone.edu"
+        ], 
+        "cite_url": "www2.ohlone.edu/people/ygao/", 
+        "cite_name": "Ohlone College", 
+        "title": "Gao, Yong"
+    }, 
+    {
+        "content": "yong gao. boise state university. associate professor, department of kinesiology ... email: yonggao@boisestate.edu phone: 208-426-4864 fax: 208-426-1894...", 
+        "email_addr_list": [
+            "yonggao@boisestate.edu"
+        ], 
+        "cite_url": "works.bepress.com/yong_gao/contact.html", 
+        "cite_name": "", 
+        "title": "Yong Gao | Email, Telephone, and Contact Information ..."
+    }, 
+    {
+        "content": "office: k-201; phone:(208) 426-4864; email:yonggao@boisestate.edu; vita: gao vitae 2012. dr. yong gao earned a phd in measurement  evaluation from the...", 
+        "email_addr_list": [
+            "yonggao@boisestate.edu"
+        ], 
+        "cite_url": "kinesiology.boisestate.edu/yong-gao/", 
+        "cite_name": "Boise State University", 
+        "title": "Yong Gao, Ph.D., Associate Professor | Department of ..."
+    }, 
+    {
+        "content": "... co 80525 e-mail: gra@riverside.com bai jianjun, department of surveying, ... 550 n. park st. madison wi 53706, usa email: jgao3@wisc.edu gao yong,...", 
+        "email_addr_list": [
+            "gra@riverside.com", 
+            "jgao3@wisc.edu"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=3540778004", 
+        "cite_name": "", 
+        "title": "Advances in Digital Terrain Analysis - Google Books Result"
+    }, 
+    {
+        "content": "... or you are interested in doing research work in our laboratory, please do not hesitate to contact dr. yong gao at (618)453-4904; email: ygao@chem.siu.edu.", 
+        "email_addr_list": [
+            "ygao@chem.siu.edu"
+        ], 
+        "cite_url": "chem.siu.edu/.../yong-gao%20gr...", 
+        "cite_name": "Southern Illinois University Carbondale", 
+        "title": "Gao Group | Chemistry and Biochemistry | SIU"
+    }
+]

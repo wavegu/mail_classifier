@@ -1,0 +1,49 @@
+[
+    {
+        "content": "email: kunzhou at acm dot org. i am a .... hao qin, xin sun, qiming hou, baining guo, kun zhou ... hao qin, menglei chai, qiming hou, zhong ren, kun zhou.", 
+        "email_addr_list": [
+            "kunzhou@acm.org"
+        ], 
+        "cite_url": "www.kunzhou.net/", 
+        "cite_name": "", 
+        "title": "Kun Zhou"
+    }, 
+    {
+        "content": "oct 20, 2015 - zhou qiming (周啟鳴教授) ... email: qiming@hkbu.edu.hk .... hou, q. and zhou, q., 2012, spatio-temporal relationships between urban growth...", 
+        "email_addr_list": [
+            "qiming@hkbu.edu.hk"
+        ], 
+        "cite_url": "geog.hkbu.edu.hk/?page_id=613", 
+        "cite_name": "", 
+        "title": "Prof. Zhou Qiming (周啟鳴教授) - Department of Geography"
+    }, 
+    {
+        "content": "... kunzhou@acm.org peter-pike sloan nvidia corporation ppsloan@nvidia.com john snyder microsoft research johnsny@microsoft.com qiming hou state...", 
+        "email_addr_list": [
+            "kunzhou@acm.org", 
+            "ppsloan@nvidia.com", 
+            "johnsny@microsoft.com"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-kunzhou-acm-org-15932978.htm", 
+        "cite_name": "", 
+        "title": "kunzhou@acm.org - The Email Archive"
+    }, 
+    {
+        "content": "best self documenting program. hou qiming hqm03ster@gmail.com. judges comments: to build: make hou. to run: ./hou a calculator expression -- see the c...", 
+        "email_addr_list": [
+            "hqm03ster@gmail.com"
+        ], 
+        "cite_url": "www.ioccc.org/2011/hou/hint.html", 
+        "cite_name": "", 
+        "title": "Best self documenting program"
+    }, 
+    {
+        "content": "cancel. qiming zhou. hong kong baptist university  geographical information system, remote sensing. verified email at hkbu.edu.hk ... j qian, q zhou, q hou.", 
+        "email_addr_list": [
+            "email@hkbu.edu.hk"
+        ], 
+        "cite_url": "scholar.google.com.my/citations?user=5Fo9kqQAAAAJhl...", 
+        "cite_name": "Google", 
+        "title": "Qiming Zhou - Google Scholar Citations - Google.com.my"
+    }
+]

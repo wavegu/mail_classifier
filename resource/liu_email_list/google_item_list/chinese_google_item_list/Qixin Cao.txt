@@ -1,0 +1,65 @@
+[
+    {
+        "content": "name：prof.qixin cao. title：. telephone：. email：qxcao@sjtu.edu.cn. website：. detail. copyright © 2010-2011 state key laboratory of mechanical system...", 
+        "email_addr_list": [
+            "qxcao@sjtu.edu.cn"
+        ], 
+        "cite_url": "msv.sjtu.edu.cn/English/Teacher/showDetail.aspx?pid=68", 
+        "cite_name": "", 
+        "title": "Detail"
+    }, 
+    {
+        "content": "email: zhfu@sjtu.edu.cn ... zhuang fu, fei ni， qixin cao and yanzheng zhao，the facial texture analysis for the automatic portrait drawing，pattern...", 
+        "email_addr_list": [
+            "zhfu@sjtu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "FU Zhuang - School of Mechanical Engineering Shanghai ..."
+    }, 
+    {
+        "content": "email：zhfu@sjtu.edu.cn. academic ... zhuang fu, fei ni， qixin cao and yanzheng zhao，the facial texture analysis for the automatic portrait drawing，pattern...", 
+        "email_addr_list": [
+            "zhfu@sjtu.edu.cn"
+        ], 
+        "cite_url": "www.robot.sjtu.edu.cn/English/Teacher/showDetail.aspx?pid=28", 
+        "cite_name": "", 
+        "title": "Welcome to Robotics Institute of Sjtu"
+    }, 
+    {
+        "content": "email： zhanglei@sjtu.edu.cn. education. 2002-2006 ... [2] zhang lei, cao qixin, a novel ant-based clustering algorithm based on kernel method. information...", 
+        "email_addr_list": [
+            "zhanglei@sjtu.edu.cn"
+        ], 
+        "cite_url": "www.imscenter.net/Members/visitors/CV-zhanglei.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Dr. Lei Zhang"
+    }, 
+    {
+        "content": "sep 10, 2008 - changwu qiua1, qixin caoa2 and shouhong miaoa3. a1 school of mechanical ... e-mail: qcw@sjtu.org. how to cite this article; link to this...", 
+        "email_addr_list": [
+            "qcw@sjtu.org"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S0263574708...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Robotica - An on-line task modification method for ..."
+    }, 
+    {
+        "content": "jul 9, 2008 - changwu qiua1, qixin caoa2, leibin yua1 and shouhong miaoa1. a1 school of mechanical ... e-mail: qcw@sjtu.org. how to cite this article...", 
+        "email_addr_list": [
+            "qcw@sjtu.org"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S0263574708...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Robotica - Improving the stability level for on-line planning ..."
+    }, 
+    {
+        "content": "email: qingxia@tsinghua.edu.cn .... qixin chen, chongqing kang, qing xia, jin zhong. .... cao yufeng, chen qixin, xia qing, li jianshe, hu yang.", 
+        "email_addr_list": [
+            "qingxia@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201012161109278697265...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Department of Electrical Engineering,Tsinghua"
+    }
+]

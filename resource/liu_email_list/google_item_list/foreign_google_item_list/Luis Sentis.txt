@@ -1,0 +1,38 @@
+[
+    {
+        "content": "contact gates building, room 111,: stanford, ca 94305. email lsentis at cs.stanford.edu. luis sentis, assitive robotics, coordination-of-systems-with-many-dofs...", 
+        "email_addr_list": [
+            "lsentis@cs.stanford.edu"
+        ], 
+        "cite_url": "ai.stanford.edu/~lsentis/", 
+        "cite_name": "Stanford AI Lab", 
+        "title": "Luis Sentis homepage - Stanford AI Lab - Stanford University"
+    }, 
+    {
+        "content": "luis sentis. assistant professor. email: lsentis@austin.utexas.edu. phone: (512) 471-5987. office: etc 4.165. www.me.utexas.edu/~hcrl/index.html. dr. sentis is...", 
+        "email_addr_list": [
+            "lsentis@austin.utexas.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Texas at Austin", 
+        "title": "Luis Sentis - Department of Mechanical Engineering"
+    }, 
+    {
+        "content": "email: luis.sentis@austin.utexas.edu. url: http://ai.stanford.edu/˜lsentis/. education. ph.d. 2007, electrical engineering department, stanford university.", 
+        "email_addr_list": [
+            "luis.sentis@austin.utexas.edu"
+        ], 
+        "cite_url": "www.me.utexas.edu/~lsentis/cv/cv.pdf", 
+        "cite_name": "University of Texas at Austin", 
+        "title": "[PDF]LUIS SENTIS, Ph.D. Assistant Professor Mechanical ..."
+    }, 
+    {
+        "content": "oct 30, 2014 - in discussing the future of robots wednesday, luis sentis, mechanical engineering ... “dreamer,” a robot developed by sentis and the universitys human centered robotics lab, .... email webmaster[at]dailytexanonline.com.", 
+        "email_addr_list": [
+            "webmaster@dailytexanonline.com"
+        ], 
+        "cite_url": "https://www.dailytexanonline.com/person/luis-sentis", 
+        "cite_name": "The Daily Texan", 
+        "title": "Luis Sentis | The Daily Texan"
+    }
+]

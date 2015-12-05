@@ -1,0 +1,11 @@
+[
+    {
+        "content": "jeanny hérault and dr. pierre comon, i received the signal processing best paper award from european ... mail : christian.jutten@gipsa-lab.grenoble-inp.fr.", 
+        "email_addr_list": [
+            "christian.jutten@gipsa-lab.grenoble-inp.fr"
+        ], 
+        "cite_url": "www.gipsa-lab.grenoble-inp.fr/~christi...", 
+        "cite_name": "Grenoble Institute of Technology", 
+        "title": "Christian JUTTEN home page - GIPSA-lab - Grenoble INP"
+    }
+]

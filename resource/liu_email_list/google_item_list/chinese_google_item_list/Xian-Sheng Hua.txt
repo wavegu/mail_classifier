@@ -1,0 +1,74 @@
+[
+    {
+        "content": "view xian-sheng huas professional profile on linkedin. linkedin is the worlds ... new contact information: huaxiansheng@gmail.com • 10+ years industry...", 
+        "email_addr_list": [
+            "huaxiansheng@gmail.com"
+        ], 
+        "cite_url": "https://www.linkedin.com/in/xshua", 
+        "cite_name": "", 
+        "title": "Xian-Sheng Hua | LinkedIn"
+    }, 
+    {
+        "content": "e-mail tyliu@microsoft.com. homepage http://research.microsoft.com/users/tyliu. address. 4f sigma center, no. 49 zhichun road, beijing, 100190, p.r.china.", 
+        "email_addr_list": [
+            "tyliu@microsoft.com"
+        ], 
+        "cite_url": "research.microsoft.com/en-us/.../cv-tyliu-public.pdf", 
+        "cite_name": "Microsoft Research", 
+        "title": "[PDF]Curriculum Vitae - Xian-Sheng Hua"
+    }, 
+    {
+        "content": "share on facebook tweet on twitter share on linkedin share by email. microsoft ... please send emails to xian-sheng hua (xshua@microsoft.com). due to...", 
+        "email_addr_list": [
+            "xshua@microsoft.com"
+        ], 
+        "cite_url": "research.microsoft.com/en-us/projects/clickture", 
+        "cite_name": "Microsoft Research", 
+        "title": "Clickture - Microsoft Research"
+    }, 
+    {
+        "content": "the latest tweets from xian-sheng hua (@xshua): hiring more: researcher/applied researcher/research sde: ... email: xshua@microsoft.com. 3 retweets 1...", 
+        "email_addr_list": [
+            "xshua@microsoft.com"
+        ], 
+        "cite_url": "https://twitter.com/xshua", 
+        "cite_name": "", 
+        "title": "Xian-Sheng Hua (@xshua) | Twitter"
+    }, 
+    {
+        "content": "xian-sheng hua is now a principle research and development lead for bing ... before joining bing in 2011, dr. hua was a lead researcher with microsoft research asia. ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_addr_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/xian_sheng_hua/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Xian-Sheng Hua - VideoLectures.NET"
+    }, 
+    {
+        "content": "page 1 of 4. xian-sheng hua. one microsoft way, redmond, wa 98052. 425.449.2599 huaxiansheng@gmail.com. qualifications. ▫ 9+ years industry...", 
+        "email_addr_list": [
+            "huaxiansheng@gmail.com"
+        ], 
+        "cite_url": "https://xshua.files.wordpress.com/.../cv_xian-sheng_hua_june_2012.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Curriculum Vitae - Xian-Sheng Hua – Everyday is a nice day"
+    }, 
+    {
+        "content": "may 9, 2010 - phone +86 10 58963200 (office) email: xshua@microsoft.com .... yuan liu, tao mei, meng wang, xiuqing wu, xian-sheng hua.", 
+        "email_addr_list": [
+            "xshua@microsoft.com"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?rep=rep1type=pdf...1...", 
+        "cite_name": "", 
+        "title": "[PDF]Curriculum Vitae - Xian-Sheng Hua - CiteSeer"
+    }, 
+    {
+        "content": "email:junzzustc@gmail.com. qualifications. ph.d., university ... bo liu, meng wang, richang hong, zheng-jun zha, xian-sheng hua. “joint learning of labels...", 
+        "email_addr_list": [
+            "junzzustc@gmail.com"
+        ], 
+        "cite_url": "www.scirp.org/journal/DetailedInforOfEditorialBoard.aspx?personID...", 
+        "cite_name": "", 
+        "title": "Zheng-Jun Zha - Editorial Board - Scientific Research ..."
+    }
+]

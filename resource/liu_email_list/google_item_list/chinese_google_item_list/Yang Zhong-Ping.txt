@@ -1,0 +1,57 @@
+[
+    {
+        "content": "jun 30, 2015 - yang zhongping. sourse： ... email：jdyz@nwsuaf.edu.cn. education ... electr. eng.,. northwest af university, yang ling, p. r. china.", 
+        "email_addr_list": [
+            "jdyz@nwsuaf.edu.cn"
+        ], 
+        "cite_url": "en.nwsuaf.edu.cn/faculties/co10/55613.htm", 
+        "cite_name": "Northwest AF University", 
+        "title": "Yang Zhongping 西北农林大学英文网"
+    }, 
+    {
+        "content": "yang zhongping. name: yang zhongping. professional title ... phone: 010-5168-4864. office: 电气工程楼609. fax: 010-5168-7101. email: zhpyang@bjtu.edu.cn...", 
+        "email_addr_list": [
+            "zhpyang@bjtu.edu.cn"
+        ], 
+        "cite_url": "ee.bjtu.edu.cn/en/faculty.php?dept=6tid=163", 
+        "cite_name": "", 
+        "title": "Yang Zhongping - School of Electrical Engineering - Beijing ..."
+    }, 
+    {
+        "content": "dec 1, 2014 - dr. dongping zhong. robert smith ... e-mail: zhong.28@asc.ohio-state.edu ... dihao wang osbp. jin yang physics. meng zhang biophysics...", 
+        "email_addr_list": [
+            "zhong.28@asc.ohio-state.edu"
+        ], 
+        "cite_url": "https://www.physics.ohio-state.edu/~dongping/people.htm", 
+        "cite_name": "", 
+        "title": "The Zhong Group - Group Members"
+    }, 
+    {
+        "content": "jun 8, 2009 - e-mail: zplai@isl.ac.cn; zplai@yahoo.com.cn. professor zhongping lai obtained his bsc in geography from east china normal university in...", 
+        "email_addr_list": [
+            "zplai@isl.ac.cn", 
+            "zplai@yahoo.com.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Zhongping Lai - Qinghai Institute of Salt Lakes"
+    }, 
+    {
+        "content": "zhong-ping jiang. professor ... professor email: greengard@cims.nyu.edu ... yang xu. research assistant professor. electrical and computer engineering.", 
+        "email_addr_list": [
+            "greengard@cims.nyu.edu"
+        ], 
+        "cite_url": "engineering.nyu.edu/academics/departments/.../peo...", 
+        "cite_name": "New York University", 
+        "title": "People - NYU Tandon School of Engineering"
+    }, 
+    {
+        "content": "... baosong liu1,2, burton b. yang4, james t. rutka1, zhong-ping feng2 and hong-shuo sun1,2,3,5 ... zhong-ping feng, email: zp.feng@utoronto.ca.", 
+        "email_addr_list": [
+            "zp.feng@utoronto.ca"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Inhibition of TRPM7 by carvacrol suppresses glioblastoma ..."
+    }
+]

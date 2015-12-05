@@ -1,0 +1,20 @@
+[
+    {
+        "content": "russell h. taylor. 1 of 53. russell h. ... 410-516-5553. email rht@jhu.edu. web page http://cs.jhu.edu/~rht/ lab web page: http://ciis.lcsr.jhu.edu/. education.", 
+        "email_addr_list": [
+            "rht@jhu.edu"
+        ], 
+        "cite_url": "www.cs.jhu.edu/.../Russell%20H%20Taylor%2...", 
+        "cite_name": "Johns Hopkins University", 
+        "title": "[PDF]Russell H Taylor - Department of Computer Science - Johns ..."
+    }, 
+    {
+        "content": "dr. russell h. taylor. biography. taylor received his ph.d. in computer science from stanford in 1976. ... email: bioengineering@tum.de  facebook  twitter.", 
+        "email_addr_list": [
+            "bioengineering@tum.de"
+        ], 
+        "cite_url": "www.bioengineering.gs.tum.de/en/network/.../prof-dr-russell-h-taylor/", 
+        "cite_name": "", 
+        "title": "Prof. Dr. Russell H. Taylor - TUM - Graduate School of ..."
+    }
+]

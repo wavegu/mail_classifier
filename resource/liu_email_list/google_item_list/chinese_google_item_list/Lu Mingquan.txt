@@ -1,0 +1,29 @@
+[
+    {
+        "content": "e-mail: lumq@tsinghua.edu.cn ... patents. [1] li hong, cui xiaowei, lu mingquan, feng zhenming, dual-folding acquisition method for long period spectrum...", 
+        "email_addr_list": [
+            "lumq@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201012191224219573379...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Lu,Mingquan"
+    }, 
+    {
+        "content": "oct 28, 2014 - mingquan lu—ace-boc: a signal structure proposed for beidou. ➣ grace ... email: tom.langenstein@stanford.edu. phone: (650) 823-4906.", 
+        "email_addr_list": [
+            "tom.langenstein@stanford.edu"
+        ], 
+        "cite_url": "scpnt.stanford.edu/pnt/.../2014_PNT_Symposium_Info_pkg-v2-scrn.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Download - Stanford Center for Position, Navigation and Time"
+    }, 
+    {
+        "content": "oct 14, 2011 - sihao zhaoa1, mingquan lua1 and zhenming fenga1. a1 (dept. of electronic ... c1 (email: zsh@mails.thu.edu.cn). how to cite this article...", 
+        "email_addr_list": [
+            "zsh@mails.thu.edu.cn"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S03734633...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "The Journal of Navigation - Implementation and ..."
+    }
+]

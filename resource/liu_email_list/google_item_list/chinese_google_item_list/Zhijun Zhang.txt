@@ -1,0 +1,11 @@
+[
+    {
+        "content": "jul 22, 2009 - zhang zhijun 张智军. department: division of nanobiomedicine  nanosafety. position: professor. expertise: email: zjzhang2007@sinano.ac.", 
+        "email_addr_list": [
+            "zjzhang2007@sinano.ac"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Faculty---- Suzhou Institute of Nano-tech and Nano-bionics ..."
+    }
+]

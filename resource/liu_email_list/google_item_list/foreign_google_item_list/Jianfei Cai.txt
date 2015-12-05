@@ -1,0 +1,39 @@
+[
+    {
+        "content": "academic profile. assoc prof cai jianfei. associate professor school of computer engineering college of engineering. email: asjfcai@ntu.edu.sg", 
+        "email_addr_list": [
+            "asjfcai@ntu.edu.sg"
+        ], 
+        "cite_url": "research.ntu.edu.sg/.../StaffProfile.asp...", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "NTU: Academic Profile: Assoc Prof Cai Jianfei"
+    }, 
+    {
+        "content": "supervisors  projects. s/n supervisor. appointment email. research area of possible phd studies. 1 cai jianfei. associate. professor. asjfcai@ntu.edu.sg.", 
+        "email_addr_list": [
+            "asjfcai@ntu.edu.sg"
+        ], 
+        "cite_url": "https://www.a-star.edu.sg/...", 
+        "cite_name": "Agency for Science, Technology and Research", 
+        "title": "[PDF]S/N Supervisor Appointment Email Research Area ... - A*Star"
+    }, 
+    {
+        "content": "cai jianfei, jianfei cai school of computer ... fax: +886-05-2717741. email: dychan@mail.ncyu.edu.tw ... tel: +1-310-941-0625. email: jianwen.chen@ieee.org", 
+        "email_addr_list": [
+            "dychan@mail.ncyu.edu.tw", 
+            "jianwen.chen@ieee.org"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Visual Signal Processing and Communications Technical ..."
+    }, 
+    {
+        "content": "email, gaody@bjtu.edu.cn ... deyun gao, jianfei cai, chang wen chen, admission control based on rate-variance envelop for vbr traffics over ieee 802.11e...", 
+        "email_addr_list": [
+            "gaody@bjtu.edu.cn"
+        ], 
+        "cite_url": "eaie.bjtu.edu.cn/EnglishVersion/faculty/associate.../gaodeyun.html", 
+        "cite_name": "", 
+        "title": "Lecturer of SEIE"
+    }
+]

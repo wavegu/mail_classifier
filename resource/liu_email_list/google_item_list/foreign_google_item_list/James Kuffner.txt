@@ -1,0 +1,20 @@
+[
+    {
+        "content": "national institute of advanced industrial science and technology (aist), japan e.yoshida@aist.go.jp. kuffner james. james kuffner google research, google...", 
+        "email_addr_list": [
+            "e.yoshida@aist.go.jp"
+        ], 
+        "cite_url": "www.ieee-ras.org/humanoid-robotics/contact", 
+        "cite_name": "", 
+        "title": "Contact - IEEE Robotics and Automation Society"
+    }, 
+    {
+        "content": "james j. kuffner. james j. kuffner. title: asst vp comm relations univ op; email: kuffner@up.edu; office location: physical plant room 303; mail stop code:...", 
+        "email_addr_list": [
+            "kuffner@up.edu"
+        ], 
+        "cite_url": "www.up.edu/dir/directory/showperson.aspx?id...", 
+        "cite_name": "University of Portland", 
+        "title": "James J. Kuffner - Profile | University of Portland"
+    }
+]

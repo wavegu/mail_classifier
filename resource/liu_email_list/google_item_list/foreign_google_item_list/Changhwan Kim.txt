@@ -1,0 +1,20 @@
+[
+    {
+        "content": "changhwan kim. ... professor kim is specialized in the areas of stratification, work and ... to contact, email him at chkim@ku.edu or call 785-864-9426.", 
+        "email_addr_list": [
+            "chkim@ku.edu"
+        ], 
+        "cite_url": "people.ku.edu/~chkim/", 
+        "cite_name": "University of Kansas", 
+        "title": "ChangHwan Kim - The University of Kansas"
+    }, 
+    {
+        "content": "changhwan kim, department of sociology, university of kansas, 1415 jayhawk boulevard, room 716, lawrence, ks 66045 e-mail: chkim@ku.edu...", 
+        "email_addr_list": [
+            "chkim@ku.edu"
+        ], 
+        "cite_url": "asr.sagepub.com/content/75/6/934.short", 
+        "cite_name": "Sage Publications", 
+        "title": "Have Asian American Men Achieved Labor Market Parity ..."
+    }
+]

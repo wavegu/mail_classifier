@@ -1,0 +1,20 @@
+[
+    {
+        "content": "zhu xiangyang ... email: mexyzhu@sjtu.edu.cn ... [1] l. yao, j. meng, x. sheng, d. zhang, x. zhu, a novel calibration and task guidance framework for motor...", 
+        "email_addr_list": [
+            "mexyzhu@sjtu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "ZHU Xiang-Yang - School of Mechanical Engineering ..."
+    }, 
+    {
+        "content": "phone: +1-561-297-3452; email: xzhu3@fau.edu ... xingquan zhu, ahmed elmagarmid, xiangyang xue, lide wu, and ann catlin, insightvide: towards...", 
+        "email_addr_list": [
+            "xzhu3@fau.edu"
+        ], 
+        "cite_url": "www.cse.fau.edu/~xqzhu/", 
+        "cite_name": "", 
+        "title": "Welcome to Xingquan (Hill) Zhus Homepage"
+    }
+]

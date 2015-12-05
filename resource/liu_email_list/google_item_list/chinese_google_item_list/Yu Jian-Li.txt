@@ -1,0 +1,49 @@
+[
+    {
+        "content": "contact details. tel: +61 3 990 39702. fax: +61 3 9903 9629. email: jian.li@monash.edu. web: http://www.pharm.monash.edu.au/research/mips/d4/index.html.", 
+        "email_addr_list": [
+            "jian.li@monash.edu"
+        ], 
+        "cite_url": "https://www.monash.edu/pharm/research/researchers/profile.html?sid...", 
+        "cite_name": "", 
+        "title": "Professor Jian Li - Researcher Profile - Monash University"
+    }, 
+    {
+        "content": "email: liyujian@bjut.edu.cn. biography yujian li was born in guilin, china, on october 10, 1968. he received the b.s. degree in mathematics from hua zhong...", 
+        "email_addr_list": [
+            "liyujian@bjut.edu.cn"
+        ], 
+        "cite_url": "english.bjut.edu.cn/faculties/collegeofcomputerscience/.../17443.shtml", 
+        "cite_name": "", 
+        "title": "Li Yujian - Beijing University of Technology"
+    }, 
+    {
+        "content": "js6sm@virginia.edu. web development: yujian li. yl7kd@virginia.edu. email: csss-owner@virginia.edu. address: chinese students and scholars society", 
+        "email_addr_list": [
+            "js6sm@virginia.edu", 
+            "yl7kd@virginia.edu", 
+            "csss-owner@virginia.edu"
+        ], 
+        "cite_url": "www.uvacsss.com/contact/", 
+        "cite_name": "", 
+        "title": "Contact - Chinese Students and Scholars Society"
+    }, 
+    {
+        "content": "jian.li@monash.edu ... professor yue-zhong li (shandong university, china) prof roger ... gong chen hee ji lee research assistant: anima poudyal heidi yu", 
+        "email_addr_list": [
+            "jian.li@monash.edu"
+        ], 
+        "cite_url": "viin.org.au/member/jian-li", 
+        "cite_name": "", 
+        "title": "Jian Li | Member Profile | VIIN"
+    }, 
+    {
+        "content": "email this article (login required) ... jian-chao wang, hai-jiao yang, jing-min yu, jian-li jiang, zhi-nan chen _ ... jian-li jiang, email: jiangjl@fmmu.edu.cn.", 
+        "email_addr_list": [
+            "jiangjl@fmmu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "CD147 reinforces [Ca 2+ ] i oscillations and promotes ..."
+    }
+]

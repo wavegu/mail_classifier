@@ -1,0 +1,75 @@
+[
+    {
+        "content": "nov 3, 2015 - phone: +61 8 6488 3289; email: yong.song@uwa.edu.au ... biography: dr yong song is a full time academic at the university of western...", 
+        "email_addr_list": [
+            "yong.song@uwa.edu.au"
+        ], 
+        "cite_url": "uwa.edu.au/people/Yong.Song", 
+        "cite_name": "University of Western Australia", 
+        "title": "Dr Yong Song - UWA Staff Profile : The University of ..."
+    }, 
+    {
+        "content": "yong song. business address. department of economics. university of toronto. 150 st. george street. toronto, on m5s 3g7. email: tommy.song@utoronto.ca.", 
+        "email_addr_list": [
+            "tommy.song@utoronto.ca"
+        ], 
+        "cite_url": "individual.utoronto.ca/ysong1/files/CV.pdf", 
+        "cite_name": "University of Toronto", 
+        "title": "[PDF]Yong Song - University of Toronto"
+    }, 
+    {
+        "content": "first name: yong. middle name: last name: song. suffix: repec short-id: pso326. email: ysong1@gmail.com. homepage: postal address: phone:...", 
+        "email_addr_list": [
+            "ysong1@gmail.com"
+        ], 
+        "cite_url": "https://ideas.repec.org/f/pso326.html", 
+        "cite_name": "", 
+        "title": "Yong Song at IDEAS"
+    }, 
+    {
+        "content": "nov 2, 2015 - email: seowcm@sph.com.sg. chua chim kang (蔡 ... han yong may (韩咏梅) digital editor, cmg .... chin khai song (陈凯松） associate news...", 
+        "email_addr_list": [
+            "seowcm@sph.com.sg"
+        ], 
+        "cite_url": "www.sph.com.sg/contact-us/.../media-contacts/", 
+        "cite_name": "Singapore Press Holdings", 
+        "title": "Media Contacts - Singapore Press Holdings"
+    }, 
+    {
+        "content": "... computer engineering e-mail: throne@rose-hulman.edu ... yong jin daniel kim, ph.d. assistant ... website: http://www.rose-hulman.edu/~song/. degrees:.", 
+        "email_addr_list": [
+            "throne@rose-hulman.edu"
+        ], 
+        "cite_url": "www.rose-hulman.edu/.../faculty-s...", 
+        "cite_name": "Rose‑Hulman Institute of Technology", 
+        "title": "Faculty  Staff - Electrical  Computer Engineering ..."
+    }, 
+    {
+        "content": "song, yong-won nanomaterial science and engineering major: position : principal ... applications of nano-materials/photonics: email : ysong@kist.re.kr.", 
+        "email_addr_list": [
+            "ysong@kist.re.kr"
+        ], 
+        "cite_url": "irda.kist.re.kr/html/sub04/sub04_01.asp?pageNo=3", 
+        "cite_name": "", 
+        "title": "3 - KIST International RD Academy"
+    }, 
+    {
+        "content": "email: jingkong@mit.edu. phone: (617) 324-4068 ... jin-yong hong. email: ... yi song. email: yisong@mit.edu. phone: (617) 253-6860. mit room 13-3033...", 
+        "email_addr_list": [
+            "jingkong@mit.edu", 
+            "yisong@mit.edu"
+        ], 
+        "cite_url": "www.rle.mit.edu/nmeg/people/", 
+        "cite_name": "Research Laboratory of Electronics at MIT", 
+        "title": "People | Nanomaterials and Electronics Group"
+    }, 
+    {
+        "content": "rafael y. songs research and teaching interests are interdisciplinary in both mechanical ... email: rafael.song@nyu.edu ... brigham young university, utah.", 
+        "email_addr_list": [
+            "rafael.song@nyu.edu"
+        ], 
+        "cite_url": "https://nyuad.nyu.edu/...song.../people....", 
+        "cite_name": "New York University Abu Dhabi", 
+        "title": "People - NYU Abu Dhabi"
+    }
+]

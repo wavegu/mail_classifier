@@ -1,0 +1,56 @@
+[
+    {
+        "content": "feb 11, 2015 - profile for dr wanty widjaja, lecturer. ... burwood campus. phone: +61 3 92446922 +61 3 92446922. email: w.widjaja@deakin.edu.au...", 
+        "email_addr_list": [
+            "w.widjaja@deakin.edu.au"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Deakin University", 
+        "title": "Dr Wanty Widjaja - Staff profile"
+    }, 
+    {
+        "content": "anthony widjaja lin. science (computer science). assistant professor. contact no.: +65 6601-3699. email: anthony.w.lin@yale-nus.edu.sg. website:...", 
+        "email_addr_list": [
+            "anthony.w.lin@yale-nus.edu.sg"
+        ], 
+        "cite_url": "https://www.yale-nus.edu.sg/.../anthony-widjaja-lin/", 
+        "cite_name": "Yale‑NUS College", 
+        "title": "Anthony Widjaja Lin - Yale-NUS College"
+    }, 
+    {
+        "content": "felicia widjaja , mph. download vcard. title. sr clin research coordinator. department. m_psych-lppi-core-general. email. felicia.widjaja@ucsf.edu...", 
+        "email_addr_list": [
+            "felicia.widjaja@ucsf.edu"
+        ], 
+        "cite_url": "https://directory.ucsf.edu/people/search/id/57840", 
+        "cite_name": "", 
+        "title": "Felicia Widjaja , MPH - UCSF Directory - University of ..."
+    }, 
+    {
+        "content": "oct 12, 2015 - hailing from western australia, hendra widjaja is arguably one of the best .... email us enquiries@beautyedu.edu.au. call us 1300 762 494.", 
+        "email_addr_list": [
+            "enquiries@beautyedu.edu.au"
+        ], 
+        "cite_url": "https://www.beautyedu.edu.au/.../airbrush-masterclass-with-hendra-widja...", 
+        "cite_name": "", 
+        "title": "airbrush masterclass with hendra widjaja | Beauty EDU"
+    }, 
+    {
+        "content": "media |; news |; forms |; about us |; contact us |; email this page. home  for advisers  for migrants  search ... eddy widjaja. email browillsltd@gmail.com...", 
+        "email_addr_list": [
+            "browillsltd@gmail.com"
+        ], 
+        "cite_url": "https://iaa.ewr.govt.nz/PublicRegister/View.aspx?LastName=w...", 
+        "cite_name": "", 
+        "title": "Eddy Widjaja | Immigration Advisers Authority"
+    }, 
+    {
+        "content": "real estate profile for james widjaja areinz ... james widjaja licensee agent (reaa 2008) email: james.widjaja@raywhite.com mobile: 0274 459 999...", 
+        "email_addr_list": [
+            "james.widjaja@raywhite.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "James Widjaja AREINZ - Realestate.co.nz"
+    }
+]

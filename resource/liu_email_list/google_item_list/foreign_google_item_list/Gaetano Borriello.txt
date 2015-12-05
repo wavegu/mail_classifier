@@ -1,0 +1,20 @@
+[
+    {
+        "content": "feb 1, 2015 - our friend, colleague, and advisor gaetano borriello has passed away. ... rss: opendatakit.org/feed; email: opendatakit@googlegroups.com...", 
+        "email_addr_list": [
+            "opendatakit@googlegroups.com"
+        ], 
+        "cite_url": "https://opendatakit.org/2015/02/remembering-gaetano-borriello/", 
+        "cite_name": "", 
+        "title": "Open Data Kit » Remembering Gaetano Borriello"
+    }, 
+    {
+        "content": "gaetano borriello. professor of computer science  engineering, university of washington. verified email at cs.washington.edu. @cs.washington.edu. cited by...", 
+        "email_addr_list": [
+            "email@cs.washington.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?view_op=search...", 
+        "cite_name": "Google Scholar", 
+        "title": "Google Scholar Citations"
+    }
+]

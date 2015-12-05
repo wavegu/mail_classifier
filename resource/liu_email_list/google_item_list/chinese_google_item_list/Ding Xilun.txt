@@ -1,0 +1,20 @@
+[
+    {
+        "content": "xilun ding. robotics institute. beihang university. beijing, china 100191. email: xlding@buaa.edu.cn. rezia molfino. pmar robotics. university of genoa.", 
+        "email_addr_list": [
+            "xlding@buaa.edu.cn"
+        ], 
+        "cite_url": "proceedings.asmedigitalcollection.asme.org/.../V05BT08A024-DETC2014-...", 
+        "cite_name": "", 
+        "title": "View PDF - Conference Proceedings"
+    }, 
+    {
+        "content": "aug 2, 2015 - pmar robotics. university of genoa. genoa, italy 16145. email: zlatanov@dimec.unige.it. xilun ding. robotics institute. beihang university.", 
+        "email_addr_list": [
+            "zlatanov@dimec.unige.it"
+        ], 
+        "cite_url": "www2.eng.cam.ac....", 
+        "cite_name": "Department of Engineering, University of Cambridge", 
+        "title": "[PDF]pdf copy - University of Cambridge"
+    }
+]

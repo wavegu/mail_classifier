@@ -1,0 +1,38 @@
+[
+    {
+        "content": "apr 11, 2014 - email: okuno@aoni.waseda.jp ... kazuhiro nakadai, toru takahashi, hiroshi g. okuno, hirofumi nakajima, yuji hasegawa, hiroshi tsujino:...", 
+        "email_addr_list": [
+            "okuno@aoni.waseda.jp"
+        ], 
+        "cite_url": "winnie.kuis.kyoto-u.ac.jp/members/okuno/souran_e.html", 
+        "cite_name": "", 
+        "title": "Hiroshi G. Okuno"
+    }, 
+    {
+        "content": "e-mail: kuniaki.noda [at] akane.waseda.jp. my profile ... kuniaki noda, yuki yamaguchi, kazuhiro nakadai, hiroshi g. okuno, and tetsuya ogata. applied...", 
+        "email_addr_list": [
+            "kuniaki.noda@akane.waseda.jp"
+        ], 
+        "cite_url": "ogata-lab.jp/member/kuniaki-noda.html", 
+        "cite_name": "", 
+        "title": "Kuniaki Noda - Laboratory for Intelligent Dynamics and ..."
+    }, 
+    {
+        "content": "e-mail: okuno@i.kyoto-u.ac.jp ... kazuhiro nakadai, hiroshi g. okuno, hirofumi nakajima, yuji hasegawa, hiroshi tsujino: design and implementation of robot...", 
+        "email_addr_list": [
+            "okuno@i.kyoto-u.ac.jp"
+        ], 
+        "cite_url": "degruyteropen.com/people/okuno/", 
+        "cite_name": "", 
+        "title": "Hiroshi “Gitchang” Okuno | De Gruyter Open"
+    }, 
+    {
+        "content": "hiroshi g okuno. professor, waseda university, professor emeritus, kyoto university. verified email at nue.org. @nue.org. cited by 6806. artificial intelligence...", 
+        "email_addr_list": [
+            "email@nue.org"
+        ], 
+        "cite_url": "scholar.google.it/citations?view_op=search_authorshl...", 
+        "cite_name": "Google", 
+        "title": "Google Scholar Citations"
+    }
+]

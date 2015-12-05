@@ -1,0 +1,38 @@
+[
+    {
+        "content": "people  lab members  jacob rosen ... e-mail: rosen@seas.ucla.edu ... jacob rosen is a professor of medical robotics at the department of mechanical and...", 
+        "email_addr_list": [
+            "rosen@seas.ucla.edu"
+        ], 
+        "cite_url": "bionics.seas.ucla.edu/people/rosen/jacob_rosen.html", 
+        "cite_name": "", 
+        "title": "UCLA | Bionics Lab  People  Lab Members  Jacob Rosen"
+    }, 
+    {
+        "content": "jacob rosens research focuses on ancient philosophy, especially aristotles views in ... contact information. email: jacobrosen@fas.harvard.edu. emerson 313...", 
+        "email_addr_list": [
+            "jacobrosen@fas.harvard.edu"
+        ], 
+        "cite_url": "philosophy.fas.harvard.edu/people/jacob-rosen", 
+        "cite_name": "", 
+        "title": "Jacob Rosen | Harvard University Department of Philosophy"
+    }, 
+    {
+        "content": "jacob rosen. institut für philosophie ... jacob rosen is working on the topology of change in aristotles physics. changes are ... email. jacob.rosen@topoi.org...", 
+        "email_addr_list": [
+            "jacob.rosen@topoi.org"
+        ], 
+        "cite_url": "https://www.topoi.org/person/rosen-jacob/", 
+        "cite_name": "", 
+        "title": "Rosen, Jacob | Topoi"
+    }, 
+    {
+        "content": "volume 143 (2015-2016) – news editor. volume 142 (2014-2015) – assistant news editor. jacob rosen. email: journal_news@ams.queensu.ca (link sends...", 
+        "email_addr_list": [
+            "journal_news@ams.queensu.ca"
+        ], 
+        "cite_url": "www.queensjournal.ca/author/jacob-rosen/", 
+        "cite_name": "The Queen's Journal", 
+        "title": "Jacob Rosen | The Journal"
+    }
+]

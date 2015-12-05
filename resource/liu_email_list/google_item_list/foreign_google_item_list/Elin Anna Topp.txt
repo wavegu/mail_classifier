@@ -1,0 +1,38 @@
+[
+    {
+        "content": "sep 4, 2008 - s-100 44 stockholm sweden. office address, room 6.08. teknikringen 14. stockholm. phone, +46 (0)8 790 6905. e-mail, topp@csc.kth.se...", 
+        "email_addr_list": [
+            "topp@csc.kth.se"
+        ], 
+        "cite_url": "www.cas.kth.se/~topp/", 
+        "cite_name": "", 
+        "title": "Elin Anna Topps Homepage"
+    }, 
+    {
+        "content": "elin anna topp. e-post: elin_anna.topp@cs.lth.se. universitetslektor vid institutionen för datavetenskap. telefon: +46 46 222 42 49. rumsnummer: 4150.", 
+        "email_addr_list": [
+            "elin_anna.topp@cs.lth.se"
+        ], 
+        "cite_url": "www.lu.se/.../d2153d18b276d67e35659f1aa793f546", 
+        "cite_name": "", 
+        "title": "Elin Anna Topp | Lunds universitet"
+    }, 
+    {
+        "content": "klas nilsson, elin anna topp, jacek malec. dept of computer science. lund university, p.o.box 118. se-22100 lund, sweden. email: klas@cs.lth.se, elin...", 
+        "email_addr_list": [
+            "klas@cs.lth.se"
+        ], 
+        "cite_url": "www.iaria.org/conferences2013/filesICAS13/skills_idea_icas2013.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Enabling Reuse of Robot Tasks and Capabilities by ... - iaria"
+    }, 
+    {
+        "content": "for more information about our chapter and our activities, please, send us an e-mail to ras@ieee.se. upcoming chapter ... lund, (elin anna topp). linköping u.", 
+        "email_addr_list": [
+            "ras@ieee.se"
+        ], 
+        "cite_url": "www.ieee.se/chapterindex...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "RAS - IEEE Sweden"
+    }
+]

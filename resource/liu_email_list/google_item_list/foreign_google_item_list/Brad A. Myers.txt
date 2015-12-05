@@ -1,0 +1,20 @@
+[
+    {
+        "content": "brad a. myers professor human computer interaction institute  institute for software ... view brad myerss profile on linkedin ... email: bam@cs.cmu.edu. office...", 
+        "email_addr_list": [
+            "bam@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~bam/", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Brad Myerss Home Page - School of Computer Science"
+    }, 
+    {
+        "content": "brad myers is a multimedia journalist at wsaz. ... if you have a story idea for brad, send him an email at brad.myers@wsaz.com. individuals with disabilities...", 
+        "email_addr_list": [
+            "email@brad.myers"
+        ], 
+        "cite_url": "www.wsaz.com/station/bios/news/235444111.html", 
+        "cite_name": "WSAZ‑TV", 
+        "title": "Brad Myers - WSAZ"
+    }
+]

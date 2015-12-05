@@ -1,0 +1,56 @@
+[
+    {
+        "content": "xiaoping liu, management information systems. doctoral student. email: xiaoping_liu@student.uml.edu. the robert j. manning school of business, one...", 
+        "email_addr_list": [
+            "xiaoping_liu@student.uml.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Massachusetts Lowell", 
+        "title": "Xiaoping Liu - UMass Lowell"
+    }, 
+    {
+        "content": "xiaoping liu, ph.d.(alberta), p.eng., fellow eic. professor and canada research ... email: xpliu at sce dot carleton dot ca. phone: (613) 520-2600 ext. 1774", 
+        "email_addr_list": [
+            "xpliu@sce.carleton.ca"
+        ], 
+        "cite_url": "www.sce.carleton.ca/faculty/liu.html", 
+        "cite_name": "Carleton University", 
+        "title": "Dr. Peter X. Liu - Systems and Computer Engineering"
+    }, 
+    {
+        "content": "email: liu.547@osu.edu ... alzawahra, wael, f; talukder, m a hassan; liu, xiaoping; samouilov, alexandre; zweier, jay l. heme proteins mediate the...", 
+        "email_addr_list": [
+            "liu.547@osu.edu"
+        ], 
+        "cite_url": "https://internalmedicine.osu.edu/cardiovascular/.../li...", 
+        "cite_name": "Ohio State University", 
+        "title": "Liu, Xiaoping PhD :: Internal Medicine Division of ..."
+    }, 
+    {
+        "content": "dr. xiaoping liu, ph.d., p. eng. ... xiaoping liu received his b.sc. degree in automation from northeastern university ... email: xiaoping.liu@lakeheadu.ca.", 
+        "email_addr_list": [
+            "xiaoping.liu@lakeheadu.ca"
+        ], 
+        "cite_url": "www.xpliu.lakeheadu.ca/", 
+        "cite_name": "", 
+        "title": "Dr. Xiaoping Liu, Ph.D., P. Eng."
+    }, 
+    {
+        "content": "set campus  liu, xiaoping. dr. xiaoping liu, p.eng. ... electrical engineering. email: xliu2@lakeheadu.ca. phone number: (807) 343-8613. office location:.", 
+        "email_addr_list": [
+            "xliu2@lakeheadu.ca"
+        ], 
+        "cite_url": "https://www.lakeheadu.ca/users/L/xliu2/node/17380", 
+        "cite_name": "Lakehead University", 
+        "title": "Dr. Xiaoping Liu, P.Eng. | Lakehead University"
+    }, 
+    {
+        "content": "email: ramagge@uow.edu.au. location: building 39c ... professor song-ping zhu. phone: +61 2 4221 3807 ... dr xiao-ping lu. phone: +61 2 4221...", 
+        "email_addr_list": [
+            "ramagge@uow.edu.au"
+        ], 
+        "cite_url": "imia.uow.edu.au/members/index.html", 
+        "cite_name": "University of Wollongong", 
+        "title": "Members - Institute for Mathematics and its Applications ..."
+    }
+]

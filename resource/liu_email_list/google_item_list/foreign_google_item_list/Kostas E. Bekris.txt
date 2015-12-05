@@ -1,0 +1,48 @@
+[
+    {
+        "content": "aug 31, 2015 - computer science department kostas.bekris@cs.rutgers.edu .... fallah, n., bekris, k. e., folmer, e., “human navigation systems - a survey”,...", 
+        "email_addr_list": [
+            "kostas.bekris@cs.rutgers.edu"
+        ], 
+        "cite_url": "www.cs.rutgers.edu/.../Kostas_Bekris_CV_2015_08_3...", 
+        "cite_name": "Rutgers University", 
+        "title": "[PDF]Kostas E. Bekris - Computer Science at Rutgers"
+    }, 
+    {
+        "content": "tdk.krontir@gmail.com ... thesis advisor: dr. kostas e. bekris gpa: 3.6. university of nevada ... reference: kostas e. bekris - kostas.bekris@cs.rutgers.edu.", 
+        "email_addr_list": [
+            "tdk.krontir@gmail.com", 
+            "kostas.bekris@cs.rutgers.edu"
+        ], 
+        "cite_url": "paul.rutgers.edu/~ak979/Athanasios_Krontiris_CV.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Athanasios_Krontiris.. - Graduate Systems - Rutgers University"
+    }, 
+    {
+        "content": "contact. co-chairs: ron alterovitz university of north carolina, chapel hill, usa e-mail: ron@cs.unc.edu. kostas bekris rutgers small. kostas bekris rutgers...", 
+        "email_addr_list": [
+            "ron@cs.unc.edu"
+        ], 
+        "cite_url": "www.ieee-ras.org/...e.../algorithms-for-planning-and-control-of-robot-moti...", 
+        "cite_name": "", 
+        "title": "Copyright and E-Copyright Form - IEEE Robotics and ..."
+    }, 
+    {
+        "content": "kostas bekris, computer science department, rutgers university, 110 frelinghuysen road, ... email: kostas.bekris@cs.rutgers.edu .... karaman s,; frazzoli e.", 
+        "email_addr_list": [
+            "kostas.bekris@cs.rutgers.edu"
+        ], 
+        "cite_url": "ijr.sagepub.com/content/33/1/18.refs", 
+        "cite_name": "Sage Publications", 
+        "title": "Sparse roadmap spanners for asymptotically near-optimal ..."
+    }, 
+    {
+        "content": "kostas e. bekris ... engineering dept., university of nevada, reno. contact info: (email) bekris@cs.rice.edu. (mail) ... (webpage) http://www.cs.rice.edu/∼bekris.", 
+        "email_addr_list": [
+            "bekris@cs.rice.edu"
+        ], 
+        "cite_url": "www.us-robotics.us/man-proposals/8-proposal-Bekris.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Kostas Bekris, University of Nevada, Reno"
+    }
+]

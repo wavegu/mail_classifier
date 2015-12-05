@@ -1,0 +1,40 @@
+[
+    {
+        "content": "tel. : (33) 3 59 57 78 88, fax: (33) 3 59 57 78 50. mail : el-ghazali.talbi@univ-lille1.fr. h-index=38 et citations=7705 (calculé par google scholar: e. talbi)...", 
+        "email_addr_list": [
+            "el-ghazali.talbi@univ-lille1.fr"
+        ], 
+        "cite_url": "www.lifl.fr/~talbi/", 
+        "cite_name": "", 
+        "title": "El-Ghazali Talbi - HomePage - LIFL"
+    }, 
+    {
+        "content": "talbi , lifl, cnrs umr 8022, inria futurs - dolphin, universit des sciences ... talbi@lifl.fr 1 - metaheuristics for multi-objective optimization el-ghazali talbi...", 
+        "email_addr_list": [
+            "talbi@lifl.fr"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-talbi-lifl-fr-4295370.htm", 
+        "cite_name": "", 
+        "title": "talbi@lifl.fr - The Email Archive"
+    }, 
+    {
+        "content": "email: pascal.bouvry@uni.lu. franciszek seredynski polish academy of sciences – poland email: sered@ipipan.waw.pl. el-ghazali talbi lab dinformatique...", 
+        "email_addr_list": [
+            "pascal.bouvry@uni.lu", 
+            "sered@ipipan.waw.pl"
+        ], 
+        "cite_url": "https://nidisc2011.gforge.uni.lu/", 
+        "cite_name": "", 
+        "title": "NIDISC 2011"
+    }, 
+    {
+        "content": "nov 15, 2014 - e-mail : blandine.kowalski@polytech-lille.fr. administrative contact .... el-ghazali talbi – e-mail : el-ghazali.talbi@polytech-lille.fr. department.", 
+        "email_addr_list": [
+            "blandine.kowalski@polytech-lille.fr", 
+            "el-ghazali.talbi@polytech-lille.fr"
+        ], 
+        "cite_url": "www.polytech-lille.fr/cms/wp-content/.../Erasmus-Information-Sheet.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Polytech Lille information sheet for ERASMUS + and ..."
+    }
+]

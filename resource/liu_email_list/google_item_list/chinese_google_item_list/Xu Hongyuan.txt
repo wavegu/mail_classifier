@@ -1,0 +1,65 @@
+[
+    {
+        "content": "email：luoxw@tsinghua.edu.cn ... bin ji, xianwu luo, yulin wu, xiaoxing peng, hongyuan xu. ... luo xian-wu, ji bin, zhang yao and xu hong-yuan.", 
+        "email_addr_list": [
+            "luoxw@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201012222049252628596...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Luo Xianwu"
+    }, 
+    {
+        "content": "电话：025-83597294（o），email：xujj@nju.edu.cn，办公室：化学楼708 ... peng wu, huai-rong zhang, jing-juan xu,* and hong-yuan chen, in situ activation of...", 
+        "email_addr_list": [
+            "xujj@nju.edu.cn"
+        ], 
+        "cite_url": "chem.nju.edu.cn/staff/staff.asp?iname=徐静娟", 
+        "cite_name": "", 
+        "title": "徐静娟 - 师资力量"
+    }, 
+    {
+        "content": "email：hychen@nju.edu.cn tel/fax:+86-25-83594862(o) ... shao-peng chen, xiao-dong yu, jing-juan xu and hong-yuan chen, gold nanoparticles-coated...", 
+        "email_addr_list": [
+            "hychen@nju.edu.cn"
+        ], 
+        "cite_url": "chem.nju.edu.cn/staff/staff.asp?iname=陈洪渊", 
+        "cite_name": "", 
+        "title": "陈洪渊 - 师资力量"
+    }, 
+    {
+        "content": "(+612) 9385 8133. fax: (+612) 9385 1483. email: h.rob.yang@unsw.edu.au ... wang y, cui x, gao mm, zhang l, lv y, xu g, liu g, zhao d and yang h. (2014)", 
+        "email_addr_list": [
+            "h.rob.yang@unsw.edu.au"
+        ], 
+        "cite_url": "https://www.babs.unsw.edu.au/.../profess...", 
+        "cite_name": "University of New South Wales", 
+        "title": "Professor (Hongyuan) Rob Yang | babs"
+    }, 
+    {
+        "content": "browsing by author xu, hongyuan ... xu, hongyuan (university of canterbury. ... phone 364 2987 ext 8718. email ucresearchrepository@canterbury.ac.nz.", 
+        "email_addr_list": [
+            "ucresearchrepository@canterbury.ac.nz"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Browsing by Author Xu, Hongyuan"
+    }, 
+    {
+        "content": "email: zha@sei.ecnu.edu.cn. address: ... d. luo, h. xu, hongyuan zha, j. du, r. xie, x. yang, w. zhang. .... bo xiao, xiaokang yang, yi xu and hongyuan zha.", 
+        "email_addr_list": [
+            "zha@sei.ecnu.edu.cn"
+        ], 
+        "cite_url": "faculty.ecnu.edu.cn/s/2792/t/.../main.jspy", 
+        "cite_name": "East China Normal University", 
+        "title": "East China Normal University Hongyuan Zha"
+    }, 
+    {
+        "content": "dec 17, 2013 - e-mail: hychen@nju.edu.cn; fax: +86 025 83594862; tel: +86 025 83594862 bdivision of ... hong-yuan chen and jing-juan xu. currently, he...", 
+        "email_addr_list": [
+            "hychen@nju.edu.cn"
+        ], 
+        "cite_url": "pubs.rsc.org/en/content/articlehtml/.../c3cs6027...", 
+        "cite_name": "Royal Society of Chemistry", 
+        "title": "Functional nanoprobes for ultrasensitive detection of ..."
+    }
+]

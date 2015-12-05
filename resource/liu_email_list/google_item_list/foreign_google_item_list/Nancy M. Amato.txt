@@ -1,0 +1,48 @@
+[
+    {
+        "content": "home page for nancy amato | parasol laboratory ... department of computer science and engineering, email: amato@cse.tamu.edu. texas am university...", 
+        "email_addr_list": [
+            "amato@cse.tamu.edu"
+        ], 
+        "cite_url": "https://parasol.tamu.edu/~amato/", 
+        "cite_name": "Texas AM University", 
+        "title": "Home Page for Nancy Amato | Parasol Laboratory"
+    }, 
+    {
+        "content": "unocal professor, osis director. image of nancy amato. office: 425h hrbb phone: 979.862.2275. fax: 979.458.0718. email: amato@cse.tamu.edu.", 
+        "email_addr_list": [
+            "amato@cse.tamu.edu"
+        ], 
+        "cite_url": "https://engineering.tamu.edu/.../na...", 
+        "cite_name": "Dwight Look College of Engineering", 
+        "title": "Nancy M. Amato - Dwight Look College of Engineering"
+    }, 
+    {
+        "content": "image of nancy amato. nancy m. amato ... associate professor. office: 403 hrbb phone: 979.845.0537. email: caverlee@cse.tamu.edu...", 
+        "email_addr_list": [
+            "caverlee@cse.tamu.edu"
+        ], 
+        "cite_url": "https://engineering.tamu.edu/.../peo...", 
+        "cite_name": "Dwight Look College of Engineering", 
+        "title": "Faculty | People | Computer Science  Engineering - Dwight ..."
+    }, 
+    {
+        "content": "email: tapia@cs.unm.edu. office .... troy mcmahon, sam ade jacobs, bryan boyd, lydia tapia, nancy m. amato, local randomization in neighbor selection...", 
+        "email_addr_list": [
+            "tapia@cs.unm.edu"
+        ], 
+        "cite_url": "https://www.cs.unm.edu/~tapia/", 
+        "cite_name": "University of New Mexico", 
+        "title": "Lydia Tapia - Computer Science - University of New Mexico"
+    }, 
+    {
+        "content": "fax: (845) 437-7498 e-mail: walter@cs.vassar.edu phone: (845) 485-1413. ... planners nancy m. amato o. burchan bayazit guang song amato@cs.tamu.edu...", 
+        "email_addr_list": [
+            "walter@cs.vassar.edu", 
+            "amato@cs.tamu.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-amato-cs-tam-3261904.htm", 
+        "cite_name": "", 
+        "title": "amato@cs.tam - The Email Archive"
+    }
+]

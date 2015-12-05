@@ -1,0 +1,38 @@
+[
+    {
+        "content": "oct 14, 2011 - contact email: congdon@usm.maine.edu. big dog walking robot legged robotics with dr. alfred rizzi. the department of computer science...", 
+        "email_addr_list": [
+            "congdon@usm.maine.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Southern Maine", 
+        "title": "Legged Robotics with Dr. Alfred Rizzi | Computer Science ..."
+    }, 
+    {
+        "content": "email: nadine.peyrieras@inaf.cnrs-gif.fr ... address: team multiscale dynamics in animal morphogenesis cnrs-nd institut de neurobiologie alfred fessard .... rizzi, b., and sarti, a. (2009) region-based pdes for cells counting and...", 
+        "email_addr_list": [
+            "nadine.peyrieras@inaf.cnrs-gif.fr"
+        ], 
+        "cite_url": "https://zfin.org/ZDB-LAB-111117-1", 
+        "cite_name": "Zebrafish Information Network", 
+        "title": "ZFIN Lab: Peyriéras Lab"
+    }, 
+    {
+        "content": "ravi balasubramanian, alfred a. rizzi, and matthew t. mason. legless locomotion: a novel. journal .... email: matt.mason@cs.cmu.edu. • dr. alfred a. rizzi.", 
+        "email_addr_list": [
+            "matt.mason@cs.cmu.edu"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download;jsessionid...?doi=10.1...", 
+        "cite_name": "", 
+        "title": "[PDF]Download as a PDF - CiteSeer"
+    }, 
+    {
+        "content": "e-mail: jonathan.hurst@oregonstate.edu ... advisor: alfred a. rizzi ... j.w. hurst and a.a. rizzi, “series compliance for an efficient running gait: lessons...", 
+        "email_addr_list": [
+            "jonathan.hurst@oregonstate.edu"
+        ], 
+        "cite_url": "mime.oregonstate.edu/sites/mime.../jwh_cv.pdf", 
+        "cite_name": "Oregon State University", 
+        "title": "[PDF]Jonathan W. Hurst - Oregon State University"
+    }
+]

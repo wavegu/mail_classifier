@@ -1,0 +1,38 @@
+[
+    {
+        "content": "... office: room 815, physics building; email: xianmin.jin@sjtu.edu.cn ... xianmin jin is a distinguished researcher in the department of physics and astronomy .... (2012); han zhang, xian-min jin (co-first author), jian yang, han-ning dai,...", 
+        "email_addr_list": [
+            "xianmin.jin@sjtu.edu.cn"
+        ], 
+        "cite_url": "ins.sjtu.edu.cn/faculty/jinxianmin", 
+        "cite_name": "", 
+        "title": "Xianmin Jin(金贤敏) - 自然科学研究院 - 上海交通大学"
+    }, 
+    {
+        "content": "email: xianmin.jin@nus.edu.sg ... han zhang, x.m. jin, (co-first author), jian yang, han-ning dai, sheng-jun yang, tian-ming zhao, jun rui, yu he, xiao...", 
+        "email_addr_list": [
+            "xianmin.jin@nus.edu.sg"
+        ], 
+        "cite_url": "www.quantumlah.org/people/xianmin", 
+        "cite_name": "", 
+        "title": "Jin Xianmin - Centre for Quantum Technologies"
+    }, 
+    {
+        "content": "professor xianmin zhang received his bs and phd degrees in physical electronics and optoelectronics from zhejiang university, ... e-mail:zhangxm@zju.edu.cn...", 
+        "email_addr_list": [
+            "zhangxm@zju.edu.cn"
+        ], 
+        "cite_url": "mypage.zju.edu.cn/en/zhangxm", 
+        "cite_name": "Zhejiang University", 
+        "title": "Prof. Xianmin Zhang - staff Homepage, ZJU"
+    }, 
+    {
+        "content": "aug 6, 2015 - name:zhang, xianmin introduction: research fields: mechatronics engineering. phone: +86-20-87110059. e-mail: zhangxm@scut.edu.cn...", 
+        "email_addr_list": [
+            "zhangxm@scut.edu.cn"
+        ], 
+        "cite_url": "www2.scut.edu.cn/.../info120557....", 
+        "cite_name": "South China University of Technology", 
+        "title": "Zhang, Xianmin"
+    }
+]

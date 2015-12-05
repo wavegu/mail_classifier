@@ -1,0 +1,11 @@
+[
+    {
+        "content": "room 107, building bc, ic department, epfl. station 14, ch – 1015 lausanne, switzerland. tel direct: +41 21 693 6081. email: pearl dot pu at epfl dot ch...", 
+        "email_addr_list": [
+            "pu@epfl.ch"
+        ], 
+        "cite_url": "hci.epfl.ch/members/pearl/", 
+        "cite_name": "", 
+        "title": "Dr. Pearl Pu | HUMAN-COMPUTER INTERACTION GROUP"
+    }
+]

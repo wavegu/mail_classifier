@@ -1,0 +1,39 @@
+[
+    {
+        "content": "... 合作情况; 指导学生. 基本信息. 王飞跃男博导自动化研究所电子邮件：feiyue.wang@ia.ac.cn 通信地址：北京市海淀区中关村东路95号智能化大厦1106室邮政编码：...", 
+        "email_addr_list": [
+            "feiyue.wang@ia.ac.cn"
+        ], 
+        "cite_url": "people.uca...", 
+        "cite_name": "University of Chinese Academy of Sciences", 
+        "title": "English - 个人主页 - 中国科学院大学"
+    }, 
+    {
+        "content": "fei-yue wang received his ph.d. in computer and systems engineering from rensselaer polytechnic ... wang may be contacted at feiyuewang@gmail.com.", 
+        "email_addr_list": [
+            "feiyuewang@gmail.com"
+        ], 
+        "cite_url": "tmis.acm.org/bios/wang.html", 
+        "cite_name": "Association for Computing Machinery", 
+        "title": "Fei-Yue Wang - ACM TMIS Editorial Board member"
+    }, 
+    {
+        "content": "committee members: professors daniel dajun zeng (chair), fei-yue wang, wei hua ... q. zhang, d. zeng, f.-y. wang, tao wang, “understanding crowd-powered search groups: .... email: feiyue.wang@ia.ac.cn (feiyue@gmail.com).", 
+        "email_addr_list": [
+            "feiyue.wang@ia.ac.cn", 
+            "feiyue@gmail.com"
+        ], 
+        "cite_url": "www.u.arizona.edu/~qpzhang/QingpengCV.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]CV - U-System - University of Arizona"
+    }, 
+    {
+        "content": "domain report for wang fei yue, support@yinsibaohu.aliyun.com, associated with 6 domains and 3 emails.", 
+        "email_addr_list": [
+            "support@yinsibaohu.aliyun.com"
+        ], 
+        "cite_url": "www.domainiq.com/name?wang_fei_yue", 
+        "cite_name": "", 
+        "title": "wang fei yue - domainIQ"
+    }
+]

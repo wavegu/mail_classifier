@@ -1,0 +1,47 @@
+[
+    {
+        "content": "jianping xie, national university of singapore, nus, home, members, research, publications, teaching, links, contact. ... yu, y.; new, s. y.; xie, j., su, x. and tan, y. n.* chemical communications 2014, 50, 13805. ..... email: chexiej@nus.edu.sg.", 
+        "email_addr_list": [
+            "chexiej@nus.edu.sg"
+        ], 
+        "cite_url": "cheed.nus.edu.sg/stf/chexiej/p_1.html", 
+        "cite_name": "National University of Singapore", 
+        "title": "Welcome to Jianping Xie Group @ NUS"
+    }, 
+    {
+        "content": "email: jianwang@cityu.edu.hk ... rui zhang, xiaojun su, jianping wang, cong wang, wenyin liu, and rynson lau, on mitigating the risk of cross-vm covert...", 
+        "email_addr_list": [
+            "jianwang@cityu.edu.hk"
+        ], 
+        "cite_url": "www.cs.cityu.edu.hk/~jianwang/", 
+        "cite_name": "", 
+        "title": "Dr. Jianping Wang"
+    }, 
+    {
+        "content": "jian-ping suen. associate professor ... email: jpsuen@mail.ncku.edu.tw. tel: 886-6-2757575 ext. ..... su, w. c. and j.      p. suen. 2008. the application of fish...", 
+        "email_addr_list": [
+            "jpsuen@mail.ncku.edu.tw"
+        ], 
+        "cite_url": "www2.hyd.ncku.edu.tw/.../English.htm", 
+        "cite_name": "National Cheng Kung University", 
+        "title": "Jian-Ping Suen"
+    }, 
+    {
+        "content": "jianping (j-p) xu, ph.d. telephone: (905) 525-9140. office: lsb-437 ext 27934. lab: lsb-402ext 27996. email: jpxu@mcmaster.ca. interests  activities.", 
+        "email_addr_list": [
+            "jpxu@mcmaster.ca"
+        ], 
+        "cite_url": "www.biology.mcmaster.ca/xu/", 
+        "cite_name": "McMaster University", 
+        "title": "Department of Biology | Jianping (J-P) Xu, Ph.D."
+    }, 
+    {
+        "content": "jianping huang, professor and dean / sacol chief scientist ph.d., lanzhou university ... email: houliting@lzu.edu.cn ... jing su（苏婧） ph.d.(lanzhou...", 
+        "email_addr_list": [
+            "houliting@lzu.edu.cn"
+        ], 
+        "cite_url": "hjp.lzu.edu.cn/team/", 
+        "cite_name": "", 
+        "title": "Jianping Huangs Research Group"
+    }
+]

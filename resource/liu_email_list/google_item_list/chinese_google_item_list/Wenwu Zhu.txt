@@ -1,0 +1,20 @@
+[
+    {
+        "content": "3f, beijing sigma center no. 49, zhichun road, hidian district beijing 100190, china. tel: (86-10) 5896-5394. email: wenwuzhu@microsoft.com...", 
+        "email_addr_list": [
+            "wenwuzhu@microsoft.com"
+        ], 
+        "cite_url": "ewh.ieee.org/cmte/tcvsp/", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Circuits and Systems Society"
+    }, 
+    {
+        "content": "3f, beijing sigma center no. 49, zhichun road, hidian district beijing 100190, china tel: (86-10) 5896-5394. email: wenwuzhu@microsoft.com...", 
+        "email_addr_list": [
+            "wenwuzhu@microsoft.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Visual Signal Processing and Communications Technical ..."
+    }
+]

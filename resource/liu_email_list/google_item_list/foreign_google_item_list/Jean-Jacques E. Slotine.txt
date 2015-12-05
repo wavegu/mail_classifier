@@ -1,0 +1,30 @@
+[
+    {
+        "content": "jean-jacques slotine curriculum vitae ... edu administrative contact: alibrandi, deborah a room: 3-359 email: deborah@mit.edu phone: 617.253.2883.", 
+        "email_addr_list": [
+            "deborah@mit.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "MECHE PEOPLE: Jean-Jacques Slotine | MIT Department ..."
+    }, 
+    {
+        "content": "email: jjs@mit.edu. adaptation and learning in robots; principles of biological control professor slotine is the director of the nonlinear systems laboratory...", 
+        "email_addr_list": [
+            "jjs@mit.edu"
+        ], 
+        "cite_url": "web.mit.edu/~bcs/.../slotine.shtml", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "Jean-Jacques Slotine - MIT"
+    }, 
+    {
+        "content": "jan 13, 2004 - seth lloyd, andrew j. landahl, and jean-jacques e. slotine ... *email address: slloyd@mit.edu; †email address: alandahl@mit.edu; ‡email...", 
+        "email_addr_list": [
+            "slloyd@mit.edu", 
+            "alandahl@mit.edu"
+        ], 
+        "cite_url": "link.aps.org/doi/10.../PhysRevA.69.012305", 
+        "cite_name": "American Physical Society", 
+        "title": "Universal quantum interfaces"
+    }
+]

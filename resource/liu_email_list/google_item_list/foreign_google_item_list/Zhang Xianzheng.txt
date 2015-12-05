@@ -1,0 +1,20 @@
+[
+    {
+        "content": "xian-zheng zhang, phd. director professor of ... email: xz-zhang@whu.edu.cn ... quan cy, wu dq, chang c, zhang gb, cheng sx, zhang xz,* zhuo rx.", 
+        "email_addr_list": [
+            "xz-zhang@whu.edu.cn"
+        ], 
+        "cite_url": "inano.tongji.edu.cn/html/people/dr_xianzheng_zhang.html", 
+        "cite_name": "", 
+        "title": "Dr. Xian-Zheng Zhang - iNANO"
+    }, 
+    {
+        "content": "us patent 7,420,024. name: xian-zheng zhang. position: professor. institute/division: wuhan university. email: xz-zhang@whu.edu.cn. tel: 86-27-68754061...", 
+        "email_addr_list": [
+            "xz-zhang@whu.edu.cn"
+        ], 
+        "cite_url": "www.polyeng.com/AMRI/zhang-xianzheng.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Zhang Xianzheng.pdf - Polymer Engineering at Bradford"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "content": "email: maxim@cs.cmu.edu office: nsh 3211 address: 5000 forbes ave pittsburgh, pa 15213 ... 2009 maxim likhachev. made by arman bimatov, design by...", 
+        "email_addr_list": [
+            "maxim@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~./maxim/", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Maxim Likhachev"
+    }, 
+    {
+        "content": "email: maxim@cs.cmu.edu ... ron alterovitz, sven koenig and maxim likhachev, robot planning in the real world: research challenges and opportunities,...", 
+        "email_addr_list": [
+            "maxim@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~./maxim/publications.html", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Maxim Likhachev - Publications - School of Computer Science"
+    }, 
+    {
+        "content": "maxim likhachev. research assistant professor robotics institute carnegie mellon university. contacts: email: maxim@cs.cmu.edu office: nsh 3211 address:...", 
+        "email_addr_list": [
+            "maxim@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~./maxim/software.html", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Maxim Likhachev - Software - Carnegie Mellon University"
+    }, 
+    {
+        "content": "contacts: email: maxim@cs.cmu.edu office: nsh 3211 address: 5000 forbes ave, pittsburgh, pa 15213 phone: 412 268 5581...", 
+        "email_addr_list": [
+            "maxim@cs.cmu.edu"
+        ], 
+        "cite_url": "www.seas.upenn....", 
+        "cite_name": "University of Pennsylvania School of Engineering an...", 
+        "title": "Maxim Likhachev - SEAS - University of Pennsylvania"
+    }, 
+    {
+        "content": "d* lite sven koenig college of computing georgia institute of technology atlanta ga 30312-0280 skoenig@cc.gatech.edu maxim likhachev school of...", 
+        "email_addr_list": [
+            "skoenig@cc.gatech.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-maxim-cs-cmu-edu-5090325.htm", 
+        "cite_name": "", 
+        "title": "maxim+@cs.cmu.edu - The Email Archive"
+    }
+]

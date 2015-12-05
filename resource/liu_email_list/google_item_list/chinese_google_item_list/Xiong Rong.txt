@@ -1,0 +1,57 @@
+[
+    {
+        "content": "homepage of rong xiong, zhejiang university. chinese  english ... e-mail:rxiong@iipc.zju.edu.cn. name:rong xiong; units:zhejiang university; title:professor...", 
+        "email_addr_list": [
+            "rxiong@iipc.zju.edu.cn"
+        ], 
+        "cite_url": "mypage.zju.edu.cn/en/rongxiong", 
+        "cite_name": "Zhejiang University", 
+        "title": "Homepage of Rong Xiong, Zhejiang University - staff ..."
+    }, 
+    {
+        "content": "see information and reports about ronggxion@yahoo.com (xiong rongs e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "ronggxion@yahoo.com"
+        ], 
+        "cite_url": "spam-report.email/ronggxion/yahoo.com", 
+        "cite_name": "", 
+        "title": "ronggxion@yahoo.com (Xiong Rongs e-mail) - Spam ..."
+    }, 
+    {
+        "content": "postdoctoral associates, research fellow, visiting scholar/professor. dr. menghua xiong (postdoc) ph.d. ustc, china (2013). email: xmh8599@illinois.edu.", 
+        "email_addr_list": [
+            "xmh8599@illinois.edu"
+        ], 
+        "cite_url": "cheng.matse.illinois.edu/people/people.html", 
+        "cite_name": "", 
+        "title": "people - Cheng Group"
+    }, 
+    {
+        "content": "arjada bardhi. phone: 847-491-8215; office location: 315 andersen hall; e-mail: ... e-mail: bencebardoczy2020@u.northwestern.edu ..... heyu xiong | year 3.", 
+        "email_addr_list": [
+            "bencebardoczy2020@u.northwestern.edu"
+        ], 
+        "cite_url": "www.economics.northwestern.edu/people/graduate/", 
+        "cite_name": "", 
+        "title": "Graduate Students: Department of Economics ..."
+    }, 
+    {
+        "content": "aug 28, 2009 - ... china. shuhuaqi@scsio.ac.cn. e-mail: shuhuaqi@scsio.ac.cn. ... shu-hua qi, ying xu, hai-rong xiong, pei-yuan qian, si zhang. antifouling...", 
+        "email_addr_list": [
+            "shuhuaqi@scsio.ac.cn", 
+            "shuhuaqi@scsio.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Shu-Hua Qi - South China Sea Institute Of Oceanology"
+    }, 
+    {
+        "content": "event name, : the 50-60s cantonese lullaby singer mr. li xiong-rong. categories, : seminar / lecture ... fax, : (853) 28838312. email, : lailacmc@umac.mo...", 
+        "email_addr_list": [
+            "lailacmc@umac.mo"
+        ], 
+        "cite_url": "isw.umac.mo/nrs/faces/pub/viewItem.jspx?id=5630", 
+        "cite_name": "University of Macau", 
+        "title": "The 50-60s Cantonese Lullaby Singer Mr. Li Xiong-rong ..."
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "roland siegwart – coordinator. roland siegwart is a full professor for autonomous systems and vice president ... email: ulrich.schwesinger@mavt.ethz.ch", 
+        "email_addr_list": [
+            "ulrich.schwesinger@mavt.ethz.ch"
+        ], 
+        "cite_url": "www.v-charge.eu/?page_id=50", 
+        "cite_name": "", 
+        "title": "V-Charge » ETH Zurich Autonomous Systems Lab"
+    }
+]

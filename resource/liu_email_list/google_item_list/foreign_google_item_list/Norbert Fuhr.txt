@@ -1,0 +1,29 @@
+[
+    {
+        "content": "e-mail: norbert.fuhr@uni-due.de. telefon .... thomas beckers; sebastian dungs; norbert fuhr; matthias jordan; georgios kontokotsios; sascha kriewel; yiannis...", 
+        "email_addr_list": [
+            "norbert.fuhr@uni-due.de"
+        ], 
+        "cite_url": "www.is.informatik.uni-duisburg.de/staff/fuhr.html", 
+        "cite_name": "", 
+        "title": "Prof. Dr.-Ing. Norbert Fuhr - Informationssysteme"
+    }, 
+    {
+        "content": "norbert fuhr home  1st bis  2nd bis  3rd ... norbert fuhr is professor at the cs department of the university of. dortmund ... email: fuhr@cs.uni-dortmund.de", 
+        "email_addr_list": [
+            "fuhr@cs.uni-dortmund.de"
+        ], 
+        "cite_url": "archive.kie.ue.poznan.pl/5th_bis/invited/nfuhr.htm", 
+        "cite_name": "", 
+        "title": "Norbert Fuhr"
+    }, 
+    {
+        "content": "email: sigir2016-gchairs [at] isti.cnr.it. program chairs javed aslam ... norbert fuhr (university of duisburg-essen, germany) email: sigir2016-awchair [at]...", 
+        "email_addr_list": [
+            "sigir2016-gchairs@isti.cnr.it"
+        ], 
+        "cite_url": "sigir.o...", 
+        "cite_name": "Special Interest Group on Information Retrieval", 
+        "title": "Organization | SIGIR 2016"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email: cbb2@cornell.edu ... christopher b. barrett is the david j. nolan director and the stephen b.  janice g. ashley professor of applied economics and...", 
+        "email_addr_list": [
+            "cbb2@cornell.edu"
+        ], 
+        "cite_url": "barrett.dyson.cornell.edu/", 
+        "cite_name": "", 
+        "title": "Christopher B. Barrett"
+    }, 
+    {
+        "content": "chris barrett is the david j. nolan director, stephen b. and janice g. ashley professor of applied economics and ... professor barrett has published or in press 14 books and more than 270 journal articles or book ... email: cbb2@cornell.edu.", 
+        "email_addr_list": [
+            "cbb2@cornell.edu"
+        ], 
+        "cite_url": "barrett.dyson.cornell.edu/about/", 
+        "cite_name": "", 
+        "title": "About - Christopher B. Barrett"
+    }, 
+    {
+        "content": "first name: christopher. middle name: b. last name: barrett. suffix: repec short-id: pba458. email: cbb2@cornell.edu. homepage...", 
+        "email_addr_list": [
+            "cbb2@cornell.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/f/pba458.html", 
+        "cite_name": "", 
+        "title": "Christopher B. Barrett at IDEAS"
+    }
+]

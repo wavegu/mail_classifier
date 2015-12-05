@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email: password: remember me? mot de passe oublié ? demande de login .... +32 2 788 05 00 anne-marie.tordoir@comeos.be. bruno bougard hospitality...", 
+        "email_addr_list": [
+            "anne-marie.tordoir@comeos.be"
+        ], 
+        "cite_url": "www.comeos.be/menu.asp?id=7535lng=fr", 
+        "cite_name": "", 
+        "title": "Comeos for commerce and services"
+    }, 
+    {
+        "content": "bruno bougard curt schurgers david wentzloff fred lee alice wang rex min ... email icsystems@mit.edu © copyright 1999-2004, massachusetts institute of...", 
+        "email_addr_list": [
+            "icsystems@mit.edu"
+        ], 
+        "cite_url": "www-mtl.mit.edu/researchgroups/icsystems/uamps/people/", 
+        "cite_name": "", 
+        "title": "µAMPS People - MIT"
+    }, 
+    {
+        "content": "feb 15, 2010 - bougard bruno. septentrio nv. interleuvenlaan 15g. b-3001 louvain. belgium. email: bruno.bougard@septentrio.com. tel: +32 (0)16 300 834.", 
+        "email_addr_list": [
+            "bruno.bougard@septentrio.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "European GNSS Agency", 
+        "title": "Concept for Ionospheric-Scintillation Mitigation for ..."
+    }
+]

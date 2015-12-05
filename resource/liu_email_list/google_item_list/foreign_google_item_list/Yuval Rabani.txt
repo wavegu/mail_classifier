@@ -1,0 +1,21 @@
+[
+    {
+        "content": "jul 3, 2003 - yuval rabani† ... email: cjulia@cs.technion.ac.il. †computer science department, technion — iit, haifa ... email: rabani@cs . technion . ac . il...", 
+        "email_addr_list": [
+            "cjulia@cs.technion.ac.il"
+        ], 
+        "cite_url": "ttic.uchicago.edu/~cjulia/papers/k-median.pdf", 
+        "cite_name": "University of Chicago", 
+        "title": "Approximating k-median with non-uniform capacities."
+    }, 
+    {
+        "content": "yuval rabani†. ´eva tardos‡. abstract ... 14853. email: kleinber@cs.cornell.edu. supported in part ... email: rabani@cs.technion.ac.il. work at the technion sup...", 
+        "email_addr_list": [
+            "kleinber@cs.cornell.edu", 
+            "rabani@cs.technion.ac.il"
+        ], 
+        "cite_url": "www.cs.cornell.edu/Info/People/eva/papers/fair.ps", 
+        "cite_name": "Cornell University", 
+        "title": "[PS]Fairness in Routing and Load Balancing - Computer Science"
+    }
+]

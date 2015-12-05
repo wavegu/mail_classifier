@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email: lynda.hardman@cwi.nl; telephone: +31(0)20 592 4147; room: l332; homepage: http://www.cwi.nl/~lynda; department: information access; research...", 
+        "email_addr_list": [
+            "lynda.hardman@cwi.nl"
+        ], 
+        "cite_url": "www.cwi.nl/people/399", 
+        "cite_name": "Centrum Wiskunde  Informatica", 
+        "title": "Lynda Hardman - CWI"
+    }, 
+    {
+        "content": "deliverables email the urls of the working presentations to lynda.hardman@cwi.nl . dont forget to state the names of the people in your group in the email...", 
+        "email_addr_list": [
+            "lynda.hardman@cwi.nl"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-hardman-cwi-nl-14503633.htm", 
+        "cite_name": "", 
+        "title": "hardman@cwi.nl - The Email Archive"
+    }, 
+    {
+        "content": "lynda hardman. prof.dr. lynda hardman. research and teaching mandate ... email, lynda.hardman@cwi.nl. organisation, universiteit van amsterdam (uva).", 
+        "email_addr_list": [
+            "lynda.hardman@cwi.nl"
+        ], 
+        "cite_url": "www.lnvh.nl/leden/profiel/365", 
+        "cite_name": "", 
+        "title": "Profile Prof.dr. Lynda Hardman : LNVH - Dutch Network of ..."
+    }
+]

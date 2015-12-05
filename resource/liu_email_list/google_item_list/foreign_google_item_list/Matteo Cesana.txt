@@ -1,0 +1,12 @@
+[
+    {
+        "content": "email: sweber@coe.drexel.edu. website: network.ece.drexel. ... bradford d. boyle. email: bradford@minerva.ece.drexel.edu. website: .... matteo cesana. email:...", 
+        "email_addr_list": [
+            "sweber@coe.drexel.edu", 
+            "bradford@minerva.ece.drexel.edu"
+        ], 
+        "cite_url": "network.ece.drexel.edu/people", 
+        "cite_name": "", 
+        "title": "Modeling and Analysis of Networks Lab"
+    }
+]

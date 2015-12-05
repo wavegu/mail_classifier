@@ -1,0 +1,49 @@
+[
+    {
+        "content": "ordonez email. gopal pandurangan, pandurangan ... (713) 743-3360 shah@cs.uh.edu. shi, weidong (larry) ... larryshi@cs.uh.edu  solorio, thamar associate...", 
+        "email_addr_list": [
+            "shah@cs.uh.edu", 
+            "larryshi@cs.uh.edu"
+        ], 
+        "cite_url": "www.cs.uh.edu/people/faculty/", 
+        "cite_name": "University of Houston", 
+        "title": "Faculty"
+    }, 
+    {
+        "content": "navigation: administration  faculty  shi weidong. shi weidong. 2015-06-30. weidong shi, ph.d. research center ... email: wdshi@ujs.edu.cn. education:.", 
+        "email_addr_list": [
+            "wdshi@ujs.edu.cn"
+        ], 
+        "cite_url": "ltzx.ujs.edu.cn/pub/eng/szdw/szdw/swd/", 
+        "cite_name": "", 
+        "title": "Shi Weidong"
+    }, 
+    {
+        "content": "weidong shi acad 103ab (979) 845-2124 shiweidong@tamu.edu. weidong shi. specialty. current research projects. courses taught. current graduate...", 
+        "email_addr_list": [
+            "shiweidong@tamu.edu"
+        ], 
+        "cite_url": "internationalstudies.tamu.edu/.../bio--shiweidong....", 
+        "cite_name": "Texas AM University", 
+        "title": "Weidong Shi - International Studies"
+    }, 
+    {
+        "content": "shi, weidong lecturer, chinese, shiweidong@tamu.edu. seifert, tom, siefert, tom lecturer, german, siefert@tamu.edu  vionnet-bracher, francoise m.", 
+        "email_addr_list": [
+            "shiweidong@tamu.edu", 
+            "siefert@tamu.edu"
+        ], 
+        "cite_url": "internationalstudies.tamu.edu/.../directory-faculty....", 
+        "cite_name": "Texas AM University", 
+        "title": "Faculty Directory - International Studies"
+    }, 
+    {
+        "content": "weidong xiao, phd ... email: wxiao@temple.edu .... xiao w, wang y, lau ey, luo j, yao n, shi c, meza l, tseng h, maeda y, kumaresan p, liu r, lightstone...", 
+        "email_addr_list": [
+            "wxiao@temple.edu"
+        ], 
+        "cite_url": "www.temple.edu/.../xiao.asp?...(xiao%20w%5Bau%5...", 
+        "cite_name": "Temple University", 
+        "title": "Weidong Xiao, PhD - Temple University"
+    }
+]

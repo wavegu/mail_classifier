@@ -1,0 +1,20 @@
+[
+    {
+        "content": "jan 15, 2014 - curriculum vitae - victor c. m. leung. department of electrical ... email: vleung@ece.ubc.ca web: www.ece.ubc.ca/~vleung. research areas:.", 
+        "email_addr_list": [
+            "vleung@ece.ubc.ca"
+        ], 
+        "cite_url": "www.ece.ubc.ca/~vleung/cv.pdf", 
+        "cite_name": "University of British Columbia", 
+        "title": "[PDF]Curriculum Vitae - Victor C. M. Leung - UBC Electrical and ..."
+    }, 
+    {
+        "content": "you will be glad to know that proper now curriculum vitae victor c m leung ubc ... main maill, vancouver, b. c. canada, vt z4 email: minchen@ece.ubc.ca web:.", 
+        "email_addr_list": [
+            "minchen@ece.ubc.ca"
+        ], 
+        "cite_url": "104.238.187.170/.../victor-c.../Leung%20Ubc%20Ece%20Electrical.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Curriculum Vitae Victor C M Leung Ubc Ece Electrical"
+    }
+]

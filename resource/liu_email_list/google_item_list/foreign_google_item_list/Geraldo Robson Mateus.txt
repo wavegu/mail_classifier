@@ -1,0 +1,38 @@
+[
+    {
+        "content": "federal university of minas gerais, brazil advisor: geraldo robson mateus .... science universidade federal de minas gerais email: mateus@dcc.ufmg.br.", 
+        "email_addr_list": [
+            "mateus@dcc.ufmg.br"
+        ], 
+        "cite_url": "docplayer.com.br/2427119-Martin-gomez-ravetti-dr.h...", 
+        "cite_name": "", 
+        "title": "Martín Gómez Ravetti, Dr. - DocPlayer.com.br"
+    }, 
+    {
+        "content": "geraldo robson mateus. u niversidade federal de minas gerais. belo horizonte, mg, brasil. e-mail: mateus@dcc.ufmg.br. abstract-wireless sensor networks...", 
+        "email_addr_list": [
+            "mateus@dcc.ufmg.br"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0655...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "*:S - IEEE Xplore"
+    }, 
+    {
+        "content": "geraldo robson mateus‡. email: mateus@dcc.ufmg.br. §mascotte project. i3s-cnrs/inria/unsa. 2004 route des lucioles - b.p. 93. 06902 sophia-antipolis...", 
+        "email_addr_list": [
+            "mateus@dcc.ufmg.br"
+        ], 
+        "cite_url": "www.i3s.unice.fr/~mh/RR/2005/RR-05.33-G.HUIBAN.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]optimization aspects of the reconfiguration problem in wdm ..."
+    }, 
+    {
+        "content": "2. departamento de informática. universidade federal de viçosa – mg – brazil e-mail: nacif@dcc.ufmg.br. geraldo robson mateus and soraia lúcia da silva.", 
+        "email_addr_list": [
+            "nacif@dcc.ufmg.br"
+        ], 
+        "cite_url": "www.lanoms.org/2005/anaiscd/1999/9-2.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]2005/anaiscd"
+    }
+]

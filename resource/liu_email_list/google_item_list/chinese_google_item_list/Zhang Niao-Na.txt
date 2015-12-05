@@ -1,0 +1,21 @@
+[
+    {
+        "content": "aug 23, 2014 - furnace smelting process. zhang niaona ... aemail: zhangniaona@mail.ccut.edu.cn, bemail:357196215@qq.com. keywords: the smelting...", 
+        "email_addr_list": [
+            "zhangniaona@mail.ccut.edu.cn", 
+            "357196215@qq.com"
+        ], 
+        "cite_url": "www.scientific.net/AMM.668-669.557.pdf", 
+        "cite_name": "", 
+        "title": "Full Text Pdf - Scientific.net"
+    }, 
+    {
+        "content": "niaona zhang and zhe zhang. n. zhang (✉) · z. zhang. changchun university of technology, 130012 changchun, china e-mail: zhangniaona@mail.ccut.edu.", 
+        "email_addr_list": [
+            "zhangniaona@mail.ccut.edu"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2F978-3-3...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Download PDF"
+    }
+]

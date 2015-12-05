@@ -1,0 +1,29 @@
+[
+    {
+        "content": "e-mail, gerd.hirzinger@dlr.de. room, mi 03.07.055. phone, +49.8153.28.2401. fax, +49.89.289.18107. address, institut für informatik vi technische universität...", 
+        "email_addr_list": [
+            "gerd.hirzinger@dlr.de"
+        ], 
+        "cite_url": "www6.in.tum.de/Main/Hirzinge", 
+        "cite_name": "Technische Universität München", 
+        "title": "Prof. Dr.-Ing. Gerd Hirzinger « Robotics and Embedded ..."
+    }, 
+    {
+        "content": "email: gerd.hirzinger [at] dlr.de tel.: +49-8153-28-2401. born january 17, 1945. career. 1992-present director of dlrs institute of robotics and mechatronics.", 
+        "email_addr_list": [
+            "gerd.hirzinger@dlr.de"
+        ], 
+        "cite_url": "www.jsps-bonn.de/fileadmin/.../2006K_Abstr_Hirzinger.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Gerd Hirzinger - JSPS Bonn Office"
+    }, 
+    {
+        "content": "hirzinger gerd. tch member. photo: gerd80x80.jpg. last name: hirzinger. name: gerd. email: gerd.hirzinger@dlr.de. ieee cs affiliation: no. research:.", 
+        "email_addr_list": [
+            "gerd.hirzinger@dlr.de"
+        ], 
+        "cite_url": "www.worldhaptics.org/users/gerdhirzingerdlrde", 
+        "cite_name": "", 
+        "title": "Hirzinger Gerd | TCH Website"
+    }
+]

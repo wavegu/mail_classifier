@@ -1,0 +1,38 @@
+[
+    {
+        "content": "professor paul k chu, phd 朱劍豪教授 ... e-mail: paul.chu@cityu.edu.hk  paul k. chus cv. paul k chu was born in hong kong and attended both primary and...", 
+        "email_addr_list": [
+            "paul.chu@cityu.edu.hk"
+        ], 
+        "cite_url": "www6.cityu.edu.hk/appkchu/.../Paul%20C...", 
+        "cite_name": "City University of Hong Kong", 
+        "title": "Paul K Chu - City University of Hong Kong"
+    }, 
+    {
+        "content": "paul k chu. professor (chair) of materials engineering ... chee avenue, hong kong sar, china. tel: 27887724. fax: 27887830. email: paul.chu@cityu.edu.hk...", 
+        "email_addr_list": [
+            "paul.chu@cityu.edu.hk"
+        ], 
+        "cite_url": "www.ap.cityu.edu.hk/personal-website/Paul-Chu.htm", 
+        "cite_name": "", 
+        "title": "Department of Physics and Materials Science"
+    }, 
+    {
+        "content": "email: hjren@ustc.edu.cn ... [7] haijun ren, ding li, and paul k chu, geodesic acoustic modes in toroidally rotating tokamaks with an arbitrary ¦Â, physics of...", 
+        "email_addr_list": [
+            "hjren@ustc.edu.cn"
+        ], 
+        "cite_url": "staff.ustc.edu.cn/~hjren/", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "Haijun Ren"
+    }, 
+    {
+        "content": "e-mail: paul.chu@cityu.edu.hk. 1956. fhkeng [2014]. academic degrees: bsc (ohio state); msc (cornell); phd (cornell). professional qualifications: fhkie...", 
+        "email_addr_list": [
+            "paul.chu@cityu.edu.hk"
+        ], 
+        "cite_url": "www.hkaes.org/?page_id=3151", 
+        "cite_name": "", 
+        "title": "Fellow of 2014, CHU, Professor, Paul K. 朱劍豪 - Hong Kong ..."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "content": "email: zjbao@zju.edu.cn. office ... (sci：356iz，ei：084411663924); zhejing bao, youxian sun, support vector machine based multi-model predictive control.", 
+        "email_addr_list": [
+            "zjbao@zju.edu.cn"
+        ], 
+        "cite_url": "www.fe.zju.edu.cn/english/redir.php?catalog_id=6584object_id...", 
+        "cite_name": "", 
+        "title": "Bao Zhejing - Faculty of Engineering Zhejiang University"
+    }, 
+    {
+        "content": "dec 21, 2011 - phone: (86)571-8795-1879 e-mail: yxsun@iipc.zju.edu.cn. youxian ... youxian sun has been with the zhejiang university since 1964. he is a...", 
+        "email_addr_list": [
+            "yxsun@iipc.zju.edu.cn"
+        ], 
+        "cite_url": "xk.sia.cn/fileup/PDF/Handling%20Editor--Youxian%20SUN-CV.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Youxian SUN Professor, Ph.D Supervisor, Academician of ..."
+    }, 
+    {
+        "content": "... 300072, p. r. china mobile: +086-15902268453. email: lipingliu@tju.edu.cn ... liping liu, zhi wang, youxian sun. connectivity in wireless sensor networks.", 
+        "email_addr_list": [
+            "lipingliu@tju.edu.cn"
+        ], 
+        "cite_url": "seea.tju.edu.cn/ev/tea_about_ev.php?teaId=184", 
+        "cite_name": "", 
+        "title": "Liu Liping - Welcome to School of Electrical Engineering ..."
+    }, 
+    {
+        "content": "we have xianjun.sun@ivtcorporation.com listing since april, 2011. this email address is associated ... bei jing ai wei ti hu lian ji shu you xian gong si.", 
+        "email_addr_list": [
+            "xianjun.sun@ivtcorporation.com"
+        ], 
+        "cite_url": "website.informer.com/email/xianjun.sun@ivtcorporation.com", 
+        "cite_name": "", 
+        "title": "Xianjun.sun@ivtcorporation.com at Website Informer"
+    }, 
+    {
+        "content": "... hong kong and is owned by sun chunfu (linyi fuda jixie youxian gongsi). lyfudajx.com ... email, zhangyufeng@dijiit.com, is associated with 100+ domains.", 
+        "email_addr_list": [
+            "zhangyufeng@dijiit.com"
+        ], 
+        "cite_url": "domainbigdata.com/lyfudajx.com", 
+        "cite_name": "", 
+        "title": "Lyfudajx.com - WHOIS  Domain Info - DomainBigData"
+    }
+]

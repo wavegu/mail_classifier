@@ -1,0 +1,11 @@
+[
+    {
+        "content": "sep 23, 2010 - e-mail. c.f.vannostrum@uu.nl ... dr. c.f. van nostrum obtained his m.sc. in chemistry at the university of nijmegen in 1990. in the same year...", 
+        "email_addr_list": [
+            "c.f.vannostrum@uu.nl"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Utrecht University", 
+        "title": "Faculty - Rene van Nostrum"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "content": "contatti. e-mail: donat@cs.unibo.it; tel: +39 051 20 9 4512. altri contatti. e-mail: lorenzo.donatiello@unibo.it; web: vai al sito personale. dipartimento di...", 
+        "email_addr_list": [
+            "donat@cs.unibo.it", 
+            "lorenzo.donatiello@unibo.it"
+        ], 
+        "cite_url": "https://www.unibo.it/.../lorenzo....", 
+        "cite_name": "University of Bologna", 
+        "title": "Lorenzo Donatiello — Università di Bologna — Home Page"
+    }, 
+    {
+        "content": "lorenzo donatiello. professor of computer science department of computer ... phone: +39 051 2094512. fax: +39 051 2094510. email: donat@cs.unibo.it...", 
+        "email_addr_list": [
+            "donat@cs.unibo.it"
+        ], 
+        "cite_url": "www.cs.unibo.it/~donat/", 
+        "cite_name": "University of Bologna", 
+        "title": "Lorenzo Donatiello: July 1996"
+    }, 
+    {
+        "content": "e-mail: donat@cs.unibo.it; tel: +39 051 20 9 4512. altri contatti. e-mail: lorenzo.donatiello@unibo.it; web: go to personal web site. dipartimento di informatica...", 
+        "email_addr_list": [
+            "donat@cs.unibo.it", 
+            "lorenzo.donatiello@unibo.it"
+        ], 
+        "cite_url": "https://www.unibo.it/.../lorenzo....", 
+        "cite_name": "University of Bologna", 
+        "title": "Lorenzo Donatiello — University of Bologna — Home Page"
+    }, 
+    {
+        "content": "fax: +1 703 883-1917, email: philip.wilsey@ieee.org. email: fwieland@mitre.org. program co-chairs: lorenzo donatiello, francesco quaglia. dipart. di...", 
+        "email_addr_list": [
+            "philip.wilsey@ieee.org", 
+            "fwieland@mitre.org"
+        ], 
+        "cite_url": "www.dis.uniroma1.it/.../centerpage.html", 
+        "cite_name": "Sapienza University of Rome", 
+        "title": "Scope - Dipartimento di Informatica e Sistemistica - Sapienza"
+    }
+]

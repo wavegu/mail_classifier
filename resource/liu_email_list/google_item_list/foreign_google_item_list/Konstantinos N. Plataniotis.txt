@@ -1,0 +1,29 @@
+[
+    {
+        "content": "konstantinos n. plataniotis, multimedia laboratory, the edward s. rogers sr. ... +1 416 946-5605. fax: +1 416 978-4425. email: kostas at ece dot utoronto...", 
+        "email_addr_list": [
+            "kostas@ece.utoronto"
+        ], 
+        "cite_url": "www.dsp.toronto.edu/~kostas/", 
+        "cite_name": "", 
+        "title": "Konstantinos N. Plataniotis - Multimedia Laboratory"
+    }, 
+    {
+        "content": "professor kostas plataniotis. ... e-mail: kostas@comm.utoronto.ca ... konstantinos (kostas) n. plataniotis received his b. eng. degree in computer engineering...", 
+        "email_addr_list": [
+            "kostas@comm.utoronto.ca"
+        ], 
+        "cite_url": "www.ece.utoronto.ca/people/plataniotis-k-n/", 
+        "cite_name": "University of Toronto", 
+        "title": "Plataniotis K N - Electrical  Computer Engineering ..."
+    }, 
+    {
+        "content": "ineering university of toronto 10 kings college road toronto on m5s 3g4 canada email: mmcguire@dsp.toronto.edu konstantinos n. plataniotis edward s.", 
+        "email_addr_list": [
+            "mmcguire@dsp.toronto.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-kostas-dsp-uto-11594342.htm", 
+        "cite_name": "", 
+        "title": "kostas@dsp.uto - The Email Archive"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "content": "apr 21, 2015 - song baoliang. author： ... email: blsong@whu.edu.cn .... 34) lee jn, song bl, debose-boyd ra, ye j. sterol-regulated degradation of insig-1...", 
+        "email_addr_list": [
+            "blsong@whu.edu.cn"
+        ], 
+        "cite_url": "en.whu.edu.cn/info/1073/1819.htm", 
+        "cite_name": "Wuhan University", 
+        "title": "Song Baoliang-Wuhan University"
+    }, 
+    {
+        "content": "nov 3, 2015 - post, name, did, email. deputy chief executive ... senior officer, mr tan song gee, 6279 1895, tan_song_gee@spring.gov.sg ... (manufacturing  engineering 2), mr ho chi bao, 6279 3308, ho_chi_bao@spring.gov.sg. director ... senior officer, mr tan wei ye, 6279 3820, tan_wei_ye@spring.gov.sg.", 
+        "email_addr_list": [
+            "tan_song_gee@spring.gov.sg", 
+            "ho_chi_bao@spring.gov.sg", 
+            "tan_wei_ye@spring.gov.sg"
+        ], 
+        "cite_url": "app.sgdi.gov.sg/listing_expand....", 
+        "cite_name": "List of Singapore Government Ministries", 
+        "title": "Director - Gov.sg - Singapore Government Directory"
+    }, 
+    {
+        "content": "ranping song is responsible for leading the development and implementation of ... email: rsong@wri.org. phone: +1 (202) 729-7896. languages spoken:.", 
+        "email_addr_list": [
+            "rsong@wri.org"
+        ], 
+        "cite_url": "", 
+        "cite_name": "World Resources Institute", 
+        "title": "Ranping Song | World Resources Institute"
+    }, 
+    {
+        "content": "shen zuo bao ye ji tuan cheng li wu song ying ren she chang huang yang lue ren zong ... tel:1-519-973 1556 | fax: 1-519-977 9050 | email:info@oriprobe.com", 
+        "email_addr_list": [
+            "info@oriprobe.com"
+        ], 
+        "cite_url": "caod.oriprobe.com/.../shen_zuo_bao_ye_ji_tuan_cheng_li_wu_song_yi...", 
+        "cite_name": "", 
+        "title": "shen zuo bao ye ji tuan cheng li wu song ying ren she ..."
+    }, 
+    {
+        "content": "address: zhen ye road, tang xia yong village,song gang town,bao an district,shenzhen city,guang dong, china ... mail: marketing@chuangkelong.cn.", 
+        "email_addr_list": [
+            "marketing@chuangkelong.cn"
+        ], 
+        "cite_url": "www.chuangkelong.cn/en/Contact-us.html", 
+        "cite_name": "", 
+        "title": "Contact us Contact us"
+    }, 
+    {
+        "content": "han bao email: hb2481@columbia.edu. advisor: james im  chris marianetti research interests: materials science and engineering...", 
+        "email_addr_list": [
+            "hb2481@columbia.edu"
+        ], 
+        "cite_url": "apam.columbia.edu/materials-science-engineering-g...", 
+        "cite_name": "Columbia University", 
+        "title": "Materials Science  Engineering Graduate Students ..."
+    }, 
+    {
+        "content": "verified email at mail.sysu.edu.cn. scholar. get my own ... bm chen, zh wang, sx li, gx wang, hx song, xn wang ... y ye, k zhou, l song, j jin, s peng.", 
+        "email_addr_list": [
+            "email@mail.sysu.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=hD7dIHwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Bao-Ming Chen (陈宝明) - Google Scholar Citations"
+    }
+]

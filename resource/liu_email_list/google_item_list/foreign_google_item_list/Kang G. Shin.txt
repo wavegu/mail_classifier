@@ -1,0 +1,20 @@
+[
+    {
+        "content": "kang g. shin (신강근). i am the kevin and nancy oconnor professor of ... +1 734-763-0391 (voice) +1 734-763-8094 (fax). e-mail: kgshin@eecs.umich.edu.", 
+        "email_addr_list": [
+            "kgshin@eecs.umich.edu"
+        ], 
+        "cite_url": "web.eecs.umich.edu/~kgshin/", 
+        "cite_name": "University of Michigan", 
+        "title": "Kang G. Shin - Electrical Engineering and Computer Science"
+    }, 
+    {
+        "content": "tai-lin chin (national central university) 2006 .... kang g. shin (신강근). i am the kevin and nancy oconnor professor of ... e-mail: kgshin@eecs.umich.edu.", 
+        "email_addr_list": [
+            "kgshin@eecs.umich.edu"
+        ], 
+        "cite_url": "home.engineering.iastate.edu/~daji/RTCL/", 
+        "cite_name": "Iowa State University", 
+        "title": "RTCL Family Tree - Iowa State University"
+    }
+]

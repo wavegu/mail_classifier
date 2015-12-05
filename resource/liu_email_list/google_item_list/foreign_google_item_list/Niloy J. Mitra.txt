@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: n.mitra@cs.ucl.ac.uk. homepage: http://www.cs.ucl.ac.uk/staff/n.mitra/ ... (2015)yang, wang, and mitra] yang, y.l., wang, j., and mitra, n.j. (2015).", 
+        "email_addr_list": [
+            "n.mitra@cs.ucl.ac.uk"
+        ], 
+        "cite_url": "www0.cs.ucl.ac.uk/staff/...mitra/niloy_vitae.p...", 
+        "cite_name": "University College London", 
+        "title": "[PDF]Niloy J. Mitra: Curriculum Vitae - UCL Computer Science"
+    }, 
+    {
+        "content": "apr 4, 2012 - niloy j. mitra. senior lecturer ... fax: +44 (0)20 7387 1397. email: n.mitra@cs.ucl.ac.uk. homepage: http://www.cs.ucl.ac.uk/staff/n.mitra/.", 
+        "email_addr_list": [
+            "n.mitra@cs.ucl.ac.uk"
+        ], 
+        "cite_url": "graphics.stanford.edu/~niloy/niloy_vitae.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Niloy J. Mitra: Curriculum Vitae - Computer Graphics ..."
+    }, 
+    {
+        "content": "email. phone fax, niloy.mitra@kaust.edu.sa +966 02 808 0257 +91 11 2658 2283 ... with helmut pottmann phd with leonidas j. guibas  geometric computing", 
+        "email_addr_list": [
+            "niloy.mitra@kaust.edu.sa"
+        ], 
+        "cite_url": "web.kaust.edu.sa/...", 
+        "cite_name": "King Abdullah University of Science and Technology", 
+        "title": "Niloy J. Mitra - King Abdullah University of Science ..."
+    }, 
+    {
+        "content": "email: simon.floery@rechenraum.com phone: +43 (0)1 5811543 ... martin kilian, simon flöry, zhonggui chen, niloy j. mitra, alla sheffer, and helmut pottmann.", 
+        "email_addr_list": [
+            "simon.floery@rechenraum.com"
+        ], 
+        "cite_url": "www.rechenraum.com/about.html", 
+        "cite_name": "", 
+        "title": "rechenraum - About"
+    }
+]

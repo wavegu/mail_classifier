@@ -1,0 +1,47 @@
+[
+    {
+        "content": "email. wenzheng.zhang@bcm.edu. is this you?log in to edit your profile. positions. e-mail access: pediatrics-hema  oncology: baylor college of medicine.", 
+        "email_addr_list": [
+            "wenzheng.zhang@bcm.edu"
+        ], 
+        "cite_url": "https://www.bcm.edu/.../8a3c84d8-4af6-11e4...", 
+        "cite_name": "Baylor College of Medicine", 
+        "title": "WenZheng Zhang | People | Baylor College of Medicine ..."
+    }, 
+    {
+        "content": "wenzheng zhang. contact: wenzheng zhang. 47 new scotland avenue albany ny 12208. united states. tel: 5182626731. zhangw1@mail.amc.edu.", 
+        "email_addr_list": [
+            "zhangw1@mail.amc.edu"
+        ], 
+        "cite_url": "jobs.sciencecareers.org/employer/381805/wenzheng-zhang/", 
+        "cite_name": "", 
+        "title": "Jobs with Wenzheng Zhang - Science Careers"
+    }, 
+    {
+        "content": "email: yangwen.zheng@manchester.ac.uk. location: samuel alexander building-n2.16. school of arts, languages and cultures the university of manchester", 
+        "email_addr_list": [
+            "yangwen.zheng@manchester.ac.uk"
+        ], 
+        "cite_url": "www.manchester.ac.uk/research/yangwen.zheng/", 
+        "cite_name": "University of Manchester", 
+        "title": "Prof Yang-Wen Zheng research profile - personal details ..."
+    }, 
+    {
+        "content": "professor zhang together with her research group is active on experimental and theoretical study of transformation ... email: zhangwz@tsinghua.edu.cn...", 
+        "email_addr_list": [
+            "zhangwz@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.mse.tsinghua.edu.cn/.../201012201127009033...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Wenzheng Zhang - Department of Materials Science ..."
+    }, 
+    {
+        "content": "wensheng zhang. associate professor. department of computer science  iowa state university. office: 109 atanasoff hall. email: wzhang at iastate.edu.", 
+        "email_addr_list": [
+            "wzhang@iastate.edu"
+        ], 
+        "cite_url": "www.cs.iastate.edu/~wzhang/", 
+        "cite_name": "", 
+        "title": "Wensheng Zhangs Home Page"
+    }
+]

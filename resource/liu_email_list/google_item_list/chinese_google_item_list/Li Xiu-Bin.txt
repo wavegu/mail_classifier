@@ -1,0 +1,68 @@
+[
+    {
+        "content": "we are a clothing manufacturer. we can make high-quality clothing for you at a low price. email: leexiu2013@sina.com tel: +86 13953635690.", 
+        "email_addr_list": [
+            "leexiu2013@sina.com"
+        ], 
+        "cite_url": "https://instagram.com/hualingclothing/", 
+        "cite_name": "", 
+        "title": "Lee Xiu Bin (@hualingclothing) • Instagram photos and videos"
+    }, 
+    {
+        "content": "feb 7, 2013 - email: zlding@mail.igcas.ac.cn ... email: pqchen@cashq.ac.cn ... li xiubin. institute of geographical sciences  natural resources research,...", 
+        "email_addr_list": [
+            "zlding@mail.igcas.ac.cn", 
+            "pqchen@cashq.ac.cn"
+        ], 
+        "cite_url": "www.igbp.net/.../asiapaci...", 
+        "cite_name": "International Geosphere‑Biosphere Programme", 
+        "title": "China-Beijing NC - IGBP"
+    }, 
+    {
+        "content": "marine.janvier@outlook.fr. li xiubin. doctorant. biochelxb@126.com. tan jianeng. doctorant. jntan.hust@gmail.com. xu rui. post-doctorant. rui.xu@insa-lyon.", 
+        "email_addr_list": [
+            "marine.janvier@outlook.fr", 
+            "biochelxb@126.com", 
+            "jntan.hust@gmail.com"
+        ], 
+        "cite_url": "www.icbms.fr/cob/contact", 
+        "cite_name": "", 
+        "title": "ICBMS - Contact"
+    }, 
+    {
+        "content": "my name is li xiu bin; im a chinese born in jan. 1975 in shandong province ... number is: 008613953635690. my email address is: leexiu2006@sina.com.", 
+        "email_addr_list": [
+            "leexiu2006@sina.com"
+        ], 
+        "cite_url": "cdn.proz.com/profile_resources/1165645_r4b14f5c985917.doc", 
+        "cite_name": "", 
+        "title": "[DOC]My name is Li Xiu Bin; Im a Chinese born in Jan - ProZ.com"
+    }, 
+    {
+        "content": "email: xiubin@euch4e.chem.emory.edu ... xiu-bin zhang, ze-sheng li, zhong-yuan lu, and chia-chung sun, molecular dynamics simulation of the linear...", 
+        "email_addr_list": [
+            "xiubin@euch4e.chem.emory.edu"
+        ], 
+        "cite_url": "www.chemistry.emory.edu/faculty/bowman/.../xiubin/", 
+        "cite_name": "Emory University", 
+        "title": "Xiubin Zhang"
+    }, 
+    {
+        "content": "browsing by author li, xiubin. jump to: 0-9 a b c d e f g h i j k l m n o p ... partner in hub development. contact us. tel: 3921 2913 email: hub@lib.hku.hk.", 
+        "email_addr_list": [
+            "hub@lib.hku.hk"
+        ], 
+        "cite_url": "hub.hku.hk/browse?type=authorvalue=Li%2C+Xiubin.", 
+        "cite_name": "", 
+        "title": "Li, Xiubin. - HKU Scholars Hub: Browsing DSpace - The ..."
+    }, 
+    {
+        "content": "name: professor laixiang sun; email address: ls28@soas.ac.uk; telephone: ... wang, xue and li, xiubin and fischer, guenther and sun, laixiang and tan,...", 
+        "email_addr_list": [
+            "ls28@soas.ac.uk"
+        ], 
+        "cite_url": "https://www.soas.ac.uk/staff/staff31883.php", 
+        "cite_name": "SOAS, University of London", 
+        "title": "Professor Laixiang Sun | Staff | SOAS, University of London"
+    }
+]

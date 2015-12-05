@@ -1,0 +1,20 @@
+[
+    {
+        "content": "head of division. univ.-prof. dr. manfred tscheligi deputy head of department ... 662 8044-744800. manfred.tscheligi@sbg.ac.at https://hci.sbg.ac.at/tscheligi...", 
+        "email_addr_list": [
+            "manfred.tscheligi@sbg.ac.at"
+        ], 
+        "cite_url": "uni-salzburg.at/index.php?id...", 
+        "cite_name": "University of Salzburg", 
+        "title": "Center for Human-Computer Interaction - Universität Salzburg"
+    }, 
+    {
+        "content": "... (1) 58801 – 376 97. email: astrid.weiss@tuwien.ac.at ... manfred tscheligi. oral exam: march ... manfred tscheligi, university of salzburg, austria. 2007-2010:...", 
+        "email_addr_list": [
+            "astrid.weiss@tuwien.ac.at"
+        ], 
+        "cite_url": "https://astridweiss.wordpress.com/cv/", 
+        "cite_name": "", 
+        "title": "CV | Astrid Weiss"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "e-mail : farid.al-bender@mech.kuleuven.be. work phone : +32 16 32 25 12. office location : 02.073. reynaerts.jpg. prof. dr. ir. dominiek reynaerts. e-mail...", 
+        "email_addr_list": [
+            "farid.al-bender@mech.kuleuven.be"
+        ], 
+        "cite_url": "https://www.mech.kuleuven.be/en/pma/research/mecha/staff", 
+        "cite_name": "", 
+        "title": "Staff – Department of Mechanical Engineering - KU Leuven"
+    }, 
+    {
+        "content": "jun 12, 2015 - +32 16 32 26 40, mail: dominiek.reynaerts@kuleuven.be or prof. dr. ir. ... application online, please contact [name of zap consultant] (email, tel.)...", 
+        "email_addr_list": [
+            "dominiek.reynaerts@kuleuven.be"
+        ], 
+        "cite_url": "ec.europa.eu/euraxess/index.cfm/jobs/jobDetails/34019335", 
+        "cite_name": "Europa", 
+        "title": "24 2004 Manufacturing of Integrated, Smart Products based ..."
+    }
+]

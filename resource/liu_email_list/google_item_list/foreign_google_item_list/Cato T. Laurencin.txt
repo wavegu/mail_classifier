@@ -1,0 +1,29 @@
+[
+    {
+        "content": "cato t. laurencin, m.d., ph.d. director, institute for regenerative engineering ... farmington, ct 06030. phone: 860-679-6544. email: laurencin@uchc.edu...", 
+        "email_addr_list": [
+            "laurencin@uchc.edu"
+        ], 
+        "cite_url": "regenerativeengineering.uchc.edu/", 
+        "cite_name": "University of Connecticut Health Center", 
+        "title": "Institute for Regenerative Engineering › UConn Health"
+    }, 
+    {
+        "content": "cato laurencin. laurencin_cato_profile ... (860) 679-4068. email: laurencin@uchc.edu ... jiang t, deng m, james r, nair ls, laurencin ct. acta biomater.", 
+        "email_addr_list": [
+            "laurencin@uchc.edu"
+        ], 
+        "cite_url": "www.mse.engr.uconn.e...", 
+        "cite_name": "University of Connecticut School of Engineering", 
+        "title": "Cato Laurencin - Materials Science and Engineering"
+    }, 
+    {
+        "content": "cato t. laurencin, cobb institute. ... cato t. laurencin, m.d., ph.d. is the albert and wilda van dusen distinguished endowed ... email: laurencin@uchc.edu", 
+        "email_addr_list": [
+            "laurencin@uchc.edu"
+        ], 
+        "cite_url": "www.thecobbinstitute.org/Board%20Of%20Directors/cato-t-laurencin", 
+        "cite_name": "", 
+        "title": "Cato T. Laurencin - Cobb Institute"
+    }
+]

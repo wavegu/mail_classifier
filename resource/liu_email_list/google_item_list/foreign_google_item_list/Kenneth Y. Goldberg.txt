@@ -1,0 +1,20 @@
+[
+    {
+        "content": "please then email ieeetase@engr.uconn.edu the name of the file. submission procedures will be ... kenneth y. goldberg. chair, t-ase advisory/steering...", 
+        "email_addr_list": [
+            "ieeetase@engr.uconn.edu"
+        ], 
+        "cite_url": "www.engr.uconn.edu/.../T...", 
+        "cite_name": "University of Connecticut School of Engineering", 
+        "title": "A - University of Connecticut"
+    }, 
+    {
+        "content": "oct 3, 2006 - pittsburgh pa 15213 email: matt.mason@cs.cmu.edu ..... kenneth y. goldberg and matthew t. mason, bayesian grasping. proceedings of the...", 
+        "email_addr_list": [
+            "matt.mason@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~mason/mattscv.pdf", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "[PDF]Matts CV - School of Computer Science - Carnegie Mellon ..."
+    }
+]

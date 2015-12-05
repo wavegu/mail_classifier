@@ -1,0 +1,65 @@
+[
+    {
+        "content": "email: j.allan@law.uq.edu.au. consultation: open door policy ... james allan holds the oldest named chair at the university of queensland. before arriving in...", 
+        "email_addr_list": [
+            "j.allan@law.uq.edu.au"
+        ], 
+        "cite_url": "www.law.uq.edu.au/staff.php?nm=jamesallan", 
+        "cite_name": "TC Beirne School of Law", 
+        "title": "James Allan - TC Beirne School of Law - The University of ..."
+    }, 
+    {
+        "content": "email: james.allan@manchester.ac.uk ... james allan studied physics with computational physics at umist from 1996 to 2000, graduating with an mphys with...", 
+        "email_addr_list": [
+            "james.allan@manchester.ac.uk"
+        ], 
+        "cite_url": "www.seaes.manchester.ac.uk/.../profile/?...james...", 
+        "cite_name": "University of Manchester", 
+        "title": "Dr James Allan | The University of Manchester | School of ..."
+    }, 
+    {
+        "content": "james allan. james allan headshot. faculty. position: ... chair of the faculty. office: cs202. phone: (413) 545-2742. email: allan@cs.umass.edu. homepage:.", 
+        "email_addr_list": [
+            "allan@cs.umass.edu"
+        ], 
+        "cite_url": "https://www.cics.umass.edu/faculty/directory/allan_james", 
+        "cite_name": "", 
+        "title": "James Allan - College of Information and Computer Sciences"
+    }, 
+    {
+        "content": "james allen, ph.d.anthropology professor ... relations mike mcalpin at 925-631-4222 (office), 925-878-9535 (cell) or by email at mdm5@stmarys-ca.edu.", 
+        "email_addr_list": [
+            "mdm5@stmarys-ca.edu"
+        ], 
+        "cite_url": "https://www.stmarys-ca.edu/.../james-al...", 
+        "cite_name": "Saint Mary's College of California", 
+        "title": "James Allan, Ph.D. | Saint Marys College"
+    }, 
+    {
+        "content": "james f. allan. email: jallan@nsf.gov. phone: (703) 292-8144. fax: (703) 292-9085. room: 725 n organization: (oce) title: program director program...", 
+        "email_addr_list": [
+            "jallan@nsf.gov"
+        ], 
+        "cite_url": "https://www.nsf.gov/.../staff_bio.jsp?...jallan...", 
+        "cite_name": "National Science Foundation", 
+        "title": "James Allan | National Science Foundation"
+    }, 
+    {
+        "content": "scottish conservative and unionist. address. hersbruck, 3 prospect view, lossiemouth, iv31 6dq. telephone. 01343 815122. email. james.allan@moray.gov.", 
+        "email_addr_list": [
+            "james.allan@moray.gov"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Moray", 
+        "title": "James Allan - The Moray Council"
+    }, 
+    {
+        "content": "james allan is a coldwell banker residential brokerage real estate agent serving ... email. jallan@coldwellbanker.com. phone. (310) 704-0007 mobile; (424)...", 
+        "email_addr_list": [
+            "jallan@coldwellbanker.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "James Allan - Coldwell Banker"
+    }
+]

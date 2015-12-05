@@ -1,0 +1,38 @@
+[
+    {
+        "content": "zhihao zhuangs laboratory at university of delaware. ... zhihao zhuang. associate professor. principal investigator ... e-mail: liangqin@udel.eduthis email...", 
+        "email_addr_list": [
+            "liangqin@udel.eduthis"
+        ], 
+        "cite_url": "zhuanggroup.chem.udel.edu/people", 
+        "cite_name": "University of Delaware", 
+        "title": "People - Home - University of Delaware"
+    }, 
+    {
+        "content": "jan 6, 2012 - qin zhihao — impacts of agro drought on grain production in china. 478 -1 ... sciences beijing 100081, china email: zhihaoqin@163.com; 2.", 
+        "email_addr_list": [
+            "zhihaoqin@163.com"
+        ], 
+        "cite_url": "www.slideshare.net/.../qin-zhihao-impacts-of-agro-drought-on-grain-pro...", 
+        "cite_name": "", 
+        "title": "Qin Zhihao — Impacts of agro drought on grain production ..."
+    }, 
+    {
+        "content": "e-mail: maokebiao@126.com ... kebiao mao, jiancheng shi, zhaoliang li, zhihao qin, manchun li, bin xu, a physics-based statistical algorithm for retrieving...", 
+        "email_addr_list": [
+            "maokebiao@126.com"
+        ], 
+        "cite_url": "faculty.geog.utoronto.ca/Chen/Chens%20homepage/maokb.htm", 
+        "cite_name": "", 
+        "title": "Kebiao Mao - University of Toronto"
+    }, 
+    {
+        "content": "fax: +86-10-82106335; email: liwenjuan@caas.com ... wenjuan li, huajun tang, zhihao qin, et al. ... wenjuan li, zhihao qin, minghua zhang, joe browde.", 
+        "email_addr_list": [
+            "liwenjuan@caas.com"
+        ], 
+        "cite_url": "www.en.iarrp.caas.cn/Scientists/DomainExpert/DomainExpert.aspx?...", 
+        "cite_name": "", 
+        "title": "Research Area - Institute of Agriculture Resource and ..."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "content": "jianfeng lu ... durham, nc 27708; mathematics department, duke university, box 90320, durham, nc 27708; email icon jianfeng@math.duke.edu phone icon...", 
+        "email_addr_list": [
+            "jianfeng@math.duke.edu"
+        ], 
+        "cite_url": "https://scholars.duke.edu/display/per2496092", 
+        "cite_name": "", 
+        "title": "Lu, Jianfeng - Scholars@Duke - Duke University"
+    }, 
+    {
+        "content": "jianfeng cai cv ... email: jianfengcai@usf.edu. education. b.s., nanjing university, 1993-1997. advisor: yun lu m.s., nanjing university, 1997-2000. advisor:...", 
+        "email_addr_list": [
+            "jianfengcai@usf.edu"
+        ], 
+        "cite_url": "jianfengcai.myweb.usf.edu/", 
+        "cite_name": "University of South Florida", 
+        "title": "USF :: Chemistry Department :: Jianfeng Cai"
+    }, 
+    {
+        "content": "aug 11, 2014 - phone: 262-9667. email: lainhart@waisman.wisc.edu ... contact info. office: 202. phone: 263-1656. email: .... lu, jianfeng. dr. zhangs stem...", 
+        "email_addr_list": [
+            "lainhart@waisman.wisc.edu"
+        ], 
+        "cite_url": "www.waisman.wisc.edu/.../index.php?...", 
+        "cite_name": "University of Wisconsin‑Madison", 
+        "title": "People / Waisman Center - University of Wisconsin–Madison"
+    }, 
+    {
+        "content": "email: lujm@suda.edu.cn ... a small-molecule-based ternary data-storage device, hua li, qingfeng xu, najun li, ru sun, jianfeng ge, jianmei lu*, hongwei...", 
+        "email_addr_list": [
+            "lujm@suda.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Lu Jian-Mei-College of Chemistry, Chemical Engineering ..."
+    }, 
+    {
+        "content": "jianfeng huang. phd students. ​chemical sciences. jianfeng.huang@kaust.edu.sa ... ​huang jf, vongehr s, tang sc, lu hm, shen jc, meng xk.", 
+        "email_addr_list": [
+            "jianfeng.huang@kaust.edu.sa"
+        ], 
+        "cite_url": "https://nfm.kaust.edu.sa/Pages/Jianfeng.aspx", 
+        "cite_name": "", 
+        "title": "Jianfeng Huang - Nanostructured Functional Materials"
+    }
+]

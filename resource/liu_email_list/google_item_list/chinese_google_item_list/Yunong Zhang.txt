@@ -1,0 +1,31 @@
+[
+    {
+        "content": "professor yunong zhang, school of information science  technology, sun yat-sen university , guangzhou 510006, china. emails: ynzhang@ieee.org...", 
+        "email_addr_list": [
+            "ynzhang@ieee.org"
+        ], 
+        "cite_url": "sist.sysu.edu.cn/~zhynong/indexe.htm", 
+        "cite_name": "", 
+        "title": "Yunong Zhang - Sun Yat-sen University"
+    }, 
+    {
+        "content": "2007, yunong zhang, w. e. leithead, approximate implementation of logarithm of matrix ... 2005, yunong zhang, on the lvi-based primal-dual neural network for solving online linear and ... + 353 (0) 17086100 - email hamilton@nuim.ie.", 
+        "email_addr_list": [
+            "hamilton@nuim.ie"
+        ], 
+        "cite_url": "www.hamilton.ie/publications.htm?words=yunong", 
+        "cite_name": "", 
+        "title": "Hamilton Institute - Publications"
+    }, 
+    {
+        "content": "yunong zhang, tianjian qiao, bolin liao, long jin and junwei chen. school of ... email: zhynong@mail.sysu.edu.cn, jallonzyn@sina.com, ynzhang@ieee.org.", 
+        "email_addr_list": [
+            "zhynong@mail.sysu.edu.cn", 
+            "jallonzyn@sina.com", 
+            "ynzhang@ieee.org"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0702...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "From Newton Fractals to Gradient Fractals in Addition to ..."
+    }
+]

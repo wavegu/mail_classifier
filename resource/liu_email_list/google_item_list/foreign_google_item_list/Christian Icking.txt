@@ -1,0 +1,30 @@
+[
+    {
+        "content": "frank hoffmann, christian icking, rolf klein, klaus kriegel institut für informatik freie universität berlin email: hoffmann, kriegel@inf.fu-berlin.de fernuniversität...", 
+        "email_addr_list": [
+            "kriegel@inf.fu-berlin.de"
+        ], 
+        "cite_url": "www.inf.fu-berlin.de/.../tr-b-96-01.abstract.html", 
+        "cite_name": "Free University of Berlin", 
+        "title": "An Efficient Competitive Strategy for Learning a Polygon"
+    }, 
+    {
+        "content": "mitglieder der chefredaktion: peter toussaint und christian peters e-mail: ... email: sport.dinslaken@nrz.de. duisburg ... e-mail: lok.duisburg@nrz.de", 
+        "email_addr_list": [
+            "sport.dinslaken@nrz.de", 
+            "lok.duisburg@nrz.de"
+        ], 
+        "cite_url": "www.derwesten.de/...", 
+        "cite_name": "Westdeutsche Allgemeine Zeitung", 
+        "title": "Ihr Kontakt zur NRZ | NRZ.de"
+    }, 
+    {
+        "content": "christian icking. ∗ ... hagen, praktische informatik vi, d-58084 hagen, email: icking@feu.de ... freiburg, email: {semrau,schuiere}@informatik.uni-freiburg.de.", 
+        "email_addr_list": [
+            "icking@feu.de"
+        ], 
+        "cite_url": "www.cs.cmu.edu/.../icking_unknown_streets....", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "[PDF]icking_unknown_stree.."
+    }
+]

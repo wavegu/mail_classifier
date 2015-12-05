@@ -1,0 +1,29 @@
+[
+    {
+        "content": "office phone: (919) 660-5441; email address: kris.hauser@duke.edu ... hauser, k, fast interpolation and time-optimization with contact, international journal of...", 
+        "email_addr_list": [
+            "kris.hauser@duke.edu"
+        ], 
+        "cite_url": "mems.duke.edu/faculty/kris-hauser", 
+        "cite_name": "Duke University", 
+        "title": "Kris Hauser - Duke MEMS - Duke University"
+    }, 
+    {
+        "content": "sep 1, 2015 - department of mechanical engineering  materials science labs: intelligent motion lab email: kris.hauser@duke.edu. phone: (919) 660-5441", 
+        "email_addr_list": [
+            "kris.hauser@duke.edu"
+        ], 
+        "cite_url": "robotics.pratt.duke.edu/members/kris-hauser", 
+        "cite_name": "", 
+        "title": "Kris Hauser | Robotics"
+    }, 
+    {
+        "content": "email, kris.hauser at duke.edu. office, 379 gross hall. phone, (919) 660-5441. web page, http://mems.duke.edu/faculty/kris-hauser...", 
+        "email_addr_list": [
+            "kris.hauser@duke.edu"
+        ], 
+        "cite_url": "www.cs.duke.edu/people/faculty/?csid=5486", 
+        "cite_name": "Duke University", 
+        "title": "Hauser, Kris - Computer Science - Duke University"
+    }
+]

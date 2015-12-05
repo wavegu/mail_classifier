@@ -1,0 +1,47 @@
+[
+    {
+        "content": "benjamin b. bederson - faculty  staff, ischool - university of maryland - college ... website: http://www.cs.umd.edu/~bederson/. email: bederson@cs.umd.edu.", 
+        "email_addr_list": [
+            "bederson@cs.umd.edu"
+        ], 
+        "cite_url": "ischool.umd.edu/...", 
+        "cite_name": "University of Maryland College of Information Studies", 
+        "title": "Benjamin B. Bederson - College of Information Studies"
+    }, 
+    {
+        "content": "ben bederson hcil logo. my last name@cs.umd.edu. twitter: @bederson. blog: hci user advocate (301) 405-3394. 2117d hornbake library, south", 
+        "email_addr_list": [
+            "name@cs.umd.edu"
+        ], 
+        "cite_url": "www.cs.umd.edu/~bederson/", 
+        "cite_name": "University of Maryland, College Park", 
+        "title": "Ben Bederson Home"
+    }, 
+    {
+        "content": "joshua bederson, professor and system chair neurosurgery, ... home  profiles  joshua b bederson ... email. joshua.bederson@mountsinai.org...", 
+        "email_addr_list": [
+            "joshua.bederson@mountsinai.org"
+        ], 
+        "cite_url": "www.mountsinai.org/profiles/joshua-b-bederson", 
+        "cite_name": "Mount Sinai Hospital", 
+        "title": "Joshua B Bederson - The Mount Sinai Hospital"
+    }, 
+    {
+        "content": "bederson, benjamin. address: human-computer interaction lab (hcil) university of ... email: bederson@cs.umd.edu. web page: http://www.childrenslibrary.org.", 
+        "email_addr_list": [
+            "bederson@cs.umd.edu"
+        ], 
+        "cite_url": "www.colorado.edu/.../indiadd.cgi?...Bede...", 
+        "cite_name": "University of Colorado Boulder", 
+        "title": "Benjamin B. Bederson - University of Colorado Boulder"
+    }, 
+    {
+        "content": "benjamin b. bederson: professor, computer science dept. ... personal homepage: http://www.cs.umd.edu/~bederson/; employer: (); email: bederson@cs.umd.", 
+        "email_addr_list": [
+            "bederson@cs.umd"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/benjamin-b-bederson", 
+        "cite_name": "", 
+        "title": "Benjamin B. Bederson - Interaction Design Foundation"
+    }
+]

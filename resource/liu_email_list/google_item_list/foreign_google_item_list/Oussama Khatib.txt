@@ -1,0 +1,11 @@
+[
+    {
+        "content": "aug 18, 2014 - oussama khatib from stanford university, who is a world-leading robotics expert ... oussama khatib is an award-winning professor of computer science ... +66 (0) 25246070; fax: +66 (0) 25246071; email: deanserd@ait.asia...", 
+        "email_addr_list": [
+            "deanserd@ait.asia"
+        ], 
+        "cite_url": "www.serd.ait.ac.th/.../living-with-robots-a-lecture-by-prof-oussama-khati...", 
+        "cite_name": "", 
+        "title": "“Living with Robots”, a lecture by Prof. Oussama Khatib from ..."
+    }
+]

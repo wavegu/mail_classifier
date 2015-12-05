@@ -1,0 +1,39 @@
+[
+    {
+        "content": "this is the academic web-page of georgios fainekos. ... houssam abbas, hans mittelmann and georgios fainekos, .... e-mail. fainekos at asu dot edu...", 
+        "email_addr_list": [
+            "fainekos@asu.edu"
+        ], 
+        "cite_url": "www.public.asu.edu/~gfaineko/", 
+        "cite_name": "Arizona State University", 
+        "title": "Georgios Fainekos - Arizona State University"
+    }, 
+    {
+        "content": "sep 4, 2015 - web: http://www.public.asu.edu/~gfaineko/, email: fainekos@asu.edu. tel. ..... (c23) truong nghiem‡ and georgios e. fainekos, computing...", 
+        "email_addr_list": [
+            "fainekos@asu.edu"
+        ], 
+        "cite_url": "www.public.asu.edu/~gfaineko/.../fainekos_cv.p...", 
+        "cite_name": "Arizona State University", 
+        "title": "[PDF]Georgios Fainekos - Arizona State University"
+    }, 
+    {
+        "content": "search email number information data on the internet ... of pennsylvania e-mail: sokolsky@cis.upenn.edu associate editor : georgios e. fainekos arizona state...", 
+        "email_addr_list": [
+            "sokolsky@cis.upenn.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-fainekos-asu-edu-18778907.htm", 
+        "cite_name": "", 
+        "title": "fainekos@asu.edu - The Email Archive"
+    }, 
+    {
+        "content": "sokolsky@cis.upenn.edu; associate editor: georgios e. fainekos  arizona state university e-mail: georgios.fainekos@asu.edu. sigbed executive committee:.", 
+        "email_addr_list": [
+            "sokolsky@cis.upenn.edu", 
+            "georgios.fainekos@asu.edu"
+        ], 
+        "cite_url": "sigbed.seas.upenn.edu/", 
+        "cite_name": "", 
+        "title": "Welcome to ACM SIGBED Review"
+    }
+]

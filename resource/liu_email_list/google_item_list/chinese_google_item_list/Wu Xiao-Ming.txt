@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: xiaoming.wu@canterbury.ac.nz ... dr xiaoming wu studied chinese literature at fudan university, chinese and comparative literature at peking...", 
+        "email_addr_list": [
+            "xiaoming.wu@canterbury.ac.nz"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Canterbury", 
+        "title": "Dr Xiaoming Wu - College of Arts - University of Canterbury"
+    }, 
+    {
+        "content": "wu xiaoming is professor of the school of philosophy of fudan university,and vice president ... research areas of the history of professor wu include marxist philosophy, ... tel: 86-21-55664196 fax: 86-21-55664259 email: icscc@fudan.edu.cn.", 
+        "email_addr_list": [
+            "icscc@fudan.edu.cn"
+        ], 
+        "cite_url": "icscc.fudan.edu.cn/en/index.php?c=zzjga=showid=44", 
+        "cite_name": "", 
+        "title": "Xiaoming Wu - ICSCC-International Center for Studies of ..."
+    }, 
+    {
+        "content": "mr xiaoming wu. position: phd candidate. email: u5284310@anu.edu.au. building: rsise (115). room: b332. groups: eng, syscon, netsys. staff category...", 
+        "email_addr_list": [
+            "u5284310@anu.edu.au"
+        ], 
+        "cite_url": "people.cecs.anu.edu....", 
+        "cite_name": "ANU College of Engineering and Computer Science", 
+        "title": "Xiaoming WU - CECS People - ANU"
+    }, 
+    {
+        "content": "ms xiaoming wu. profile image. doctoral candidate - doctor of ... +64 9 373 7999; xiaoming.wu@auckland.ac.nz  save to contacts; save to smartphone. print...", 
+        "email_addr_list": [
+            "xiaoming.wu@auckland.ac.nz"
+        ], 
+        "cite_url": "https://unidirectory.auckland.ac.nz/.../xiaoming-wu", 
+        "cite_name": "University of Auckland", 
+        "title": "Ms Xiaoming Wu - The University of Auckland"
+    }
+]

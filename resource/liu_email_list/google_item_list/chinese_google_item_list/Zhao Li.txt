@@ -1,0 +1,65 @@
+[
+    {
+        "content": "song, zhaoli assoc professor department: management  organisation office: biz1-8-51 contact: 65-6516-5739 email: bizszl@nus.edu.sg curriculum vitae.", 
+        "email_addr_list": [
+            "bizszl@nus.edu.sg"
+        ], 
+        "cite_url": "bizfaculty.nus.edu/faculty-profiles/135-zhaoli", 
+        "cite_name": "", 
+        "title": "SONG, Zhaoli - FACULTY DIRECTORY - National University ..."
+    }, 
+    {
+        "content": "zhao li. no photo available. zhao li. support scientist. zhao.e.li@nasa.gov. sorry, you need ... nasa/gsfc; mail code: 610.1; greenbelt , md 20771.", 
+        "email_addr_list": [
+            "zhao.e.li@nasa.gov"
+        ], 
+        "cite_url": "gmao.gsfc.nasa.gov/bio600/zhao.li.html", 
+        "cite_name": "NASA", 
+        "title": "Bio - Zhao Li - GMAO - NASA"
+    }, 
+    {
+        "content": "l-1359 luxembourg. campus office, b22. email. zhao.li@uni.lu. telephone, (+352) 46 66 44 5311 ... jiang, weiping; li, zhao; van dam, tonie; ding, wenwu.", 
+        "email_addr_list": [
+            "zhao.li@uni.lu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Luxembourg", 
+        "title": "University of Luxembourg - Zhao Li"
+    }, 
+    {
+        "content": "homepage of dr. zhaoli guo. ... email: zlguo@mail.hust.edu.cn ... zhaoli guo, chuguang zheng, baochang shi, checkerboard effects on spurious currents in...", 
+        "email_addr_list": [
+            "zlguo@mail.hust.edu.cn"
+        ], 
+        "cite_url": "https://sites.google.com/site/zlguonlcc/", 
+        "cite_name": "", 
+        "title": "Zhaoli Guo - Google Sites"
+    }, 
+    {
+        "content": "oct 3, 2013 - dr chuanzhao li senior lecturer. email: chuanzhao.li@ncl.ac.uk; telephone: +65 6463 1697; address: 537 clementi road, 06-01, s599493.", 
+        "email_addr_list": [
+            "chuanzhao.li@ncl.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Newcastle University", 
+        "title": "Dr Chuanzhao Li - Newcastle University"
+    }, 
+    {
+        "content": "liping zhao profile page ... name: liping zhao ... email: lpzhao@sjtu.edu.cn ... resume: prof liping zhao got his phd in 1989 from nanjing agricultural...", 
+        "email_addr_list": [
+            "lpzhao@sjtu.edu.cn"
+        ], 
+        "cite_url": "life.sjtu.edu.cn/english/index.php/component/.../Liping%20Zhao", 
+        "cite_name": "", 
+        "title": "Liping Zhao"
+    }, 
+    {
+        "content": "li,zhao. division. physical. title. graduate student. contact information. email. zhaoli@chem.ucla.edu. ucla department of chemistry  biochemistry.", 
+        "email_addr_list": [
+            "zhaoli@chem.ucla.edu"
+        ], 
+        "cite_url": "www.chemistry.ucla.edu/.../lizhao", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "Li,Zhao | UCLA Chemistry and Biochemistry"
+    }
+]

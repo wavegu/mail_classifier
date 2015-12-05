@@ -1,0 +1,40 @@
+[
+    {
+        "content": "email: swagatam.das@ieee.org, swagatam.das@isical.ac.in ... swagatam das is currently serving as an assistant professor at the electronics and...", 
+        "email_addr_list": [
+            "swagatam.das@ieee.org", 
+            "swagatam.das@isical.ac.in"
+        ], 
+        "cite_url": "www.isical.ac.in/~swagatam.das/", 
+        "cite_name": "Indian Statistical Institute", 
+        "title": "Dr. Swagatam Das - Indian Statistical Institute"
+    }, 
+    {
+        "content": "cyber home of dr. swagatam das ... fax : +91 33 25752914. phone: 033 25752323. email: swagatam.das@ieee.org, swagatam.das@isical.ac.in. alternate...", 
+        "email_addr_list": [
+            "swagatam.das@ieee.org", 
+            "swagatam.das@isical.ac.in"
+        ], 
+        "cite_url": "https://sites.google.com/site/swagatamdas19", 
+        "cite_name": "", 
+        "title": "Swagatam Das - Google Sites"
+    }, 
+    {
+        "content": "create alert. cancel. swagatam das ... verified email at isical.ac.in - homepage  scholar ... s das, a abraham, uk chakraborty, a konar. evolutionary...", 
+        "email_addr_list": [
+            "email@isical.ac.in"
+        ], 
+        "cite_url": "scholar.google.fr/citations?user=L8XYpAwAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Swagatam Das - Google Scholar Citations"
+    }, 
+    {
+        "content": "oct 18, 2013 - das, s. ; swagatam das is with electronics and communication ... (email:swagatam.das@isical.ac.in) ; mukherjee, s. ; majumdar, b. ; pipplai, a.", 
+        "email_addr_list": [
+            "swagatam.das@isical.ac.in"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../abs...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Notice of Violation of IEEE Publication Principles A ..."
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "gerhard lakemeyer, ph.d. ... email: gerhard@informatik.rwth-aachen.de. online presence. website: http://www-i5.informatik.rwth-aachen.de/~gerhard/...", 
+        "email_addr_list": [
+            "gerhard@informatik.rwth-aachen.de"
+        ], 
+        "cite_url": "", 
+        "cite_name": "RWTH Aachen University", 
+        "title": "Prof. Gerhard Lakemeyer, Ph.D. — Informatik 5 (Information ..."
+    }, 
+    {
+        "content": "ahornstr. 55, d-52056 aachen. phone: +49 241 802-1530, fax: +49 241 802-2321, e-mail: gerhard at informatik dot rwth-aachen dot de. office hour: th 1-...", 
+        "email_addr_list": [
+            "gerhard@informatik.rwth-aachen.de"
+        ], 
+        "cite_url": "www-i5.informatik.rwth-aachen.de/~gerhard/", 
+        "cite_name": "RWTH Aachen University", 
+        "title": "Gerhard Lakemeyer - Informatik 5"
+    }, 
+    {
+        "content": "gerhard lakemeyer. note: this page is ... phone: +49 241 80 21530, fax: +49 241 8888321, e-mail: gerhard@informatik.rwth-aachen.de. office hour: tu...", 
+        "email_addr_list": [
+            "gerhard@informatik.rwth-aachen.de"
+        ], 
+        "cite_url": "www.cs.toronto.edu/~gerhard/", 
+        "cite_name": "", 
+        "title": "Gerhard Lakemeyer - Department of Computer Science"
+    }
+]

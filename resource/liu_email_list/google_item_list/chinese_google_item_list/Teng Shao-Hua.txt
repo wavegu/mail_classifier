@@ -1,0 +1,30 @@
+[
+    {
+        "content": "click for complete profile. shaohua yang, shaohua yang, md, phd. professor address: cbh 536. phone: 817-735-2250. email: shaohua.yang@unthsc.edu", 
+        "email_addr_list": [
+            "shaohua.yang@unthsc.edu"
+        ], 
+        "cite_url": "https://www.unthsc.edu/graduate-school-of-biomedical...2/faculty/", 
+        "cite_name": "", 
+        "title": "Faculty - Graduate School of Biomedical Sciences"
+    }, 
+    {
+        "content": "mar 21, 2015 - the retrospective exhibition by fan shao hua entitled, journey in ... email vanessa teng at wttang@nafa.edu.sg for details and confirmation.", 
+        "email_addr_list": [
+            "wttang@nafa.edu.sg"
+        ], 
+        "cite_url": "www.theedgegalerie.com/?happenings=fan-shao-huas-journey", 
+        "cite_name": "", 
+        "title": "Fan Shao Huas journey - The Edge GalerieThe Edge Galerie"
+    }, 
+    {
+        "content": "shaohua teng , professor, guangdong university of technology (510006), email: shteng@gdut.edu.cn ... xiufen fu , professor, e-mail: xffu@gdut.edu.cn.", 
+        "email_addr_list": [
+            "shteng@gdut.edu.cn", 
+            "xffu@gdut.edu.cn"
+        ], 
+        "cite_url": "www.computer.org/csdl/.../04341935-abs.html", 
+        "cite_name": "IEEE Computer Society", 
+        "title": "An Improved Least-Laxity-First Scheduling Algorithm of ..."
+    }
+]

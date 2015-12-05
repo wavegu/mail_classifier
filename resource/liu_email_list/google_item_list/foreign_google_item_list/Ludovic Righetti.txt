@@ -1,0 +1,31 @@
+[
+    {
+        "content": "timal distribution of ground reaction forces for legged robots l. righetti j. buchli ... ludovic.righetti@a3.epfl.ch jonas@buchli.org mmistry@disneyresearch.com...", 
+        "email_addr_list": [
+            "ludovic.righetti@a3.epfl.ch", 
+            "jonas@buchli.org", 
+            "mmistry@disneyresearch.com"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-righetti-a3-epf-3843997.htm", 
+        "cite_name": "", 
+        "title": "righetti@a3.epf - The Email Archive"
+    }, 
+    {
+        "content": "email: ludovic.righetti@a3.epfl.ch. abstract—the operational space formulation (khatib, 1987), applied to rigid-body manipulators, describes how to decouple.", 
+        "email_addr_list": [
+            "ludovic.righetti@a3.epfl.ch"
+        ], 
+        "cite_url": "https://www.disneyresearch.com/.../mistry_rss11_final1....", 
+        "cite_name": "Disney Research", 
+        "title": "[PDF]Operational Space Control of Constrained and ..."
+    }, 
+    {
+        "content": "mar 14, 2013 - ludovic righetti, ronald tutor hall, rth-417 3710, s. mcclintock avenue, los angeles, ca 90089, usa. email: ludovic.righetti@a3.epfl.ch...", 
+        "email_addr_list": [
+            "ludovic.righetti@a3.epfl.ch"
+        ], 
+        "cite_url": "ijr.sagepub.com/content/32/3/280.refs", 
+        "cite_name": "Sage Publications", 
+        "title": "Optimal distribution of contact forces with inverse-dynamics ..."
+    }
+]

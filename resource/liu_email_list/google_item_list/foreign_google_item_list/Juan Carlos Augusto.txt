@@ -1,0 +1,31 @@
+[
+    {
+        "content": "prof juan carlos augusto. role: professor of computer science. school: ... email: j.augusto@mdx.ac.uk  biography  qualifications  research outputs ", 
+        "email_addr_list": [
+            "j.augusto@mdx.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Middlesex University", 
+        "title": "Augusto, Juan Carlos | Middlesex University London"
+    }, 
+    {
+        "content": "contact email. 1. 4th international workshop on ... juan carlos augusto john odonoghue. jc.augusto ... mwang at mail.sdsu.edu  jc.augusto at ulster.ac.uk. 7.", 
+        "email_addr_list": [
+            "mwang@mail.sdsu.edu", 
+            "jc.augusto@ulster.ac.uk"
+        ], 
+        "cite_url": "www.intenv.org/?q=conferences/ie12/workshops", 
+        "cite_name": "", 
+        "title": "Workshops | The 12th International Conference on ..."
+    }, 
+    {
+        "content": "verified email at ulster.ac.uk. @ulster.ac.uk. cited by 3805 ... juan carlos augusto. middlesex university - london - uk ... verified email at iosb-ina.fraunhofer.de.", 
+        "email_addr_list": [
+            "email@ulster.ac.uk", 
+            "email@iosb-ina.fraunhofer.de"
+        ], 
+        "cite_url": "scholar.google.it/citations?view_op=search_authors...", 
+        "cite_name": "Google", 
+        "title": "Google Scholar Citations"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "content": "aug 18, 2015 - bâtiment : 4 rez de jardin. bureau : 1.47. téléphone : 04 67 41 85 58. fax : 04 67 41 85 00. email : etienne.dombre@lirmm.fr. statut :...", 
+        "email_addr_list": [
+            "etienne.dombre@lirmm.fr"
+        ], 
+        "cite_url": "https://www.lirmm.fr/users/utilisateurs.../etienne-domb...", 
+        "cite_name": "", 
+        "title": "Etienne Dombre / Utilisateurs LIRMM / Users - LIRMM"
+    }, 
+    {
+        "content": "france: etienne dombre  philippe bidaud. lirmm, 161 rue ada, ... dombre@lirmm.fr. isir, université ... email: kazuhito.yokoi@aist.go.jp. poland: andrzej...", 
+        "email_addr_list": [
+            "dombre@lirmm.fr", 
+            "kazuhito.yokoi@aist.go.jp"
+        ], 
+        "cite_url": "iarp.isir.upmc.fr/index.php?perma=1315292507", 
+        "cite_name": "", 
+        "title": "Members IARP - UPMC"
+    }
+]

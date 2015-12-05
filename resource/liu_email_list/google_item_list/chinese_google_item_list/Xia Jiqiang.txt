@@ -1,0 +1,29 @@
+[
+    {
+        "content": "view will xias professional profile on linkedin. linkedin is the worlds largest ... email: wxia@andrew.cmu.edu. activities and ... william (jiqiang) xia. research...", 
+        "email_addr_list": [
+            "wxia@andrew.cmu.edu"
+        ], 
+        "cite_url": "https://www.linkedin.com/pub/will-xia/15/966/678", 
+        "cite_name": "", 
+        "title": "Will Xia | LinkedIn"
+    }, 
+    {
+        "content": "email: chesmp@nus.edu.sg. qualifications ... xia, jiqiang; wang, jinwei; srinivasan, m. p.journal of applied polymer science(2006), 100(4), 3000-3008.", 
+        "email_addr_list": [
+            "chesmp@nus.edu.sg"
+        ], 
+        "cite_url": "www.scirp.org/journal/DetailedInforOfEditorialBoard.aspx?personID...", 
+        "cite_name": "", 
+        "title": "M. P. Srinivasan - Journals, Conferences, Proceedings ..."
+    }, 
+    {
+        "content": "kan shi⇓; jiqiang xia  chunjie wang. department of ... beijing, china. email: kan.shi@hotmail.com ... xia jq, geng cm, song jb, et al. geometry design...", 
+        "email_addr_list": [
+            "kan.shi@hotmail.com"
+        ], 
+        "cite_url": "pic.sagepub.com/content/227/3/542.refs", 
+        "cite_name": "Sage Publications", 
+        "title": "Design of noncircular bevel gear with concave pitch curve"
+    }
+]

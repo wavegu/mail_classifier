@@ -1,0 +1,29 @@
+[
+    {
+        "content": "professor dr. elisabeth andre. ... professorin dr. elisabeth andre. mitglied des instituts. e-mail: andre@informatik.uni-augsburg.de. telefon: +49 821 598 - 2340...", 
+        "email_addr_list": [
+            "andre@informatik.uni-augsburg.de"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Professor Dr. Elisabeth Andre - Universität Augsburg"
+    }, 
+    {
+        "content": "jan 23, 2015 - email: andre at informatik.uni-augsburg.de. membership number: 2789. membership type: ordinary. main country of residence:...", 
+        "email_addr_list": [
+            "andre@informatik.uni-augsburg.de"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Academy of Europe: André Elisabeth"
+    }, 
+    {
+        "content": "dr. elisabeth andré is a full professor of computer science at augsburg university, germany and chair ... email: margrit.gelautz@tuwien.ac.at. note.", 
+        "email_addr_list": [
+            "margrit.gelautz@tuwien.ac.at"
+        ], 
+        "cite_url": "https://www.tuwien.ac.at/.../2009_05_2...", 
+        "cite_name": "Vienna University of Technology", 
+        "title": "[PDF]Prof. Dr. Elisabeth André - Technische Universität Wien"
+    }
+]

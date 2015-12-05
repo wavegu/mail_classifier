@@ -1,0 +1,29 @@
+[
+    {
+        "content": "aug 8, 2012 - email: zangq@nuist.edu.cn. publications: 1. zang qiang, zhang kaifeng, dai xianzhong. backstepping control method of power systems...", 
+        "email_addr_list": [
+            "zangq@nuist.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Qiang Zang - Nanjing University of Information Science ..."
+    }, 
+    {
+        "content": "dec 16, 2008 - 699 xi an da lu,chang chun 130061,jilin prov,china swift:bkch cn bj 840 ... email:bj@bocigroup.com, liaoning branch ... 218 zhong shan 1 road, yu zhong district, chongqing 400013,china", 
+        "email_addr_list": [
+            "bj@bocigroup.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Bank of China", 
+        "title": "Bank of China Domestic Branches"
+    }, 
+    {
+        "content": "email: jjzhong@sjtu.edu.cn. this e-mail address is ... jian-jiang zhong was born in april of 1965 in zhejiang province, china. he obtained his bs degree in...", 
+        "email_addr_list": [
+            "jjzhong@sjtu.edu.cn"
+        ], 
+        "cite_url": "life.sjtu.edu.cn/english/index.php/component/.../JianJiang%20Zhong", 
+        "cite_name": "", 
+        "title": "JianJiang Zhong"
+    }
+]

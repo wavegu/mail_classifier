@@ -1,0 +1,20 @@
+[
+    {
+        "content": "robotics and artificial intelligence group. 7, avenue du colonel roche 31077 toulouse cedex 4. france. e-mail: rachid.alami@laas.fr. phone: +33 (0)5 61 33...", 
+        "email_addr_list": [
+            "rachid.alami@laas.fr"
+        ], 
+        "cite_url": "homepages.laas.fr/ra...", 
+        "cite_name": "Laboratory for Analysis and Architecture of Systems", 
+        "title": "Rachid ALAMI - LAAS"
+    }, 
+    {
+        "content": "email: rachid.alami@cud.ac.ae. direct line: 971 4 7096266. extension: 266. dr. alami holds a phd in business administration from paris dauphine university,...", 
+        "email_addr_list": [
+            "rachid.alami@cud.ac.ae"
+        ], 
+        "cite_url": "www.cud.ac.ae/personnel/dr-rachid-alami", 
+        "cite_name": "Canadian University of Dubai", 
+        "title": "Dr. Rachid Alami | Canadian University Dubai"
+    }
+]

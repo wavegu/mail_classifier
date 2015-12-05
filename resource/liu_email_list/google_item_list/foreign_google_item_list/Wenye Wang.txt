@@ -1,0 +1,48 @@
+[
+    {
+        "content": "locate on campus map. phone 919-513-2549. email wwang@ncsu.edu ... wenye wang and ming zhao, joint effects of radio channels and node mobility on...", 
+        "email_addr_list": [
+            "wwang@ncsu.edu"
+        ], 
+        "cite_url": "www.ece.ncsu.edu/people/wwang", 
+        "cite_name": "North Carolina State University", 
+        "title": "Dr. Wenye Wang - Primary Faculty - Department of Electrical ..."
+    }, 
+    {
+        "content": "dr. wenye wang ... email: wwang@ncsu.edu ... wenye wang obtained her ph.d. degree from electrical and computer engineering, georgia institute of...", 
+        "email_addr_list": [
+            "wwang@ncsu.edu"
+        ], 
+        "cite_url": "people.engr.ncsu.edu/wwang/main.html", 
+        "cite_name": "", 
+        "title": "Wenye Wangs Homepage"
+    }, 
+    {
+        "content": "oct 2, 2014 - inquiries may be sent via email to prof. wenye wang, faculty search committee chair, at ecefacultyhire@ncsu.edu. aa/eoe. women and...", 
+        "email_addr_list": [
+            "ecefacultyhire@ncsu.edu"
+        ], 
+        "cite_url": "https://chroniclevitae.com/jobs/0000850842-01", 
+        "cite_name": "", 
+        "title": "Faculty, Electrical and Computer Engineering | Vitae"
+    }, 
+    {
+        "content": "wenye wang, professor, north carolina state university. cv, resume, biography, vita, academic ... email: wwang@ncsu.edu. profile views: 18. followers: 0.", 
+        "email_addr_list": [
+            "wwang@ncsu.edu"
+        ], 
+        "cite_url": "192.99.15.201/scholar/wang-wenye/", 
+        "cite_name": "", 
+        "title": "Wenye Wang, North Carolina State University - PhDTree"
+    }, 
+    {
+        "content": "yujin li and wenye wang. email: yli27@ncsu.edu, wwang@ncsu.edu. dept. of electrical and computer engineering, nc state university, usa. abstract—a...", 
+        "email_addr_list": [
+            "yli27@ncsu.edu", 
+            "wwang@ncsu.edu"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Can Mobile Cloudlets Support Mobile Applications? - IEEE ..."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "jun ho oh. korea advanced institute of ... verified email at kaist.ac.kr. scholar. get my own ... bh jun, jy park, fy lee, pm lee, cm lee, k kim, yk lim, jh oh.", 
+        "email_addr_list": [
+            "email@kaist.ac.kr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=SXsDzAcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jun Ho Oh - Google Scholar Citations"
+    }, 
+    {
+        "content": "email, jhoh@kaist.ac.kr. researcherid, c-1924- ..... pp.199-205, may-2002 ). design of lower limbs for a humanoid biped robot / oh, jh[oh, jun-ho] icon...", 
+        "email_addr_list": [
+            "jhoh@kaist.ac.kr"
+        ], 
+        "cite_url": "koasas.kaist.ac.kr/m/koasas-researcher-profile?perno...", 
+        "cite_name": "", 
+        "title": "Researcher Page - KAIST Open Access Self-Archiving ..."
+    }, 
+    {
+        "content": "email emtech@koelnmesse.com.sg or call +(65) 6500 6719. jun-ho oh ... prof oh has been professor of mechanical engineering at the korea advanced...", 
+        "email_addr_list": [
+            "emtech@koelnmesse.com.sg"
+        ], 
+        "cite_url": "emtechasia.com/index.php/speakers-detail/80-jun-ho-oh", 
+        "cite_name": "", 
+        "title": "Jun-Ho Oh - EmTech Asia"
+    }, 
+    {
+        "content": "sep 20, 2015 - junho oh 1001 university ave, madison, wi 53715 tel: 608 556 9113 email: joh55@wisc.edu internship hiring committee sunday, september...", 
+        "email_addr_list": [
+            "joh55@wisc.edu"
+        ], 
+        "cite_url": "www.slideshare.net/JunhoOh3/junhoohcoverletter", 
+        "cite_name": "", 
+        "title": "Junho+Oh+Cover+Letter - SlideShare"
+    }
+]

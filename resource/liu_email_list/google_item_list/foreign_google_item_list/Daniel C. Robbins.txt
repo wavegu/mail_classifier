@@ -1,0 +1,11 @@
+[
+    {
+        "content": "personal email: work phone: ... danrobbins@gmail.com 425-706-5223 ... amy k. karlson, george robertson, daniel c. robbins, mary czerwinski, greg smith...", 
+        "email_addr_list": [
+            "danrobbins@gmail.com"
+        ], 
+        "cite_url": "research.microsoft.com/en-us/.../resume%20print.htm", 
+        "cite_name": "Microsoft Research", 
+        "title": "Resume Print - Microsoft Research"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "content": "professor xiaohu ge. adjunct professor, school of computing and communications. email. xiaohu.ge@uts.edu.au  edit your profile. research...", 
+        "email_addr_list": [
+            "xiaohu.ge@uts.edu.au"
+        ], 
+        "cite_url": "www.uts.edu.au/staff/xiaohu.ge", 
+        "cite_name": "University of Technology Sydney", 
+        "title": "Xiaohu Ge | University of Technology Sydney"
+    }, 
+    {
+        "content": "verified email at mail.hust.edu.cn. scholar. get my own profile ... cx wang, x hong, x ge, x cheng, g zhang, j thompson ... g xiaohu, z guangxi, z yaoting.", 
+        "email_addr_list": [
+            "email@mail.hust.edu.cn"
+        ], 
+        "cite_url": "scholar.google.no/citations?user=q2Gd84cAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Xiaohu Ge - Google Scholar Citations"
+    }, 
+    {
+        "content": "a. professor. xiaohu ge(葛晓虎). phone:+86-13971249847. fax:+86-27-8755-7943. email: xhge@mail.hust.edu.cn. url: http://ei.hust.edu.cn. dept. electronics...", 
+        "email_addr_list": [
+            "xhge@mail.hust.edu.cn"
+        ], 
+        "cite_url": "www.ukchinab4g.ac.uk/sites/default/files/3.../s5_energy_efficiency.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]A. Professor. Xiaohu Ge(葛晓虎) URL: Http://ei.hust.edu.cn"
+    }, 
+    {
+        "content": "cancel. xiaohu ge. huazhong university ... verified email at mail.hust.edu.cn. scholar. get my own ... cx wang, x hong, x ge, x cheng, g zhang, j thompson.", 
+        "email_addr_list": [
+            "email@mail.hust.edu.cn"
+        ], 
+        "cite_url": "scholar.google.fi/citations?user=q2Gd84cAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Xiaohu Ge - Google Scholar Citations"
+    }, 
+    {
+        "content": "corresponding author: xiaohu ge, email: xhge@mail.hust.edu.cn. abstract—cell association scheme determines which base station (bs) and mobile user (mu)...", 
+        "email_addr_list": [
+            "xhge@mail.hust.edu.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0724...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "A New Cell Association Scheme In Heterogeneous Networks"
+    }
+]

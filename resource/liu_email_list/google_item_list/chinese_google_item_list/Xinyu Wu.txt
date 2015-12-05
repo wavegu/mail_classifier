@@ -1,0 +1,11 @@
+[
+    {
+        "content": "view xinyu wus business profile as director of international development at bangor university ... dr xinyu wu email: x.wu@bangor.ac.uk +44 (0)1248 388507.", 
+        "email_addr_list": [
+            "x.wu@bangor.ac.uk"
+        ], 
+        "cite_url": "www.zoominfo.com/p/Xinyu-Wu/1579097789", 
+        "cite_name": "", 
+        "title": "Xinyu Wu | Bangor University | ZoomInfo.com"
+    }
+]

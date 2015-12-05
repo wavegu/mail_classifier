@@ -1,0 +1,21 @@
+[
+    {
+        "content": "prof. yoshihiko nakamura (vice-president) ... of member organization. prof. yoshihiko nakamura ... e-mail: miura@cc.kogakuin.ac.jp. enable javascript to...", 
+        "email_addr_list": [
+            "miura@cc.kogakuin.ac.jp"
+        ], 
+        "cite_url": "www.iftomm.org/index.php?option=com_contentview...id...", 
+        "cite_name": "", 
+        "title": "IFToMM"
+    }, 
+    {
+        "content": "yoshihiko nakamura. professor, university of tokyo. verified email at ynl.tu-tokyo.ac.jp. @ynl.t.u-tokyo.ac.jp. cited by ... verified email at camden.rutgers.edu.", 
+        "email_addr_list": [
+            "email@ynl.tu-tokyo.ac.jp", 
+            "email@camden.rutgers.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?view_op=search...", 
+        "cite_name": "Google Scholar", 
+        "title": "Google Scholar Citations"
+    }
+]

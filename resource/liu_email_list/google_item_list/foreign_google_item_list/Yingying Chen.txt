@@ -1,0 +1,38 @@
+[
+    {
+        "content": "castle point on hudson hoboken, nj 07030. office: 210 burchard building email: yingying.chen at stevens.edu. phone: 201-216-8066. fax: 201-216-8246.", 
+        "email_addr_list": [
+            "yingying.chen@stevens.edu"
+        ], 
+        "cite_url": "personal.stevens.edu/~ychen6/", 
+        "cite_name": "Stevens Institute of Technology", 
+        "title": "Yingying Chens Home Page - personal.stevens.edu"
+    }, 
+    {
+        "content": "email: yingying.chen@stevens.edu .... hongbo liu, jie yang, simon sidhom, yan wang, yingying chen, fan ye. (2013). accurate wifi based localization for...", 
+        "email_addr_list": [
+            "yingying.chen@stevens.edu"
+        ], 
+        "cite_url": "web.stevens.edu/.../faculty_profile.php?...", 
+        "cite_name": "Stevens Institute of Technology", 
+        "title": "Yingying Chen - Stevens Institute of Technology"
+    }, 
+    {
+        "content": "yingying chen 陈盈盈. microsoft corporation. office: redmond, wa 98052. email: yinchen at microsoft dot com. office phone: 425-703-2857. | bio | course...", 
+        "email_addr_list": [
+            "yinchen@microsoft.com"
+        ], 
+        "cite_url": "www-users.cs.umn.edu/~yingying/", 
+        "cite_name": "University of Minnesota", 
+        "title": "Yingying Chens Homepage"
+    }, 
+    {
+        "content": "school intranet. print. print this page email this to a friend ... yingying chen. bsc business administration ... email: lixyc6@nottingham.ac.uk. current status:...", 
+        "email_addr_list": [
+            "lixyc6@nottingham.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Nottingham", 
+        "title": "Yingying Chen - Nottingham University Business School"
+    }
+]

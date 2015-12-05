@@ -1,0 +1,48 @@
+[
+    {
+        "content": "first name: sunan. middle name: last name: wang. suffix: repec short-id: pwa2. email: wangsn@yahoo.com. homepage: postal address: computer science...", 
+        "email_addr_list": [
+            "wangsn@yahoo.com"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pwa2.html", 
+        "cite_name": "", 
+        "title": "Sunan Wang at IDEAS"
+    }, 
+    {
+        "content": "postal code：518083 corporate email：webmaster@vanke.com ... nanjing nantong ningbo shanghai sunan wenzhou wuhu wuxi xuzhou yangzhou.", 
+        "email_addr_list": [
+            "webmaster@vanke.com"
+        ], 
+        "cite_url": "www.vanke.com/en/contact.aspx", 
+        "cite_name": "Vanke", 
+        "title": "Contact - 万科集团"
+    }, 
+    {
+        "content": "email: wangsunan@163.com. yingying li*. school of electronics and communication engineering,. shenzhen polytechnic, shenzhen, 518055, china. email:...", 
+        "email_addr_list": [
+            "wangsunan@163.com"
+        ], 
+        "cite_url": "www.inderscienceonline.com/doi/pdf/10.1504/IJRIS.2015.072945", 
+        "cite_name": "", 
+        "title": "PDF (444 KB) - Inderscience Online"
+    }, 
+    {
+        "content": "english ahamrick@nyit.edu, nanjing. sunan han .... nanjing. ming wei wang adjunct faculty, engineering ... renzhou wang adjunct faculty, college of arts ...", 
+        "email_addr_list": [
+            "ahamrick@nyit.edu"
+        ], 
+        "cite_url": "www.nyit.edu/china/faculty_staff/", 
+        "cite_name": "New York Institute of Technology", 
+        "title": "Faculty/Staff Directory | NYIT-Nanjing | NYIT"
+    }, 
+    {
+        "content": "dr huang, sunan, senior research scientist, email: tslhs@nus.edu.sg, tel: .... dr wang, chao-fu, principal research scientist, email: tslwcf@nus.edu.sg, tel:...", 
+        "email_addr_list": [
+            "tslhs@nus.edu.sg", 
+            "tslwcf@nus.edu.sg"
+        ], 
+        "cite_url": "www.temasek-labs.nus.edu.sg/about/about_people.php", 
+        "cite_name": "", 
+        "title": "Our People - Temasek Laboratories @ NUS - National ..."
+    }
+]

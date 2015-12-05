@@ -1,0 +1,49 @@
+[
+    {
+        "content": "peter brusilovsky. sigweb executive committee ... email: brusilovskyp@acm.orgthis e-mail address is being protected from spambots. you need javascript...", 
+        "email_addr_list": [
+            "brusilovskyp@acm.orgthis"
+        ], 
+        "cite_url": "www.sigweb.org/.../190-...", 
+        "cite_name": "SIGWEB: Hypertext, Hypermedia and the Web", 
+        "title": "Peter Brusilovsky"
+    }, 
+    {
+        "content": "mar 31, 2014 - peter brusilovsky, university of pittsburgh, usa. email: peterb@pitt.edu. stephen h. edwards, virginia tech, usa email: edwards@cs.vt.edu.", 
+        "email_addr_list": [
+            "peterb@pitt.edu", 
+            "edwards@cs.vt.edu"
+        ], 
+        "cite_url": "iticse2014.it.uu.se/workinggroups.php", 
+        "cite_name": "Uppsala University", 
+        "title": "ITiCSE 2014 working groups"
+    }, 
+    {
+        "content": "peter brusilovsky: publications, bio, bibliography, etc. ... personal homepage: http://www.sis.pitt.edu/~peterb/; employer: (); email: peterb@pitt.edu...", 
+        "email_addr_list": [
+            "peterb@pitt.edu"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/peter-brusilovsky", 
+        "cite_name": "", 
+        "title": "Peter Brusilovsky: Publications, bio, bibliography, etc ..."
+    }, 
+    {
+        "content": "isis-tutor: an intelligent learning environment for cds/isis users peter brusilovsky, leonid pesin email: plb@cogpsy.uni-trier.de, leo@cs.msu.su...", 
+        "email_addr_list": [
+            "plb@cogpsy.uni-trier.de", 
+            "leo@cs.msu.su"
+        ], 
+        "cite_url": "cs.joensuu.fi/~mtuki/www_clce.270296/Further_info.html", 
+        "cite_name": "", 
+        "title": "Further information page (CLCE94)"
+    }, 
+    {
+        "content": "aug 11, 2015 - slides for invited talk: brusilovsky, p. (2003) from adaptive hypermedia ... from adaptive hypermedia to the adaptive web … and beyond peter brusilovsky ..... usa peterb@mail.sis.pitt.edu http://www2.sis.pitt.edu/~peterb; 2.", 
+        "email_addr_list": [
+            "peterb@mail.sis.pitt.edu"
+        ], 
+        "cite_url": "www.slideshare.net/pbrusilovsky/mu-c03inv", 
+        "cite_name": "", 
+        "title": "From adaptive hypermedia to the adaptive Web Peter ..."
+    }
+]

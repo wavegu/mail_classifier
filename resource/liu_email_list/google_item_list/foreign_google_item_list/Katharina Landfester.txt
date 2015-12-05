@@ -1,0 +1,11 @@
+[
+    {
+        "content": "dr. katharina landfester, director and scientific member at the max planck institute for polymer research (since 2008). ... email:landfest@mpip-mainz.mpg.de...", 
+        "email_addr_list": [
+            "landfest@mpip-mainz.mpg.de"
+        ], 
+        "cite_url": "https://www.mpg.de/.../polymerforschung_wissM59", 
+        "cite_name": "Max Planck Society", 
+        "title": "Landfester, Katharina | Max Planck Society"
+    }
+]

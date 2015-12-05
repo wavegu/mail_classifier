@@ -1,0 +1,38 @@
+[
+    {
+        "content": "xuehui han: current contact information and listing of economic research of this author provided by repec/ideas. ... email: xuehuihan@adb.org. homepage:.", 
+        "email_addr_list": [
+            "xuehuihan@adb.org"
+        ], 
+        "cite_url": "https://ideas.repec.org/f/pha814.html", 
+        "cite_name": "", 
+        "title": "Xuehui Han at IDEAS"
+    }, 
+    {
+        "content": "phone: 65928208. email: xuehui.bay@nie.edu.sg. department: office of academic administration and services. office location: nie1-01-01...", 
+        "email_addr_list": [
+            "xuehui.bay@nie.edu.sg"
+        ], 
+        "cite_url": "https://www.nie.edu.sg/profile/bay-xue-hui", 
+        "cite_name": "National Institute of Education", 
+        "title": "BAY Xue Hui | Staff Directory | National Institute of Education ..."
+    }, 
+    {
+        "content": "nov 21, 2014 - post, name, did, email. executive, ms christine tan xue hui, 63895220, christine_xh_tan@imh.com.sg. executive, tan jin wen, 63895231...", 
+        "email_addr_list": [
+            "christine_xh_tan@imh.com.sg"
+        ], 
+        "cite_url": "app.sgdi.gov.sg/listing.asp?...", 
+        "cite_name": "List of Singapore Government Ministries", 
+        "title": "Patient Relations Office - Gov.sg - Singapore Government ..."
+    }, 
+    {
+        "content": "email: xnie@gsu.edu  phone: 404-413-5597 ... xuehui nie is from beijing language and culture university; she is a visiting professor in the confucius institute...", 
+        "email_addr_list": [
+            "xnie@gsu.edu"
+        ], 
+        "cite_url": "ci.gsu.edu/profile/xuehui-nie/", 
+        "cite_name": "", 
+        "title": "Xuehui Nie - Confucius Institute - Georgia State University"
+    }
+]

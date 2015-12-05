@@ -1,0 +1,21 @@
+[
+    {
+        "content": "piao songhao, hong bingrong, wang liang, geng zhen, cai zesu, huang ... (tel: 86-451-6413388; fax : 86-451-6221048; e-mail: piaosh@hit.edu.cn).", 
+        "email_addr_list": [
+            "piaosh@hit.edu.cn"
+        ], 
+        "cite_url": "robogames.net/.../07-111-Songhao-HarbinInstTech-Motion%2...", 
+        "cite_name": "RoboGames", 
+        "title": "07-111 The Research of Motion Planning of Humanoid Robot"
+    }, 
+    {
+        "content": "licheng jiao  lchjiao@mail.xidian.edu.cn (16); lipo wang  elpwang@ntu.edu.sg ... (22); piao song-hao (21). author affiliations. 21. school of computer...", 
+        "email_addr_list": [
+            "lchjiao@mail.xidian.edu.cn", 
+            "elpwang@ntu.edu.sg"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2F1188...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Autonomous Navigation Based on the Velocity Space ..."
+    }
+]

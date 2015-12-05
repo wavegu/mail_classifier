@@ -1,0 +1,11 @@
+[
+    {
+        "content": "email: xiaodongwu@sjtu.edu.cn ... xiaodong wu, shugen ma, neural controlled steering for collision-free behavior, ieee transactions on control systems...", 
+        "email_addr_list": [
+            "xiaodongwu@sjtu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "Wu Xiaodong - School of Mechanical Engineering Shanghai ..."
+    }
+]

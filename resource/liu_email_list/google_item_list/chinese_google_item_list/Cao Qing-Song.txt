@@ -1,0 +1,75 @@
+[
+    {
+        "content": "admin staff  lab staff  staff  lin qingsong ... email: dbslinqs@nus.edu.sg ... zhou s, wan q, huang y, huang x, cao j, ye l, lim tk, lin q*, qin q*. (2011)...", 
+        "email_addr_list": [
+            "dbslinqs@nus.edu.sg"
+        ], 
+        "cite_url": "www.dbs.nus.edu.sg/.../linqingsong.htm...", 
+        "cite_name": "National University of Singapore", 
+        "title": "Lin Qingsong - NUS - National University of Singapor"
+    }, 
+    {
+        "content": "jan 24, 2015 - dong-sheng cao, e-mail: oriental-cds@163.com, qing-song xu, e-mail: ... for permissions, please email: journals.permissions@oup.com...", 
+        "email_addr_list": [
+            "oriental-cds@163.com", 
+            "journals.permissions@oup.com"
+        ], 
+        "cite_url": "bioinformatics.oxfordjournals.org/.../bioinformatics.btv042.s...", 
+        "cite_name": "Bioinformatics", 
+        "title": "protr/ProtrWeb: R package and web server for generating ..."
+    }, 
+    {
+        "content": "... at changsha. e-mail: oriental-cds@hotmail.com; phone: +86 139 7488 0914 ... dongsheng cao, qingsong xu, yizeng liang, liangxiao zhang, hongdong li.", 
+        "email_addr_list": [
+            "oriental-cds@hotmail.com"
+        ], 
+        "cite_url": "www.scbdd.com/members/members/5/", 
+        "cite_name": "", 
+        "title": "CBDD-People-Dongsheng Cao - CBDD-Group"
+    }, 
+    {
+        "content": "feb 17, 2011 - dong-sheng cao1,; yi-zeng liang1,*,; qing-song xu2,*,; liang-xiao zhang1, ... email: yi-zeng liang (yizeng_liang@263.net), qing-song xu...", 
+        "email_addr_list": [
+            "yizeng_liang@263.net"
+        ], 
+        "cite_url": "", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Feature importance sampling-based adaptive random forest ..."
+    }, 
+    {
+        "content": "corresponding authors: cao qing-song email: qscao@163.com. cite this article: cao qing-song, deng kai-ming. structure stability and electronic properties...", 
+        "email_addr_list": [
+            "qscao@163.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Structure Stability and Electronic Properties of C 56 X 10"
+    }, 
+    {
+        "content": "... gao, jingwen zhao, gang han, yajie zhang, xue dong, limin cao, qingsong wang, hong m moulton and haifang yin ... e-mail: haifangyin@tmu.edu.cn.", 
+        "email_addr_list": [
+            "haifangyin@tmu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Nature", 
+        "title": "Molecular Therapy - Abstract of article: Effective Dystrophin ..."
+    }, 
+    {
+        "content": "may 12, 2014 - title: scientist; tel: 64191498; email: yangx@ihpc.a-star.edu.sg ... aize cao; qing song; xulei yang, breast mass segmentation based on...", 
+        "email_addr_list": [
+            "yangx@ihpc.a-star.edu.sg"
+        ], 
+        "cite_url": "cogsys.ihpc.a-star.edu.sg/yangx.php?display=1", 
+        "cite_name": "", 
+        "title": "Dr. YANG Xulei - Institute of High Performance Computing"
+    }, 
+    {
+        "content": "email: qinghai.song@hitsz.edu.cn. phone: personal profile ... q. h. song, h. cao, improving optical confinement in nanostructures via external mode...", 
+        "email_addr_list": [
+            "qinghai.song@hitsz.edu.cn"
+        ], 
+        "cite_url": "www.hitsz.edu.cn/body/shizi/detailen.php?strID=736", 
+        "cite_name": "", 
+        "title": "SONG Qinghai"
+    }
+]

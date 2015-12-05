@@ -1,0 +1,20 @@
+[
+    {
+        "content": "alexandre bernardino. institute for ... verified email at isr.ist.utl.pt - homepage  scholar ... l montesano, m lopes, a bernardino, j santos-victor. robotics, ieee...", 
+        "email_addr_list": [
+            "email@isr.ist.utl.pt"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=auFmh9MAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Alexandre Bernardino - Google Scholar Citations"
+    }, 
+    {
+        "content": "alexandre josé malheiro bernardino. pt en ... email. alexandre.bernardino@tecnico.ulisboa.pt. telefone do trabalho. 2293. página alternativa.", 
+        "email_addr_list": [
+            "alexandre.bernardino@tecnico.ulisboa.pt"
+        ], 
+        "cite_url": "https://fenix.tecnico.ulisboa.pt/.../i...", 
+        "cite_name": "University of Lisbon", 
+        "title": "Apresentação · Alexandre José Malheiro Bernardino"
+    }
+]

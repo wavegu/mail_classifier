@@ -1,0 +1,58 @@
+[
+    {
+        "content": "curriculum vitae. of yanchun liang. (梁艳春 简历) ... name: liang yanchun sex: female born in hebei ... fax: 86-10-64851533. email: ycliang@bao.ac.cn.", 
+        "email_addr_list": [
+            "ycliang@bao.ac.cn"
+        ], 
+        "cite_url": "sss.bao.ac.cn/lyc/members_cn/lyc_CV.html", 
+        "cite_name": "", 
+        "title": "Yanchun Liangs homepage"
+    }, 
+    {
+        "content": "e-mail address: liangyc@ihpc.a-star.edu.sg or ycliang@email.jlu.edu.cn, corresponding author: yan-chun liang 1 introduction the design purpose of the...", 
+        "email_addr_list": [
+            "liangyc@ihpc.a-star.edu.sg", 
+            "ycliang@email.jlu.edu.cn"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=1600211070", 
+        "cite_name": "", 
+        "title": "Smart Materials and Structures: New Research"
+    }, 
+    {
+        "content": "yanchun liangs record entry: name, yanchun liang. computing id, yl5yd. office phone. email. yl5yd@virginia.edu  yl5yd@eservices.virginia.edu (registered)...", 
+        "email_addr_list": [
+            "yl5yd@virginia.edu", 
+            "yl5yd@eservices.virginia.edu"
+        ], 
+        "cite_url": "its.virginia.edu/.../people/?u...n=Yanchun++Liang", 
+        "cite_name": "University of Virginia", 
+        "title": "Liang, Yanchun - UVa People Search - University of Virginia"
+    }, 
+    {
+        "content": "yanchun liang - jilin university. follow yanchun liang. yanchun liang. are you yanchun liang? claim your profile, edit ..... email: hanyaling@263.net.", 
+        "email_addr_list": [
+            "hanyaling@263.net"
+        ], 
+        "cite_url": "www.pubfacts.com/author/Yanchun+Liang", 
+        "cite_name": "", 
+        "title": "Publications Authored by Yanchun Liang - PubFacts"
+    }, 
+    {
+        "content": "university of georgia, usa, dr. yanchun liang professor, ... email : wy6868@hotmail.com. fengfeng zhou ... liang chen , jilin university, china. email...", 
+        "email_addr_list": [
+            "wy6868@hotmail.com"
+        ], 
+        "cite_url": "csbl.bmb.uga.edu/mirrors/JLU/.../committees.html", 
+        "cite_name": "University of Georgia", 
+        "title": "ICSB2015 - University of Georgia"
+    }, 
+    {
+        "content": "liang, yuping li and renchu guan. 16:15 - 16:45 ... giunchiglia, hao xu and yanchun liang. 18:00 - 18:30, the ... email: sh@iccl.tu-dresden.de skype: shiccl.", 
+        "email_addr_list": [
+            "sh@iccl.tu-dresden.de"
+        ], 
+        "cite_url": "iwost.computational-logic.org/", 
+        "cite_name": "", 
+        "title": "IWOST"
+    }
+]

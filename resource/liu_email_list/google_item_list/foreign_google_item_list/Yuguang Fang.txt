@@ -1,0 +1,56 @@
+[
+    {
+        "content": "email: lastname at ece.ufl.edu, http://www.fang.ece.ufl.edu ... and multi-hop wireless ad hoc networks (hongqiang zhai and yuguang fang) in the 14th ieee...", 
+        "email_addr_list": [
+            "lastname@ece.ufl.edu"
+        ], 
+        "cite_url": "www.fang.ece.ufl.edu/", 
+        "cite_name": "", 
+        "title": "Yuguang Fangs Home Page"
+    }, 
+    {
+        "content": "http://www.fang.ece.ufl.edu/pcm.html. manuscript submission ... yuguang michael fang dept. of electrical ... taipei, 106, taiwan email: plin@csie.ntu.edu.tw", 
+        "email_addr_list": [
+            "plin@csie.ntu.edu.tw"
+        ], 
+        "cite_url": "www.fang.ece.ufl.edu/pcm.html", 
+        "cite_name": "", 
+        "title": "IEEE Wireless Communications Magazine - Yuguang ..."
+    }, 
+    {
+        "content": "professor yuguang ``michael fang 435 new engineering building ... email: fang@ece.ufl.edu, http: www.fang.ece.ufl.edu. office hours: 9:30-10:30pm,...", 
+        "email_addr_list": [
+            "fang@ece.ufl.edu"
+        ], 
+        "cite_url": "www.fang.ece.ufl.edu/eel5718.html", 
+        "cite_name": "", 
+        "title": "EEL4598/5718: Computer Communications - Fang"
+    }, 
+    {
+        "content": "fang, yuguang. view(active tab)  track  fang, yuguangs picture. full name : fang, yuguang ... office email: fang [at] ece.ufl.edu. education: ph.d., electrical...", 
+        "email_addr_list": [
+            "fang@ece.ufl.edu"
+        ], 
+        "cite_url": "https://www.ece.ufl.edu/users/fang-yuguang", 
+        "cite_name": "University of Florida", 
+        "title": "Fang, Yuguang | Department of Electrical and Computer ..."
+    }, 
+    {
+        "content": "apr 26, 2015 - email: fang@ece.ufl.edu, webpage: http://www.fang.ece.ufl.edu/ .... for wireless local area networks” (younggoo kwon, yuguang fang and...", 
+        "email_addr_list": [
+            "fang@ece.ufl.edu"
+        ], 
+        "cite_url": "www.fang.ece.ufl.edu/resume.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Yuguang “Michael” Fang, Ph.D., FIEEE - University of Florida"
+    }, 
+    {
+        "content": "dr. yuguang ... email: fang@ece.ufl.edu ... y. fang, j.wang and d.wu, “medium access control in wireless local area networks with multi-beam access point,”...", 
+        "email_addr_list": [
+            "fang@ece.ufl.edu"
+        ], 
+        "cite_url": "https://winet.ece.ufl.edu/people/faculty/fang.html", 
+        "cite_name": "University of Florida", 
+        "title": "ECE-UF Dr. YuguangMichaelFang"
+    }
+]

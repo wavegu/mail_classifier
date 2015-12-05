@@ -1,0 +1,57 @@
+[
+    {
+        "content": "create alert. cancel. qingming luo ... verified email at mail.hust.edu.cn. scholar ... z zhang, g chen, w zhou, a song, t xu, q luo, w wang, x gu, s duan.", 
+        "email_addr_list": [
+            "email@mail.hust.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=QCwOhaMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Qingming Luo - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: qingming.luo@nie.edu.sg ... mr luo received his bachelor of arts in chinese language and literature from east china normal university in china in...", 
+        "email_addr_list": [
+            "qingming.luo@nie.edu.sg"
+        ], 
+        "cite_url": "www.nie.edu.sg/.../罗庆铭-luo-qingming", 
+        "cite_name": "National Institute of Education", 
+        "title": "罗庆铭 Luo Qingming - National Institute of Education"
+    }, 
+    {
+        "content": "a public lecture by by professor qingming luo. where: function ... e-mail: qluo@mail.hust.edu.cn. ... qingming luos work was recently featured in science.", 
+        "email_addr_list": [
+            "qluo@mail.hust.edu.cn"
+        ], 
+        "cite_url": "www.uow.edu.au/research/.../UOW101872.ht...", 
+        "cite_name": "University of Wollongong", 
+        "title": "Quinming Luo lecture - Research  Innovation @ UOW"
+    }, 
+    {
+        "content": "name: qingming luo country: china telephone: (+86) 27-8779-2033. fax: (+86) 27-8779-2034. email: qluo@mail.hust.edu.cn. name: lin li country: u.s.a.", 
+        "email_addr_list": [
+            "qluo@mail.hust.edu.cn"
+        ], 
+        "cite_url": "www.isott.org/index.php/isott-officers.html", 
+        "cite_name": "", 
+        "title": "ISOTT Officers - The Official Site of the International Society ..."
+    }, 
+    {
+        "content": "john love; qingming luo; hervé maillotte; andries meijerink; prof. daniel razansky; prof. ... email: tarik.bourouina@esiee.fr .... email: c.jagadish@ieee.org", 
+        "email_addr_list": [
+            "tarik.bourouina@esiee.fr", 
+            "c.jagadish@ieee.org"
+        ], 
+        "cite_url": "www.nature.com/lsa/about/ed_profile.html", 
+        "cite_name": "Nature", 
+        "title": "Editor Profile : Light: Science  Applications - Nature"
+    }, 
+    {
+        "content": "qingwei xu†, yixiang shi†, qiang lu, guoqing zhang, qingming luo* and yixue li*. * corresponding authors: qingming luo qluo@mail.hust.edu.cn - yixue li...", 
+        "email_addr_list": [
+            "qluo@mail.hust.edu.cn"
+        ], 
+        "cite_url": "www.biomedcentral.com/1471-2105/9/S1/.../comments", 
+        "cite_name": "BioMed Central", 
+        "title": "BMC Bioinformatics | User comments | GORouter: an RDF ..."
+    }
+]

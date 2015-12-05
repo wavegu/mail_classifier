@@ -1,0 +1,29 @@
+[
+    {
+        "content": "41-47 dong du str, dist 1, hcm city, vietnam. phone: (84-8) 38299734 - fax: (84-8) 38291466 - email: info@saigonhotel.com.vn. prev. dec. 2015, 2016, 2017...", 
+        "email_addr_list": [
+            "info@saigonhotel.com.vn"
+        ], 
+        "cite_url": "www.saigonhotel.com.vn/", 
+        "cite_name": "", 
+        "title": "Welcome to Saigon Hotel"
+    }, 
+    {
+        "content": "check out our fantastic range deals  offers for dong du hotel, ho chi minh city at hotels.com. view photos of dong du ... email; save; share. hotels.com®...", 
+        "email_addr_list": [
+            "city@hotels.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Hotels.com", 
+        "title": "Book Dong Du Hotel, Ho Chi Minh City, Vietnam - Hotels.com"
+    }, 
+    {
+        "content": "hotel aem 19 dong du, ho chi minh city - find the best deal at hotelscombined.com. compare all the top travel sites at once. rated 6.5 out of 10 from 351...", 
+        "email_addr_list": [
+            "deal@hotelscombined.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Hotel AEM 19 Dong Du, Ho Chi Minh City - Compare Deals"
+    }
+]

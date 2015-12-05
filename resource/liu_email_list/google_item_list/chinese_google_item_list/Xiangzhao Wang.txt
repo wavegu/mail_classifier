@@ -1,0 +1,65 @@
+[
+    {
+        "content": "homepage - xiang zhao. ... email: xiangzhao at nudt.edu.cn. phone: +86 731 8457 3545 ... yifan chen, xiang zhao, xuemin lin, yang wang. towards...", 
+        "email_addr_list": [
+            "xiangzhao@nudt.edu.cn"
+        ], 
+        "cite_url": "https://sites.google.com/site/xzhaounsw/", 
+        "cite_name": "", 
+        "title": "Xiang Zhao - Google Sites"
+    }, 
+    {
+        "content": "fax : 03-87-37-42-84, e-mail : peng0623.wang@gmail.com ... shiying wang, yudong zhang, christophe schuman, jean-sebastien lecomte, xiang zhao,...", 
+        "email_addr_list": [
+            "peng0623.wang@gmail.com"
+        ], 
+        "cite_url": "www.lem3.fr/ann...", 
+        "cite_name": "Laboratory of Microstructure Studies and Mechanics...", 
+        "title": "Laboratoire dEtude des Microstructures et de ... - LEM3 et"
+    }, 
+    {
+        "content": "xiangzhao wang - shanghai institute of optics and fine mechanics ..... chinese academy of sciences, shanghai 201800, china. ipt26267@mail.shcnc.ac.cn.", 
+        "email_addr_list": [
+            "ipt26267@mail.shcnc.ac.cn"
+        ], 
+        "cite_url": "www.pubfacts.com/author/Xiangzhao+Wang", 
+        "cite_name": "", 
+        "title": "Publications Authored by Xiangzhao Wang - PubFacts"
+    }, 
+    {
+        "content": "wang, fulong .... 3)xiangzhao mao, shu wang, feifei kan, dongzhi wei, fuli li. ... road 5, ocean university of china tel：82032272 email：wflong@ouc.edu.cn.", 
+        "email_addr_list": [
+            "wflong@ouc.edu.cn"
+        ], 
+        "cite_url": "web1.ouc.edu.cn/fse/qiwxiangming/list.psp", 
+        "cite_name": "", 
+        "title": "Mao, Xiangzhao"
+    }, 
+    {
+        "content": "verified email at cse.unsw.edu.au - homepage ... c xiao, w wang, x lin, jx yu, g wang ... h jiang, w wang, h lu, jx yu ... h jiang, h lu, w wang, bc ooi.", 
+        "email_addr_list": [
+            "email@cse.unsw.edu.au"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=wLtu3FYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Wei Wang - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: lin.wu at adelaide.edu.au ... yang wang, xuemin lin, lin wu, wenjie zhang and qing zhang. ... lin wu, yang wang, john shepherd and xiang zhao.", 
+        "email_addr_list": [
+            "lin.wu@adelaide.edu.au"
+        ], 
+        "cite_url": "cs.adelaide.edu.au/~linwu/", 
+        "cite_name": "University of Adelaide", 
+        "title": "Welcome to Lin Wus Homepage"
+    }, 
+    {
+        "content": "jan 15, 2015 - chunmei ding, jingying shi, donge wang, zhijun wang, nan wang, guiji liu, fengqiang xiong and can li. ... jishuo yang, dongbo xu, 2、 nan nan, xiangzhao wang, peng bu, zhongliang li, ... email: shinan at wayne.edu.", 
+        "email_addr_list": [
+            "shinan@wayne.edu"
+        ], 
+        "cite_url": "www.gaictech.com/wang-shi-nan-wang-z4d8e5", 
+        "cite_name": "", 
+        "title": "Wang Shi Nan Wang"
+    }
+]

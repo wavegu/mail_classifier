@@ -1,0 +1,40 @@
+[
+    {
+        "content": "pun, chi man chinese name b.sc. ... e-mail: cmpun@umac.mo. prof. pun received his b.sc. and m.sc. degrees in software engineering from the university of...", 
+        "email_addr_list": [
+            "cmpun@umac.mo"
+        ], 
+        "cite_url": "www.cis.umac.mo/~cmpun/", 
+        "cite_name": "", 
+        "title": "Prof. Chi Man Pun, University of Macau"
+    }, 
+    {
+        "content": "mr pun chi-man ... road, tokwawan, kowloon. tel. no. 2356 8629 / 2142 9770 / 6288 2801. fax no. 3013 9683. e-mail address, pcm9182002@yahoo.com.hk.", 
+        "email_addr_list": [
+            "pcm9182002@yahoo.com.hk"
+        ], 
+        "cite_url": "www.districtcouncils.gov.hk/.../dc_member_list_detail.p...", 
+        "cite_name": "District Councils", 
+        "title": "Mr PUN Chi-man"
+    }, 
+    {
+        "content": "sep 25, 2015 - prior to establishing the pun chi man gaming promotion junket, mr. pun had set up an ... and pun chi man is a shareholder in a macau-based entity called .... e-mail: contact@macaugamingwatch.com. macau gaming watch.", 
+        "email_addr_list": [
+            "contact@macaugamingwatch.com"
+        ], 
+        "cite_url": "www.macaugamingwatch.com/Pages/PUN_CHI_MAN.html", 
+        "cite_name": "", 
+        "title": "Pun Chi Man Gaming Promotion - Macau Gaming Watch"
+    }, 
+    {
+        "content": "email: laukwokchi@cuhk.edu.hk ... man yee-fun, evelyn 文綺芬教授, eyfman@cuhk.edu.hk. prof. ... pun sai-wing 潘世榮教授, swpun@cuhk.edu.hk. prof.", 
+        "email_addr_list": [
+            "laukwokchi@cuhk.edu.hk", 
+            "eyfman@cuhk.edu.hk", 
+            "swpun@cuhk.edu.hk"
+        ], 
+        "cite_url": "www.fed.cuhk.edu.hk/cri/staff.html", 
+        "cite_name": "The Chinese University of Hong Kong", 
+        "title": "Department of Curriculum and Instruction"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "jia weijia professor. mainpage: office telephone: +86-21-34208247. office address: seiee-3-402. email: jia-wj@cs.sjtu.edu.cn. lab: research; education...", 
+        "email_addr_list": [
+            "jia-wj@cs.sjtu.edu.cn"
+        ], 
+        "cite_url": "www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?...", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "Jia Weijia - Welcome :: SJTU Computer Science ..."
+    }, 
+    {
+        "content": "email: phwen@ust.hk. professor wens main research interests include soft condensed matter physics, electrorheological (er) and magnetorheological (mr)...", 
+        "email_addr_list": [
+            "phwen@ust.hk"
+        ], 
+        "cite_url": "physics.ust.hk/phwen/", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "Weijia Wen - Department of Physics - Hong Kong University ..."
+    }, 
+    {
+        "content": "mar 31, 2010 - hmi appoints ms chin wei jia as group general manager of health management international ltd. wednesday ... email: chinwj@hmi.com.sg.", 
+        "email_addr_list": [
+            "chinwj@hmi.com.sg"
+        ], 
+        "cite_url": "hmi.com.sg/.../hmi-appoints-ms-chin-wei-jia-as-group-general-manager-...", 
+        "cite_name": "", 
+        "title": "HMI Appoints Ms Chin Wei Jia as Group General Manager ..."
+    }, 
+    {
+        "content": "mar 31, 2010 - appoint ms chin wei jia (“ms chin”) as group general manager. in this new position, ms ... tel: +65 6253 3818. email: richardkoh@hmi.com.sg.", 
+        "email_addr_list": [
+            "richardkoh@hmi.com.sg"
+        ], 
+        "cite_url": "hmi.com.sg/.../HMIL_APPOINTMENTOFGROUPGENERALMANAGE...", 
+        "cite_name": "", 
+        "title": "[PDF]hmi appoints ms. chin wei jia as group general manager of ..."
+    }
+]

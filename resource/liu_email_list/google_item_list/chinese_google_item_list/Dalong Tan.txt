@@ -1,0 +1,22 @@
+[
+    {
+        "content": "ai haizhou, tsinghua university, ahz@mail.tsinghua.edu.cn ... tan dalong, shenyang institute of automation, chinese academy of sciences, dltan@sia.cn.", 
+        "email_addr_list": [
+            "ahz@mail.tsinghua.edu.cn", 
+            "dltan@sia.cn"
+        ], 
+        "cite_url": "robot.sia.cn/en/lm.asp?hg_id=7", 
+        "cite_name": "", 
+        "title": "Robot"
+    }, 
+    {
+        "content": "ning chenl. dalong tan. robotics laboratory, chinese academy of sciences, shenyang 110016. i : email: nchen@ms.sia.ac.cn teleopemtion@ms.sia.ac.cn.", 
+        "email_addr_list": [
+            "nchen@ms.sia.ac.cn", 
+            "teleopemtion@ms.sia.ac.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0102...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "A QoS-aware networked telerobotic system architecture ..."
+    }
+]

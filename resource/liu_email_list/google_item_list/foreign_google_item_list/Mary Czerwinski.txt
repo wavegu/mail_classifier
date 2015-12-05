@@ -1,0 +1,29 @@
+[
+    {
+        "content": "mary czerwinski. microsoft research. one microsoft way. redmond, wa 98052-6399. email: marycz@microsoft.com. http://research.microsoft.com/users/marycz.", 
+        "email_addr_list": [
+            "marycz@microsoft.com"
+        ], 
+        "cite_url": "research.microsoft.com/en-us/.../marycz/resume.html", 
+        "cite_name": "Microsoft Research", 
+        "title": "Mary Czerwinski - Microsoft Research"
+    }, 
+    {
+        "content": "apr 25, 2011 - (425)703-4882. fax: (425)936-7329. e-mail: marycz@microsoft.com ..... krzysztof z. gajos, mary czerwinski, desney s. tan and daniel s.", 
+        "email_addr_list": [
+            "marycz@microsoft.com"
+        ], 
+        "cite_url": "research.microsoft.com/.../marycz/czerwinski_cv_apri...", 
+        "cite_name": "Microsoft Research", 
+        "title": "[PDF]CURRICULUM VITAE - Microsoft Research"
+    }, 
+    {
+        "content": "mary has been an affiliate assistant professor at the department of psychology, universi... ... research (http://research.microsoft.com); email: marycz@microsoft.com. mary czerwinski is a senior researcher and manager of the visualization...", 
+        "email_addr_list": [
+            "marycz@microsoft.com"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/mary-czerwinski", 
+        "cite_name": "", 
+        "title": "Mary Czerwinski - Interaction Design Foundation"
+    }
+]

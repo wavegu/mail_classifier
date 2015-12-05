@@ -1,0 +1,20 @@
+[
+    {
+        "content": "jul 13, 2009 - e-mail: ysxu@acae.cuhk.edu.hk. postal code: resume. professor xu yangsheng received his bs and ms degrees in zhejiang university in...", 
+        "email_addr_list": [
+            "ysxu@acae.cuhk.edu.hk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Yangsheng Xu"
+    }, 
+    {
+        "content": "email: wfxu@hit.edu.cn. phone: +86-755-26033486 +86-755-26033774（fax） ... xu, yangsheng) of the chinese university of hong kong (cuhk) from 2013 to...", 
+        "email_addr_list": [
+            "wfxu@hit.edu.cn"
+        ], 
+        "cite_url": "www.hitsz.edu.cn/body/shizi/detailen.php?strID=589", 
+        "cite_name": "", 
+        "title": "XU Wenfu"
+    }
+]

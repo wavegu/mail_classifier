@@ -1,0 +1,56 @@
+[
+    {
+        "content": "shi-min hu is currently a professor of computer science at tsinghua university. his research interests ... fax:86-10-62797459. email:shimin@tsinghua.edu.cn.", 
+        "email_addr_list": [
+            "shimin@tsinghua.edu.cn"
+        ], 
+        "cite_url": "cg.cs.tsinghua.edu.cn/prof_hu.htm", 
+        "cite_name": "Tsinghua University", 
+        "title": "Shi-Min Hu - Graphics  Geometric Computing Group | CS ..."
+    }, 
+    {
+        "content": "shimin hu; professor; department of computer science and technology; joined department: 1998; email:shimin@tsinghua.edu.cn...", 
+        "email_addr_list": [
+            "shimin@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201012241741341788437...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Shimin HU"
+    }, 
+    {
+        "content": "computer science  informatics, cardiff university, queens buildings, 5 the parade, roath, cardiff cf24 3aa, uk. email: shi-min.hu@cs.cardiff.ac.uk.", 
+        "email_addr_list": [
+            "shi-min.hu@cs.cardiff.ac.uk"
+        ], 
+        "cite_url": "www.cs.cf.ac.uk/.../staffpage.php?emailname=Shi-Min...", 
+        "cite_name": "Computer Science", 
+        "title": "Professor S. Hu - Staff Details - Cardiff University"
+    }, 
+    {
+        "content": "shimin hu - ... shimin hu. hematopathology. email: shu1@mdanderson.org•phone: 713-563-8809. summary. research outputs (1997 - present) 40. h-index...", 
+        "email_addr_list": [
+            "shu1@mdanderson.org"
+        ], 
+        "cite_url": "mdanderson.influuent.utsystem.edu/.../shimin-hu(4add641f-489e-4cca-a...", 
+        "cite_name": "", 
+        "title": "Shimin Hu - MD Anderson Cancer Center"
+    }, 
+    {
+        "content": "... summer e. hanson, m.d., ph.d. cobi j. heijnen, ph.d. marie-claude hofmann, ph.d. shimin hu, m.d., ph.d. vicki huff, ... email: rchampli@mdanderson.org...", 
+        "email_addr_list": [
+            "rchampli@mdanderson.org"
+        ], 
+        "cite_url": "www.mdanderson.org/...", 
+        "cite_name": "University of Texas MD Anderson Cancer Center", 
+        "title": "Faculty - MD Anderson Cancer Center"
+    }, 
+    {
+        "content": "e-mail address: shimin@tsinghua.edu.cn (s.-m. hu) . been extensively investigated by watkins and worsey 3 lachance 4 eck 5 6 bogacki et al. 7 and hu et al.", 
+        "email_addr_list": [
+            "shimin@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-shimin-tsinghua-edu-cn-359783...", 
+        "cite_name": "", 
+        "title": "shimin@tsinghua.edu.cn - The Email Archive"
+    }
+]

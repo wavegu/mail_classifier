@@ -1,0 +1,20 @@
+[
+    {
+        "content": "fred martin. home  kennedy ... fred martin, computer science, college of sciences, heroes. professor, director of ... email: fredm@cs.uml.edu  website...", 
+        "email_addr_list": [
+            "fredm@cs.uml.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Massachusetts Lowell", 
+        "title": "Fred Martin, Ph.D. - UMass Lowell"
+    }, 
+    {
+        "content": "mar 15, 1995 - fred g. martin1 ... e-mail: fredm@media.mit.edu. this document is copyright c 1995 by fred g. martin. ..... fred martin has been developing educational robotics technologies at the mit media laboratory since 1986, and is a.", 
+        "email_addr_list": [
+            "fredm@media.mit.edu"
+        ], 
+        "cite_url": "galileo.org/robotics/artoflego.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]The Art of LEGO Design - Galileo Educational Network"
+    }
+]

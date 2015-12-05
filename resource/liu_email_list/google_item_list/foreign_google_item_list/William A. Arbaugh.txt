@@ -1,0 +1,29 @@
+[
+    {
+        "content": "arbaugh, william a. william arbaugh. associate professor emeritus. computer science/umiacs. 4137 a.v. williams building. email: warbaugh@umd.edu.", 
+        "email_addr_list": [
+            "warbaugh@umd.edu"
+        ], 
+        "cite_url": "www.cyber.umd.edu/.../arbaugh", 
+        "cite_name": "University of Maryland, College Park", 
+        "title": "Arbaugh, William A. | Maryland Cybersecurity Center"
+    }, 
+    {
+        "content": "arbaugh, bartholomew, and engelhardt family lore william c. arbaugh. order this book oniine at www.trafford.com or email...", 
+        "email_addr_list": [
+            "oniine@www.trafford.com"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=142697048X", 
+        "cite_name": "", 
+        "title": "Potpourri: Arbaugh, Bartholomew, and Engelhardt Family Lore"
+    }, 
+    {
+        "content": "narendar shankar univ of maryland william arbaugh univ of maryland kan zhang ... arbaugh, zhang wireless key management using dhcp july 2001 [page 2] ..... labs 1501 page mill road palo alto, ca 94304 email: kan_zhang@hp.com", 
+        "email_addr_list": [
+            "kan_zhang@hp.com"
+        ], 
+        "cite_url": "https://tools.ietf.org/.../draft-ietf-dhc-key...", 
+        "cite_name": "Internet Engineering Task Force", 
+        "title": "html - IETF Tools - Internet Engineering Task Force"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "content": "dr. longjiang guo. lguo@gsu.edu. or. lguo@cs.gsu.edu. or. longjiangguo@gmail.com. department of computer science. georgia state university.", 
+        "email_addr_list": [
+            "lguo@gsu.edu", 
+            "lguo@cs.gsu.edu", 
+            "longjiangguo@gmail.com"
+        ], 
+        "cite_url": "grid.cs.gsu.edu/~lguo/", 
+        "cite_name": "", 
+        "title": "Longjiang Guo - Computer Science - Georgia State University"
+    }, 
+    {
+        "content": "longjiang fan. professor of crop ... xingyi guo, yijie gui, yu wang, qian-hao zhu, chris helliwell, longjiang fan*. 2008. selection ... e-mail:fanlj@zju.edu.cn...", 
+        "email_addr_list": [
+            "fanlj@zju.edu.cn"
+        ], 
+        "cite_url": "mypage.zju.edu.cn/en/0089128", 
+        "cite_name": "Zhejiang University", 
+        "title": "Longjiang Fan - staff Homepage, ZJU"
+    }, 
+    {
+        "content": "email: longjiang- guo@gmail.com two strings. he also defined the   -mismatch approximate string matching problem on the basis of hamming distance,.", 
+        "email_addr_list": [
+            "guo@gmail.com"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Parallel Algorithms for Approximate String Matching with k ..."
+    }, 
+    {
+        "content": "email: qunfeng.dong@ieee.org. publications chair ... email: webmaster@ipccc.org. financial chair nasr ullah ... longjiang guo heilongjiang university, china", 
+        "email_addr_list": [
+            "qunfeng.dong@ieee.org", 
+            "webmaster@ipccc.org"
+        ], 
+        "cite_url": "ipccc.org/ipccc2012/main.php?page=2", 
+        "cite_name": "", 
+        "title": "IPCCC 2012"
+    }, 
+    {
+        "content": "university of north carolina at charlotte, usa email:yu.wang@uncc.edu. kuai xu ... email: zhipeng.cai@gmail.com. zhiqiang lin ... longjiang guo school of...", 
+        "email_addr_list": [
+            "yu.wang@uncc.edu", 
+            "zhipeng.cai@gmail.com"
+        ], 
+        "cite_url": "ipccc.org/ipccc2013/main.php?page=2", 
+        "cite_name": "", 
+        "title": "IPCCC 2013"
+    }
+]

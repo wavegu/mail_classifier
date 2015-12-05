@@ -1,0 +1,65 @@
+[
+    {
+        "content": "david h. laidlaw. professor of computer science , brown university. ... e-mail me: dhl@cs.brown.edu. office: cit 521 (new as of 2012); box 1910, computer...", 
+        "email_addr_list": [
+            "dhl@cs.brown.edu"
+        ], 
+        "cite_url": "cs.brown.edu/~dhl/", 
+        "cite_name": "Brown University", 
+        "title": "David H. Laidlaws Home Page - Brown University"
+    }, 
+    {
+        "content": "email: dhl@cs.brown.edu  http://www.cs.brown.edu/˜ ... david h. laidlaw, thomas e. conturo, joseph hogan, yi zhao, xi luo, stephen correia,. ryan cabeen...", 
+        "email_addr_list": [
+            "dhl@cs.brown.edu"
+        ], 
+        "cite_url": "cs.brown.edu/~dhl/cvh.pdf", 
+        "cite_name": "Brown University", 
+        "title": "[PDF]David H. Laidlaw - Brown University"
+    }, 
+    {
+        "content": "david_laidlaw@brown.edu email icon ... guo, hua, huang, jeff, laidlaw, david h. representing uncertainty in graph edges: an evaluation of paired visual...", 
+        "email_addr_list": [
+            "david_laidlaw@brown.edu"
+        ], 
+        "cite_url": "https://vivo.brown.edu/display/dlaidlaw", 
+        "cite_name": "", 
+        "title": "Laidlaw, David - Researchers @ Brown - Brown University"
+    }, 
+    {
+        "content": "david h. laidlaw box 1910, department of computer science providence, ... email: dhl@cs.brown.edu http://www.cs.brown.edu/?dhl research overview...", 
+        "email_addr_list": [
+            "dhl@cs.brown.edu"
+        ], 
+        "cite_url": "www.pdffiller.com/30721314-1106970029pdf-David-H-Laidlaw---Rese...", 
+        "cite_name": "", 
+        "title": "David H. Laidlaw - Research - Brown University - PDFfiller"
+    }, 
+    {
+        "content": "david h. laidlaw box 1910, department of computer science providence, ri 02912 research overview ... 401-863-7647 email: dhl@cs.brown.edu http://www.", 
+        "email_addr_list": [
+            "dhl@cs.brown.edu"
+        ], 
+        "cite_url": "www.pdffiller.com/19796449-cvhpdf-David-H-Laidlaw---Brown-Unive...", 
+        "cite_name": "", 
+        "title": "Fillable David H. Laidlaw - Brown University - PDFfiller"
+    }, 
+    {
+        "content": "david h. laidlaw box 1910, department of computer science providence, ri 02912 research overview ... 401-863-7647 email: dhl@cs.brown.edu http://www.", 
+        "email_addr_list": [
+            "dhl@cs.brown.edu"
+        ], 
+        "cite_url": "www.pdffiller.com/6673636-1106970029pdf-David-H-Laidlaw---Resea...", 
+        "cite_name": "", 
+        "title": "Fillable Online research brown David H. Laidlaw ... - PDFfiller"
+    }, 
+    {
+        "content": "email: rdjianu@cis.fiu.edu. url:http://users.cis.fiu.edu/~rdjianu/ ... cagatay demiralp, radu jianu and david h. laidlaw. exploring brain connectivity with...", 
+        "email_addr_list": [
+            "rdjianu@cis.fiu.edu"
+        ], 
+        "cite_url": "www.cis.fiu.edu/facultystaff/view/?...98", 
+        "cite_name": "Florida International University", 
+        "title": "Radu Jianu - SCIS Home - Florida International University"
+    }
+]

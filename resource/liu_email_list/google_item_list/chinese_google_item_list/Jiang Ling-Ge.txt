@@ -1,0 +1,47 @@
+[
+    {
+        "content": "email:lgjiang@sjtu.edu.cn. biography. lingge jiang received her b.e. degree in radio engineering from southeast university, nanjing, china, in jan. 1982; the...", 
+        "email_addr_list": [
+            "lgjiang@sjtu.edu.cn"
+        ], 
+        "cite_url": "ee.sjtu.edu.cn/EN/show.aspx?info_lb=17info_id=208flag=3", 
+        "cite_name": "", 
+        "title": "Department of Electronic Engineering Shanghai Jiao Tong ..."
+    }, 
+    {
+        "content": "apr 7, 2011 - xia liu 刘 侠  liuxia1623@163.com (1) (2); ling-ge jiang 蒋铃鸽 (1). author affiliations. 1. department of electronic engineering, shanghai...", 
+        "email_addr_list": [
+            "liuxia1623@163.com"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2Fs122...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "A novel vertical handoff algorithm based on fuzzy logic in ..."
+    }, 
+    {
+        "content": "oct 1, 2013 - authors. bao-long zhou 周宝龙  baolong.zhou@alcatel-sbell.com.cn (1) (2); ling-ge jiang 蒋铃鸽 (1); chen he 何 晨 (1). author affiliations. 1.", 
+        "email_addr_list": [
+            "baolong.zhou@alcatel-sbell.com.cn"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2Fs122...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Robust ergodic rate transmission for time division duplex ..."
+    }, 
+    {
+        "content": "jun 18, 2014 - ... chen1, xu qian1, dong-mei li1, xin ge1, xie-feng wang2, ling-zhi liu3, yong-ping you2 ... bing-hua jiang, email: binghjiang@yahoo.com.", 
+        "email_addr_list": [
+            "binghjiang@yahoo.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "MiR-143 acts as a tumor suppressor by targeting N-RAS ..."
+    }, 
+    {
+        "content": "email: pblowry@cityu.edu.hk. tel: +852 34427771. office: ac1-p7718. prof. ma jian. 馬建教授. professor. email: ... dr. ge ling. 葛玲博士. assistant professor.", 
+        "email_addr_list": [
+            "pblowry@cityu.edu.hk"
+        ], 
+        "cite_url": "www.cb.cityu.edu.hk/is/.../academic.html", 
+        "cite_name": "City University of Hong Kong", 
+        "title": "Academic Staff | Department of Information Systems | City ..."
+    }
+]

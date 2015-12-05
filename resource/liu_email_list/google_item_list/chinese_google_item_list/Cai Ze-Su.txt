@@ -1,0 +1,32 @@
+[
+    {
+        "content": "verified email at physics.utoronto.ca - homepage  scholar ... xd cai, c weedbrook, ze su, mc chen, m gu, mj zhu, l li, nl liu, ... physical review letters 110...", 
+        "email_addr_list": [
+            "email@physics.utoronto.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=OxB1HNIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Christian Weedbrook - Google Scholar Citations"
+    }, 
+    {
+        "content": "apr 1, 2014 - jingdong yang, jinghui yang and zesu cai. a1 school of optical-electrical and ... e-mail: eerfriend@126.com. how to cite this article; link to...", 
+        "email_addr_list": [
+            "eerfriend@126.com"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S0263574714...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Robotica - An efficient approach to pose tracking based on ..."
+    }, 
+    {
+        "content": "cai wenchuan, professor, 86-10-51683491, wchcai@bjtu.edu.cn. cheng tieping ... chen xi, associate professor, 86-10-51684867, xichen.geo@gmail.com. chen rui, lecturer ..... liu ze, professor, 86-10-51684775, zliu@bjtu.edu.cn ..... su wei, associate professor, 86-10-51685364, wsu@bjtu.edu.cn. song fei...", 
+        "email_addr_list": [
+            "wchcai@bjtu.edu.cn", 
+            "xichen.geo@gmail.com", 
+            "zliu@bjtu.edu.cn", 
+            "wsu@bjtu.edu.cn"
+        ], 
+        "cite_url": "en.bjtu.edu.cn/Faculty/list/list1/index.htm", 
+        "cite_name": "", 
+        "title": "Faculty List - Beijing Jiaotong University"
+    }
+]

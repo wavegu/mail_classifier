@@ -1,0 +1,21 @@
+[
+    {
+        "content": "description: c:\\users\\mengchu\\documents\\2zhou\\home-page. mengchu zhou. distinguished ... electronic-mail address: zhou@njit.edu. description:...", 
+        "email_addr_list": [
+            "zhou@njit.edu"
+        ], 
+        "cite_url": "https://web.njit.edu/~zhou/", 
+        "cite_name": "New Jersey Institute of Technology", 
+        "title": "Dr.Mengchu Zhous HomePage"
+    }, 
+    {
+        "content": "postdoctoral fellows. zhuoxian meng, phd. postdoc zxmeng [at] umich.edu (email). xuyun zhao, phd. postdoc xuyzhao [at] umich.edu (email). yuanyuan xiao...", 
+        "email_addr_list": [
+            "zxmeng@umich.edu", 
+            "xuyzhao@umich.edu"
+        ], 
+        "cite_url": "www.lsi.umich.edu/lin-lab/lin-lab-members", 
+        "cite_name": "Life Sciences Institute", 
+        "title": "Lin lab members | Life Sciences Institute | University of ..."
+    }
+]

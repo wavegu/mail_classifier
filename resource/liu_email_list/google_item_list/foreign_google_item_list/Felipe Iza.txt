@@ -1,0 +1,11 @@
+[
+    {
+        "content": "yiping lo, john ward, felipe iza, rob seager, michael kong (forthcoming) ... email: yiping.lo@ntu.ac.uk. telephone: 0115 8485000 ext. 88062. address:.", 
+        "email_addr_list": [
+            "yiping.lo@ntu.ac.uk"
+        ], 
+        "cite_url": "https://biomathematics.wordpress.com/people-3/postdocs/yi-ping-lo/", 
+        "cite_name": "", 
+        "title": "Yi-Ping Lo | Biomathematics  Bioinformatics Group"
+    }
+]

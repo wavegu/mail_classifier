@@ -1,0 +1,11 @@
+[
+    {
+        "content": "mani ankur, sundaram hari, “modeling user context with applications to media. retreival,” multimedia ... email: pentland@media.mit.edu. ▫ prof. asuman...", 
+        "email_addr_list": [
+            "pentland@media.mit.edu"
+        ], 
+        "cite_url": "web.media.mit.edu/~amani/CV.../amani-cv-jan-2010.pdf", 
+        "cite_name": "MIT Media Lab", 
+        "title": "[PDF]Ankur Mani - MIT Media Lab"
+    }
+]

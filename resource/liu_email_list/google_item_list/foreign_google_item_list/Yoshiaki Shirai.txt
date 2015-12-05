@@ -1,0 +1,12 @@
+[
+    {
+        "content": "ooshiorecords@gmail.com is owned by yoshiaki shirai (ooshiorecords). find domain names registred with ooshiorecords@gmail.com. try our reverse whois...", 
+        "email_addr_list": [
+            "ooshiorecords@gmail.com", 
+            "ooshiorecords@gmail.com"
+        ], 
+        "cite_url": "domainbigdata.com/email/ooshiorecords@gmail.com", 
+        "cite_name": "", 
+        "title": "Ooshiorecords@gmail.com : Yoshiaki Shirai, Japan"
+    }
+]

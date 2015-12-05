@@ -1,0 +1,11 @@
+[
+    {
+        "content": "christopher g. atkeson cga@cc.gatech.edu http://www.cc.gatech.edu/fac/chris.atkeson/ november 3 1997 chris atkeson is a leading experimentalist in the eld...", 
+        "email_addr_list": [
+            "cga@cc.gatech.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-cga-cc-gat-3666982.htm", 
+        "cite_name": "", 
+        "title": "cga@cc.gat - The Email Archive"
+    }
+]

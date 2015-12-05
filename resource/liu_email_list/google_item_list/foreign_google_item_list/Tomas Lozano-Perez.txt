@@ -1,0 +1,20 @@
+[
+    {
+        "content": "dec 12, 2014 - tomas lozano-perez. [ login to edit profile ]; position: professor; office: 32-g492; phone: +1 (617) 253-7889; email: tlp@csail.mit.edu; areas of...", 
+        "email_addr_list": [
+            "tlp@csail.mit.edu"
+        ], 
+        "cite_url": "https://www.csa...", 
+        "cite_name": "MIT Computer Science and Artificial Intelligence Labo...", 
+        "title": "Tomas Lozano-Perez | MIT CSAIL"
+    }, 
+    {
+        "content": "tomas lozano-perez received his s.b., s.m. and ph.d. degrees in electrical engineering and ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_addr_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/tomas_lozano_perez/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Tomas Lozano-Perez - VideoLectures.NET"
+    }
+]

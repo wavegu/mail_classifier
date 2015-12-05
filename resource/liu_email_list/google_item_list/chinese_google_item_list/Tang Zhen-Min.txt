@@ -1,0 +1,48 @@
+[
+    {
+        "content": "email, njyudj@njust.edu.cn ... dong-jun yu, jun hu, yan huang, hong-bin shen, yong qi, zhen-min tang and jing-yu yang: targetatpsite: a template-free...", 
+        "email_addr_list": [
+            "njyudj@njust.edu.cn"
+        ], 
+        "cite_url": "www.csbio.sjtu.edu.cn/members/ydj/index_en.html", 
+        "cite_name": "", 
+        "title": "NUSTBIO"
+    }, 
+    {
+        "content": "associate professor of biology. office: 3102 ffsc, duke university, durham, nc 27708-1000. campus box: 90338. fax: 919-613-8177. email: zpei@duke.edu...", 
+        "email_addr_list": [
+            "zpei@duke.edu"
+        ], 
+        "cite_url": "https://biology.duke.edu/people/zhen-ming-pei", 
+        "cite_name": "Duke University", 
+        "title": "Zhen-Ming Pei | BIOLOGY"
+    }, 
+    {
+        "content": "email: zgu@email.unc.edu | zgu3@ncsu.edu ... zhen gu*, anuradha biswas+, muxun zhao, yi tang*,tailoring nanocarriers for ... bin sun, min-jie sun, zhen gu, qun-dong shen*, shao-jun jiang, yu wang, conjugated polymer...", 
+        "email_addr_list": [
+            "zgu@email.unc.edu", 
+            "zgu3@ncsu.edu"
+        ], 
+        "cite_url": "https://sites.google.com/site/bionanogu/home", 
+        "cite_name": "", 
+        "title": "THE GU LABORATORY - Google Sites"
+    }, 
+    {
+        "content": "nov 14, 2014 - email, 133113395@qq.com. address, jiang men shi peng jiang qu he tang zhen min feng lu 17hao 201, map. city, jiangmen.", 
+        "email_addr_list": [
+            "133113395@qq.com"
+        ], 
+        "cite_url": "domainbigdata.com/zhenyanyuan.com", 
+        "cite_name": "", 
+        "title": "Zhenyanyuan.com - WHOIS  Domain Info - DomainBigData"
+    }, 
+    {
+        "content": "apr 8, 2015 - zheng-yu wanga1, zhen-min hana1, qi-fei liua1, wei tanga2, kui yea1 and yu-you yaoa2 ... email: yaoyuyoutang@sina.com. footnotes.", 
+        "email_addr_list": [
+            "yaoyuyoutang@sina.com"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S1041610215...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Use of CSF α-synuclein in the differential diagnosis between ..."
+    }
+]

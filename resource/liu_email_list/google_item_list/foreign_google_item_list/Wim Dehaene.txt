@@ -1,0 +1,29 @@
+[
+    {
+        "content": "kasteelpark arenberg 10, room b02.08. b-3001 leuven, belgium tel : +32 16 321719. fax : +32 16 321975 e-mail : wim.dehaene@esat.kuleuven.be", 
+        "email_addr_list": [
+            "wim.dehaene@esat.kuleuven.be"
+        ], 
+        "cite_url": "www.esat.kuleuven.be/micas/index.php/people.../17-wim-dehaene", 
+        "cite_name": "", 
+        "title": "KU Leuven ESAT-MICAS - Wim Dehaene"
+    }, 
+    {
+        "content": "laboratory of organic synthesis - group of w. dehaen. ... prof. dr. w. dehaen tel: ++32 16 37 25 68. e-mail: wim.dehaen@chem.kuleuven.be...", 
+        "email_addr_list": [
+            "wim.dehaen@chem.kuleuven.be"
+        ], 
+        "cite_url": "chem.kuleuven.be/en/research/mds/losa", 
+        "cite_name": "", 
+        "title": "Welcome @ LOSA – Departement Chemie KU Leuven"
+    }, 
+    {
+        "content": "wim dehaene view bio. email 1: wim.dehaene@esat.kuleuven.be ... wim dehaene is a member of the technical program committee of esscirc and isscc.", 
+        "email_addr_list": [
+            "wim.dehaene@esat.kuleuven.be"
+        ], 
+        "cite_url": "sscs.ieee.org/distinguishe...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Distinguished Lecturer Roster | IEEE Solid-State Circuits ..."
+    }
+]

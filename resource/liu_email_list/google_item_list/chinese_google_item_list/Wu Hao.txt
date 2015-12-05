@@ -1,0 +1,87 @@
+[
+    {
+        "content": "email: firstname.lastname.proba@gmail.com. firstname.lastname@unige.ch. firstname=hao, lastname=wu. address: office 18, 2nd floor,. universite de geneve...", 
+        "email_addr_list": [
+            "firstname.lastname.proba@gmail.com", 
+            "firstname.lastname@unige.ch"
+        ], 
+        "cite_url": "https://sites.google.com/site/haowuproba/", 
+        "cite_name": "", 
+        "title": "Hao Wus Homepage - Google Sites"
+    }, 
+    {
+        "content": "hao wu, ph.d. professor of biochemistry and structural biology. department of biochemistry, weill ... fax (212)746-4843. email: haowu@med.cornell.edu...", 
+        "email_addr_list": [
+            "haowu@med.cornell.edu"
+        ], 
+        "cite_url": "www-users.med.cornell.edu/~haowu/", 
+        "cite_name": "Cornell University", 
+        "title": "Hao Wu - Cornell University"
+    }, 
+    {
+        "content": "home page of hao wu, assistant professor of biostatistics and bioinformatics at emory university. ... email: hao.wu at emory dot edu. phone: (404)727-8633", 
+        "email_addr_list": [
+            "hao.wu@emory.edu"
+        ], 
+        "cite_url": "www.sph.emory.edu/~hwu/", 
+        "cite_name": "Rollins School of Public Health", 
+        "title": "Hao Wu, assistant professor @ Emory Biostat"
+    }, 
+    {
+        "content": "mar 12, 2015 - ph.d. ohio state university, 2010. office: mcguinn 501. phone: 617-552-0793. email: hao.wu.5@bc.edu. scholarly interests: hao wus...", 
+        "email_addr_list": [
+            "hao.wu.5@bc.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Boston College", 
+        "title": "Hao Wu - Psychology Department - Boston College"
+    }, 
+    {
+        "content": "hao wu. assistant professor. dtu chemical engineering department of chemical and biochemical engineering. chec ... e-mail, haw@kt.dtu.dk.", 
+        "email_addr_list": [
+            "haw@kt.dtu.dk"
+        ], 
+        "cite_url": "www.dtu.dk/english/Service/.../Person?i...", 
+        "cite_name": "Technical University of Denmark", 
+        "title": "Hao Wu - DTU"
+    }, 
+    {
+        "content": "oct 1, 2014 - wu, hao. department of mathematics, mit, e18-374,. email : hao.wu.proba@gmail.com. 77 massachusetts avenue wu proba@math.mit.edu.", 
+        "email_addr_list": [
+            "hao.wu.proba@gmail.com", 
+            "proba@math.mit.edu"
+        ], 
+        "cite_url": "math.mit.edu/.../2014_10_01_CV_...", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "[PDF]WU, Hao Department of Mathematics, MIT, E18-374, Email ..."
+    }, 
+    {
+        "content": "abram, michael email: mabram@usc.edu ... email: jaronowi@usc.edu. office: kap .... wu, hao email: hwu409@usc.edu. office: kap 430. phone: 213-740-3761.", 
+        "email_addr_list": [
+            "mabram@usc.edu", 
+            "jaronowi@usc.edu", 
+            "hwu409@usc.edu"
+        ], 
+        "cite_url": "https://dornsife.usc.edu/.../graduate-assi...", 
+        "cite_name": "University of Southern California", 
+        "title": "Graduate Assistants  Department of Mathematics  USC ..."
+    }, 
+    {
+        "content": "hao wu currently serves as associate professor of mathematics. ... washington, district of columbia 20052. phone: 202-994-0653. email: haowu@gwu.edu.", 
+        "email_addr_list": [
+            "haowu@gwu.edu"
+        ], 
+        "cite_url": "https://math.columbian.gwu.edu/...", 
+        "cite_name": "Columbian College of Arts and Sciences", 
+        "title": "Hao Wu | The Department of Mathematics | The George ..."
+    }, 
+    {
+        "content": "hao wu, current ph.d. student in the research group of prof. matthias ihme. ... hao wu (吴昊). center for turbulence research ... email: wuhao@stanford.edu.", 
+        "email_addr_list": [
+            "wuhao@stanford.edu"
+        ], 
+        "cite_url": "www.stanford.edu/group/ihmegroup/cgi.../hao-wu/", 
+        "cite_name": "Stanford University", 
+        "title": "Hao Wu - Stanford University"
+    }
+]

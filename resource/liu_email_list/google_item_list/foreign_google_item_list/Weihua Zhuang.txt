@@ -1,0 +1,48 @@
+[
+    {
+        "content": "weihua zhuang (莊衛華, 庄卫华) ... email: wzhuang at uwaterloo dot ca ... weihua zhuang received the b.sc. and m.sc. degrees from dalian maritime university,...", 
+        "email_addr_list": [
+            "wzhuang@uwaterloo.ca"
+        ], 
+        "cite_url": "bbcr.uwaterloo.ca/~wzhuang/", 
+        "cite_name": "University of Waterloo", 
+        "title": "Weihua Zhuang (莊衛華, 庄卫华)"
+    }, 
+    {
+        "content": "contact information email: wzhuang@uwaterloo.ca phone: 519-888-4567 x35354 location: eit 4159 fax: 519-746-3077.", 
+        "email_addr_list": [
+            "wzhuang@uwaterloo.ca"
+        ], 
+        "cite_url": "https://uwaterloo.ca/.../weihua-zhuang-fieee-peng", 
+        "cite_name": "University of Waterloo", 
+        "title": "Weihua Zhuang - University of Waterloo"
+    }, 
+    {
+        "content": "weihua zhuang. professor, tier i canada research chair in wireless communication networks. weihua zhuang. wzhuang@uwaterloo.ca. 519-888-4567...", 
+        "email_addr_list": [
+            "wzhuang@uwaterloo.ca"
+        ], 
+        "cite_url": "https://uwaterloo.ca/electrical-computer.../wzhuan...", 
+        "cite_name": "University of Waterloo", 
+        "title": "Weihua Zhuang | Electrical and Computer Engineering"
+    }, 
+    {
+        "content": "welcome to professor zhuangs course website. ece318 analog and ... weihua zhuang professor, phd ... email: wzhuang at uwaterloo dot ca. home page:...", 
+        "email_addr_list": [
+            "wzhuang@uwaterloo.ca"
+        ], 
+        "cite_url": "bbcr.uwaterloo.ca/~wzhuang/teaching.htm", 
+        "cite_name": "University of Waterloo", 
+        "title": "Prof. Zhuang Course Website - University of Waterloo"
+    }, 
+    {
+        "content": "verified email at ajou.ac.kr. @ajou.ac.kr. cited by 39866 ... verified email at csufresno.edu. @csufresno.edu. cited by ... weihua zhuang. university of waterloo.", 
+        "email_addr_list": [
+            "email@ajou.ac.kr", 
+            "email@csufresno.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?view_op=search...", 
+        "cite_name": "Google Scholar", 
+        "title": "Google Scholar Citations"
+    }
+]

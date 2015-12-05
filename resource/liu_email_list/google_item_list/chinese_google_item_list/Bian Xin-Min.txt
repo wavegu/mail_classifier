@@ -1,0 +1,11 @@
+[
+    {
+        "content": "oct 17, 2008 - dr cao, xinmin - profile. userid, : 63. email, : mcbcaoxm@imcb.a-star.edu.sg. organization ... guochang huang, yong chen, hao lu, and xinmin cao. ... wei bian , baohong lin, cheh peng lim, naihe jing , and xinmin cao...", 
+        "email_addr_list": [
+            "mcbcaoxm@imcb.a-star.edu.sg"
+        ], 
+        "cite_url": "https://researchers.a-star.e...", 
+        "cite_name": "Agency for Science, Technology and Research", 
+        "title": "Dr Cao, Xinmin - User Profile"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "e-mail: xinge@nju.edu.cn ... xin ge, hu zou, jun wang, jianyi shen ，modification of cr/sio2 for the dehydrogenation of propane to propylene in carbon dioxide...", 
+        "email_addr_list": [
+            "xinge@nju.edu.cn"
+        ], 
+        "cite_url": "chem.nju.edu.cn/english/facultylr.asp?fln=GE,Xin", 
+        "cite_name": "", 
+        "title": "GE,Xin - Faculty"
+    }, 
+    {
+        "content": "natural science foundation of beijing (no.1072008). corresponding author ge xin-sheng, professor, doctor, e-mail: gebim@vip.sina.com...", 
+        "email_addr_list": [
+            "gebim@vip.sina.com"
+        ], 
+        "cite_url": "www.amm.shu.edu.cn/EN/article/downloadArticleFile.do?attachType...", 
+        "cite_name": "", 
+        "title": "[PDF]Optimal control of nonholonomic motion planning for a free ..."
+    }, 
+    {
+        "content": "ge xinsheng1*, guo zhengxiong2. 1 college of mechanical ... kz201110772039). corresponding authors: ge xinsheng e-mail: gebim@vip.sina.com...", 
+        "email_addr_list": [
+            "gebim@vip.sina.com"
+        ], 
+        "cite_url": "phys.scichina.com:8083/sciGe/EN/abstract/abstract507217.shtml", 
+        "cite_name": "", 
+        "title": "Nonholonomic motion planning for a free-falling cat using ..."
+    }
+]

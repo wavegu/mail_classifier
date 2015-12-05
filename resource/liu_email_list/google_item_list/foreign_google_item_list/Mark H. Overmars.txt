@@ -1,0 +1,20 @@
+[
+    {
+        "content": "mark h. overmars department of computer science, utrecht university, p.o.box 80.089, 3508 tb, utrecht, the netherlands. email: markov@cs.ruu.nl.", 
+        "email_addr_list": [
+            "markov@cs.ruu.nl"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=354061785X", 
+        "cite_name": "", 
+        "title": "Applied Computational Geometry. Towards Geometric ..."
+    }, 
+    {
+        "content": "oct 16, 2002 - mark h. overmars institute of information and computing sciences ... send an email to: po at phys.uu.nl please cite vacancy number 62212.", 
+        "email_addr_list": [
+            "po@phys.uu.nl"
+        ], 
+        "cite_url": "www.computational-geometry.org/mailing-lists/.../2002.../000677.html", 
+        "cite_name": "", 
+        "title": "Two Assistent Professor Positions at Utrecht University"
+    }
+]

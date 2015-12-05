@@ -1,0 +1,11 @@
+[
+    {
+        "content": "contact person : mr. sreekumar venugopal email : sreekumar@controlprint.com. chandigarh. control print limited, sco 146-147, 3rd floor, sector 34-a,...", 
+        "email_addr_list": [
+            "sreekumar@controlprint.com"
+        ], 
+        "cite_url": "www.controlprint.com/contact_us.html", 
+        "cite_name": "", 
+        "title": "Investors Relations | Careers | Contact us - Control Print"
+    }
+]

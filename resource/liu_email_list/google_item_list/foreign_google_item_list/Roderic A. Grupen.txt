@@ -1,0 +1,30 @@
+[
+    {
+        "content": "roderic a. grupen. headshot. faculty. position: professor. office: lgrc a337. phone: (413) 545-3280. email: grupen@cs.umass.edu. homepage: link...", 
+        "email_addr_list": [
+            "grupen@cs.umass.edu"
+        ], 
+        "cite_url": "https://www.cics.umass.edu/faculty/directory/grupen_roderic", 
+        "cite_name": "", 
+        "title": "Roderic A. Grupen | College of Information and Computer ..."
+    }, 
+    {
+        "content": "dept. of kinesiology univ. of massachusetts amherst ma 01003-9258 hjung@cs.umass.edu ychoe@comdis.umass.edu roderic a. grupen lab. for perceptual...", 
+        "email_addr_list": [
+            "hjung@cs.umass.edu", 
+            "ychoe@comdis.umass.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-grupen-cs-uma-18418886.htm", 
+        "cite_name": "", 
+        "title": "grupen@cs.uma - The Email Archive"
+    }, 
+    {
+        "content": "... andrew h. fagg, michael rosenstein, robert platt, roderic grupen, cynthia breazeal, andrew a. brooks, andre lockerd, ... email: maja@robotics.usc.edu.", 
+        "email_addr_list": [
+            "maja@robotics.usc.edu"
+        ], 
+        "cite_url": "robotics.usc.edu/publications/424/", 
+        "cite_name": "", 
+        "title": "USC Robotics Research Labs"
+    }
+]

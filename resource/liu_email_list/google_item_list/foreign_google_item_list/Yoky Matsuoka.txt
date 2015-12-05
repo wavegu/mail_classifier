@@ -1,0 +1,20 @@
+[
+    {
+        "content": "yoky matsuoka, anna loomis mccandless assistant professor. robotics institute, mechanical ... email: yoky at cs.cmu.edu. · education · neurobotics lab...", 
+        "email_addr_list": [
+            "yoky@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~yoky/", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Yoky Matsuokas RI Page"
+    }, 
+    {
+        "content": "jan 31, 2015 - yoky matsuoka, the former university of washington computer science professor ... follow him @toddbishop and email todd@geekwire.com.", 
+        "email_addr_list": [
+            "todd@geekwire.com"
+        ], 
+        "cite_url": "www.geekwire.com/.../robotics-expert-yoky-matsuoka-leaving-googles-...", 
+        "cite_name": "", 
+        "title": "Robotics pioneer Yoky Matsuoka leaving Googles Nest to ..."
+    }
+]

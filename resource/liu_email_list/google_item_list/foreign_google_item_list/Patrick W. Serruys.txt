@@ -1,0 +1,11 @@
+[
+    {
+        "content": "jan 5, 2010 - recruiting fellows is remarkably simple for patrick w. serruys, md, phd, facc, ... patrick w. serruys, md, phd, facc, fesc, professor and head of the. interventional ..... e-mail lindy@circulationjournal.org. the opinions...", 
+        "email_addr_list": [
+            "lindy@circulationjournal.org"
+        ], 
+        "cite_url": "circ.ahajournals.org/content/121/1/f1.full.pdf", 
+        "cite_name": "Circulation", 
+        "title": "Patrick W. Serruys, MD, PhD, FACC - Circulation"
+    }
+]

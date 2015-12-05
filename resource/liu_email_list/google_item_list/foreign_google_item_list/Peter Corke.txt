@@ -1,0 +1,20 @@
+[
+    {
+        "content": "name: professor peter corke; position(s): professor of robotic vision ... email: peter.corke@qut.edu.au; location: view location details (qut staff and student...", 
+        "email_addr_list": [
+            "peter.corke@qut.edu.au"
+        ], 
+        "cite_url": "staff.qut.edu.au/staff/corkep/", 
+        "cite_name": "Queensland University of Technology", 
+        "title": "QUT | Staff Profiles | Peter Corke"
+    }, 
+    {
+        "content": "mr peter corke. administrative officer. centre for english language and ... email, peter.corke@newcastle.edu.au. phone, (02) 49216016. fax, (02) 49216901...", 
+        "email_addr_list": [
+            "peter.corke@newcastle.edu.au"
+        ], 
+        "cite_url": "https://www.newcastle.edu.au/profile/peter-corke", 
+        "cite_name": "University of Newcastle", 
+        "title": "Mr Peter Corke / Staff Profile / The University of Newcastle ..."
+    }
+]

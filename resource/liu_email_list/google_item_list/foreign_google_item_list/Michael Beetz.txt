@@ -1,0 +1,31 @@
+[
+    {
+        "content": "d - 85748 garching bei münchen, germany http://www9.cs.tum.edu/people/beetz. email: beetz [at] cs.tum.edu tel.: +49-89-289-17759. born january 4, 1961.", 
+        "email_addr_list": [
+            "beetz@cs.tum.edu"
+        ], 
+        "cite_url": "www.jsps-bonn.de/fileadmin/veranstaltungen/2006K_Abstr_Beetz.pdf", 
+        "cite_name": "", 
+        "title": "Michael Beetz - JSPS Bonn Office"
+    }, 
+    {
+        "content": "e-mail: andreas.zimpel@cup.lmu.de. phone: 089-2180-77838 ... email: erika.muehlbauer@cup.uni-muenchen.de ... email: michael.beetz@campus.lmu.de. 00...", 
+        "email_addr_list": [
+            "andreas.zimpel@cup.lmu.de", 
+            "erika.muehlbauer@cup.uni-muenchen.de", 
+            "michael.beetz@campus.lmu.de"
+        ], 
+        "cite_url": "www.cup.uni-muenchen.de/.../...", 
+        "cite_name": "Ludwig Maximilian University of Munich", 
+        "title": "The Group | wuttkegroup - LMU"
+    }, 
+    {
+        "content": "tel.: e-mail: raum: sprechzeiten: +49 (0)3641 9-45045; michael.beetz@uni-jena.de; r4.132; do 16 uhr (am 26.11.2015 um 13 uhr!) sprechstunden während...", 
+        "email_addr_list": [
+            "michael.beetz@uni-jena.de"
+        ], 
+        "cite_url": "www.soziologie.uni-jena.de/Michael...", 
+        "cite_name": "University of Jena", 
+        "title": "PD Dr. Michael Beetz"
+    }
+]

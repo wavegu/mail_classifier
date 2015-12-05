@@ -1,0 +1,56 @@
+[
+    {
+        "content": "office location: mb113; email: mills@mie.utoronto.ca; phone: (416) 978 2454; fax: ... james k. mills joined the department of mechanical engineering at the...", 
+        "email_addr_list": [
+            "mills@mie.utoronto.ca"
+        ], 
+        "cite_url": "https://www.mie.utoronto.ca/faculty/profile.php?id...", 
+        "cite_name": "University of Toronto", 
+        "title": "James K. Mills, PhD, P.Eng. - Mechanical and Industrial ..."
+    }, 
+    {
+        "content": "... aviation (material compatibility). email: behdinan@mie.utoronto.ca; tel: (416) 946-3631; office: mb 116 ... james k. mills, phd, p.eng. professor, mechanical...", 
+        "email_addr_list": [
+            "behdinan@mie.utoronto.ca"
+        ], 
+        "cite_url": "https://www.mie.utoronto.ca/faculty/?spec=23", 
+        "cite_name": "University of Toronto", 
+        "title": "Applied Mechanics and Design - University of Toronto"
+    }, 
+    {
+        "content": "james k. mills, phd, p.eng. professor, mechanical ... email: mills@mie.utoronto.ca; tel: (416) 978 2454; office: mb113. university of toronto | faculty of applied...", 
+        "email_addr_list": [
+            "mills@mie.utoronto.ca"
+        ], 
+        "cite_url": "https://www.mie.utoronto.ca/faculty/?spec=15...", 
+        "cite_name": "University of Toronto", 
+        "title": "Faculty - University of Toronto"
+    }, 
+    {
+        "content": "co-director of the centre for the social history of health and healthcare. professor of modern history, university of strathclyde. contact. e: jim.mills@strath.ac.", 
+        "email_addr_list": [
+            "jim.mills@strath.ac"
+        ], 
+        "cite_url": "www.gcu.ac.uk/.../professorjamesmills/", 
+        "cite_name": "Glasgow Caledonian University", 
+        "title": "Professor James Mills - Glasgow Caledonian University"
+    }, 
+    {
+        "content": "see information and reports about james.k.mills@att.net (james millss e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "james.k.mills@att.net"
+        ], 
+        "cite_url": "spam-report.email/james.k.mills/att.net", 
+        "cite_name": "", 
+        "title": "james.k.mills@att.net - Spam-Report.Email"
+    }, 
+    {
+        "content": "james k. mills, ph.d. professor department of mechanical and industrial engineering university of toronto toronto, ontario canada e-mail: mills@mie.utoronto.", 
+        "email_addr_list": [
+            "mills@mie.utoronto"
+        ], 
+        "cite_url": "cme2013.ieee-icma.org/Program/PT2.aspx", 
+        "cite_name": "", 
+        "title": "CME 2013 - IEEE CME"
+    }
+]

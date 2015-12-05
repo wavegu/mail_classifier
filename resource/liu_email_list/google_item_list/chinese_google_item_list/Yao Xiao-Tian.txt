@@ -1,0 +1,39 @@
+[
+    {
+        "content": "... mao dan2, xing chao-jian2, yao jian-xi2, wang dan2* and li xiao-tian1* ... dan and li xiao-tian email: danwang@home.ipe.ac.cn; xiaotianli@jlu.edu.cn...", 
+        "email_addr_list": [
+            "danwang@home.ipe.ac.cn", 
+            "xiaotianli@jlu.edu.cn"
+        ], 
+        "cite_url": "59.72.0.32/hxyj/CN/abstract/abstract11614.shtml", 
+        "cite_name": "", 
+        "title": "Preparation and Electrode Performance of Ferrihydrites for ..."
+    }, 
+    {
+        "content": "xiao tian (dept.: geophysics). nationality: china email: tianxiao@mail.ustc.edu.cn. i am a graduate student ... mengyao sun (dept.: geophysics). nationality:...", 
+        "email_addr_list": [
+            "tianxiao@mail.ustc.edu.cn"
+        ], 
+        "cite_url": "sum.ustc.edu.cn/.../USTC...", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "Stanford-USTC-MIT (SUM)"
+    }, 
+    {
+        "content": "yao xiongliang. tel: 0086 451 82589227. email: yaoxiongliang@hrbeu.edu.cn. research fields: design and .... wang xiaotian. tel: 0086 451 82519902.", 
+        "email_addr_list": [
+            "yaoxiongliang@hrbeu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Harbin Engineering University", 
+        "title": "1 - Harbin Engineering University"
+    }, 
+    {
+        "content": "jul 13, 2009 - 100029. fax. 010-62010846. email. tyhao@mail.iggcas.ac.cn .... zhang li-li, hao tian-yao, huang xiao-xia, huang song, qin jing-xin,...", 
+        "email_addr_list": [
+            "tyhao@mail.iggcas.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Hao Tianyao - Staff--INSTITUTE OF GEOLOGY AND ..."
+    }
+]

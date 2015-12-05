@@ -1,0 +1,22 @@
+[
+    {
+        "content": "email: jpratt@ihmc.us. ambarish goswami. honda research institute. mountain view, california 94041. email: agoswami@honda-ri.com. abstract—it is known...", 
+        "email_addr_list": [
+            "jpratt@ihmc.us", 
+            "agoswami@honda-ri.com"
+        ], 
+        "cite_url": "www.ihmc.us/~jpratt/.../2006_Humanoids_CapturePoint_Pratt.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Capture Point: A Step toward Humanoid Push Recovery"
+    }, 
+    {
+        "content": "e-mail: umashankar@cmu.edu ... n.umashankar@gmail.com ... ambarish goswami, umashankar nagarajan and yoshiaki sakagami, “humanoid fall direction...", 
+        "email_addr_list": [
+            "umashankar@cmu.edu", 
+            "n.umashankar@gmail.com"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~./.../CV_Umashankar.pdf", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "[PDF]Umashankar Nagarajan - School of Computer Science"
+    }
+]

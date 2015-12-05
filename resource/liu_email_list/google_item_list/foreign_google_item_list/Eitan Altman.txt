@@ -1,0 +1,47 @@
+[
+    {
+        "content": "eitan altman works on tcp/ip modeling, internet congestion control, network neutrality, game theory, branching ... e-mail: eitan.altman@sophia.inria.fr.", 
+        "email_addr_list": [
+            "eitan.altman@sophia.inria.fr"
+        ], 
+        "cite_url": "www-sop.inria.fr/...", 
+        "cite_name": "French Institute for Research in Computer Science an...", 
+        "title": "Eitan Altman - Sophia Antipolis - Inria"
+    }, 
+    {
+        "content": "email: eitan.altman@sophia.inria.fr 2. anurag kumar, professor and associate chairman, coordinator ernet, dept. of electrical communication engg, indian...", 
+        "email_addr_list": [
+            "eitan.altman@sophia.inria.fr"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-altman-sophia-inr-3220111.htm", 
+        "cite_name": "", 
+        "title": "altman@sophia.inr - The Email Archive"
+    }, 
+    {
+        "content": "email : vkavitha[at]iitb.ac.in ... veeraruna kavitha, sreenath ramanath and eitan altman, satisfying demands in multicellular networks: a universal power...", 
+        "email_addr_list": [
+            "vkavitha@iitb.ac.in"
+        ], 
+        "cite_url": "www.ieor.iitb.ac.in/vkavitha", 
+        "cite_name": "Indian Institute of Technology Bombay", 
+        "title": "Veeraruna Kavitha | IEOR @IIT Bombay"
+    }, 
+    {
+        "content": "e-mail: chandra@ece.iisc.ernet.in. contact. information ... 2 chandramani singh, anurag kumar, rajesh sundaresan and eitan altman, “opti- mal forwarding in...", 
+        "email_addr_list": [
+            "chandra@ece.iisc.ernet.in"
+        ], 
+        "cite_url": "ece.iisc.ernet.in/~chandra/.../chandra12resume....", 
+        "cite_name": "Indian Institute of Science", 
+        "title": "[PDF]Chandramani K. Singh - Department of Electrical ..."
+    }, 
+    {
+        "content": "summary: routing games on a circle eitan altman inria, 2004 route des lucioles 06902 sophia-antipolis, france. email: eitan.altman@inria.sophia.fr", 
+        "email_addr_list": [
+            "eitan.altman@inria.sophia.fr"
+        ], 
+        "cite_url": "www.osti.gov/eprints/topicpages/documents/record/133/4832486.html", 
+        "cite_name": "", 
+        "title": "Search Powered by Explorit Advanced Search Routing ..."
+    }
+]

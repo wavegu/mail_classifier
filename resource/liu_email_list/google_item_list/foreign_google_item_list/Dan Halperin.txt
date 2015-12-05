@@ -1,0 +1,20 @@
+[
+    {
+        "content": "email: daniel@halper.in ... daniel halperin, victor teixeira de almeida, lee lee choo, shumo chu, paraschos koutris, dominik moritz, jennifer ortiz, vaspol...", 
+        "email_addr_list": [
+            "daniel@halper.in"
+        ], 
+        "cite_url": "www.halper.in/", 
+        "cite_name": "", 
+        "title": "Daniel Halperin"
+    }, 
+    {
+        "content": "the professional web site of daniel halpern-leistner. ... daniel halpern-leistner. email: danhl at math dot myuniversity dot edu. mathematical interests:...", 
+        "email_addr_list": [
+            "danhl@math.myuniversity.edu"
+        ], 
+        "cite_url": "www.math.columbia.edu/~danhl/", 
+        "cite_name": "Columbia University", 
+        "title": "Daniel Halpern-Leistner"
+    }
+]

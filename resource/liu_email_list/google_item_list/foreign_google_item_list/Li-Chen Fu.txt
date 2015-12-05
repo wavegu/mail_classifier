@@ -1,0 +1,57 @@
+[
+    {
+        "content": "prof. li-chen fu 傅立成 ... lee kuo-ding medal from chinese institute of information and computing machinery in 2000; industry-academia collaboration award from in 2004 ... tel: 886-2-33669824~27 / email: secretariat@ira.ee.ntu.edu.tw.", 
+        "email_addr_list": [
+            "secretariat@ira.ee.ntu.edu.tw"
+        ], 
+        "cite_url": "www.iceira.ntu.edu.tw/.../186-prof-li-chen-fu", 
+        "cite_name": "National Taiwan University", 
+        "title": "Prof. Li-Chen Fu 傅立成 - NTU iCeiRA"
+    }, 
+    {
+        "content": "fu. li-chen fu received the b.s. degree from national taiwan university in 1981, and ... email: lichen@ccms.ntu.edu.tw. affiliation: national taiwan university.", 
+        "email_addr_list": [
+            "lichen@ccms.ntu.edu.tw"
+        ], 
+        "cite_url": "www.ieeecss.org/contacts/li-chen-fu", 
+        "cite_name": "IEEE Control Systems Society", 
+        "title": "Li-Chen Fu | IEEE Control Systems Society"
+    }, 
+    {
+        "content": "professor li-chen fu ieee fellow department of electrical engineering national taiwan university tel: +886 2 3366 3558. email: lichen@ntu.edu.tw.", 
+        "email_addr_list": [
+            "lichen@ntu.edu.tw"
+        ], 
+        "cite_url": "uav.ece.nus.edu.sg/~icca14/keynote.html", 
+        "cite_name": "National University of Singapore", 
+        "title": "ICCA2014 - UAV"
+    }, 
+    {
+        "content": "email: i.r.petersen@gmail.com. reza moheimani, school of ... li-chen fu. editor-in-chief: professor li-chen fu ... e-mail: lichen@ntu.edu.tw. all submission...", 
+        "email_addr_list": [
+            "i.r.petersen@gmail.com", 
+            "lichen@ntu.edu.tw"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1002/asjc.1090/pdf", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Get PDF (43K) - Wiley Online Library"
+    }, 
+    {
+        "content": "chen, fu-li professor email:ph1007@mail.fju.edu.tw, ph.d., institute of health policy  management, college of public health, national taiwan university...", 
+        "email_addr_list": [
+            "ph1007@mail.fju.edu.tw"
+        ], 
+        "cite_url": "www.medph.fju.edu.tw/.../fulltimefaculty.html", 
+        "cite_name": "Fu Jen Catholic University", 
+        "title": "FJU Department of Public Health"
+    }, 
+    {
+        "content": "dr chen fu research associate. email: chen.fu@ncl.ac.uk. research; publications. current work: degenerative surface acoustic wave (dsaw).", 
+        "email_addr_list": [
+            "chen.fu@ncl.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Newcastle University", 
+        "title": "Dr Chen Fu - People - Institute of Cellular Medicine ..."
+    }
+]

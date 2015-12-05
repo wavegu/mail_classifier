@@ -1,0 +1,11 @@
+[
+    {
+        "content": "susumu tachi, ph.d. professor emeritus the university of tokyo e-mail: tachi [at] tachilab.org. please refer to the following book for more detail: susumu tachi:...", 
+        "email_addr_list": [
+            "tachi@tachilab.org"
+        ], 
+        "cite_url": "tachilab.org/modules/members/tachi.html", 
+        "cite_name": "", 
+        "title": "Prof. Susumu Tachi - Tachi Lab"
+    }
+]

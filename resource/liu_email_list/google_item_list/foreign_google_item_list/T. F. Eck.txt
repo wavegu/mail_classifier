@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email. tanvir.choudhri@mountsinai.org .... resnick dk, watters wc, mummaneni pv, dailey at, choudhri tf, eck jc, sharan a, groff mw, wang jc,...", 
+        "email_addr_list": [
+            "tanvir.choudhri@mountsinai.org"
+        ], 
+        "cite_url": "www.mountsinai.org/profiles/tanvir-choudhri", 
+        "cite_name": "Mount Sinai Hospital", 
+        "title": "Tanvir Choudhri - The Mount Sinai Hospital"
+    }, 
+    {
+        "content": "verified email at physics.miami.edu. scholar. get my own ... depth from aeronet. bn holben, a smirnov, tf eck, i slutsker, n abuhassan, ww newcomb, .", 
+        "email_addr_list": [
+            "email@physics.miami.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=F_5UKioAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "kenneth Voss - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: snt[at]iitk.ac.in ... dumka, u.c., s.n. tripathi, amit misra, d.m. giles, t.f. eck, ram sagar and b.n. holben, latitudinal variation of aerosol properties from...", 
+        "email_addr_list": [
+            "snt@iitk.ac.in"
+        ], 
+        "cite_url": "www.iitk.ac.in/ce/CIVIL/.../snt.ht...", 
+        "cite_name": "Indian Institute of Technology Kanpur", 
+        "title": "Sachchida Nand Tripathi - IITK - Indian Institute of ..."
+    }, 
+    {
+        "content": "feb 21, 2008 - e-mail address: joel.schafer@nasa.gov ... t. f. eck,. biospheric sciences branch, nasa goddard space flight center, greenbelt, maryland,...", 
+        "email_addr_list": [
+            "joel.schafer@nasa.gov"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1029/.../abstract", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Characterization of the optical properties of atmospheric ..."
+    }
+]

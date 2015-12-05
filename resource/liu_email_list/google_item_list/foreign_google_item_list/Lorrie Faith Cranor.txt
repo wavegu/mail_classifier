@@ -1,0 +1,20 @@
+[
+    {
+        "content": "phone: 412-268-7534 (i rarely check voice mail) email: lorrie at cs dot cmu dot edu administrative coordinator: tiffany m. todd, 4114 wean hall, (412)...", 
+        "email_addr_list": [
+            "lorrie@cs.cmu.edu"
+        ], 
+        "cite_url": "lorrie.cranor.org/", 
+        "cite_name": "", 
+        "title": "Lorrie Faith Cranors Home Page"
+    }, 
+    {
+        "content": "email: lorrie@cs.cmu.edu. website: http://lorrie.cranor.org/ ... lorrie faith cranor is a professor of computer science and of engineering and public policy at...", 
+        "email_addr_list": [
+            "lorrie@cs.cmu.edu"
+        ], 
+        "cite_url": "https://www.cmu.edu/.../lorrie-faith-cranor.ht...", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Lorrie Faith Cranor-Engineering and Public Policy ..."
+    }
+]

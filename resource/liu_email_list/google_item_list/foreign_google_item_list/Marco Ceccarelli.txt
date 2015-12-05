@@ -1,0 +1,29 @@
+[
+    {
+        "content": "fax: +39-0776-2993989 ceccarelli@unicas.it. your name*. email*. subject*. message. submit. marco ceccarelli was born in rome in 1958. he received the...", 
+        "email_addr_list": [
+            "ceccarelli@unicas.it"
+        ], 
+        "cite_url": "www.springer.com/.../mechanical+engi...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Prof. Marco Ceccarelli - Springer"
+    }, 
+    {
+        "content": "jul 7, 2015 - marco ceccarelli. laboratory of robotics and mechatronicsfellow. university of cassino and south latium,italy. email: ceccarelli@unicas.it.", 
+        "email_addr_list": [
+            "ceccarelli@unicas.it"
+        ], 
+        "cite_url": "www.scirp.org/journal/DetailedInforOfEditorialBoard.aspx?personID...", 
+        "cite_name": "", 
+        "title": "Marco Ceccarelli - Journals, Conferences, Proceedings ..."
+    }, 
+    {
+        "content": "marco ceccarelli laboratorio di robotica e meccatronica dipartimento di ... email: ceccarelli@unicas.it http://webuser.unicas.it/weblarm/larmindex.htm...", 
+        "email_addr_list": [
+            "ceccarelli@unicas.it"
+        ], 
+        "cite_url": "https://mecanismeucv.wordpress.com/.../marco-ceccar...", 
+        "cite_name": "", 
+        "title": "Marco Ceccarelli | Universitatea din Craiova"
+    }
+]

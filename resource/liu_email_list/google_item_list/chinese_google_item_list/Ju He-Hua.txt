@@ -1,0 +1,49 @@
+[
+    {
+        "content": "hehua ju. mobile phone: 13681362369. email: juhehua@163.com. education: phd,spacecraft engineering,jul,2003,harbin institute of technology. master...", 
+        "email_addr_list": [
+            "juhehua@163.com"
+        ], 
+        "cite_url": "english.bjut.edu.cn/faculties/collegeofelectronicinformation/.../17976.sht...", 
+        "cite_name": "", 
+        "title": "Ju Hehua - Beijing University of Technology"
+    }, 
+    {
+        "content": "mar 1, 2012 - email: zhuhehua@tongji.edu.cn, geofba2d@263.net. website: http://geotec.tongji.edu.cn/selfpage/zhuhh/zhu-hehua.htm. 2．education.", 
+        "email_addr_list": [
+            "zhuhehua@tongji.edu.cn", 
+            "geofba2d@263.net"
+        ], 
+        "cite_url": "geotec.tongji.edu.cn/selfpage/zhuhh/zhuhh-en.html", 
+        "cite_name": "Tongji University", 
+        "title": "Professor Hehua ZHU"
+    }, 
+    {
+        "content": "he is currently a graduate student in the rockefeller university phd program. in the fuchs lab, he is ... e-mail: zhonglucas.hua@rockefeller.edu ... nih/niams postdoctoral fellow e-mail: catherine.pei-ju.lu@rockefeller.edu. catherine...", 
+        "email_addr_list": [
+            "zhonglucas.hua@rockefeller.edu", 
+            "catherine.pei-ju.lu@rockefeller.edu"
+        ], 
+        "cite_url": "lab.rockefeller.edu/fuchs/labmembers/", 
+        "cite_name": "Rockefeller University", 
+        "title": "The Rockefeller University » Current Laboratory Members"
+    }, 
+    {
+        "content": "ju hehua. beijing university of technology, college of electronic information and control engineering, beijing, china. email: juhehua@bjut.edu.cn.", 
+        "email_addr_list": [
+            "juhehua@bjut.edu.cn"
+        ], 
+        "cite_url": "www.jsoftware.us/vol8/jsw0810-33.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Mission-Integrated Path Planning for Planetary Rover ..."
+    }, 
+    {
+        "content": "the special symposium is in honor of professor hehua zhus receiving the award of icces ... professor hehua zhu will present a 40 minutes-long award lecture at the icces13. ... email: xiaoying.zhuang@gmail.com. prof. j. woody ju.", 
+        "email_addr_list": [
+            "xiaoying.zhuang@gmail.com"
+        ], 
+        "cite_url": "www.icces.org/icces13/sym/sym_zhu.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]A Special Symposium on Advances in Geotechnical ..."
+    }
+]

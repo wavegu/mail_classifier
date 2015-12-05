@@ -1,0 +1,39 @@
+[
+    {
+        "content": "e-mail: skumara@psu.edu ... angela garza, seifu chonde, and soundar kumara, finding a renewable energy policy using agent based modeling,...", 
+        "email_addr_list": [
+            "skumara@psu.edu"
+        ], 
+        "cite_url": "www.ie.psu.edu/AboutUs/FacultyStaff/Faculty/Profile/Kumara.html", 
+        "cite_name": "", 
+        "title": "Dr. Soundar RT Kumara - Penn State Industrial and ..."
+    }, 
+    {
+        "content": "professor of economics. email : eug2@psu.edu. soundar kumara. soundar r.t. kumara pearce professor of industrial  manufacturing engineering; professor...", 
+        "email_addr_list": [
+            "eug2@psu.edu"
+        ], 
+        "cite_url": "www.math.psu.edu/cim/people.html", 
+        "cite_name": "Pennsylvania State University", 
+        "title": "People - Mathematics Department"
+    }, 
+    {
+        "content": "uk professor john horgan ist jgh11@psu.edu professor alexander klippel geosciences klippel@psu.edu professor soundar kumara industrial engineering...", 
+        "email_addr_list": [
+            "jgh11@psu.edu", 
+            "klippel@psu.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-skumara-psu-edu-5166451.htm", 
+        "cite_name": "", 
+        "title": "skumara@psu.edu - The Email Archive"
+    }, 
+    {
+        "content": "soundar kumara, allen e. and allen m. pearce professor of industrial engineering, penn state university, usa. * c. mohan ... email: bchandra104@yahoo.co.in.", 
+        "email_addr_list": [
+            "bchandra104@yahoo.co.in"
+        ], 
+        "cite_url": "www.crraoaimscs.org/.../International-Conference-on-Business-Data-Min...", 
+        "cite_name": "", 
+        "title": "[DOC]Download"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "... office：3-426; office phone：34205798; email：li-ml@cs.sjtu.edu.cn; website： ... [2] bin xiao, lin chen, qingjun xiao, minglu li, “reliable anchor-based...", 
+        "email_addr_list": [
+            "li-ml@cs.sjtu.edu.cn"
+        ], 
+        "cite_url": "english.seiee.sjtu.edu.cn/.../841_669.htm", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "Li Minglu - 上海交通大学-电子信息与电气工程学院-English"
+    }, 
+    {
+        "content": "step 1: the first step toward reserving a booth at scc 2004 is to send zongwei luo or or general co-chair minglu li (li-ml at cs.sjtu.edu.cn) an email stating the...", 
+        "email_addr_list": [
+            "li-ml@cs.sjtu.edu.cn"
+        ], 
+        "cite_url": "conferences.computer.org/.../industryexhibits.html", 
+        "cite_name": "IEEE Computer Society", 
+        "title": "SCC 2004"
+    }
+]

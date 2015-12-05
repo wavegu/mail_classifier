@@ -1,0 +1,38 @@
+[
+    {
+        "content": "dieter schmalstieg. professor for computer ... verified email at tugraz.at - homepage  scholar ... d wagner, g reitmayr, a mulloni, t drummond, d schmalstieg.", 
+        "email_addr_list": [
+            "email@tugraz.at"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=xXu8K6IAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Dieter Schmalstieg - Google Scholar Citations"
+    }, 
+    {
+        "content": "oct 15, 2013 - email: schmalstieg at tugraz.at. membership number: 3476. membership type: ordinary. main country of residence: austria. section...", 
+        "email_addr_list": [
+            "schmalstieg@tugraz.at"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Academy of Europe: Schmalstieg Dieter"
+    }, 
+    {
+        "content": "dr. dieter schmalstieg. institute for computer ... email: schmalstieg@tugraz.at ... dieter schmalstieg and tobias höllerer have taught various tutorials related to.", 
+        "email_addr_list": [
+            "schmalstieg@tugraz.at"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Trends in Mobile Augmented Reality - IEEE Xplore"
+    }, 
+    {
+        "content": "dieter schmalstieg institut fr maschinelles sehen und darstellen e-mail: schmalstieg@icg.tu-graz.ac.at tel: 0316 873 5070 dieter schmalstieg seit 1. oktober...", 
+        "email_addr_list": [
+            "schmalstieg@icg.tu-graz.ac.at"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-schmalstieg-icg-tu-12472083.htm", 
+        "cite_name": "", 
+        "title": "schmalstieg@icg.tu - The Email Archive"
+    }
+]

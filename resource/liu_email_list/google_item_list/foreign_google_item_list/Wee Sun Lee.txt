@@ -1,0 +1,11 @@
+[
+    {
+        "content": "sc-assoc prof lee wee sun. printer-friendly version. designation: vice-dean (undergraduate studies). email: leews@comp.nus.edu.sg. telephone: 4526.", 
+        "email_addr_list": [
+            "leews@comp.nus.edu.sg"
+        ], 
+        "cite_url": "www.nus.edu.sg/.../sc-assoc-prof-lee-we...", 
+        "cite_name": "National University of Singapore", 
+        "title": "Assoc Prof LEE Wee Sun | NUS Registrars Office"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "content": "email: g.min@exeter.ac.uk ... professor geyong min is the chair and director of high performance computing and networking (hpcn) research group at the...", 
+        "email_addr_list": [
+            "g.min@exeter.ac.uk"
+        ], 
+        "cite_url": "people.exeter.ac.uk/gm321/", 
+        "cite_name": "University of Exeter", 
+        "title": "Geyong Min"
+    }, 
+    {
+        "content": "may 8, 2013 - email: g.min@brad.ac.uk ... dr. geyong min is a professor in computer science in the department of computing at the university of bradford.", 
+        "email_addr_list": [
+            "g.min@brad.ac.uk"
+        ], 
+        "cite_url": "www.inf.brad.ac.uk/~gmin/", 
+        "cite_name": "", 
+        "title": "Geyong Min - Faculty of Engineering  Informatics"
+    }, 
+    {
+        "content": "*lei liu, xiaolong jin and geyong min, “performance analysis of prioritized automatic repeat-request ... *lei liu, xiaolong jin, geyong min and li xu, “anomaly diagnosis based on regression and ... email: l dot liu at sdu dot edu dot cn.", 
+        "email_addr_list": [
+            "liu@sdu.edu.cn"
+        ], 
+        "cite_url": "www.cs.sdu.edu.cn/en/~l.liu", 
+        "cite_name": "", 
+        "title": "Lei Liu - School of Computer Science and Technology ..."
+    }, 
+    {
+        "content": "university of new orleans, usa email: qiumeikang@yahoo.com ... email: xiongnaixue@gmail.com. multimedia shu-ching ... geyong min university of bradford...", 
+        "email_addr_list": [
+            "qiumeikang@yahoo.com", 
+            "xiongnaixue@gmail.com"
+        ], 
+        "cite_url": "www.sersc.org/ko/journals/IJMUE/EB.php", 
+        "cite_name": "", 
+        "title": "International Journal of Multimedia and Ubiquitous ... - SERSC"
+    }
+]

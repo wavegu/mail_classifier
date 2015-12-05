@@ -1,0 +1,56 @@
+[
+    {
+        "content": "andreas lendlein of helmholtz-zentrum geesthacht, geesthacht with expertise in chemical engineering, biomedical ... e-mail: lendlein@uni-potsdam.de", 
+        "email_addr_list": [
+            "lendlein@uni-potsdam.de"
+        ], 
+        "cite_url": "www.researchgate.net/profile/Andreas_Lendlein", 
+        "cite_name": "", 
+        "title": "Andreas Lendlein (Helmholtz-Zentrum Geesthacht ..."
+    }, 
+    {
+        "content": "lendlein , andreas - einzelansicht. funktionen: ... nachname, lendlein, geschlecht, männlich. vorname ... straße, e-mail-adresse, lendlein@uni-potsdam.de.", 
+        "email_addr_list": [
+            "lendlein@uni-potsdam.de"
+        ], 
+        "cite_url": "https://puls.uni-potsdam.de/.../rd...", 
+        "cite_name": "University of Potsdam", 
+        "title": "- Prof. Dr. Andreas Lendlein Universität Potsdam"
+    }, 
+    {
+        "content": "dr. andreas lendlein wurde 1969 in bendorf geboren und absolvierte 1993 sein chemiestudium an der johannes ... e-mail: andreas.lendlein@hzg.de", 
+        "email_addr_list": [
+            "andreas.lendlein@hzg.de"
+        ], 
+        "cite_url": "mrcb.org/mrcb/personen/andreas-lendlein/", 
+        "cite_name": "", 
+        "title": "Andreas Lendlein - Musculoskeletal Research Center Berlin ..."
+    }, 
+    {
+        "content": "view andreas lendleins business profile as director at institute of polymer research ... phone:+49 3328 352-450 email: andreas.lendlein@hzg.de cv lendlein.", 
+        "email_addr_list": [
+            "andreas.lendlein@hzg.de"
+        ], 
+        "cite_url": "www.zoominfo.com/p/Andreas-Lendlein/114344044", 
+        "cite_name": "", 
+        "title": "Andreas Lendlein | Institute of Polymer Research Dresden ..."
+    }, 
+    {
+        "content": "jun 17, 2002 - andreas lendlein dr.,. e-mail address: lendlein@dwi.rwth-aachen.de. institut für chemie gkss forschungszentrum kantstrasse 55, 14513...", 
+        "email_addr_list": [
+            "lendlein@dwi.rwth-aachen.de"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/.../1521-3773(20020617)41:...", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Shape-Memory Polymers - Lendlein - 2002 - Angewandte ..."
+    }, 
+    {
+        "content": "contact. prof. dr. andreas lendlein. helmholtz-zentrum geesthacht gmbh. institute for biomaterial ... +49 (0)3328 352 452. email: andreas.lendlein@hzg.de.", 
+        "email_addr_list": [
+            "andreas.lendlein@hzg.de"
+        ], 
+        "cite_url": "www.b-crt.de/forschung/.../polymerbasierte-biomaterialien/?L=1", 
+        "cite_name": "", 
+        "title": "BCRT / Polymer-based Biomaterials / Berlin-Brandenburger ..."
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "li, xiao associate professor department of marketing and tourism management email: lixiao3@public.wh.hb.cn ... Ÿ li xiao; huang lei; zhang xiaohan, 2013.", 
+        "email_addr_list": [
+            "lixiao3@public.wh.hb.cn"
+        ], 
+        "cite_url": "ems.whu.edu.cn/en/50/1/9/2015-05-22/196.html", 
+        "cite_name": "", 
+        "title": "Li, Xiao"
+    }, 
+    {
+        "content": "xiaolin li professor ams department  suny at stony brook stony brook, ny 11794 ... email: xiaolin.li@stonybrook.edu ... edward turner  xiaolei chen...", 
+        "email_addr_list": [
+            "xiaolin.li@stonybrook.edu"
+        ], 
+        "cite_url": "www.ams.sunysb.edu/~linli/", 
+        "cite_name": "", 
+        "title": "Xiao-Lin Li"
+    }, 
+    {
+        "content": "xiaolei dong, phd, professor ... email: dong-xl@cs.sjtu.edu.cn .... xiaolei dong, zhenfu cao, and xiaohong li, cryptanalysis of two signature schemes based...", 
+        "email_addr_list": [
+            "dong-xl@cs.sjtu.edu.cn"
+        ], 
+        "cite_url": "tdt.sjtu.edu.cn/~xldong/", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "Homepage of Xiaolei Dong"
+    }
+]

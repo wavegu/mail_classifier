@@ -1,0 +1,11 @@
+[
+    {
+        "content": "prof stanley sandler. positions. honorary, chemical and biomolecular ... email icon s.sandler@unimelb.edu.au. graduate study. interested in graduate...", 
+        "email_addr_list": [
+            "s.sandler@unimelb.edu.au"
+        ], 
+        "cite_url": "www.findanexpert.unimelb.edu.au/.../person17...", 
+        "cite_name": "University of Melbourne", 
+        "title": "PROF STANLEY SANDLER - The University of Melbourne"
+    }
+]

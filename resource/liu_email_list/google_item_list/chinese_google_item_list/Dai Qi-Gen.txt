@@ -1,0 +1,20 @@
+[
+    {
+        "content": "huo zhong-yang, li jie, xu ke, dai qi-gen, wei hai-yan, gong jin-long, .... huo zhong-yang, yao yi, zhang hong-cheng, xia yan, ni xiao-cheng, dai qi-gen, xu ke, wei .... tel: 86-010-82106279 e-mail: zgnykx@mail.caas.net.cn", 
+        "email_addr_list": [
+            "zgnykx@mail.caas.net.cn"
+        ], 
+        "cite_url": "www.chinaagrisci.com/EN/article/showChannelArticle.do?pager...", 
+        "cite_name": "", 
+        "title": "Scientia Agricultura Sinica"
+    }, 
+    {
+        "content": "jul 16, 2009 - +86-010-64807299 / +86-10-64807306. e-mail: zhouqi@ioz.ac.cn ... one-step generation of p53 gene biallelic mutant cynomolgus monkey via the .... riaz a#, zhao x#, dai x#, li w, liu l, wan h, yu y, wang l, zhou q*.", 
+        "email_addr_list": [
+            "zhouqi@ioz.ac.cn"
+        ], 
+        "cite_url": "sourcedb.cas.cn/sourcedb_ioz_cas/yw/scs/.../t20090716_2088445.html", 
+        "cite_name": "", 
+        "title": "ZHOU, Qi----Institute of Zoology Chinese Academy of Sciences"
+    }
+]

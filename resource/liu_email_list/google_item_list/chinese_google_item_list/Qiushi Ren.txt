@@ -1,0 +1,20 @@
+[
+    {
+        "content": "office add: beijing 100871 peoples republic of china; office tel: +86-10-6276-7113; fax: +86-10-6276-7113; email: renqsh@coe.pku.edu.cn; website:...", 
+        "email_addr_list": [
+            "renqsh@coe.pku.edu.cn"
+        ], 
+        "cite_url": "en.coe.pku.edu.cn/Faculty-A-Z/56.htm", 
+        "cite_name": "Peking University", 
+        "title": "Qiushi Ren | College of Engineering - Peking University"
+    }, 
+    {
+        "content": "jun 2, 2014 - shelley i. fried, changsi cai, and qiushi ren ..... boston, ma 02114 usa (phone: 617-726-3888; email: ude.dravrah.hgm@yellehs.deirf).", 
+        "email_addr_list": [
+            "ude.dravrah.hgm@yellehs.deirf"
+        ], 
+        "cite_url": "www.ncbi.nlm.nih.gov/.../P...", 
+        "cite_name": "National Center for Biotechnology Information", 
+        "title": "High Frequency Electric Stimulation of Retinal Neurons ..."
+    }
+]

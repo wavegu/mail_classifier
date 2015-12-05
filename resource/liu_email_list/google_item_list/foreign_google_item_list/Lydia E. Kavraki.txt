@@ -1,0 +1,30 @@
+[
+    {
+        "content": "create alert. cancel. lydia e. kavraki ... verified email at rice.edu. scholar ... a haeberlen, e flannery, am ladd, a rudys, ds wallach, le kavraki. proceedings...", 
+        "email_addr_list": [
+            "email@rice.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Q6pxNZYAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Lydia E. Kavraki - Google Scholar Citations"
+    }, 
+    {
+        "content": "search email number information data on the internet ... dan s. wallach rice university aladd@cs.rice.edu lydia e. kavraki rice university arudys@cs.rice.edu...", 
+        "email_addr_list": [
+            "aladd@cs.rice.edu", 
+            "arudys@cs.rice.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-kavraki-cs-ric-27842084.htm", 
+        "cite_name": "", 
+        "title": "kavraki@cs.ric - The Email Archive"
+    }, 
+    {
+        "content": "kavraki, lydia e. - departments of computer science  bioengineering, rice ... los angeles, ca 90095 phone: 3108259091 email: abhatia,frazzoli@ucla.edu;...", 
+        "email_addr_list": [
+            "frazzoli@ucla.edu"
+        ], 
+        "cite_url": "www.osti.gov/eprints/topicpages/documents/starturl/04/112.html", 
+        "cite_name": "", 
+        "title": "Kavraki, Lydia E. - Departments of Computer Science ... - OSTI"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "content": "chang zhou, lu lu, suiyi tan, shibo jiang*, ying-hua chen*. ... zhu y, lu l, xu ll, yang hw, jiang shibo*, chen yh*. ... e-mail:chenyh@tsinghua.edu.cn...", 
+        "email_addr_list": [
+            "chenyh@tsinghua.edu.cn"
+        ], 
+        "cite_url": "life.tsinghua.edu.cn/english/faculty/faculty/698.html", 
+        "cite_name": "Tsinghua University", 
+        "title": "Yinghua CHEN - school of Life Sclences,Tsinghua University"
+    }, 
+    {
+        "content": "ying-ming zhang, ph.d. 2010, email: ymzhang@nankai.edu.cn. zhuo-yi gu, ph.d. .... xue-me liu, m.s. 2009, email: xueren@mail.nankai.edu.cn. hong-xia li ... li-hua wang, m.s., 2003, faculty, email: wanglihua@nankai.edu.cn. song he...", 
+        "email_addr_list": [
+            "ymzhang@nankai.edu.cn", 
+            "xueren@mail.nankai.edu.cn", 
+            "wanglihua@nankai.edu.cn"
+        ], 
+        "cite_url": "supram.nankai.edu.cn/graduatedmembers.asp", 
+        "cite_name": "", 
+        "title": "supramolecular chemistry group"
+    }, 
+    {
+        "content": "name of ihep contact person: jia yinghua. telephone of ihep ... email of ihep contact person: jiayh@ihep.ac.cn ... xue-yao zhang (shandong univ., china)", 
+        "email_addr_list": [
+            "jiayh@ihep.ac.cn"
+        ], 
+        "cite_url": "bes3.ihep.ac.cn/conference/charm2010/bulletins.htm", 
+        "cite_name": "", 
+        "title": "charm2010 - besiii"
+    }, 
+    {
+        "content": "email: qxy@sdu.edu.cn ... fan zhong, xueying qin, qunsheng peng, xiangxu meng. ... fan zhong, xueying qin, jiazhou chen, wei hua, qunsheng peng.", 
+        "email_addr_list": [
+            "qxy@sdu.edu.cn"
+        ], 
+        "cite_url": "vr.sdu.edu.cn/~qxy/index.htm", 
+        "cite_name": "", 
+        "title": "Dr.Xueying. Qins homepage"
+    }
+]

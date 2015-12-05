@@ -1,0 +1,20 @@
+[
+    {
+        "content": "name: albert van den berg. e-mail: a.vandenberg@utwente.nl. room: carré 2.249. phone: +31 (0)53 489 2691. function: professor. tasks: management of the...", 
+        "email_addr_list": [
+            "a.vandenberg@utwente.nl"
+        ], 
+        "cite_url": "https://www.utwente.nl/ewi/bios/People/.../berg1/", 
+        "cite_name": "University of Twente", 
+        "title": "Scientific Staff"
+    }, 
+    {
+        "content": "ajvandenberg@hvdb.com t: +32 (0)2 290 39 13 f: +32 (0)2 290 39 42. professor albert jan van den berg (1949, amsterdam, the netherlands) is a partner in...", 
+        "email_addr_list": [
+            "ajvandenberg@hvdb.com"
+        ], 
+        "cite_url": "www.hvdb.com/albert-jan-van-den-berg/", 
+        "cite_name": "", 
+        "title": "Albert Jan van den Berg - Hanotiau  van den Berg"
+    }
+]

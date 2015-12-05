@@ -1,0 +1,39 @@
+[
+    {
+        "content": "jean-claude latombe. img_2147 - copy. kumagai professor emeritus ... stanford university, stanford , ca 94305-9010. email: latombe@cs.stanford.edu.", 
+        "email_addr_list": [
+            "latombe@cs.stanford.edu"
+        ], 
+        "cite_url": "robotics.stanford.edu/~latombe/", 
+        "cite_name": "", 
+        "title": "Jean-Claude Latombe - Stanford University"
+    }, 
+    {
+        "content": "jean-claude latombe. office hours: mon 11am-12pm in gates 135. email: latombe@cs.stanford.edu. teaching assistants (office hours): jacob quain: sun...", 
+        "email_addr_list": [
+            "latombe@cs.stanford.edu"
+        ], 
+        "cite_url": "web.stanford.edu/class/cs121/", 
+        "cite_name": "Stanford University", 
+        "title": "CS121 - Introduction to Artificial Intelligence"
+    }, 
+    {
+        "content": "complexity measures for assembly sequences michael goldwasser wass@cs.stanford.edu jean-claude latombe latombe@cs.stanford.edu rajeev motwani...", 
+        "email_addr_list": [
+            "wass@cs.stanford.edu", 
+            "latombe@cs.stanford.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-latombe-cs-sta-11638322.htm", 
+        "cite_name": "", 
+        "title": "latombe@cs.sta - The Email Archive"
+    }, 
+    {
+        "content": "jean-claude latombe, professor, computer science department. address: room s244, clark ... phone: (650) 723-0350. email: latombe@cs.stanford.edu.", 
+        "email_addr_list": [
+            "latombe@cs.stanford.edu"
+        ], 
+        "cite_url": "siteresources.worldbank.org/.../Institution_Bios_Stanford.pd...", 
+        "cite_name": "World Bank", 
+        "title": "[PDF]Stanford University"
+    }
+]

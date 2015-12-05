@@ -1,0 +1,38 @@
+[
+    {
+        "content": "faculty. image of prof. steven k. feiner ... steven k. feiner is professor of computer science at columbia university, ... e-mail: dedual [at] cs.columbia.edu.", 
+        "email_addr_list": [
+            "dedual@cs.columbia.edu"
+        ], 
+        "cite_url": "graphics.cs.columbia.edu/people/", 
+        "cite_name": "Columbia University", 
+        "title": "People - Computer Graphics and User Interfaces Lab"
+    }, 
+    {
+        "content": "email: avd@cs.brown.edu ... co-authored with john f. hughes, morgan mcguire, david sklar, james d. foley, steven k. feiner, and kurt akeley, was released...", 
+        "email_addr_list": [
+            "avd@cs.brown.edu"
+        ], 
+        "cite_url": "cs.brown.edu/~avd/", 
+        "cite_name": "Brown University", 
+        "title": "Andries van Dams Home Page - Brown University"
+    }, 
+    {
+        "content": "steven feiner: steven k. feiner (phd, brown) is professor of computer ... columbia university (http://www.columbia.edu/); email: feiner@cs.columbia.edu.", 
+        "email_addr_list": [
+            "feiner@cs.columbia.edu"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/steven-feiner", 
+        "cite_name": "", 
+        "title": "Steven Feiner - Interaction Design Foundation"
+    }, 
+    {
+        "content": "6 d-64283 darmstadt germany email: jle@igd.fhg.de home page: http://www.igd.fhg.de/ steven feiner department of computer science columbia university...", 
+        "email_addr_list": [
+            "jle@igd.fhg.de"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=1447102592", 
+        "cite_name": "", 
+        "title": "Frontiers of Human-Centered Computing, Online Communities ..."
+    }
+]

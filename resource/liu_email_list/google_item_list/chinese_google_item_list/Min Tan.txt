@@ -1,0 +1,29 @@
+[
+    {
+        "content": "tan min-han team leader and principal research scientist. tel: 6824 7110. email: mhtan@ibn.a-star.edu.sg. view cv. visiting consultant, medical oncology...", 
+        "email_addr_list": [
+            "mhtan@ibn.a-star.edu.sg"
+        ], 
+        "cite_url": "www.ibn.a-star.edu.sg/res...", 
+        "cite_name": "Agency for Science, Technology and Research", 
+        "title": "Dr Min-Han Tan - Institute of Bioengineering and ..."
+    }, 
+    {
+        "content": "cancel. min min tan ... verified email at student.monash.edu. scholar ... dn patel, wl low, ll tan, mmb tan, q zhang, my low, cl chan, ... clinical...", 
+        "email_addr_list": [
+            "email@student.monash.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=_TKIlXIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Min Min Tan - Google Scholar Citations"
+    }, 
+    {
+        "content": "min tan (former president of sufe) ... email: tanmin@mail.shufe.edu.cn ... professor min tan received his ph.d. in 1989 from shanghai university of finance...", 
+        "email_addr_list": [
+            "tanmin@mail.shufe.edu.cn"
+        ], 
+        "cite_url": "econ.shufe.edu.cn/se/english/people_con/22/207", 
+        "cite_name": "", 
+        "title": "Min TAN"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "content": "email: swan2 at cct.lsu dot edu, wanshenghua at gmail dot com. address ... shenghua wan, tengfei ye, maoqing li, hongchao zhang, xin li science...", 
+        "email_addr_list": [
+            "swan2@cct.lsu.edu", 
+            "wanshenghua@gmail.com"
+        ], 
+        "cite_url": "https://www.cct.lsu.edu/~swan2/", 
+        "cite_name": "Louisiana State University", 
+        "title": "Shenghua Wan at LSU"
+    }, 
+    {
+        "content": "email：xueting@tju.edu.cn ... [2]bin wu，ting xue, tao zhang, shenghua ye，a novel method for round steel ... [4]ting xue, jigui zhu, bin wu, shenghua ye.", 
+        "email_addr_list": [
+            "xueting@tju.edu.cn"
+        ], 
+        "cite_url": "seea.tju.edu.cn/ev/tea_about_ev.php?teaId=181", 
+        "cite_name": "", 
+        "title": "Xue Ting - Welcome to School of Electrical Engineering and ..."
+    }
+]

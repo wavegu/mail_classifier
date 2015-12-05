@@ -1,0 +1,47 @@
+[
+    {
+        "content": "jae-bok song - ... jae-bok song. department of mechanical engineering. email: jbsong@korea.ac.kr. summary. research outputs (1990 - present) 227.", 
+        "email_addr_list": [
+            "jbsong@korea.ac.kr"
+        ], 
+        "cite_url": "koreauniv.pure.elsevier.com/.../jaebok-song(dc353b2b-403a-4148-98b4...", 
+        "cite_name": "", 
+        "title": "Jae-Bok Song - Korea University"
+    }, 
+    {
+        "content": "jae-bok song - ... email: jbsong@korea.ac.kr ... kim, y. l., song, h. c.  song, j. b. 2014 mar 1 in : international journal of precision engineering and...", 
+        "email_addr_list": [
+            "jbsong@korea.ac.kr"
+        ], 
+        "cite_url": "koreauniv.pure.elsevier.com/.../jaebok-song(dc353b2b.../publications.ht...", 
+        "cite_name": "", 
+        "title": "Jae-Bok Song - Research outputs - Korea University"
+    }, 
+    {
+        "content": "email address: create@skku.edu ... bongjin jun, daijin kim, jaewoong kim, sukhan lee, mun-taek choi, munsang kum, joon-tae park and jae-bok song", 
+        "email_addr_list": [
+            "create@skku.edu"
+        ], 
+        "cite_url": "isrc.skku.ac.kr/people/people_detail.php?idx=1", 
+        "cite_name": "", 
+        "title": "Jaewoong Kim - The Intelligent Systems Research Institute"
+    }, 
+    {
+        "content": "professor jae‐bok song received the b.s. and m.s. degrees in mechanical engineering from ... song is appointed as a president of korea robotics society and as a director of the .... fax: +603-2697 0815 email: secretariat@ascc2015.com...", 
+        "email_addr_list": [
+            "secretariat@ascc2015.com"
+        ], 
+        "cite_url": "ascc2015.com/?page_id=114", 
+        "cite_name": "", 
+        "title": "Plenary Talk - ASCC 2015"
+    }, 
+    {
+        "content": "apr 15, 2014 - jung-jun parka1, jae-bok songa2 and sami haddadina3. a1 manufacturing center ... c1 corresponding author. e-mail: jbsong@korea.ac.kr.", 
+        "email_addr_list": [
+            "jbsong@korea.ac.kr"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S02635747...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Robotica - Collision analysis and safety evaluation using a ..."
+    }
+]

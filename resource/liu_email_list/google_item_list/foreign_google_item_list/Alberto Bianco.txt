@@ -1,0 +1,20 @@
+[
+    {
+        "content": "nom, bianco. prenom, alberto ... e-mail, a.bianco@ibmc-cnrs.unistra.fr. upr, ict. equipe, nanomatériaux organiques  vectorisation / a.bianco. statut, directeur...", 
+        "email_addr_list": [
+            "a.bianco@ibmc-cnrs.unistra.fr"
+        ], 
+        "cite_url": "www-ibmc.u-strasbg.fr/.../arti...", 
+        "cite_name": "Institut de biologie moléculaire et cellulaire", 
+        "title": "BIANCO Alberto - IBMC"
+    }, 
+    {
+        "content": "apr 11, 2013 - prof. alberto bianco. corresponding author. e-mail address: a.bianco@ibmc-cnrs.unistra.fr. cnrs, institut de biologie moléculaire et cellulaire...", 
+        "email_addr_list": [
+            "a.bianco@ibmc-cnrs.unistra.fr"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1002/anie.../abstract", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Abstract - Wiley Online Library"
+    }
+]

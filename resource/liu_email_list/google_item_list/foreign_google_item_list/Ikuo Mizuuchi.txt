@@ -1,0 +1,57 @@
+[
+    {
+        "content": "verified email at coe.drexel.edu. @coe.drexel.edu ... ikuo mizuuchi. tokyo university of agriculture and technology. verified email at mizuuchi.lab.tuat.ac.jp.", 
+        "email_addr_list": [
+            "email@coe.drexel.edu", 
+            "email@mizuuchi.lab.tuat.ac.jp"
+        ], 
+        "cite_url": "scholar.google.pl/citations?view_op=search_authorshl...", 
+        "cite_name": "Google", 
+        "title": "Humanoids - Google Scholar"
+    }, 
+    {
+        "content": "... robotics technologies to agriculture — blueberry harvesting, plant-pot robot, and fruit identification, dr. ikuo mizuuchi ... ictasia2015@gmail.com.", 
+        "email_addr_list": [
+            "ictasia2015@gmail.com"
+        ], 
+        "cite_url": "ictasia2015.searcabackup.org/index.php/downloads", 
+        "cite_name": "", 
+        "title": "Downloads - ICT Asia 2015"
+    }, 
+    {
+        "content": "ikuo mizuuchi. tokyo university of agriculture and technology. verified email at mizuuchi.lab.tuat.ac.jp. @mizuuchi.lab.tuat.ac.jp. cited by 792.", 
+        "email_addr_list": [
+            "email@mizuuchi.lab.tuat.ac.jp"
+        ], 
+        "cite_url": "scholar.google.fr/citations?view_op=search_authorshl...", 
+        "cite_name": "Google", 
+        "title": "Google Scholar Citations"
+    }, 
+    {
+        "content": "ikuo mizuuchi, masaki kawamura, tadashi asaoka, and shouhei kumakura ... 184–8588, japan, email: mizuuchi@cc.tuat.ac.jp, telephone: +81 (42) 388–7457.", 
+        "email_addr_list": [
+            "mizuuchi@cc.tuat.ac.jp"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0665...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Design and Development of a Compressor-Embedded ..."
+    }, 
+    {
+        "content": "ikuo mizuuchi. tokyo university of agriculture and technology. verified email at mizuuchi.lab.tuat.ac.jp. @mizuuchi.lab.tuat.ac.jp. cited by 803. robotics...", 
+        "email_addr_list": [
+            "email@mizuuchi.lab.tuat.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com.my/citations?view_op=search...hl...", 
+        "cite_name": "Google", 
+        "title": "Agricultural Robotics - Google Scholar Citations"
+    }, 
+    {
+        "content": "jun 25, 2015 - ... tokyo university of agriculture and technology headed by ikuo mizuuchi, an expert in ... the japanese report on robotics was authored by mizuuchi, with masato ... for advertising concerns: email advertising@philstar.com", 
+        "email_addr_list": [
+            "advertising@philstar.com"
+        ], 
+        "cite_url": "www.philstar.com/.../japanese-make-robots-farming", 
+        "cite_name": "The Philippine Star", 
+        "title": "Japanese make robots for farming | Science and ... - Philstar"
+    }
+]

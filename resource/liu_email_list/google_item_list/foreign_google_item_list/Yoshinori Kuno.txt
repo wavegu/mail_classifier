@@ -1,0 +1,29 @@
+[
+    {
+        "content": "yoshinori kunos home page. japanese mode. autobiography; publications. to kuno lab. home page. kuno@cv.ics.saitama-u.ac.jp.", 
+        "email_addr_list": [
+            "kuno@cv.ics.saitama-u.ac.jp"
+        ], 
+        "cite_url": "www.cv.ics.saitama-u.ac.jp/kuno/", 
+        "cite_name": "", 
+        "title": "Yoshinori Kuno"
+    }, 
+    {
+        "content": "email: dipankar@cv.ics.saitama-u.ac.jp ... dipankar das, yoshinori kobayashi and yoshinori kuno, object detection in cluttered range images using edgel...", 
+        "email_addr_list": [
+            "dipankar@cv.ics.saitama-u.ac.jp"
+        ], 
+        "cite_url": "yankee.cv.ics.saitama-u.ac.jp/~kunolab/dipankar/", 
+        "cite_name": "", 
+        "title": "Dipankar Das"
+    }, 
+    {
+        "content": "saitama, 338-8570, japan. email:yosinori@cv.ics.saitama- u.ac.jp. yoshinori kuno. saitama university. 255 shimo-okubo, sakura-ku,. saitama, 338-8570...", 
+        "email_addr_list": [
+            "yosinori@cv.ics.saitama"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0704...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Object Recognition Based on Human Description Ontology ..."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "content": "master yu gui feng is recognised across the world as a stand out leader in feng shui, he was born in a ... master feng is a former chief advisor to the shantou university qi gong association, and qi gong ... email: qi@masterfeng.com.", 
+        "email_addr_list": [
+            "qi@masterfeng.com"
+        ], 
+        "cite_url": "www.humanwellness.com/master-yu-feng/", 
+        "cite_name": "", 
+        "title": "MASTER YU GUI FENG | Human Wellness"
+    }, 
+    {
+        "content": "yugui yao, and zhong fang, “sign changes of intrinsic spin hall effect in ... yugui yao, fei ye, xiao-liang qi, shou-cheng zhang, and zhong fang, ... tel：86-10-82649414 fax：86-10-62553698 email：theory@iphy.ac.cn, chenc@iphy.ac.cn", 
+        "email_addr_list": [
+            "theory@iphy.ac.cn", 
+            "chenc@iphy.ac.cn"
+        ], 
+        "cite_url": "theory.iphy.ac.cn/english/direction/yaoyugui.htm", 
+        "cite_name": "", 
+        "title": "凝聚态理论与材料计算实验室"
+    }, 
+    {
+        "content": "verified email at bit.edu.cn. scholar ... y yao, f ye, xl qi, sc zhang, z fang ... x dong, y shi, y zhao, d chen, j ye, y yao, f gao, z ni, t yu, z shen, .", 
+        "email_addr_list": [
+            "email@bit.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=RZ8_bTQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yugui Yao - Google Scholar Citations"
+    }
+]

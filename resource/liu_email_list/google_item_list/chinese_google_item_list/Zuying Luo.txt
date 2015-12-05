@@ -1,0 +1,56 @@
+[
+    {
+        "content": "email：luop@tsinghua.edu.cn .... ping luo, zuying wang, xiaobo li, on empirical evaluation of partial encryption for image sets. proceedings of the 2006...", 
+        "email_addr_list": [
+            "luop@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.thss.tsinghua.edu.cn/.../201012191713053992...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Ping Luo - School of Software, Tsinghua University"
+    }, 
+    {
+        "content": "luo zuying (骆祖莹)1, min yinghua (闵应骅)2, yang shiyuan (杨士元)1 ... correspondence should be addressed to luo zuying (email: lzytlm@263.net).", 
+        "email_addr_list": [
+            "lzytlm@263.net"
+        ], 
+        "cite_url": "link.springer.com/.../pdf/.../02yf9035.p...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "j - Springer"
+    }, 
+    {
+        "content": "luo zuying1, 2, cai yici1, sheldon x.-d tan3, hong xianlong1, ... correspondence should be addressed to luo zuying (email: luozy@bnu.edu.cn). received...", 
+        "email_addr_list": [
+            "luozy@bnu.edu.cn"
+        ], 
+        "cite_url": "link.springer.com/.../s11432-006-2022...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Time-domain analysis methodology for large ... - Springer"
+    }, 
+    {
+        "content": "contact author: zuying luo, luozy@mail.tsinghua.edu.cn. abstract— this paper presents a hybrid algorithm on p/g networks of mesh+tree topology for asics.", 
+        "email_addr_list": [
+            "luozy@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.ee.ucr.edu/.../icsict04_equadi.pd...", 
+        "cite_name": "University of California, Riverside", 
+        "title": "[PDF]EQUADI - Department of Electrical and Computer Engineering"
+    }, 
+    {
+        "content": "xiaowei li, huawei li, zuying luo and ymghua min. institute of computing technology. chinese ... box 2 704, beijing 100080, i? r. china. email: ixw@ict.ac.cn.", 
+        "email_addr_list": [
+            "ixw@ict.ac.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../00...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "An approach to reducing power consumption during delay ..."
+    }, 
+    {
+        "content": "phone: 612-626-7203. fax: 612-625-4583. e-mail: jr@ece.umn.edu 4 dr. zuying luo department of computer science and technology tsinghua university", 
+        "email_addr_list": [
+            "jr@ece.umn.edu"
+        ], 
+        "cite_url": "www.aspdac.com/aspdac2005/eng/org/org.htm", 
+        "cite_name": "", 
+        "title": "Organization - Asp-dac"
+    }
+]

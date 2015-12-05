@@ -1,0 +1,11 @@
+[
+    {
+        "content": "professor, ph.d. yili fu, harbin institute of technology, harbin, china. e-mail: meylfu@hit.edu.cn. yili fu is a professor in the state key laboratory of robotics...", 
+        "email_addr_list": [
+            "meylfu@hit.edu.cn"
+        ], 
+        "cite_url": "www.vjs.ac.vn/index.php/jcc/announcement/view/50", 
+        "cite_name": "", 
+        "title": "Welcome to new Editorial Board Members"
+    }
+]

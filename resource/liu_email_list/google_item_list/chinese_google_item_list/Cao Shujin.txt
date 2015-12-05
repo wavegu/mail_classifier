@@ -1,0 +1,49 @@
+[
+    {
+        "content": "this work is supported by the ministry of education of china (grant no. 05jzd00024). corresponding author: cao shujin. authors email: caosj@mail.sysu.edu.", 
+        "email_addr_list": [
+            "caosj@mail.sysu.edu"
+        ], 
+        "cite_url": "159.226.100.150:8084/info/EN/abstract/abstract8386.shtml", 
+        "cite_name": "", 
+        "title": "CHEN Yijin  CAO Shujin.An empirical study on user ..."
+    }, 
+    {
+        "content": "contact：. email：caoyuanlong@shujin.cn. dir：86 755 8826 5053. tel：86 755 8826 5288. fax：86 755 8826 5537. office：shenzhen...", 
+        "email_addr_list": [
+            "caoyuanlong@shujin.cn"
+        ], 
+        "cite_url": "www.shujin.cn/en/specialtyPerson_detail.aspx?id=237", 
+        "cite_name": "", 
+        "title": "Cao Yuanlong - SHU JIN LAW FIRM"
+    }, 
+    {
+        "content": "oct 26, 2009 - shujin wang,haian fu,lixin zhang,jiangchun hu,peng jiao.studies on ..... huqi pan,ruibing cao,nan wang,li liu,lei liu,jiangchun hu,puyan chen, shujin wang. ..... e-mail: panhq@iae.ac.cn, phq629@yahoo.com.cn.", 
+        "email_addr_list": [
+            "panhq@iae.ac.cn", 
+            "phq629@yahoo.com.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Research group----Institute of Applied Ecology, Chinese ..."
+    }, 
+    {
+        "content": "search email number information data on the internet ... management san yat-sen university guangzhou china. weijzhu@mail.sysu.edu.cn cao shujin school...", 
+        "email_addr_list": [
+            "weijzhu@mail.sysu.edu.cn"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-tlipins-kent-edu-14824601.htm", 
+        "cite_name": "", 
+        "title": "tlipins@kent.edu - The Email Archive"
+    }, 
+    {
+        "content": "ina. weijzhu@mail.sysu.edu.cn cao shujin school of information management san yat-sen university guangzhou china. caosj@mail.sysu.edu.cn panelist 4:...", 
+        "email_addr_list": [
+            "weijzhu@mail.sysu.edu.cn", 
+            "caosj@mail.sysu.edu.cn"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-nagatsuka-t-tsurumi-u-ac-jp-306...", 
+        "cite_name": "", 
+        "title": "nagatsuka-t@tsurumi-u.ac.jp - The Email Archive"
+    }
+]
