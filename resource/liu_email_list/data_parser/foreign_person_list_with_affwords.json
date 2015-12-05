@@ -224,25 +224,15 @@
         ]
     }, 
     {
-        "affiliation": "Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd West, Montreal, Que, H3G 1M8, Canada", 
+        "affiliation": "Tianjin University(Tianjin University,Tianjin Univ.),Tianjin,China", 
         "contact": {
-            "email": "kash@ece.concordia.ca"
+            "email": "xinyut@tamu.edu"
         }, 
-        "name": "K. Khorasani", 
+        "name": "Xinyu Tang", 
         "affiliation_words": [
-            "canada", 
-            "1m8", 
-            "h3g", 
-            "west", 
-            "de", 
-            "1455", 
-            "engineering", 
-            "computer", 
-            "electrical", 
-            "maisonneuve", 
-            "blvd", 
-            "concordia", 
-            "montreal"
+            "tianjin", 
+            "china", 
+            "univ"
         ]
     }, 
     {
@@ -905,7 +895,7 @@
     {
         "affiliation": "Department of Computer Science", 
         "contact": {
-            "email": "bekris,at,cse.unr.edu"
+            "email": "bekris@cse.unr.edu"
         }, 
         "name": "Kostas E. Bekris", 
         "affiliation_words": [
@@ -1058,16 +1048,6 @@
             "northwestern", 
             "il", 
             "evanston"
-        ]
-    }, 
-    {
-        "affiliation": "Harvard University", 
-        "contact": {
-            "email": "rachna@deas.harvard.edu"
-        }, 
-        "name": "Rachna Dhamija", 
-        "affiliation_words": [
-            "harvard"
         ]
     }, 
     {
@@ -1572,15 +1552,14 @@
         ]
     }, 
     {
-        "affiliation": "Queen's University, Kingston, ON, Canada", 
+        "affiliation": "University of Toronto(University of Toronto),Toronto,Canada", 
         "contact": {
-            "email": "gabor@cs.queensu.ca"
+            "email": "cleghrn@mie.utoronto.ca"
         }, 
-        "name": "Gabor Fichtinger", 
+        "name": "William L. Cleghorn", 
         "affiliation_words": [
-            "canada", 
-            "queen's", 
-            "kingston"
+            "toronto", 
+            "canada"
         ]
     }, 
     {
@@ -1663,17 +1642,6 @@
             "redmond", 
             "microsoft", 
             "wa"
-        ]
-    }, 
-    {
-        "affiliation": "University of Konstanz, Germany", 
-        "contact": {
-            "email": "enrico.bertini@nyu.edu"
-        }, 
-        "name": "Enrico Bertini", 
-        "affiliation_words": [
-            "konstanz", 
-            "germany"
         ]
     }, 
     {
@@ -1787,19 +1755,6 @@
         ]
     }, 
     {
-        "affiliation": "Politecnico di Milano, Italy", 
-        "contact": {
-            "email": "cesana@elet.polimi.it"
-        }, 
-        "name": "Matteo Cesana", 
-        "affiliation_words": [
-            "milano", 
-            "italy", 
-            "politecnico", 
-            "di"
-        ]
-    }, 
-    {
         "affiliation": "Berkeley, CA USA", 
         "contact": {
             "email": "ergen@cal.berkeley.edu"
@@ -1895,15 +1850,25 @@
         ]
     }, 
     {
-        "affiliation": "Tianjin University(Tianjin University,Tianjin Univ.),Tianjin,China", 
+        "affiliation": "Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd West, Montreal, Que, H3G 1M8, Canada", 
         "contact": {
-            "email": "xinyut@tamu.edu"
+            "email": "kash@ece.concordia.ca"
         }, 
-        "name": "Xinyu Tang", 
+        "name": "K. Khorasani", 
         "affiliation_words": [
-            "tianjin", 
-            "china", 
-            "univ"
+            "canada", 
+            "1m8", 
+            "h3g", 
+            "west", 
+            "de", 
+            "1455", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "maisonneuve", 
+            "blvd", 
+            "concordia", 
+            "montreal"
         ]
     }, 
     {
@@ -2353,16 +2318,13 @@
         ]
     }, 
     {
-        "affiliation": "University of Nebraska-Lincoln, Lincoln, NE, USA", 
+        "affiliation": "University of Dortmund", 
         "contact": {
-            "email": "myra@cse.unl.edu"
+            "email": "fuhr@uni-duisburg.de"
         }, 
-        "name": "Myra B. Cohen", 
+        "name": "Norbert Fuhr", 
         "affiliation_words": [
-            "nebraska-lincoln", 
-            "lincoln", 
-            "ne", 
-            "usa"
+            "dortmund"
         ]
     }, 
     {
@@ -2376,24 +2338,6 @@
             "italy", 
             "technology", 
             "italian"
-        ]
-    }, 
-    {
-        "affiliation": "1.Key Laboratory of Computer Networks and Information Security(Ministry of Education", 
-        "contact": {
-            "email": "jfma@mail.xidian.edu.cn"
-        }, 
-        "name": "Ma Jian-Feng", 
-        "affiliation_words": [
-            "information", 
-            "ministry", 
-            "1", 
-            "computer", 
-            "key", 
-            "laboratory", 
-            "security", 
-            "education", 
-            "networks"
         ]
     }, 
     {
@@ -2564,13 +2508,14 @@
         ]
     }, 
     {
-        "affiliation": "TIMC", 
+        "affiliation": "University of Konstanz, Germany", 
         "contact": {
-            "email": "pjb@ri.cmu.edu"
+            "email": "enrico.bertini@nyu.edu"
         }, 
-        "name": "Peter J. Berkelman", 
+        "name": "Enrico Bertini", 
         "affiliation_words": [
-            "timc"
+            "konstanz", 
+            "germany"
         ]
     }, 
     {
@@ -2964,14 +2909,17 @@
         ]
     }, 
     {
-        "affiliation": "Saitama University, Saitama, Japan", 
+        "affiliation": "Department of Chemistry|Laboratory for Advanced Materials|Stanford University", 
         "contact": {
-            "email": "kuno@cv.ics.saitama-u.ac.jp"
+            "email": "hdai@stanford.edu"
         }, 
-        "name": "Yoshinori Kuno", 
+        "name": "Hongjie Dai", 
         "affiliation_words": [
-            "japan", 
-            "saitama"
+            "laboratory", 
+            "chemistry", 
+            "stanford", 
+            "advanced", 
+            "materials"
         ]
     }, 
     {
@@ -3029,17 +2977,22 @@
         ]
     }, 
     {
-        "affiliation": "National Institute of Advanced Industrial Science and Technology", 
+        "affiliation": "Department of Mechanical Engineering, Michigan State University, East Lansing, MI 48824, United States", 
         "contact": {
-            "email": "kazuhito.yokoi@aist.go.jp"
+            "email": "mukherji@egr.msu.edu"
         }, 
-        "name": "Kazuhito Yokoi", 
+        "name": "Ranjan Mukherjee", 
         "affiliation_words": [
-            "science", 
-            "national", 
-            "industrial", 
-            "technology", 
-            "advanced"
+            "48824", 
+            "michigan", 
+            "mi", 
+            "state", 
+            "lansing", 
+            "states", 
+            "engineering", 
+            "united", 
+            "mechanical", 
+            "east"
         ]
     }, 
     {
@@ -3201,16 +3154,21 @@
         ]
     }, 
     {
-        "affiliation": "Department of Electrical Engineering|Department of Surgery|University of Washington", 
+        "affiliation": "LASA Laboratory - Ecole Polytechnique Federale de Lausanne (EPFL), Lausanne, Switzerland", 
         "contact": {
-            "email": "rosen@seas.ucla.edu"
+            "email": "sylvain.calinongmail.com"
         }, 
-        "name": "Jacob Rosen", 
+        "name": "Sylvain Calinon", 
         "affiliation_words": [
-            "washington", 
-            "engineering", 
-            "electrical", 
-            "surgery"
+            "federale", 
+            "ecole", 
+            "de", 
+            "lasa", 
+            "lausanne", 
+            "polytechnique", 
+            "epfl", 
+            "switzerland", 
+            "laboratory"
         ]
     }, 
     {
@@ -3225,17 +3183,14 @@
         ]
     }, 
     {
-        "affiliation": "Department of Chemistry|Laboratory for Advanced Materials|Stanford University", 
+        "affiliation": "Saitama University, Saitama, Japan", 
         "contact": {
-            "email": "hdai@stanford.edu"
+            "email": "kuno@cv.ics.saitama-u.ac.jp"
         }, 
-        "name": "Hongjie Dai", 
+        "name": "Yoshinori Kuno", 
         "affiliation_words": [
-            "laboratory", 
-            "chemistry", 
-            "stanford", 
-            "advanced", 
-            "materials"
+            "japan", 
+            "saitama"
         ]
     }, 
     {
@@ -3286,6 +3241,19 @@
         "name": "Dzmitry Kliazovich", 
         "affiliation_words": [
             "trento"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electrical Engineering|Department of Surgery|University of Washington", 
+        "contact": {
+            "email": "rosen@seas.ucla.edu"
+        }, 
+        "name": "Jacob Rosen", 
+        "affiliation_words": [
+            "washington", 
+            "engineering", 
+            "electrical", 
+            "surgery"
         ]
     }, 
     {
@@ -3533,22 +3501,17 @@
         ]
     }, 
     {
-        "affiliation": "Department of Mechanical Engineering, Michigan State University, East Lansing, MI 48824, United States", 
+        "affiliation": "National Institute of Advanced Industrial Science and Technology", 
         "contact": {
-            "email": "mukherji@egr.msu.edu"
+            "email": "kazuhito.yokoi@aist.go.jp"
         }, 
-        "name": "Ranjan Mukherjee", 
+        "name": "Kazuhito Yokoi", 
         "affiliation_words": [
-            "48824", 
-            "michigan", 
-            "mi", 
-            "state", 
-            "lansing", 
-            "states", 
-            "engineering", 
-            "united", 
-            "mechanical", 
-            "east"
+            "science", 
+            "national", 
+            "industrial", 
+            "technology", 
+            "advanced"
         ]
     }, 
     {
@@ -4489,6 +4452,18 @@
         ]
     }, 
     {
+        "affiliation": "Department of Mathematics|Seoul National University", 
+        "contact": {
+            "email": "jskim01@snu.ac.kr"
+        }, 
+        "name": "Jin-Soo Kim", 
+        "affiliation_words": [
+            "mathematics", 
+            "national", 
+            "seoul"
+        ]
+    }, 
+    {
         "affiliation": "Italian Institute of Technology (IIT), Italy", 
         "contact": {
             "email": "iron@liralab.it"
@@ -4502,14 +4477,16 @@
         ]
     }, 
     {
-        "affiliation": "Department of Mechano-Informatics|University of Tokyo", 
+        "affiliation": "Politecnico di Milano, Italy", 
         "contact": {
-            "email": "ikuo@jsk.t.u-tokyo.ac.jp"
+            "email": "cesana@elet.polimi.it"
         }, 
-        "name": "Ikuo Mizuuchi", 
+        "name": "Matteo Cesana", 
         "affiliation_words": [
-            "mechano-informatics", 
-            "tokyo"
+            "milano", 
+            "italy", 
+            "politecnico", 
+            "di"
         ]
     }, 
     {
@@ -4890,13 +4867,16 @@
         ]
     }, 
     {
-        "affiliation": "University of Dortmund", 
+        "affiliation": "University of Nebraska-Lincoln, Lincoln, NE, USA", 
         "contact": {
-            "email": "fuhr@uni-duisburg.de"
+            "email": "myra@cse.unl.edu"
         }, 
-        "name": "Norbert Fuhr", 
+        "name": "Myra B. Cohen", 
         "affiliation_words": [
-            "dortmund"
+            "nebraska-lincoln", 
+            "lincoln", 
+            "ne", 
+            "usa"
         ]
     }, 
     {
@@ -4967,21 +4947,21 @@
         ]
     }, 
     {
-        "affiliation": "LASA Laboratory - Ecole Polytechnique Federale de Lausanne (EPFL), Lausanne, Switzerland", 
+        "affiliation": "1.Key Laboratory of Computer Networks and Information Security(Ministry of Education", 
         "contact": {
-            "email": "sylvain.calinongmail.com"
+            "email": "jfma@mail.xidian.edu.cn"
         }, 
-        "name": "Sylvain Calinon", 
+        "name": "Ma Jian-Feng", 
         "affiliation_words": [
-            "federale", 
-            "ecole", 
-            "de", 
-            "lasa", 
-            "lausanne", 
-            "polytechnique", 
-            "epfl", 
-            "switzerland", 
-            "laboratory"
+            "information", 
+            "ministry", 
+            "1", 
+            "computer", 
+            "key", 
+            "laboratory", 
+            "security", 
+            "education", 
+            "networks"
         ]
     }, 
     {
@@ -5227,6 +5207,16 @@
         ]
     }, 
     {
+        "affiliation": "TIMC", 
+        "contact": {
+            "email": "pjb@ri.cmu.edu"
+        }, 
+        "name": "Peter J. Berkelman", 
+        "affiliation_words": [
+            "timc"
+        ]
+    }, 
+    {
         "affiliation": "School of Electrical Engineering and Computer Science, Hanyang University, Ansan, Korea", 
         "contact": {
             "email": "bj@hanyang.ac.kr"
@@ -5298,20 +5288,15 @@
         ]
     }, 
     {
-        "affiliation": "Computer Science and Engineering Department, Texas A&M University, College Station, TX", 
+        "affiliation": "German Aerospace Center|Institute of Robotics", 
         "contact": {
-            "email": "dzsong@cs.tamu.edu"
+            "email": "holger.weiss@abo.fi"
         }, 
-        "name": "Dezhen Song", 
+        "name": "Holger Weiss", 
         "affiliation_words": [
-            "a&m", 
-            "tx", 
-            "science", 
-            "engineering", 
-            "computer", 
-            "college", 
-            "station", 
-            "texas"
+            "german", 
+            "robotics", 
+            "aerospace"
         ]
     }, 
     {
@@ -5407,7 +5392,7 @@
     {
         "affiliation": "Department of Computer Science|Rice University", 
         "contact": {
-            "email": "plaku,at,cua.edu"
+            "email": "plaku@cua.edu"
         }, 
         "name": "Erion Plaku", 
         "affiliation_words": [
@@ -5856,6 +5841,17 @@
         ]
     }, 
     {
+        "affiliation": "Department of Mechano-Informatics|University of Tokyo", 
+        "contact": {
+            "email": "ikuo@jsk.t.u-tokyo.ac.jp"
+        }, 
+        "name": "Ikuo Mizuuchi", 
+        "affiliation_words": [
+            "mechano-informatics", 
+            "tokyo"
+        ]
+    }, 
+    {
         "affiliation": "MIT Media Lab, Cambridge, MA", 
         "contact": {
             "email": "athomaz@cc.gatech.edu"
@@ -6005,14 +6001,15 @@
         ]
     }, 
     {
-        "affiliation": "University of Toronto(University of Toronto),Toronto,Canada", 
+        "affiliation": "Queen's University, Kingston, ON, Canada", 
         "contact": {
-            "email": "cleghrn@mie.utoronto.ca"
+            "email": "gabor@cs.queensu.ca"
         }, 
-        "name": "William L. Cleghorn", 
+        "name": "Gabor Fichtinger", 
         "affiliation_words": [
-            "toronto", 
-            "canada"
+            "canada", 
+            "queen's", 
+            "kingston"
         ]
     }, 
     {
@@ -6425,15 +6422,13 @@
         ]
     }, 
     {
-        "affiliation": "Department of Mathematics|Seoul National University", 
+        "affiliation": "Harvard University", 
         "contact": {
-            "email": "jskim01@snu.ac.kr"
+            "email": "rachna@deas.harvard.edu"
         }, 
-        "name": "Jin-Soo Kim", 
+        "name": "Rachna Dhamija", 
         "affiliation_words": [
-            "mathematics", 
-            "national", 
-            "seoul"
+            "harvard"
         ]
     }, 
     {
@@ -6757,15 +6752,20 @@
         ]
     }, 
     {
-        "affiliation": "German Aerospace Center|Institute of Robotics", 
+        "affiliation": "Computer Science and Engineering Department, Texas A&M University, College Station, TX", 
         "contact": {
-            "email": "holger.weiss@abo.fi"
+            "email": "dzsong@cs.tamu.edu"
         }, 
-        "name": "Holger Weiss", 
+        "name": "Dezhen Song", 
         "affiliation_words": [
-            "german", 
-            "robotics", 
-            "aerospace"
+            "a&m", 
+            "tx", 
+            "science", 
+            "engineering", 
+            "computer", 
+            "college", 
+            "station", 
+            "texas"
         ]
     }, 
     {

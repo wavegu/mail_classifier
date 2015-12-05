@@ -10,9 +10,10 @@ from email_model import EmailModel
 
 class Person:
 
-    def __init__(self, name):
-        self.name = name
-        self.affiliation_word_list = g_name_affiliation_word_list_dict[name]
+    def __init__(self, person_dict, google_item_file_path):
+        self.name = person_dict['name']
+        self.google_item_file_path = google_item_file_path
+        self.affiliation_word_list = person_dict['affiliation_words']
         self.google_item_dict_list = []
 
         self.email_email_model_dict = {}
@@ -21,10 +22,11 @@ class Person:
         self.get_email_email_model_dict()
 
     def get_right_email_list(self):
-        right_email_list = g_name_right_email_list_dict[self.name].split(',')
-        if right_email_list == ['']:
-            right_email_list = []
-        return right_email_list
+        # right_email_list = g_name_right_email_list_dict[self.name].split(',')
+        # if right_email_list == ['']:
+        #     right_email_list = []
+        # return right_email_list
+        return []
 
     def get_all_email_addr_list(self):
         all_email_addr_list = []
@@ -33,7 +35,7 @@ class Person:
         return all_email_addr_list
 
     def get_google_item_dict_list(self):
-        with open('../resource/Top1000_mail_list/' + self.name + '.txt') as google_item_file:
+        with open(self.google_item_file_path + self.name + '.txt') as google_item_file:
             self.google_item_dict_list = json.loads(google_item_file.read())
         return self.google_item_dict_list
 
@@ -76,11 +78,10 @@ class Person:
                 self.email_email_model_dict[email_addr] = tem_email_model
 
 
-
-def write_feature_file(person_dict_list, filename):
-    with open(filename, 'w') as feature_file:
+def write_feature_file(person_dict_list, feature_filename):
+    with open(feature_filename, 'w') as feature_file:
         for person_dict in person_dict_list:
-            person = Person(person_dict['name'])
+            person = Person(person_dict, '../resource/Top1000_mail_list/')
             if not person.get_right_email_list() or not person.google_item_dict_list:
                 continue
             for email_addr, email_model in person.email_email_model_dict.items():

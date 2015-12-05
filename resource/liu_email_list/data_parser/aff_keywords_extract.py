@@ -20,7 +20,7 @@ if __name__ == '__main__':
     # person_info = ''
     # for line in lines:
     #     person_info += line
-    with open('foreign_person_list.json', 'r') as f:
+    with open('chinese_person_list.json', 'r') as f:
         persons = json.load(f)
     # persons = json.loads(content_ori)
     for person in persons:
@@ -47,7 +47,7 @@ if __name__ == '__main__':
             # dictionary.setdefault(word, 1)
             aff_word_list.add(word)
         person['affiliation_words'] = list(aff_word_list)
-    with open('foreign_person_list_with_affwords.json', 'w') as f:
+    with open('chinese_person_list_with_affwords.json', 'w') as f:
         f.write(json.dumps(persons, indent=4))
     # dictionary = sorted(dictionary.iteritems(), key=lambda d: d[1], reverse=True)
 

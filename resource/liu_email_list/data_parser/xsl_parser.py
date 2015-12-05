@@ -30,7 +30,7 @@ def get_person_dict_list_from(filename):
 		if not mail:
 			continue
 		mail = mail.lower().replace('、', ',').replace(' or ', ',').replace('/', ',')
-		mail = mail.replace('(at)', '@').replace('{at}', '@').replace('[at]', '@').replace(' at ', '@')
+		mail = mail.replace('(at)', '@').replace('{at}', '@').replace('[at]', '@').replace(' at ', '@').replace(',at,', '@')
 		mail = mail.replace('(dot)', '@').replace('{dot}', '@').replace('[dot]', '@').replace(' at ', '@')
 		mail = mail.replace(' ', '')
 		print mail
@@ -49,8 +49,8 @@ def get_all_person_dict_list(isChina):
 	import os
 	error_file = open('error_log.txt', 'w')
 	all_person_dict_list = []
-	for looper in range(12):
-		dirpath = str(looper) + '/'
+	for looper in range(1, 12):
+		dirpath = '../raw/' + str(looper) + '/'
 		for filename in os.listdir(dirpath):
 			if isChina and '.china.' not in filename:
 				continue

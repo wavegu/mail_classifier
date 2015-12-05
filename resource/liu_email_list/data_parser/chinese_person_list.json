@@ -21,11 +21,11 @@
         "name": "Qin Yong"
     }, 
     {
-        "affiliation": "School of Mechatronical Engineering,Beijing Institute of Technology,Beijing ,China", 
+        "affiliation": "Harbin Institute of Technology(Harbin Institute of Technology,Harbin Inst. of Technol.),Harbin,China", 
         "contact": {
-            "email": "luoqsh@bit.edu.cn"
+            "email": "louyj@hitsz.edu.cn"
         }, 
-        "name": "Luo Qing-Sheng"
+        "name": "Yunjiang Lou"
     }, 
     {
         "affiliation": "Key Laboratory of Complex Systems and Intelligence Science, Institute of Automation, Chinese Academy of Sciences, Beijing, China", 
@@ -42,11 +42,11 @@
         "name": "Yang Xiang-Dong"
     }, 
     {
-        "affiliation": "Shandong University of Technology(Shandong University of Technology,Shandong Univ of Technology),Zibo,China", 
+        "affiliation": "State Key Laboratory of Robotics, Shenyang Institute of Automation, CAS, Nanta Street 114&&#35/&#35/35/, Shenyang, China/ Graduate School, Chinese Academy of Sciences, Beijing, China", 
         "contact": {
-            "email": "zhangxueyi@sdut.edu.cn"
+            "email": "jdhan@sia.cn"
         }, 
-        "name": "Xueyi Zhang"
+        "name": "Jianda Han"
     }, 
     {
         "affiliation": "Department of Automation,Shanghai Jiaotong University,Shanghai ,China", 
@@ -105,11 +105,11 @@
         "name": "Yisheng Guan"
     }, 
     {
-        "affiliation": "Guizhou University,Guiyang,Guizhou ,China", 
+        "affiliation": "Shanghai Jiaotong University(Shanghai Jiaotong University,Shanghai Jiao Tong University,Shanghai Jiaotong Univ.),Shanghai,China", 
         "contact": {
-            "email": "hetengbing@163.com"
+            "email": "qren@ihw.com.cn"
         }, 
-        "name": "He Teng-Bing"
+        "name": "Qiushi Ren"
     }, 
     {
         "affiliation": "State Key Lab.of Integrated Service Networks,Xidian Univ.,Xi'an ,China", 
@@ -196,6 +196,13 @@
         "name": "Xia Jiqiang"
     }, 
     {
+        "affiliation": "Department of Computer Science and Technology,Tsinghua University,Beijing ,China", 
+        "contact": {
+            "email": "fcsun@tsinghua.edu.cn"
+        }, 
+        "name": "Sun Fu-Chun"
+    }, 
+    {
         "affiliation": "Microsoft Research Asia, Beijing, China", 
         "contact": {
             "email": "xshua@microsoft.com"
@@ -203,11 +210,11 @@
         "name": "Xian-Sheng Hua"
     }, 
     {
-        "affiliation": "School of Mechanical Engineering and Automation, Beijing University of Aeronautics and Astronautics, Beijing, China", 
+        "affiliation": "Tsinghua University", 
         "contact": {
-            "email": "weihongxing@buaa.edu.cn"
+            "email": "hqm03ster@gmail.com"
         }, 
-        "name": "Hongxing Wei"
+        "name": "Qiming Hou"
     }, 
     {
         "affiliation": "College of Computer Science,Chongqing University,Chongqing ,China", 
@@ -215,6 +222,13 @@
             "email": "fb@cqu.edu.cn"
         }, 
         "name": "Fang Bin"
+    }, 
+    {
+        "affiliation": "Shandong University of Technology(Shandong University of Technology,Shandong Univ of Technology),Zibo,China", 
+        "contact": {
+            "email": "zhangxueyi@sdut.edu.cn"
+        }, 
+        "name": "Xueyi Zhang"
     }, 
     {
         "affiliation": "Huazhong University of Science and Technology(Huazhong University of Science and Technology,Huazhong Univ. of Sci. and Technol.),Wuhan,China", 
@@ -238,13 +252,6 @@
         "name": "Yubin Xu"
     }, 
     {
-        "affiliation": "School of Computer Science and Technology, Harbin Institute of Technology, China", 
-        "contact": {
-            "email": "lguo@gsu.edu,lguo@cs.gsu.edu,longjiangguo@gmail.com"
-        }, 
-        "name": "Longjiang Guo"
-    }, 
-    {
         "affiliation": "College of Computer Science and Technology,Jilin University,Changchun ,China", 
         "contact": {
             "email": "liwh@jlu.edu.cn"
@@ -266,11 +273,11 @@
         "name": "Guangming Xie"
     }, 
     {
-        "affiliation": "Department of Computer Science and Technology,Tsinghua University,Beijing ,China", 
+        "affiliation": "School of Control Science and Engineering,Shandong University,Jinan ,China", 
         "contact": {
-            "email": "fcsun@tsinghua.edu.cn"
+            "email": "liyb@sdu.edu.cn"
         }, 
-        "name": "Sun Fu-Chun"
+        "name": "Li Yi-Bin"
     }, 
     {
         "affiliation": "Changchun Institute of Optics,Fine Mechanics and Physics,Chinese Academy of Sciences,Changchun ,China", 
@@ -294,11 +301,11 @@
         "name": "Song Yong"
     }, 
     {
-        "affiliation": "Department of Automation,Tsinghua University,Beijing ,China", 
+        "affiliation": "Department of Automation,Changchun University of Technology,Changchun ,China;Department of Electrical Engineering,Harbin Institute of Technology,Harbin ,China.", 
         "contact": {
-            "email": "muchd@tsinghua.edu.cn"
+            "email": "zhangniaona@163.com"
         }, 
-        "name": "Mu Chun-Di"
+        "name": "Zhang Niao-Na"
     }, 
     {
         "affiliation": "Research Inst.of Robotics,Shanghai Jiaotong Univ.,Shanghai ,China", 
@@ -350,6 +357,13 @@
         "name": "Cao Shujin"
     }, 
     {
+        "affiliation": "School of Mechanical Engineering,Tianjin University,Tianjin ,China", 
+        "contact": {
+            "email": "shuxinw@tju.edu.cn"
+        }, 
+        "name": "Wang Shu-Xin"
+    }, 
+    {
         "affiliation": "Dept. of Intelligent Mechanical Systems Eng'g, Kagawa University, Japan and Harbin Engineering University, China", 
         "contact": {
             "email": "guoshuxiang@hotmail.com"
@@ -378,11 +392,11 @@
         "name": "Yonghua Zhao"
     }, 
     {
-        "affiliation": "State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China", 
+        "affiliation": "Research Center of Fluid Machinery Engineering and Technology,Jiangsu University,Zhenjiang ,China", 
         "contact": {
-            "email": "bin.li-1@uts.edu.au"
+            "email": "wdshi@ujs.edu.cn"
         }, 
-        "name": "Bin Li"
+        "name": "Shi Weidong"
     }, 
     {
         "affiliation": "Tsinghua University(Tsinghua University,Tsinghua Univ,Tsinghua Univ.),Beijing,China", 
@@ -390,13 +404,6 @@
             "email": "sunzhg@tsinghua.edu.cn"
         }, 
         "name": "Zhenguo Sun"
-    }, 
-    {
-        "affiliation": "School of Transportation Science and Engineering,Beijing University of Aeronautics and Astronautics,Beijing ,China", 
-        "contact": {
-            "email": "gaof@buaa.edu.cn"
-        }, 
-        "name": "Gao Feng"
     }, 
     {
         "affiliation": "School of Software Engineer,UEST of China,Chengdu ,China", 
@@ -413,11 +420,11 @@
         "name": "Qixin Cao"
     }, 
     {
-        "affiliation": "School of Mechanical Engineering,Tianjin University,Tianjin ,China", 
+        "affiliation": "Institute of Automation,Chinese Academy of Sciences,Beijing ,China", 
         "contact": {
-            "email": "shuxinw@tju.edu.cn"
+            "email": "hong.qiao@ia.ac.cn"
         }, 
-        "name": "Wang Shu-Xin"
+        "name": "Qiao Hong"
     }, 
     {
         "affiliation": "University of Science and Technology of China, Hefei, China", 
@@ -453,6 +460,13 @@
             "email": "asjgwu@gmail.com"
         }, 
         "name": "Jigang Wu"
+    }, 
+    {
+        "affiliation": "The University of Hong Kong Department of Earth Science Hong Kong China", 
+        "contact": {
+            "email": "hechanova@unlv.nevada.edu"
+        }, 
+        "name": "W Yim"
     }, 
     {
         "affiliation": "Department of Health Technology and Informatics, The Hong Kong Polytechnic University, Hong Kong SAR, China", 
@@ -525,6 +539,13 @@
         "name": "Xue Ying-Hua"
     }, 
     {
+        "affiliation": "Key Laboratory of Ministry of Education for Conveyance and Equipment,East China Jiaotong University,Nanchang ,China", 
+        "contact": {
+            "email": "2000cqs@163.com"
+        }, 
+        "name": "Cao Qing-Song"
+    }, 
+    {
         "affiliation": "Institute of Intelligent Machines, Chinese Academy of Sciences, Hefei, Anhui, P.R. China", 
         "contact": {
             "email": "yjge@iim.ac.cn"
@@ -567,18 +588,18 @@
         "name": "Yonghong He"
     }, 
     {
-        "affiliation": "School of Electronic and Information Engineering,Jiangsu University of Science and Technology,Zhenjiang Jiangsu ,China", 
+        "affiliation": "Institute of Computer Architecture,Chongqing University of Post and Telecommunications,Chongqing ,China", 
         "contact": {
-            "email": "zheng28501@163.com"
+            "email": "longzh@cqupt.edu.cn."
         }, 
-        "name": "Zeng Qing-Jun"
+        "name": "Long Zhao-Hua"
     }, 
     {
-        "affiliation": "Shanghai Jiaotong University(Shanghai Jiaotong University,Shanghai Jiao Tong University,Shanghai Jiaotong Univ.),Shanghai,China", 
+        "affiliation": "Guizhou University,Guiyang,Guizhou ,China", 
         "contact": {
-            "email": "qren@ihw.com.cn"
+            "email": "hetengbing@163.com"
         }, 
-        "name": "Qiushi Ren"
+        "name": "He Teng-Bing"
     }, 
     {
         "affiliation": "National Laboratory for Information Science and Technology|Department of Electronic Engineering|Tsinghua University", 
@@ -588,11 +609,11 @@
         "name": "Zhixing Yang"
     }, 
     {
-        "affiliation": "State Key Laboratory of Hydroscience and Engineering,Tsinghua University,Beijing ,China", 
+        "affiliation": "School of Mechanical Engineering and Automation, Beijing University of Aeronautics and Astronautics, Beijing, China", 
         "contact": {
-            "email": "xhy@tsinghua.edu.cn"
+            "email": "weihongxing@buaa.edu.cn"
         }, 
-        "name": "Xu Hongyuan"
+        "name": "Hongxing Wei"
     }, 
     {
         "affiliation": "Tsinghua University(Tsinghua University,Tsinghua Univ,Tsinghua Univ.),Beijing,China", 
@@ -602,18 +623,11 @@
         "name": "Mingguo Zhao"
     }, 
     {
-        "affiliation": "School of Mechanical Engineering and Automation,Beijing University of Aeronautics and Astronautics,Beijing ,China", 
+        "affiliation": "Department of Automation,Tsinghua University,Beijing ,China", 
         "contact": {
-            "email": "weiwang@cs.unc.edu,osannak@cs.ucla.edu"
+            "email": "muchd@tsinghua.edu.cn"
         }, 
-        "name": "Wang Wei"
-    }, 
-    {
-        "affiliation": "Department of Automation,Changchun University of Technology,Changchun ,China;Department of Electrical Engineering,Harbin Institute of Technology,Harbin ,China.", 
-        "contact": {
-            "email": "zhangniaona@163.com"
-        }, 
-        "name": "Zhang Niao-Na"
+        "name": "Mu Chun-Di"
     }, 
     {
         "affiliation": "Dept. of Electronics and Information Engineering, Harbin Institute of Technology, China", 
@@ -665,13 +679,6 @@
         "name": "Zhenlin Jin"
     }, 
     {
-        "affiliation": "University of Science and Technology of China(University of Science and Technology of China,Univ. of Sci. and Technol. of China),Hefei,China", 
-        "contact": {
-            "email": "lshuang@ustc.edu.cn"
-        }, 
-        "name": "Liusheng Huang"
-    }, 
-    {
         "affiliation": "Southeast University(Southeast University,Southeast Univ),Nanjing,China", 
         "contact": {
             "email": "a.g.song@seu.edu.cn"
@@ -705,13 +712,6 @@
             "email": "zhangfs@cau.edu.cn,fszhang@mx.cei.gov.cn"
         }, 
         "name": "Fusuo Zhang"
-    }, 
-    {
-        "affiliation": "Dalian University of Technology(Dalian University of Technology,Dalian Univ. of Technol.),Dalian,China", 
-        "contact": {
-            "email": "mljin@dlut.edu.cn"
-        }, 
-        "name": "Minglu Jin"
     }, 
     {
         "affiliation": "Nokia Research Center, Beijing, China", 
@@ -791,13 +791,6 @@
         "name": "Yunquan Zhang"
     }, 
     {
-        "affiliation": "Laboratory of Complex System and Intelligence Science, Institute of Automation, Chinese Academy of Science , No.95 Zhongguancun. Road, Beijing China", 
-        "contact": {
-            "email": "zize.liang@ia.ac.cn"
-        }, 
-        "name": "Zi-Ze Liang"
-    }, 
-    {
         "affiliation": "School of Mechatronic Engineering,Beijing Institute of Technology,Beijing ,China", 
         "contact": {
             "email": "gaojunyao@bit.edu.cn"
@@ -805,11 +798,11 @@
         "name": "Gao Junyao"
     }, 
     {
-        "affiliation": "State Key Laboratory of Robotics, Shenyang Institute of Automation, CAS, Nanta Street 114&&#35/&#35/35/, Shenyang, China/ Graduate School, Chinese Academy of Sciences, Beijing, China", 
+        "affiliation": "Chinese Academy of Science, Beijing, China", 
         "contact": {
-            "email": "jdhan@sia.cn"
+            "email": "mazm@amt.ac.cn"
         }, 
-        "name": "Jianda Han"
+        "name": "Zhiming Ma"
     }, 
     {
         "affiliation": "Robotics Institute,Harbin Institute of Technology,Harbin ,China", 
@@ -817,6 +810,13 @@
             "email": "jzhao@hit.edu.cn"
         }, 
         "name": "Zhao Jie"
+    }, 
+    {
+        "affiliation": "School of Mechanical and Automotive Engineering,South China University of Technology,Guangzhou ,China", 
+        "contact": {
+            "email": "zhangxm@scut.edu.cn"
+        }, 
+        "name": "Zhang Xian-Min"
     }, 
     {
         "affiliation": "Institute of Robotics and Automatic Information Systems, Nankai University, Tianjin, China", 
@@ -840,11 +840,11 @@
         "name": "Shugen Ma"
     }, 
     {
-        "affiliation": "College of Communication Engineering,Jilin University,Changchun ,China", 
+        "affiliation": "School of Mechanical Engineering and Automation,Beijing University of Aeronautics and Astronautics,Beijing ,China", 
         "contact": {
-            "email": "yuanchun@jlu.edu.cn"
+            "email": "xlding@buaa.edu.cn"
         }, 
-        "name": "Li Yuan-Chun"
+        "name": "Ding Xilun"
     }, 
     {
         "affiliation": "Institute of Cyber-Systems and Control,Zhejiang University,Hangzhou Zhejiang ,China", 
@@ -861,11 +861,11 @@
         "name": "Hao Yin"
     }, 
     {
-        "affiliation": "Department of Electronic Engineering, Tsinghua University, Beijing, China", 
+        "affiliation": "School of Mechanical Engineering and Automation,Beijing University of Aeronautics and Astronautics,Beijing ,China", 
         "contact": {
-            "email": "linxk@sz.tsinghua.edu.cn"
+            "email": "weiwang@cs.unc.edu,osannak@cs.ucla.edu"
         }, 
-        "name": "Xiaokang Lin"
+        "name": "Wang Wei"
     }, 
     {
         "affiliation": "Shanghai Jiaotong University(Shanghai Jiaotong University,Shanghai Jiao Tong University,Shanghai Jiaotong Univ.),Shanghai,China", 
@@ -882,11 +882,11 @@
         "name": "Piao Songhao"
     }, 
     {
-        "affiliation": "State Key Laboratory of Clean Energy Utilization,Zhejiang University,Hangzhou ,China", 
+        "affiliation": "Institute of Geographic Sciences and Natural Resources Research,CAS,Beijing ,China", 
         "contact": {
-            "email": "zyluo@cmee.zju.edu.cn"
+            "email": "lixb@igsnrr.ac.cn"
         }, 
-        "name": "Luo Zhong-Yang"
+        "name": "Li Xiu-Bin"
     }, 
     {
         "affiliation": "College of Automation,Harbin Engineering University,Harbin ,China", 
@@ -896,18 +896,18 @@
         "name": "Peng Xiu-Yan"
     }, 
     {
-        "affiliation": "State Key Laboratory of Chemical Engineering,East China University of Science and Technology,Shanghai ,China", 
+        "affiliation": " Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong, Hong Kong, China; Shenzhen Institute of Advanced Integration Technology, CAS/CUHK, Shenzhen , China", 
         "contact": {
-            "email": "wkyuan@ecust.edu.cn"
+            "email": "ysxu@acae.cuhk.edu.hk"
         }, 
-        "name": "Yuan Weikang"
+        "name": "Xu Yangsheng"
     }, 
     {
-        "affiliation": "College of Mechanical and Electrical Engineering,China Jiliang University,Hangzhou ,China", 
+        "affiliation": "Shanghai Jiaotong University(Shanghai Jiaotong University,Shanghai Jiao Tong University,Shanghai Jiaotong Univ.),Shanghai,China", 
         "contact": {
-            "email": "wangbinrui@163.com"
+            "email": "yzh-zhao@sjtu.edu.cn"
         }, 
-        "name": "Wang Bin-Rui"
+        "name": "Yanzheng Zhao"
     }, 
     {
         "affiliation": "Department of Electronic Engineering,Tsinghua University,Beijing ,China", 
@@ -1036,18 +1036,18 @@
         "name": "Cui Ling-Li"
     }, 
     {
-        "affiliation": "School of Mechanical and Automotive Engineering,South China University of Technology,Guangzhou ,China", 
+        "affiliation": "School of Mechatronical Engineering,Beijing Institute of Technology,Beijing ,China", 
         "contact": {
-            "email": "zhangxm@scut.edu.cn"
+            "email": "luoqsh@bit.edu.cn"
         }, 
-        "name": "Zhang Xian-Min"
+        "name": "Luo Qing-Sheng"
     }, 
     {
-        "affiliation": "School of Mechanical Engineering and Automation,Beijing University of Aeronautics and Astronautics,Beijing ,China", 
+        "affiliation": "College of Computer Science,Chongqing University,Chongqing ,China", 
         "contact": {
-            "email": "xlding@buaa.edu.cn"
+            "email": "xfliao@swu.edu.cn"
         }, 
-        "name": "Ding Xilun"
+        "name": "Liao Xiao-Feng"
     }, 
     {
         "affiliation": "Laboratory of Complex Systems and Intelligence Science, Institute of Automation, Chinese Academy of Sciences, Beijing, China 100190", 
@@ -1099,11 +1099,11 @@
         "name": "Xiangzheng Deng"
     }, 
     {
-        "affiliation": "Institute of Automation,Chinese Academy of Sciences,Beijing ,China", 
+        "affiliation": "School of Transportation Science and Engineering,Beijing University of Aeronautics and Astronautics,Beijing ,China", 
         "contact": {
-            "email": "hong.qiao@ia.ac.cn"
+            "email": "gaof@buaa.edu.cn"
         }, 
-        "name": "Qiao Hong"
+        "name": "Gao Feng"
     }, 
     {
         "affiliation": "Chinese Academy of Forestry,Beijing ,China", 
@@ -1120,11 +1120,18 @@
         "name": "Yanchun Liang"
     }, 
     {
-        "affiliation": "Xidian University(Xidian University,Xidian Univ.),Xi An,China", 
+        "affiliation": "Laboratory of Complex System and Intelligence Science, Institute of Automation, Chinese Academy of Science , No.95 Zhongguancun. Road, Beijing China", 
         "contact": {
-            "email": "weidong_kou@hotmail.com"
+            "email": "zize.liang@ia.ac.cn"
         }, 
-        "name": "Weidong Kou"
+        "name": "Zi-Ze Liang"
+    }, 
+    {
+        "affiliation": "Tsinghua University(Tsinghua University,Tsinghua Univ,Tsinghua Univ.),Beijing,China", 
+        "contact": {
+            "email": "szq-dcs@mail.tsinghua.edu.cn"
+        }, 
+        "name": "Sun Zengqi"
     }, 
     {
         "affiliation": "Shanghai Research Center for Wireless Communications, Shanghai, China", 
@@ -1160,13 +1167,6 @@
             "email": "pwang73@vip.sina.com"
         }, 
         "name": "Wang Peng"
-    }, 
-    {
-        "affiliation": "Tsinghua University", 
-        "contact": {
-            "email": "hqm03ster@gmail.com"
-        }, 
-        "name": "Qiming Hou"
     }, 
     {
         "affiliation": "Institute of Geographic Sciences and Natural Resources Research,CAS,Beijing ,China", 
@@ -1232,11 +1232,11 @@
         "name": "Yunde Jia"
     }, 
     {
-        "affiliation": "Harbin Institute of Technology(Harbin Institute of Technology,Harbin Inst. of Technol.),Harbin,China", 
+        "affiliation": "Department of Electronic Engineering, Tsinghua University, Beijing, China", 
         "contact": {
-            "email": "louyj@hitsz.edu.cn"
+            "email": "linxk@sz.tsinghua.edu.cn"
         }, 
-        "name": "Yunjiang Lou"
+        "name": "Xiaokang Lin"
     }, 
     {
         "affiliation": "School of Control Science and Engineering,Shandong University,Jinan ,China", 
@@ -1316,18 +1316,11 @@
         "name": "Lu Fei"
     }, 
     {
-        "affiliation": "Research Center of Fluid Machinery Engineering and Technology,Jiangsu University,Zhenjiang ,China", 
+        "affiliation": "State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China", 
         "contact": {
-            "email": "wdshi@ujs.edu.cn"
+            "email": "bin.li-1@uts.edu.au"
         }, 
-        "name": "Shi Weidong"
-    }, 
-    {
-        "affiliation": "College of Computer Science,Chongqing University,Chongqing ,China", 
-        "contact": {
-            "email": "xfliao@swu.edu.cn"
-        }, 
-        "name": "Liao Xiao-Feng"
+        "name": "Bin Li"
     }, 
     {
         "affiliation": "College of Electrical and Information Engineering,Hunan University,Changsha ,China", 
@@ -1351,11 +1344,11 @@
         "name": "Ye Sheng-Hua"
     }, 
     {
-        "affiliation": "Chinese Academy of Science, Beijing, China", 
+        "affiliation": "University of Science and Technology of China(University of Science and Technology of China,Univ. of Sci. and Technol. of China),Hefei,China", 
         "contact": {
-            "email": "mazm@amt.ac.cn"
+            "email": "lshuang@ustc.edu.cn"
         }, 
-        "name": "Zhiming Ma"
+        "name": "Liusheng Huang"
     }, 
     {
         "affiliation": "School of Information Science and Engineering,Central South University,Changsha ,China", 
@@ -1412,6 +1405,13 @@
             "email": "sawang@mail.xjtu.edu.cn"
         }, 
         "name": "Sunan Wang"
+    }, 
+    {
+        "affiliation": "Robotics Institute,Beihang University,Beijing ,China", 
+        "contact": {
+            "email": "cyun18@vip.sina.com"
+        }, 
+        "name": "Yun Chao"
     }, 
     {
         "affiliation": "Dept. of Mechanical Engineering, Key Laboratory for Advanced Materials Processing Technology, Ministry of Education, Beijing, China", 
@@ -1498,11 +1498,11 @@
         "name": "Liu Xiao-Ping"
     }, 
     {
-        "affiliation": "Robotics Institute,Beihang University,Beijing ,China", 
+        "affiliation": "Dalian University of Technology(Dalian University of Technology,Dalian Univ. of Technol.),Dalian,China", 
         "contact": {
-            "email": "cyun18@vip.sina.com"
+            "email": "mljin@dlut.edu.cn"
         }, 
-        "name": "Yun Chao"
+        "name": "Minglu Jin"
     }, 
     {
         "affiliation": "College of Electrical and Information Engineering, Hunan University, Changsha, China", 
@@ -1540,11 +1540,11 @@
         "name": "Teng Shao-Hua"
     }, 
     {
-        "affiliation": "School of Control Science and Engineering,Shandong University,Jinan ,China", 
+        "affiliation": "Shenzhen Graduate School, Harbin Institute of Technology, Shenzhen, 518055, China", 
         "contact": {
-            "email": "liyb@sdu.edu.cn"
+            "email": "wfxu@hit.edu.cn"
         }, 
-        "name": "Li Yi-Bin"
+        "name": "Wenfu Xu"
     }, 
     {
         "affiliation": "College of Electronics and Information Engineering,Sichuan University,Chengdu Sichuan ,China", 
@@ -1575,11 +1575,11 @@
         "name": "Cai Ze-Su"
     }, 
     {
-        "affiliation": "Key Laboratory of Ministry of Education for Conveyance and Equipment,East China Jiaotong University,Nanchang ,China", 
+        "affiliation": "Tsinghua University, Beijing, China", 
         "contact": {
-            "email": "2000cqs@163.com"
+            "email": "ziy@cs.cmu.edu"
         }, 
-        "name": "Cao Qing-Song"
+        "name": "Zi Yang"
     }, 
     {
         "affiliation": "Department of Control Science and Engineering, Huazhong University of Science and Technology, Wuhan, Hubei 430074, PR China", 
@@ -1645,13 +1645,6 @@
         "name": "Gao Li-Xin"
     }, 
     {
-        "affiliation": "Shenzhen Graduate School, Harbin Institute of Technology, Shenzhen, 518055, China", 
-        "contact": {
-            "email": "wfxu@hit.edu.cn"
-        }, 
-        "name": "Wenfu Xu"
-    }, 
-    {
         "affiliation": "Key Laboratory of Resources Remote-Sensing & Digital Agriculture of Ministry of Agriculture,Beijing ,China;Institute of Agricultural Resources & Regional Planning,Chinese Academy of Agricultural Sciences,Beijing ,China", 
         "contact": {
             "email": "chenyqi@mail.caas.net.cn"
@@ -1664,6 +1657,13 @@
             "email": "zyfeng@tju.edu.cn"
         }, 
         "name": "Zhiyong Feng"
+    }, 
+    {
+        "affiliation": "College of Communication Engineering,Jilin University,Changchun ,China", 
+        "contact": {
+            "email": "yuanchun@jlu.edu.cn"
+        }, 
+        "name": "Li Yuan-Chun"
     }, 
     {
         "affiliation": "Changchun Institute of Optics,Fine Mechanics and Physics,Chinese Academy of Sciences,Changchun ,China", 
@@ -1722,11 +1722,11 @@
         "name": "Dalong Tan"
     }, 
     {
-        "affiliation": "The University of Hong Kong Department of Earth Science Hong Kong China", 
+        "affiliation": "State Key Laboratory of Hydroscience and Engineering,Tsinghua University,Beijing ,China", 
         "contact": {
-            "email": "hechanova@unlv.nevada.edu"
+            "email": "xhy@tsinghua.edu.cn"
         }, 
-        "name": "W Yim"
+        "name": "Xu Hongyuan"
     }, 
     {
         "affiliation": "Department of Electronics and Information Engineering at Huazhong University of Science and Technology, Wuhan National Laboratory for Optoelectronics, China", 
@@ -1778,18 +1778,18 @@
         "name": "Zhongyang Luo"
     }, 
     {
-        "affiliation": "Tsinghua University(Tsinghua University,Tsinghua Univ,Tsinghua Univ.),Beijing,China", 
+        "affiliation": "State Key Laboratory of Clean Energy Utilization,Zhejiang University,Hangzhou ,China", 
         "contact": {
-            "email": "szq-dcs@mail.tsinghua.edu.cn"
+            "email": "zyluo@cmee.zju.edu.cn"
         }, 
-        "name": "Sun Zengqi"
+        "name": "Luo Zhong-Yang"
     }, 
     {
-        "affiliation": "Institute of Geographic Sciences and Natural Resources Research,CAS,Beijing ,China", 
+        "affiliation": "School of Computer Science and Technology, Harbin Institute of Technology, China", 
         "contact": {
-            "email": "lixb@igsnrr.ac.cn"
+            "email": "lguo@gsu.edu,lguo@cs.gsu.edu,longjiangguo@gmail.com"
         }, 
-        "name": "Li Xiu-Bin"
+        "name": "Longjiang Guo"
     }, 
     {
         "affiliation": "School of Information Science and Technology, Sun Yat-sen University, Guangzhou, China", 
@@ -1799,11 +1799,11 @@
         "name": "Yunong Zhang"
     }, 
     {
-        "affiliation": "Tsinghua University, Beijing, China", 
+        "affiliation": "Xidian University(Xidian University,Xidian Univ.),Xi An,China", 
         "contact": {
-            "email": "ziy@cs.cmu.edu"
+            "email": "weidong_kou@hotmail.com"
         }, 
-        "name": "Zi Yang"
+        "name": "Weidong Kou"
     }, 
     {
         "affiliation": "Aviation Microelectronics Center,Northwestern Polytechnical University,Xi'an ,China", 
@@ -1820,18 +1820,11 @@
         "name": "Yuru Zhang"
     }, 
     {
-        "affiliation": "Institute of Computer Architecture,Chongqing University of Post and Telecommunications,Chongqing ,China", 
+        "affiliation": "State Key Laboratory of Chemical Engineering,East China University of Science and Technology,Shanghai ,China", 
         "contact": {
-            "email": "longzh@cqupt.edu.cn."
+            "email": "wkyuan@ecust.edu.cn"
         }, 
-        "name": "Long Zhao-Hua"
-    }, 
-    {
-        "affiliation": " Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong, Hong Kong, China; Shenzhen Institute of Advanced Integration Technology, CAS/CUHK, Shenzhen , China", 
-        "contact": {
-            "email": "ysxu@acae.cuhk.edu.hk"
-        }, 
-        "name": "Xu Yangsheng"
+        "name": "Yuan Weikang"
     }, 
     {
         "affiliation": "School of Chemical Engineering,Zhengzhou University,Zhengzhou ,China", 
@@ -1883,11 +1876,18 @@
         "name": "Xing Xie"
     }, 
     {
-        "affiliation": "Shanghai Jiaotong University(Shanghai Jiaotong University,Shanghai Jiao Tong University,Shanghai Jiaotong Univ.),Shanghai,China", 
+        "affiliation": "College of Mechanical and Electrical Engineering,China Jiliang University,Hangzhou ,China", 
         "contact": {
-            "email": "yzh-zhao@sjtu.edu.cn"
+            "email": "wangbinrui@163.com"
         }, 
-        "name": "Yanzheng Zhao"
+        "name": "Wang Bin-Rui"
+    }, 
+    {
+        "affiliation": "School of Electronic and Information Engineering,Jiangsu University of Science and Technology,Zhenjiang Jiangsu ,China", 
+        "contact": {
+            "email": "zheng28501@163.com"
+        }, 
+        "name": "Zeng Qing-Jun"
     }, 
     {
         "affiliation": "School of Control Science and Engineering,Shandong University,Jinan ,China", 

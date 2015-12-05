@@ -105,11 +105,11 @@
         "name": "Pankaj K. Agarwal"
     }, 
     {
-        "affiliation": "Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd West, Montreal, Que, H3G 1M8, Canada", 
+        "affiliation": "Tianjin University(Tianjin University,Tianjin Univ.),Tianjin,China", 
         "contact": {
-            "email": "kash@ece.concordia.ca"
+            "email": "xinyut@tamu.edu"
         }, 
-        "name": "K. Khorasani"
+        "name": "Xinyu Tang"
     }, 
     {
         "affiliation": "University of California, Berkeley", 
@@ -450,7 +450,7 @@
     {
         "affiliation": "Department of Computer Science", 
         "contact": {
-            "email": "bekris,at,cse.unr.edu"
+            "email": "bekris@cse.unr.edu"
         }, 
         "name": "Kostas E. Bekris"
     }, 
@@ -530,13 +530,6 @@
             "email": "dickrp@eecs.umich.edu"
         }, 
         "name": "Robert P. Dick"
-    }, 
-    {
-        "affiliation": "Harvard University", 
-        "contact": {
-            "email": "rachna@deas.harvard.edu"
-        }, 
-        "name": "Rachna Dhamija"
     }, 
     {
         "affiliation": "Carnegie Mellon University, Pittsburgh, PA, USA", 
@@ -770,11 +763,11 @@
         "name": "Richard P. Martin"
     }, 
     {
-        "affiliation": "Queen's University, Kingston, ON, Canada", 
+        "affiliation": "University of Toronto(University of Toronto),Toronto,Canada", 
         "contact": {
-            "email": "gabor@cs.queensu.ca"
+            "email": "cleghrn@mie.utoronto.ca"
         }, 
-        "name": "Gabor Fichtinger"
+        "name": "William L. Cleghorn"
     }, 
     {
         "affiliation": "University of Bologna, Bologna, Italy", 
@@ -817,13 +810,6 @@
             "email": "kenh@microsoft.com"
         }, 
         "name": "Ken Hinckley"
-    }, 
-    {
-        "affiliation": "University of Konstanz, Germany", 
-        "contact": {
-            "email": "enrico.bertini@nyu.edu"
-        }, 
-        "name": "Enrico Bertini"
     }, 
     {
         "affiliation": "Department of Electrical and Computer Engineering, Spectral Analysis Laboratory, University of Florida", 
@@ -882,13 +868,6 @@
         "name": "Roland Siegwart"
     }, 
     {
-        "affiliation": "Politecnico di Milano, Italy", 
-        "contact": {
-            "email": "cesana@elet.polimi.it"
-        }, 
-        "name": "Matteo Cesana"
-    }, 
-    {
         "affiliation": "Berkeley, CA USA", 
         "contact": {
             "email": "ergen@cal.berkeley.edu"
@@ -938,11 +917,11 @@
         "name": "Sukhan Lee"
     }, 
     {
-        "affiliation": "Tianjin University(Tianjin University,Tianjin Univ.),Tianjin,China", 
+        "affiliation": "Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd West, Montreal, Que, H3G 1M8, Canada", 
         "contact": {
-            "email": "xinyut@tamu.edu"
+            "email": "kash@ece.concordia.ca"
         }, 
-        "name": "Xinyu Tang"
+        "name": "K. Khorasani"
     }, 
     {
         "affiliation": "Mechanical Engineering Laboratory", 
@@ -1176,11 +1155,11 @@
         "name": "Antonio Bicchi"
     }, 
     {
-        "affiliation": "University of Nebraska-Lincoln, Lincoln, NE, USA", 
+        "affiliation": "University of Dortmund", 
         "contact": {
-            "email": "myra@cse.unl.edu"
+            "email": "fuhr@uni-duisburg.de"
         }, 
-        "name": "Myra B. Cohen"
+        "name": "Norbert Fuhr"
     }, 
     {
         "affiliation": "Italian Institute of Technology, Genova, Italy", 
@@ -1188,13 +1167,6 @@
             "email": "darwin.caldwell@iit.it"
         }, 
         "name": "Darwin G. Caldwell"
-    }, 
-    {
-        "affiliation": "1.Key Laboratory of Computer Networks and Information Security(Ministry of Education", 
-        "contact": {
-            "email": "jfma@mail.xidian.edu.cn"
-        }, 
-        "name": "Ma Jian-Feng"
     }, 
     {
         "affiliation": "Nordita", 
@@ -1288,11 +1260,11 @@
         "name": "Zbigniew Michalewicz"
     }, 
     {
-        "affiliation": "TIMC", 
+        "affiliation": "University of Konstanz, Germany", 
         "contact": {
-            "email": "pjb@ri.cmu.edu"
+            "email": "enrico.bertini@nyu.edu"
         }, 
-        "name": "Peter J. Berkelman"
+        "name": "Enrico Bertini"
     }, 
     {
         "affiliation": "School of Computing|University of Ulster", 
@@ -1491,11 +1463,11 @@
         "name": "Anvar Shukurov"
     }, 
     {
-        "affiliation": "Saitama University, Saitama, Japan", 
+        "affiliation": "Department of Chemistry|Laboratory for Advanced Materials|Stanford University", 
         "contact": {
-            "email": "kuno@cv.ics.saitama-u.ac.jp"
+            "email": "hdai@stanford.edu"
         }, 
-        "name": "Yoshinori Kuno"
+        "name": "Hongjie Dai"
     }, 
     {
         "affiliation": "Osservatorio Astrofisico di Arcetri", 
@@ -1526,11 +1498,11 @@
         "name": "Eitan Altman"
     }, 
     {
-        "affiliation": "National Institute of Advanced Industrial Science and Technology", 
+        "affiliation": "Department of Mechanical Engineering, Michigan State University, East Lansing, MI 48824, United States", 
         "contact": {
-            "email": "kazuhito.yokoi@aist.go.jp"
+            "email": "mukherji@egr.msu.edu"
         }, 
-        "name": "Kazuhito Yokoi"
+        "name": "Ranjan Mukherjee"
     }, 
     {
         "affiliation": "Thanks to Professor R¨udiger Dillmann at the Institute for Computer design and", 
@@ -1617,11 +1589,11 @@
         "name": "Matthijs T. J. Spaan"
     }, 
     {
-        "affiliation": "Department of Electrical Engineering|Department of Surgery|University of Washington", 
+        "affiliation": "LASA Laboratory - Ecole Polytechnique Federale de Lausanne (EPFL), Lausanne, Switzerland", 
         "contact": {
-            "email": "rosen@seas.ucla.edu"
+            "email": "sylvain.calinongmail.com"
         }, 
-        "name": "Jacob Rosen"
+        "name": "Sylvain Calinon"
     }, 
     {
         "affiliation": "The University of Melbourne, Australia", 
@@ -1631,11 +1603,11 @@
         "name": "Rajkumar Buyya"
     }, 
     {
-        "affiliation": "Department of Chemistry|Laboratory for Advanced Materials|Stanford University", 
+        "affiliation": "Saitama University, Saitama, Japan", 
         "contact": {
-            "email": "hdai@stanford.edu"
+            "email": "kuno@cv.ics.saitama-u.ac.jp"
         }, 
-        "name": "Hongjie Dai"
+        "name": "Yoshinori Kuno"
     }, 
     {
         "affiliation": "Massachusetts Institute of Technology, Cambridge, Massachusetts 02139", 
@@ -1664,6 +1636,13 @@
             "email": "dzmitry.kliazovich@uni.lu"
         }, 
         "name": "Dzmitry Kliazovich"
+    }, 
+    {
+        "affiliation": "Department of Electrical Engineering|Department of Surgery|University of Washington", 
+        "contact": {
+            "email": "rosen@seas.ucla.edu"
+        }, 
+        "name": "Jacob Rosen"
     }, 
     {
         "affiliation": "Microsoft Research", 
@@ -1799,11 +1778,11 @@
         "name": "Ajith Abraham"
     }, 
     {
-        "affiliation": "Department of Mechanical Engineering, Michigan State University, East Lansing, MI 48824, United States", 
+        "affiliation": "National Institute of Advanced Industrial Science and Technology", 
         "contact": {
-            "email": "mukherji@egr.msu.edu"
+            "email": "kazuhito.yokoi@aist.go.jp"
         }, 
-        "name": "Ranjan Mukherjee"
+        "name": "Kazuhito Yokoi"
     }, 
     {
         "affiliation": "Institute of Information and Computing Sciences, Utrecht University, PO Box 80089, 3508 TB Utrecht, The Netherlands", 
@@ -2282,6 +2261,13 @@
         "name": "E. Sacks"
     }, 
     {
+        "affiliation": "Department of Mathematics|Seoul National University", 
+        "contact": {
+            "email": "jskim01@snu.ac.kr"
+        }, 
+        "name": "Jin-Soo Kim"
+    }, 
+    {
         "affiliation": "Italian Institute of Technology (IIT), Italy", 
         "contact": {
             "email": "iron@liralab.it"
@@ -2289,11 +2275,11 @@
         "name": "Francesco Nori"
     }, 
     {
-        "affiliation": "Department of Mechano-Informatics|University of Tokyo", 
+        "affiliation": "Politecnico di Milano, Italy", 
         "contact": {
-            "email": "ikuo@jsk.t.u-tokyo.ac.jp"
+            "email": "cesana@elet.polimi.it"
         }, 
-        "name": "Ikuo Mizuuchi"
+        "name": "Matteo Cesana"
     }, 
     {
         "affiliation": "University of Illinois", 
@@ -2485,11 +2471,11 @@
         "name": "Changjiu Zhou"
     }, 
     {
-        "affiliation": "University of Dortmund", 
+        "affiliation": "University of Nebraska-Lincoln, Lincoln, NE, USA", 
         "contact": {
-            "email": "fuhr@uni-duisburg.de"
+            "email": "myra@cse.unl.edu"
         }, 
-        "name": "Norbert Fuhr"
+        "name": "Myra B. Cohen"
     }, 
     {
         "affiliation": "ProBayes S.A.S.", 
@@ -2520,11 +2506,11 @@
         "name": "George P. Mylonas"
     }, 
     {
-        "affiliation": "LASA Laboratory - Ecole Polytechnique Federale de Lausanne (EPFL), Lausanne, Switzerland", 
+        "affiliation": "1.Key Laboratory of Computer Networks and Information Security(Ministry of Education", 
         "contact": {
-            "email": "sylvain.calinongmail.com"
+            "email": "jfma@mail.xidian.edu.cn"
         }, 
-        "name": "Sylvain Calinon"
+        "name": "Ma Jian-Feng"
     }, 
     {
         "affiliation": "Northwestern University", 
@@ -2646,6 +2632,13 @@
         "name": "Stephan Lukosch"
     }, 
     {
+        "affiliation": "TIMC", 
+        "contact": {
+            "email": "pjb@ri.cmu.edu"
+        }, 
+        "name": "Peter J. Berkelman"
+    }, 
+    {
         "affiliation": "School of Electrical Engineering and Computer Science, Hanyang University, Ansan, Korea", 
         "contact": {
             "email": "bj@hanyang.ac.kr"
@@ -2681,11 +2674,11 @@
         "name": "Sherali Zeadally"
     }, 
     {
-        "affiliation": "Computer Science and Engineering Department, Texas A&M University, College Station, TX", 
+        "affiliation": "German Aerospace Center|Institute of Robotics", 
         "contact": {
-            "email": "dzsong@cs.tamu.edu"
+            "email": "holger.weiss@abo.fi"
         }, 
-        "name": "Dezhen Song"
+        "name": "Holger Weiss"
     }, 
     {
         "affiliation": "Herzzentrum, Klinik für Herzchirurgie, Leipzig, Germany; ChIR Medical Robotics, Institut National de Recherche en Informatique", 
@@ -2725,7 +2718,7 @@
     {
         "affiliation": "Department of Computer Science|Rice University", 
         "contact": {
-            "email": "plaku,at,cua.edu"
+            "email": "plaku@cua.edu"
         }, 
         "name": "Erion Plaku"
     }, 
@@ -2940,6 +2933,13 @@
         "name": "Masayuki Inaba"
     }, 
     {
+        "affiliation": "Department of Mechano-Informatics|University of Tokyo", 
+        "contact": {
+            "email": "ikuo@jsk.t.u-tokyo.ac.jp"
+        }, 
+        "name": "Ikuo Mizuuchi"
+    }, 
+    {
         "affiliation": "MIT Media Lab, Cambridge, MA", 
         "contact": {
             "email": "athomaz@cc.gatech.edu"
@@ -3010,11 +3010,11 @@
         "name": "Hayder Radha"
     }, 
     {
-        "affiliation": "University of Toronto(University of Toronto),Toronto,Canada", 
+        "affiliation": "Queen's University, Kingston, ON, Canada", 
         "contact": {
-            "email": "cleghrn@mie.utoronto.ca"
+            "email": "gabor@cs.queensu.ca"
         }, 
-        "name": "William L. Cleghorn"
+        "name": "Gabor Fichtinger"
     }, 
     {
         "affiliation": "Rutgers University, North Brunswick, NJ, USA", 
@@ -3220,11 +3220,11 @@
         "name": "Kin-Lu Wong"
     }, 
     {
-        "affiliation": "Department of Mathematics|Seoul National University", 
+        "affiliation": "Harvard University", 
         "contact": {
-            "email": "jskim01@snu.ac.kr"
+            "email": "rachna@deas.harvard.edu"
         }, 
-        "name": "Jin-Soo Kim"
+        "name": "Rachna Dhamija"
     }, 
     {
         "affiliation": "Massachusetts Institute of Technology", 
@@ -3388,11 +3388,11 @@
         "name": "Changhwan Kim"
     }, 
     {
-        "affiliation": "German Aerospace Center|Institute of Robotics", 
+        "affiliation": "Computer Science and Engineering Department, Texas A&M University, College Station, TX", 
         "contact": {
-            "email": "holger.weiss@abo.fi"
+            "email": "dzsong@cs.tamu.edu"
         }, 
-        "name": "Holger Weiss"
+        "name": "Dezhen Song"
     }, 
     {
         "affiliation": "Department of Chemistry, Brown University, Providence, RI 02912, USA", 

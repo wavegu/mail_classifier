@@ -54,14 +54,14 @@ class SVM:
         write_feature_file(top_person_list[:test_start] + top_person_list[test_end:], self.get_train_file_name(test_start))
         write_feature_file(top_person_list[test_start: test_end], self.get_test_file_name(test_start))
 
-    def compare_pred_and_test(self, test_num):
+    def compare_pred_and_test(self, pred_file_path, test_file_path, output_file_path):
         compare_line_list = []
-        with open(self.get_pred_file_name(test_num)) as pred_file:
+        with open(pred_file_path) as pred_file:
             pred_lines = pred_file.readlines()
-        with open(self.get_test_file_name(test_num)) as test_file:
+        with open(test_file_path) as test_file:
             test_lines = test_file.readlines()
         if len(pred_lines) != len(test_lines):
-            print 'error'
+            print 'Error: prediction line number doesn\'t match test line number'
             return
 
         unmatch_num = 0
@@ -90,7 +90,7 @@ class SVM:
                 pass
 
         compare_line_list = sorted(compare_line_list)
-        with open(self.get_result_compare_file_name(test_num), 'w') as compare_file:
+        with open(output_file_path, 'w') as compare_file:
             compare_file.write('Accuracy: %f [%d/%d]\n' % (float(len(pred_lines)-unmatch_num)/float(len(pred_lines)), unmatch_num, len(pred_lines)))
             compare_file.write('误判：%d\n' % mistake_judge_num)
             compare_file.write('漏判：%d\n' % miss_positive_num)
@@ -100,7 +100,7 @@ class SVM:
     def svm_learn(self, test_start):
         pass
 
-    def svm_test(self, test_start, model_filename):
+    def svm_test(self, test_file_path, model_file_path, prediction_file_path, test_result_file_path):
         pass
 
     def get_accuracy_from_result(self, test_file_content):
@@ -132,8 +132,8 @@ class SVM:
     def run_with_test_from_to(self, test_start, test_end):
         self.get_train_test_file(test_start, test_end)
         self.svm_learn(test_start)
-        self.svm_test(test_start, self.get_model_file_name(test_start))
-        self.compare_pred_and_test(test_start)
+        self.svm_test(self.get_test_file_name(test_start), self.get_model_file_name(test_start), self.get_pred_file_name(test_start), self.get_result_test_file_name(test_start))
+        self.compare_pred_and_test(self.get_pred_file_name(test_start), self.get_test_file_name(test_start), self.get_result_compare_file_name(test_start))
 
     def run_five_fold(self):
         test_len = self.tot_data_num / 5
@@ -172,28 +172,39 @@ class SVMLight(SVM):
         process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         process.wait()
 
-    def svm_test(self, test_start, model_filename):
-        print 'svm classifying', test_start
-        cmd = '../svm_light/svm_classify ' + self.get_test_file_name(test_start) + ' ' + model_filename + ' ' + self.get_pred_file_name(test_start) + ' > ' + self.get_result_test_file_name(test_start)
+    def svm_test(self, test_file_path, model_file_path, prediction_file_path, test_result_file_path):
+        print 'svm classifying', test_file_path
+        cmd = '../svm_light/svm_classify ' + test_file_path + ' ' + model_file_path + ' ' + prediction_file_path + ' > ' + test_result_file_path
         process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         process.wait()
 
 
-class LibSVM(SVM):
+# class LibSVM(SVM):
+#
+#     svm_name = 'LibSVM'
+#
+#     def __init__(self, tot_data_num):
+#         SVM.__init__(self, tot_data_num)
+#
+#     def svm_learn(self, test_start):
+#         print 'svm lib learning ', test_start
+#         cmd = '../libsvm-3/svm-train -t 0 ' + self.get_train_file_name(test_start) + ' ' + self.get_model_file_name(test_start)
+#         process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+#         process.wait()
+#
+#     def svm_test(self, test_start, model_filename):
+#         print 'svm lib classifying', test_start
+#         cmd = '../libsvm-3/svm-predict ' + self.get_test_file_name(test_start) + ' ' + model_filename + ' ' + self.get_pred_file_name(test_start) + ' > ' + self.get_result_test_file_name(test_start)
+#         process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+#         process.wait()
 
-    svm_name = 'LibSVM'
-
-    def __init__(self, tot_data_num):
-        SVM.__init__(self, tot_data_num)
-
-    def svm_learn(self, test_start):
-        print 'svm lib learning ', test_start
-        cmd = '../libsvm-3/svm-train -t 0 ' + self.get_train_file_name(test_start) + ' ' + self.get_model_file_name(test_start)
-        process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        process.wait()
-
-    def svm_test(self, test_start, model_filename):
-        print 'svm lib classifying', test_start
-        cmd = '../libsvm-3/svm-predict ' + self.get_test_file_name(test_start) + ' ' + model_filename + ' ' + self.get_pred_file_name(test_start) + ' > ' + self.get_result_test_file_name(test_start)
-        process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        process.wait()
+if __name__ == '__main__':
+    data_path = '../resource/liu_email_list/svm/'
+    test_file_path = data_path + 'test_feature_file.txt'
+    model_file_path = data_path + '249.model'
+    prediction_file_path = data_path + 'prediction.txt'
+    test_result_path = data_path + 'result.txt'
+    compare_result_path = data_path + 'compare.txt'
+    svm = SVMLight(25)
+    svm.svm_test(test_file_path, model_file_path, prediction_file_path, test_result_path)
+    svm.compare_pred_and_test(prediction_file_path, test_file_path, compare_result_path)

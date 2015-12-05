@@ -112,7 +112,7 @@ def is_a_in_b(a, b):
     return False
 
 
-get_known_top_1000()
+# get_known_top_1000()
 
 if __name__ == '__main__':
     get_top_citation()
